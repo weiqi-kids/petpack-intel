@@ -6,8 +6,8 @@
       "short_name": "鮮寵",
       "position": "upstream",
       "role": "寵物鮮食",
-      "x": 0.05,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.04
     },
     {
       "id": "zoetis",
@@ -15,8 +15,8 @@
       "short_name": "碩騰",
       "position": "midstream",
       "role": "動物醫藥",
-      "x": 0.097,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.35
     },
     {
       "id": "idexx",
@@ -24,8 +24,8 @@
       "short_name": "愛德士",
       "position": "midstream",
       "role": "寵物診斷",
-      "x": 0.145,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.38
     },
     {
       "id": "central_pet",
@@ -33,8 +33,8 @@
       "short_name": "Central Pet",
       "position": "midstream",
       "role": "寵物用品",
-      "x": 0.192,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.4
     },
     {
       "id": "elanco",
@@ -42,8 +42,8 @@
       "short_name": "禮來動保",
       "position": "midstream",
       "role": "動物保健",
-      "x": 0.239,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.43
     },
     {
       "id": "chewy",
@@ -51,8 +51,8 @@
       "short_name": "寵物電商",
       "position": "downstream",
       "role": "寵物電商",
-      "x": 0.287,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.7
     },
     {
       "id": "trupanion",
@@ -60,8 +60,8 @@
       "short_name": "寵物保險",
       "position": "downstream",
       "role": "寵物保險",
-      "x": 0.334,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.83
     },
     {
       "id": "petco",
@@ -69,8 +69,8 @@
       "short_name": "WOOF",
       "position": "downstream",
       "role": "寵物零售",
-      "x": 0.382,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.96
     },
     {
       "id": "intl_paper",
@@ -78,8 +78,8 @@
       "short_name": "國際紙業",
       "position": "upstream",
       "role": "紙漿原料",
-      "x": 0.429,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.3
     },
     {
       "id": "ball",
@@ -87,8 +87,8 @@
       "short_name": "波爾",
       "position": "midstream",
       "role": "金屬容器",
-      "x": 0.476,
-      "y": 0.34
+      "x": 0.05,
+      "y": 0.46
     },
     {
       "id": "amcor",
@@ -96,8 +96,8 @@
       "short_name": "安姆科",
       "position": "midstream",
       "role": "軟性包裝",
-      "x": 0.524,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.49
     },
     {
       "id": "sealed_air",
@@ -105,8 +105,8 @@
       "short_name": "希悅爾",
       "position": "midstream",
       "role": "保護性包裝",
-      "x": 0.571,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.51
     },
     {
       "id": "smurfit",
@@ -114,8 +114,8 @@
       "short_name": "斯莫菲特",
       "position": "midstream",
       "role": "瓦楞紙箱",
-      "x": 0.618,
-      "y": 0.34
+      "x": 0.05,
+      "y": 0.54
     },
     {
       "id": "pkg",
@@ -123,8 +123,8 @@
       "short_name": "美國包裝",
       "position": "midstream",
       "role": "瓦楞紙箱",
-      "x": 0.666,
-      "y": 0.34
+      "x": 0.95,
+      "y": 0.54
     },
     {
       "id": "cheng_loong",
@@ -132,8 +132,8 @@
       "short_name": "正隆紙業",
       "position": "midstream",
       "role": "紙業/包裝",
-      "x": 0.713,
-      "y": 0.34
+      "x": 0.05,
+      "y": 0.57
     },
     {
       "id": "rong_cheng",
@@ -141,8 +141,8 @@
       "short_name": "榮成",
       "position": "midstream",
       "role": "紙業/包裝",
-      "x": 0.761,
-      "y": 0.34
+      "x": 0.95,
+      "y": 0.57
     },
     {
       "id": "crown",
@@ -150,8 +150,8 @@
       "short_name": "皇冠",
       "position": "midstream",
       "role": "金屬容器",
-      "x": 0.808,
-      "y": 0.34
+      "x": 0.95,
+      "y": 0.46
     },
     {
       "id": "graphic_pkg",
@@ -159,8 +159,8 @@
       "short_name": "GPK",
       "position": "midstream",
       "role": "消費品包裝",
-      "x": 0.855,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.6
     },
     {
       "id": "berry",
@@ -168,8 +168,8 @@
       "short_name": "貝瑞",
       "position": "midstream",
       "role": "塑膠包裝",
-      "x": 0.903,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.62
     },
     {
       "id": "sonoco",
@@ -177,8 +177,8 @@
       "short_name": "SON",
       "position": "midstream",
       "role": "工業包裝",
-      "x": 0.95,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.65
     }
   ],
   "links": [
