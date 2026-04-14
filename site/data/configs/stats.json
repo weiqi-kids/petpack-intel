@@ -1,0 +1,116 @@
+{
+  "company_count": 20,
+  "topic_count": 8,
+  "alias_count": 73,
+  "positive_word_count": 27,
+  "negative_word_count": 27,
+  "negation_word_count": 18,
+  "importance_rule_count": 10,
+  "base_score": 0.5,
+  "max_score": 1.0,
+  "volume_spike_threshold": 100,
+  "sentiment_shift_threshold": 0.5,
+  "silent_days_threshold": 14,
+  "companies": [
+    {
+      "id": "freshpet",
+      "short_name": "Freshpet",
+      "tier": ""
+    },
+    {
+      "id": "zoetis",
+      "short_name": "Zoetis",
+      "tier": ""
+    },
+    {
+      "id": "idexx",
+      "short_name": "IDEXX Laboratories",
+      "tier": ""
+    },
+    {
+      "id": "central_pet",
+      "short_name": "Central Garden & Pet",
+      "tier": ""
+    },
+    {
+      "id": "elanco",
+      "short_name": "Elanco Animal Health",
+      "tier": ""
+    },
+    {
+      "id": "chewy",
+      "short_name": "Chewy",
+      "tier": ""
+    },
+    {
+      "id": "trupanion",
+      "short_name": "Trupanion",
+      "tier": ""
+    },
+    {
+      "id": "petco",
+      "short_name": "Petco Health and Wellness",
+      "tier": ""
+    },
+    {
+      "id": "intl_paper",
+      "short_name": "International Paper",
+      "tier": ""
+    },
+    {
+      "id": "ball",
+      "short_name": "Ball Corporation",
+      "tier": ""
+    },
+    {
+      "id": "amcor",
+      "short_name": "Amcor",
+      "tier": ""
+    },
+    {
+      "id": "sealed_air",
+      "short_name": "Sealed Air",
+      "tier": ""
+    },
+    {
+      "id": "smurfit",
+      "short_name": "Smurfit Westrock",
+      "tier": ""
+    },
+    {
+      "id": "pkg",
+      "short_name": "Packaging Corporation of America",
+      "tier": ""
+    },
+    {
+      "id": "cheng_loong",
+      "short_name": "正隆",
+      "tier": ""
+    },
+    {
+      "id": "rong_cheng",
+      "short_name": "榮成紙業",
+      "tier": ""
+    },
+    {
+      "id": "crown",
+      "short_name": "Crown Holdings",
+      "tier": ""
+    },
+    {
+      "id": "graphic_pkg",
+      "short_name": "Graphic Packaging Holding",
+      "tier": ""
+    },
+    {
+      "id": "berry",
+      "short_name": "Berry Global Group",
+      "tier": ""
+    },
+    {
+      "id": "sonoco",
+      "short_name": "Sonoco Products",
+      "tier": ""
+    }
+  ]
+}
