@@ -1,0 +1,50 @@
+[
+  {
+    "id": "unknown-2026-03-22-001",
+    "date": "2026-03-22",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": " Corsair’s limited-time memory sale brings 25% savings, but persistent DDR5 price hikes paint a grim outlook for buyers ",
+    "summary": "\n                             While Corsair’s DDR5 deal offers notable discounts, rising DRAM prices mean buyers still pay significantly more than before. \n                                            ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-03-002",
+    "date": "2026-03-03",
+    "companies": [],
+    "topics": [
+      "pet_insurance"
+    ],
+    "impact": "neutral",
+    "title": " AI memory crunch forces DRAM market into 'hourly pricing' model, report claims — small and medium-sized businesses fighting for survival ",
+    "summary": "\n                             According to DigiTimes, these companies began struggling to absorb soaring memory costs in the second half of 2025. \n                                                     ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-02-05-003",
+    "date": "2026-02-05",
+    "companies": [],
+    "topics": [
+      "pet_insurance"
+    ],
+    "impact": "positive",
+    "title": " Leading PC manufacturers considering using Chinese memory chips, report claims — HP and Dell qualifying CXMT DRAM, Acer and Asus asking Chinese partners to source locally-made memory chips ",
+    "summary": "\n                             HP and Dell are reportedly qualifying CXMT memory chips for their products, while Asus and Acer are asking their partners to source locally-made memory modules. The ongoi",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-02-02-004",
+    "date": "2026-02-02",
+    "companies": [],
+    "topics": [
+      "pet_insurance"
+    ],
+    "impact": "negative",
+    "title": " AI infrastructure surge begins squeezing Apple’s component costs — company considering supplier other than TSMC for lower-end chips, report claims ",
+    "summary": "\n                             Apple is beginning to feel the downstream effects of the AI infrastructure boom, as surging demand for data center hardware pushes up component costs and weakens its leve",
+    "sources": []
+  }
+]
