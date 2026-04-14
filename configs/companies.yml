@@ -1,0 +1,316 @@
+companies:
+- id: freshpet
+  name: Freshpet
+  aliases:
+  - 鮮寵
+  ticker: FRPT
+  market: NASDAQ
+  currency: USD
+  position: upstream
+  role: 寵物鮮食
+  description: 天然冷藏寵物食品製造商
+  ir_url: https://ir.freshpet.com/
+  downstream:
+  - chewy
+  - petco
+- id: zoetis
+  name: Zoetis
+  aliases:
+  - 碩騰
+  ticker: ZTS
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 動物醫藥
+  description: 全球最大動物健康公司
+  ir_url: https://investor.zoetis.com/
+  upstream: []
+  downstream: []
+- id: idexx
+  name: IDEXX Laboratories
+  aliases:
+  - 愛德士
+  - IDEXX
+  ticker: IDXX
+  market: NASDAQ
+  currency: USD
+  position: midstream
+  role: 寵物診斷
+  description: 寵物診斷設備與檢測龍頭
+  ir_url: https://www.idexx.com/en/about-idexx/investor-information/
+  upstream: []
+  downstream: []
+- id: central_pet
+  name: Central Garden & Pet
+  aliases:
+  - Central Pet
+  - CENT
+  ticker: CENT
+  market: NASDAQ
+  currency: USD
+  position: midstream
+  role: 寵物用品
+  description: 寵物與園藝用品製造商
+  ir_url: https://ir.central.com/
+  upstream: []
+  downstream:
+  - chewy
+  - petco
+- id: elanco
+  name: Elanco Animal Health
+  aliases:
+  - 禮來動保
+  - Elanco
+  ticker: ELAN
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 動物保健
+  description: 動物保健藥品與疫苗
+  ir_url: https://investor.elanco.com/
+  upstream: []
+  downstream: []
+- id: chewy
+  name: Chewy
+  aliases:
+  - 寵物電商
+  ticker: CHWY
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 寵物電商
+  description: 美國最大寵物電商平台
+  ir_url: https://investor.chewy.com/
+  upstream:
+  - freshpet
+  - central_pet
+  downstream: []
+- id: trupanion
+  name: Trupanion
+  aliases:
+  - 寵物保險
+  - TRUP
+  ticker: TRUP
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: 寵物保險
+  description: 北美領先寵物醫療保險
+  ir_url: https://investors.trupanion.com/
+  upstream: []
+  downstream: []
+- id: petco
+  name: Petco Health and Wellness
+  aliases:
+  - WOOF
+  - Petco
+  ticker: WOOF
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: 寵物零售
+  description: 美國寵物零售與服務連鎖
+  ir_url: https://ir.petco.com/
+  upstream:
+  - freshpet
+  - central_pet
+  downstream: []
+- id: intl_paper
+  name: International Paper
+  aliases:
+  - 國際紙業
+  - IP
+  ticker: IP
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 紙漿原料
+  description: 全球最大紙漿與紙業公司
+  ir_url: https://www.internationalpaper.com/investors
+  downstream:
+  - smurfit
+  - pkg
+  - cheng_loong
+  - rong_cheng
+  - graphic_pkg
+- id: ball
+  name: Ball Corporation
+  aliases:
+  - 波爾
+  - Ball
+  ticker: BALL
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 金屬容器
+  description: 全球最大鋁罐製造商
+  ir_url: https://www.ball.com/investors
+  upstream: []
+  downstream: []
+- id: amcor
+  name: Amcor
+  aliases:
+  - 安姆科
+  ticker: AMCR
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 軟性包裝
+  description: 全球領先軟性與硬性包裝
+  ir_url: https://www.amcor.com/investors
+  upstream: []
+  downstream: []
+- id: sealed_air
+  name: Sealed Air
+  aliases:
+  - 希悅爾
+  - SEE
+  ticker: SEE
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 保護性包裝
+  description: 保護性包裝與食品安全
+  ir_url: https://ir.sealedair.com/
+  upstream: []
+  downstream: []
+- id: smurfit
+  name: Smurfit Westrock
+  aliases:
+  - 斯莫菲特
+  - SW
+  ticker: SW
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 瓦楞紙箱
+  description: 全球最大瓦楞紙箱製造商
+  ir_url: https://www.smurfitwestrock.com/investors
+  upstream:
+  - intl_paper
+  downstream: []
+- id: pkg
+  name: Packaging Corporation of America
+  aliases:
+  - 美國包裝
+  - PKG
+  ticker: PKG
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 瓦楞紙箱
+  description: 美國第三大瓦楞紙箱製造商
+  ir_url: https://www.packagingcorp.com/investors
+  upstream:
+  - intl_paper
+  downstream: []
+- id: cheng_loong
+  name: 正隆
+  aliases:
+  - Cheng Loong
+  - 正隆紙業
+  ticker: 1904.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 紙業/包裝
+  description: 台灣最大工業用紙與紙箱製造商
+  ir_url: null
+  upstream:
+  - intl_paper
+  downstream: []
+- id: rong_cheng
+  name: 榮成紙業
+  aliases:
+  - Rong Cheng
+  - 榮成
+  ticker: 1909.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 紙業/包裝
+  description: 台灣紙箱與回收紙業
+  ir_url: null
+  upstream:
+  - intl_paper
+  downstream: []
+- id: crown
+  name: Crown Holdings
+  aliases:
+  - 皇冠
+  - Crown
+  - CCK
+  ticker: CCK
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 金屬容器
+  description: 全球金屬包裝容器製造商
+  ir_url: https://www.crowncork.com/investors
+  upstream: []
+  downstream: []
+- id: graphic_pkg
+  name: Graphic Packaging Holding
+  aliases:
+  - GPK
+  - Graphic Packaging
+  ticker: GPK
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 消費品包裝
+  description: 紙板消費品包裝製造商
+  ir_url: https://ir.graphicpkg.com/
+  upstream:
+  - intl_paper
+  downstream: []
+- id: berry
+  name: Berry Global Group
+  aliases:
+  - 貝瑞
+  - Berry
+  ticker: BERY
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 塑膠包裝
+  description: 全球塑膠包裝與非織布製造商
+  ir_url: https://ir.berryglobal.com/
+  upstream: []
+  downstream: []
+- id: sonoco
+  name: Sonoco Products
+  aliases:
+  - SON
+  - Sonoco
+  ticker: SON
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 工業包裝
+  description: 工業與消費品包裝製造商
+  ir_url: https://investor.sonoco.com/
+  upstream: []
+  downstream: []
+etfs: []
+supply_chain_positions:
+  upstream:
+  - 寵物鮮食
+  - 紙漿原料
+  midstream:
+  - 動物醫藥
+  - 寵物診斷
+  - 寵物用品
+  - 動物保健
+  - 金屬容器
+  - 軟性包裝
+  - 保護性包裝
+  - 瓦楞紙箱
+  - 紙業/包裝
+  - 消費品包裝
+  - 塑膠包裝
+  - 工業包裝
+  downstream:
+  - 寵物電商
+  - 寵物保險
+  - 寵物零售

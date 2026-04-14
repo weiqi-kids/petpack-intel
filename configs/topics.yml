@@ -1,0 +1,120 @@
+topics:
+  pet_food:
+    display: 寵物食品
+    keywords:
+    - pet food
+    - 寵物食品
+    - dog food
+    - cat food
+    - pet nutrition
+    - 寵物營養
+    - premium pet food
+    - grain-free
+    - raw diet
+    - 鮮食
+  vet_spending:
+    display: 獸醫支出
+    keywords:
+    - vet spending
+    - 獸醫支出
+    - veterinary
+    - 獸醫
+    - animal health
+    - 動物健康
+    - pet healthcare
+    - 寵物醫療
+    - diagnostics
+    - 診斷
+  pet_insurance:
+    display: 寵物保險
+    keywords:
+    - pet insurance
+    - 寵物保險
+    - pet coverage
+    - premium
+    - claims
+    - 理賠
+    - 保費
+    - underwriting
+  packaging_price:
+    display: 包裝價格
+    keywords:
+    - packaging price
+    - 包裝價格
+    - containerboard price
+    - 紙箱價格
+    - box price
+    - corrugated price
+    - aluminum can price
+    - 鋁罐價格
+    sentiment_keywords:
+      positive:
+      - 上漲
+      - 漲價
+      - price hike
+      - price increase
+      negative:
+      - 下跌
+      - 跌價
+      - price cut
+      - price decline
+  sustainable_packaging:
+    display: 永續包裝
+    keywords:
+    - sustainable packaging
+    - 永續包裝
+    - recyclable packaging
+    - 可回收包裝
+    - biodegradable
+    - 生物可降解
+    - plastic-free
+    - 減塑
+    - green packaging
+    - paper straw
+  paper_price:
+    display: 紙價
+    keywords:
+    - paper price
+    - 紙價
+    - pulp price
+    - 紙漿價格
+    - OCC price
+    - waste paper price
+    - 廢紙價格
+    - containerboard
+    - kraft paper
+    sentiment_keywords:
+      positive:
+      - 上漲
+      - 漲價
+      - price hike
+      - price increase
+      negative:
+      - 下跌
+      - 跌價
+      - price cut
+      - price decline
+  earnings:
+    display: 財報
+    keywords:
+    - 財報
+    - earnings
+    - quarterly results
+    - Q1
+    - Q2
+    - Q3
+    - Q4
+    - 營收
+    - revenue
+    - profit
+    - 獲利
+    - gross margin
+    - 毛利率
+  guidance:
+    display: 展望
+    keywords:
+    - 展望
+    - guidance
+    - outlook
+    - forecast
+    - 預測

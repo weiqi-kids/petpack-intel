@@ -1,0 +1,232 @@
+{
+  "companies": [
+    {
+      "id": "freshpet",
+      "name": "Freshpet",
+      "short_name": "鮮寵",
+      "position": "upstream",
+      "role": "寵物鮮食",
+      "x": 0.05,
+      "y": 0.34
+    },
+    {
+      "id": "zoetis",
+      "name": "Zoetis",
+      "short_name": "碩騰",
+      "position": "midstream",
+      "role": "動物醫藥",
+      "x": 0.097,
+      "y": 0.34
+    },
+    {
+      "id": "idexx",
+      "name": "IDEXX Laboratories",
+      "short_name": "愛德士",
+      "position": "midstream",
+      "role": "寵物診斷",
+      "x": 0.145,
+      "y": 0.34
+    },
+    {
+      "id": "central_pet",
+      "name": "Central Garden & Pet",
+      "short_name": "Central Pet",
+      "position": "midstream",
+      "role": "寵物用品",
+      "x": 0.192,
+      "y": 0.34
+    },
+    {
+      "id": "elanco",
+      "name": "Elanco Animal Health",
+      "short_name": "禮來動保",
+      "position": "midstream",
+      "role": "動物保健",
+      "x": 0.239,
+      "y": 0.34
+    },
+    {
+      "id": "chewy",
+      "name": "Chewy",
+      "short_name": "寵物電商",
+      "position": "downstream",
+      "role": "寵物電商",
+      "x": 0.287,
+      "y": 0.34
+    },
+    {
+      "id": "trupanion",
+      "name": "Trupanion",
+      "short_name": "寵物保險",
+      "position": "downstream",
+      "role": "寵物保險",
+      "x": 0.334,
+      "y": 0.34
+    },
+    {
+      "id": "petco",
+      "name": "Petco Health and Wellness",
+      "short_name": "WOOF",
+      "position": "downstream",
+      "role": "寵物零售",
+      "x": 0.382,
+      "y": 0.34
+    },
+    {
+      "id": "intl_paper",
+      "name": "International Paper",
+      "short_name": "國際紙業",
+      "position": "upstream",
+      "role": "紙漿原料",
+      "x": 0.429,
+      "y": 0.34
+    },
+    {
+      "id": "ball",
+      "name": "Ball Corporation",
+      "short_name": "波爾",
+      "position": "midstream",
+      "role": "金屬容器",
+      "x": 0.476,
+      "y": 0.34
+    },
+    {
+      "id": "amcor",
+      "name": "Amcor",
+      "short_name": "安姆科",
+      "position": "midstream",
+      "role": "軟性包裝",
+      "x": 0.524,
+      "y": 0.34
+    },
+    {
+      "id": "sealed_air",
+      "name": "Sealed Air",
+      "short_name": "希悅爾",
+      "position": "midstream",
+      "role": "保護性包裝",
+      "x": 0.571,
+      "y": 0.34
+    },
+    {
+      "id": "smurfit",
+      "name": "Smurfit Westrock",
+      "short_name": "斯莫菲特",
+      "position": "midstream",
+      "role": "瓦楞紙箱",
+      "x": 0.618,
+      "y": 0.34
+    },
+    {
+      "id": "pkg",
+      "name": "Packaging Corporation of America",
+      "short_name": "美國包裝",
+      "position": "midstream",
+      "role": "瓦楞紙箱",
+      "x": 0.666,
+      "y": 0.34
+    },
+    {
+      "id": "cheng_loong",
+      "name": "正隆",
+      "short_name": "正隆紙業",
+      "position": "midstream",
+      "role": "紙業/包裝",
+      "x": 0.713,
+      "y": 0.34
+    },
+    {
+      "id": "rong_cheng",
+      "name": "榮成紙業",
+      "short_name": "榮成",
+      "position": "midstream",
+      "role": "紙業/包裝",
+      "x": 0.761,
+      "y": 0.34
+    },
+    {
+      "id": "crown",
+      "name": "Crown Holdings",
+      "short_name": "皇冠",
+      "position": "midstream",
+      "role": "金屬容器",
+      "x": 0.808,
+      "y": 0.34
+    },
+    {
+      "id": "graphic_pkg",
+      "name": "Graphic Packaging Holding",
+      "short_name": "GPK",
+      "position": "midstream",
+      "role": "消費品包裝",
+      "x": 0.855,
+      "y": 0.34
+    },
+    {
+      "id": "berry",
+      "name": "Berry Global Group",
+      "short_name": "貝瑞",
+      "position": "midstream",
+      "role": "塑膠包裝",
+      "x": 0.903,
+      "y": 0.34
+    },
+    {
+      "id": "sonoco",
+      "name": "Sonoco Products",
+      "short_name": "SON",
+      "position": "midstream",
+      "role": "工業包裝",
+      "x": 0.95,
+      "y": 0.34
+    }
+  ],
+  "links": [
+    {
+      "source": "freshpet",
+      "target": "chewy",
+      "strength": 2
+    },
+    {
+      "source": "freshpet",
+      "target": "petco",
+      "strength": 2
+    },
+    {
+      "source": "central_pet",
+      "target": "chewy",
+      "strength": 2
+    },
+    {
+      "source": "central_pet",
+      "target": "petco",
+      "strength": 2
+    },
+    {
+      "source": "intl_paper",
+      "target": "smurfit",
+      "strength": 2
+    },
+    {
+      "source": "intl_paper",
+      "target": "pkg",
+      "strength": 2
+    },
+    {
+      "source": "intl_paper",
+      "target": "cheng_loong",
+      "strength": 2
+    },
+    {
+      "source": "intl_paper",
+      "target": "rong_cheng",
+      "strength": 2
+    },
+    {
+      "source": "intl_paper",
+      "target": "graphic_pkg",
+      "strength": 2
+    }
+  ],
+  "etfs": []
+}
