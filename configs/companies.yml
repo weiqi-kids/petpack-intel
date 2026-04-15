@@ -25,6 +25,7 @@ companies:
   role: 動物醫藥
   description: 全球最大動物健康公司
   ir_url: https://investor.zoetis.com/
+  rss_url: https://news.google.com/rss/search?q="Zoetis"+animal+health&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
 - id: idexx
@@ -39,6 +40,7 @@ companies:
   role: 寵物診斷
   description: 寵物診斷設備與檢測龍頭
   ir_url: https://www.idexx.com/en/about-idexx/investor-information/
+  rss_url: https://news.google.com/rss/search?q="IDEXX+Laboratories"+veterinary+diagnostics&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
 - id: central_pet
@@ -84,6 +86,7 @@ companies:
   role: 寵物電商
   description: 美國最大寵物電商平台
   ir_url: https://investor.chewy.com/
+  rss_url: https://news.google.com/rss/search?q="Chewy"+pet+ecommerce&hl=en&gl=US&ceid=US:en
   upstream:
   - freshpet
   - central_pet
@@ -100,6 +103,7 @@ companies:
   role: 寵物保險
   description: 北美領先寵物醫療保險
   ir_url: https://investors.trupanion.com/
+  rss_url: https://news.google.com/rss/search?q="Trupanion"+pet+insurance&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
 - id: petco
@@ -114,6 +118,7 @@ companies:
   role: 寵物零售
   description: 美國寵物零售與服務連鎖
   ir_url: https://ir.petco.com/
+  rss_url: https://news.google.com/rss/search?q="Petco+Health+and+Wellness"&hl=en&gl=US&ceid=US:en
   upstream:
   - freshpet
   - central_pet
@@ -130,6 +135,7 @@ companies:
   role: 紙漿原料
   description: 全球最大紙漿與紙業公司
   ir_url: https://www.internationalpaper.com/investors
+  rss_url: https://news.google.com/rss/search?q="International+Paper"&hl=en&gl=US&ceid=US:en
   downstream:
   - smurfit
   - pkg
@@ -148,6 +154,7 @@ companies:
   role: 金屬容器
   description: 全球最大鋁罐製造商
   ir_url: https://www.ball.com/investors
+  rss_url: https://news.google.com/rss/search?q="Ball+Corporation"+metal+packaging&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
 - id: amcor
@@ -161,6 +168,7 @@ companies:
   role: 軟性包裝
   description: 全球領先軟性與硬性包裝
   ir_url: https://www.amcor.com/investors
+  rss_url: https://news.google.com/rss/search?q="Amcor"+flexible+packaging&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
 - id: sealed_air
@@ -175,6 +183,7 @@ companies:
   role: 保護性包裝
   description: 保護性包裝與食品安全
   ir_url: https://ir.sealedair.com/
+  rss_url: https://news.google.com/rss/search?q="Sealed+Air"&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
 - id: smurfit
@@ -189,6 +198,7 @@ companies:
   role: 瓦楞紙箱
   description: 全球最大瓦楞紙箱製造商
   ir_url: https://www.smurfitwestrock.com/investors
+  rss_url: https://news.google.com/rss/search?q="Smurfit+Westrock"&hl=en&gl=US&ceid=US:en
   upstream:
   - intl_paper
   downstream: []
@@ -220,6 +230,7 @@ companies:
   role: 紙業/包裝
   description: 台灣最大工業用紙與紙箱製造商
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Cheng+Loong"&hl=en&gl=US&ceid=US:en
   upstream:
   - intl_paper
   downstream: []
@@ -235,6 +246,7 @@ companies:
   role: 紙業/包裝
   description: 台灣紙箱與回收紙業
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Rong+Cheng+Paper"&hl=en&gl=US&ceid=US:en
   upstream:
   - intl_paper
   downstream: []
@@ -251,6 +263,7 @@ companies:
   role: 金屬容器
   description: 全球金屬包裝容器製造商
   ir_url: https://www.crowncork.com/investors
+  rss_url: https://news.google.com/rss/search?q="Crown+Holdings"&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
 - id: graphic_pkg
@@ -281,6 +294,7 @@ companies:
   role: 塑膠包裝
   description: 全球塑膠包裝與非織布製造商
   ir_url: https://ir.berryglobal.com/
+  rss_url: https://news.google.com/rss/search?q="Berry+Global+Group"+plastic+packaging&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
 - id: sonoco
