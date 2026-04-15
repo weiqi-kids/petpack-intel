@@ -1,0 +1,59 @@
+# Pet economy + packaging industry news feeds
+feeds:
+  # --- Company IR RSS feeds ---
+  - id: freshpet_ir
+    name: Freshpet Press Releases
+    url: https://investors.freshpet.com/investors/rss-feeds/PressRelease.aspx
+    description: Freshpet investor relations press releases
+
+  - id: elanco_ir
+    name: Elanco Animal Health Press Releases
+    url: https://investor.elanco.com/investor-resources/rss-feed/PressRelease.aspx
+    description: Elanco Animal Health investor relations press releases
+
+  - id: central_pet_ir
+    name: Central Garden & Pet Press Releases
+    url: https://ir.central.com/resources/rss-feed/PressRelease.aspx
+    description: Central Garden & Pet investor relations press releases
+
+  - id: sonoco_ir
+    name: Sonoco Press Releases
+    url: https://investor.sonoco.com/rss/news-releases.xml
+    description: Sonoco Products investor relations press releases
+
+  - id: pkg_ir
+    name: Packaging Corp of America Press Releases
+    url: https://ir.packagingcorp.com/rss/news-releases.xml
+    description: Packaging Corporation of America investor relations press releases
+
+  # --- Pet industry media RSS feeds ---
+  - id: pet_food_processing
+    name: Pet Food Processing
+    url: https://www.petfoodprocessing.net/rss
+    description: Pet food and pet treat processing industry news
+
+  - id: avma_news
+    name: AVMA News
+    url: https://www.avma.org/news/rss-feeds
+    description: American Veterinary Medical Association news and developments
+
+  - id: google_news_pet
+    name: Google News - Pet Industry
+    url: https://news.google.com/rss/search?q=pet+industry+pet+food+veterinary+animal+health&hl=en
+    description: Google News aggregation for pet industry and animal health
+
+  # --- Packaging industry media RSS feeds ---
+  - id: packaging_strategies
+    name: Packaging Strategies
+    url: https://www.packagingstrategies.com/rss
+    description: Food and beverage packaging market trends and solutions
+
+  - id: packaging_dive
+    name: Packaging Dive
+    url: https://www.packagingdive.com/feeds/news/
+    description: Packaging industry news and analysis
+
+  - id: google_news_packaging
+    name: Google News - Packaging Industry
+    url: https://news.google.com/rss/search?q=packaging+industry+sustainable+packaging+paper+price&hl=en
+    description: Google News aggregation for packaging industry trends

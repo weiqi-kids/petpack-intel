@@ -10,6 +10,7 @@ companies:
   role: 寵物鮮食
   description: 天然冷藏寵物食品製造商
   ir_url: https://ir.freshpet.com/
+  rss_url: https://investors.freshpet.com/investors/rss-feeds/PressRelease.aspx
   downstream:
   - chewy
   - petco
@@ -52,6 +53,7 @@ companies:
   role: 寵物用品
   description: 寵物與園藝用品製造商
   ir_url: https://ir.central.com/
+  rss_url: https://ir.central.com/resources/rss-feed/PressRelease.aspx
   upstream: []
   downstream:
   - chewy
@@ -68,6 +70,7 @@ companies:
   role: 動物保健
   description: 動物保健藥品與疫苗
   ir_url: https://investor.elanco.com/
+  rss_url: https://investor.elanco.com/investor-resources/rss-feed/PressRelease.aspx
   upstream: []
   downstream: []
 - id: chewy
@@ -201,6 +204,7 @@ companies:
   role: 瓦楞紙箱
   description: 美國第三大瓦楞紙箱製造商
   ir_url: https://www.packagingcorp.com/investors
+  rss_url: https://ir.packagingcorp.com/rss/news-releases.xml
   upstream:
   - intl_paper
   downstream: []
@@ -261,6 +265,7 @@ companies:
   role: 消費品包裝
   description: 紙板消費品包裝製造商
   ir_url: https://ir.graphicpkg.com/
+  rss_url: https://investors.graphicpkg.com/rss/news-releases.xml
   upstream:
   - intl_paper
   downstream: []
@@ -290,6 +295,7 @@ companies:
   role: 工業包裝
   description: 工業與消費品包裝製造商
   ir_url: https://investor.sonoco.com/
+  rss_url: https://investor.sonoco.com/rss/news-releases.xml
   upstream: []
   downstream: []
 etfs: []
