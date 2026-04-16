@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-16",
+  "generated_at": "2026-04-16T09:15:28.750476Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "idexx-2026-04-16-004",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Veterinary Infectious Disease Diagnostics Industry Analysis 2025–2031 | Key Players: IDEXX Laboratories, Inc., Zoetis, Thermo Fisher Scientific - industrytoday.co.uk",
+      "companies": [
+        "idexx",
+        "zoetis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "vet_spending",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "crown-2026-04-16-021",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CCK: CEO Timothy Donahue Sells 7,500 Shares April 15, 2026 - Meyka",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "vet_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "idexx",
+        "count": 1
+      },
+      {
+        "id": "zoetis",
+        "count": 1
+      },
+      {
+        "id": "crown",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "vet_spending",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為愛德士、碩騰、皇冠相關動態：「Veterinary Infectious Disease Diagnostics Industry Analys...」。主要關注主題為財報、獸醫支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Veterinary Infectious Disease Diagnostics Industry Analysis 2025–2031 | Key P...（獸醫支出、財報）",
+        "level": "red"
+      },
+      {
+        "text": "CCK: CEO Timothy Donahue Sells 7,500 Shares April 15, 2026 - Meyka（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
