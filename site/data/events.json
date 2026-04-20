@@ -1,5 +1,31 @@
 [
   {
+    "id": "intl_paper-2026-04-20-001",
+    "date": "2026-04-20",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "paper_price"
+    ],
+    "impact": "negative",
+    "title": "International Paper to expand containerboard capacity with NORPAC acquisition - Packaging Insights",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQcWJLOFNTZm9sOG13dmt6SVZhMDRELXl6VHpIcTE2cGxlLWVBMFNJRF9kSE42SFBVeWkzZS1TU05wMWZoMC1qemJFSTFic0NSVmxXTUY1di16VklDZVhSOUhJbkw0aGUtX1R4eFIxNX",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-002",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Converting Paper Market Is Booming Rapidly with Strong Demand - openPR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOU1VPZXVZeVZUUzVjN1lkMldjU2laOEJseWF2ZHBhSmZwODIyd0w4SmY2RTdiVlFpSlR3ekRXN3pmejFsQ1ZVVDA4eWxXN3ktM3BxMmp0TUhmT05CT1Z1UVZpdmV0c0E4aF84Z2VXTX",
+    "sources": []
+  },
+  {
     "id": "sealed_air-2026-04-19-006",
     "date": "2026-04-19",
     "companies": [
@@ -26,6 +52,34 @@
     "impact": "neutral",
     "title": "Crown Holdings raises full-year adjusted EPS guidance to $7.10–$7.50 while targeting $900M free cash flow backed by global beverage strength - MSN",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgNBVV95cUxOX2dfWG9qVWpnVVY5VThmRktnbXowTTFyNU1mU0lrMDdhV3FvM0J1NDk3cHFRTWhtelVVM3lidDlWWlBQekxYbUd6Ui12ZzVxdzJOOEVlQlhhSGF2Uk9ac2JaUHVkb3R4SWFDbmdiT2",
+    "sources": []
+  },
+  {
+    "id": "amcor-2026-04-19-003",
+    "date": "2026-04-19",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Amcor plc stock (JE00BJ1F3079): Why Google Discover changes matter more now - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOUzlnUlMtaEFhSHlSQ3hxS3RaVHFhMXNjOGc2bVlLWElHZVNna2JVU1JOdE1CU3dKSExqb012d2tudUZZWDlOeF85cTlEWlQ3T2JpNktlTE5rZnNEZWV0c0U0aWx0em5wMnVFdk5kbj",
+    "sources": []
+  },
+  {
+    "id": "crown-2026-04-19-006",
+    "date": "2026-04-19",
+    "companies": [
+      "crown"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Crown Holdings Inc stock (US2283681060): Why Google Discover changes matter more now - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxObUllY3RGbk80RFZMUDZyN19DdVdlUmRWY2tSTHhrRlowNTNZU3BIOE9YZ2ZJNVBKQ3Jwc3djUUlUeUlxVzhDMEh1cFRYMU1BdElDbzV2MWlJVG9jVjFPM1ZycGx2ajA4MXBUaUtnd2",
     "sources": []
   },
   {
@@ -1746,6 +1800,20 @@
     "sources": []
   },
   {
+    "id": "smurfit-2026-03-13-005",
+    "date": "2026-03-13",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why Is Smurfit Westrock (SW) Down 22.8% Since Last Earnings Report? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9lemlHSzJ4Q1BkUjh1bGJ2bFhBZEcycURPdFdIS2MwSVNGTzQybktVVWtlSWJfTjRuTlRfSS1Zb1VCeUt0WlpwWGtiYW1xcGdtU1pTT05rRHIzUXFBcWUxQVNfN2VZRlNmLWowRXJfQn",
+    "sources": []
+  },
+  {
     "id": "petco-2026-03-12-053",
     "date": "2026-03-12",
     "companies": [
@@ -1982,6 +2050,20 @@
     "sources": []
   },
   {
+    "id": "sealed_air-2026-03-02-004",
+    "date": "2026-03-02",
+    "companies": [
+      "sealed_air"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sealed Air (SEE) Q4 Earnings: How Key Metrics Compare to Wall Street Estimates - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE40VzVYNFM5RzhaRmhyd2lKMXdZVFppWloydU40WkxZSnEycGtFZUJaM1FYbktrZlZ5MENIUkQxaWpXRGs0b3NWZmEwa2ZMSDZLX0xUSjhEQVI0cHlOUXNRTUlhWEVjeVFCX3FjYUUtcz",
+    "sources": []
+  },
+  {
     "id": "zoetis-2026-03-01-013",
     "date": "2026-03-01",
     "companies": [
@@ -1995,6 +2077,34 @@
     "impact": "neutral",
     "title": "Phibro Animal Health Raises Guidance at BofA Conference as Zoetis MFA Integration Advances - Yahoo Finance",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNaS0yMEs4U0g0NXIwNkhYX2xuWFNtd3dmNUZ3bmtVMjZ3eGlJTnp5SjR2M3h3SW9uNTJocF9STmNFTHhsMFZNQ1Q1MzR1WkF5cFZoV1AyRGllZHBheDJGMzE5aER0Y2duUHQ5cmNmR2",
+    "sources": []
+  },
+  {
+    "id": "crown-2026-02-28-007",
+    "date": "2026-02-28",
+    "companies": [
+      "crown"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Crown Holdings, Inc. (CCK): A Bull Case Theory - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5sUm9jUG9LZ1FQZkJUbm9UY2EwalRYQ2RkWUQyNzZQOTR1ZDJXak1HWGI3MFpkak9IMFlMSDVoWXRLZFF6V2pFVy1GX2QtWmxMM2dXZUFFcHJBTlZrZkRueEU5RFN5SGxQaEt2aVdHUU",
+    "sources": []
+  },
+  {
+    "id": "crown-2026-02-26-008",
+    "date": "2026-02-26",
+    "companies": [
+      "crown"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "CROWN HOLDINGS, INC. ELECTS MICHAEL DOSS TO ITS BOARD OF DIRECTORS - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQNGdvTUV2WFVxbXpCUU5Zd2dyYUo3ZTdMLXNaand5dEZSWjMtMVpzUmVfbG9xVnM2UDl5enpIYW5Nc0xUb2NQS2FFVkRHUWVGMXl4OVl3WGFNbHVpcW1ORE5WNVVnQ2p4RW93N2loX1",
     "sources": []
   },
   {
@@ -2644,6 +2754,18 @@
     "impact": "neutral",
     "title": "The Pet Industry Is Being Taken Over by the Ultra-Rich - AOL.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9IamtqLVZacG5uTUJYc3RLUXozcjJYQTNwLS0teTFmN0FleUZnWFc5WDd5UWUzc0Y1dC1TZEhvT0o0N0FRc193aGFEMU9HWEdGQ2tjQ0xDYVhRVE1OZVM0UHZxdmtfaUVvc3NRZjJFTl",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-11-21-009",
+    "date": "2025-11-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Study finds 94% of homemade dog diets lack complete nutrition - PetfoodIndustry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPN3FWQ3V6NmxWYnNPa0tUbHEtMmNvQWdZNjdUVkRaOVVuaXBUTklfeWtqS09DWER3WnZnV01nM1hvTDdrZ1dfYm5WQTV1cGdXWl9xdkVUZG96QVo3dnZ0VTdOYzljUHdVeDVYNlRLWU",
     "sources": []
   },
   {
