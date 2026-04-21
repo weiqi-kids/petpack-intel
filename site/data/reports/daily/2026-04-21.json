@@ -1,0 +1,78 @@
+{
+  "date": "2026-04-21",
+  "generated_at": "2026-04-21T09:22:06.408829Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "zoetis-2026-04-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zoetis Inc stock (US98978V1035): Why Google Discover changes matter more now - AD HOC NEWS",
+      "companies": [
+        "zoetis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "zoetis",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為碩騰相關動態：「Zoetis Inc stock (US98978V1035): Why Google Discover chan...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Zoetis Inc stock (US98978V1035): Why Google Discover changes matter more now ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "碩騰為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
