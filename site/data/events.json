@@ -1,5 +1,58 @@
 [
   {
+    "id": "petco-2026-04-24-007",
+    "date": "2026-04-24",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why Petco stock popped today - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AJBVV95cUxPZWowRThjdEdTTk84aE1yZTRWR25sRTZGdlVBbDhXcWRSZk5UTW1sUkE0V1dvdkVwYVFDdmVUbWJDWDNFS2s5QWdSUF8yNDRjQ1RwWWNqNS02enE4TnVzaTNGVm9aUnBoU3psUVpZcG",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-24-010",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Confectionery Flexible Packaging Market Set to Reach US$ 11.19 - openPR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNRFdvOVFjaU5uR3hCUFBadFlXWmpCVWRlZnp1cUJGVmsyZXhsSDZ5emJ5UEZHOW1fREx4ckp5RXZFdkRQV0s1UkpfWUotVHh5VmNmQzlNZlRleDZCWmxGdWlaU21oMU1TQzcxUFQtQ2",
+    "sources": []
+  },
+  {
+    "id": "sealed_air-2026-04-24-013",
+    "date": "2026-04-24",
+    "companies": [
+      "sealed_air"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Global Protective Packaging Market to Hit USD 51.2 Billion by 2036 | India Leads Expansion; Key Players Include Sealed Air, DS Smith - Morningstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxQMHNuTHRzRXFqaTRVQU82bjZlNXJfdzBMNE5VbUFQQ0MtMUd5NFBtT29hNlRLT1ZnYVl3Q2JEZFRxTE83RU1yRjRVQ2tNbWcteDZ1cmhMRFZnRTdsWC1TTHJvbEZwa0VVd3lpcFktZ2",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-24-017",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Transparent Plastic Packaging Market Growth Outlook to 2035: E-Commerce and Sustainability Shape Demand - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYlhQT2NBaTJkdlN6N2lyRExsUGdDR0FRY0VmQ1ltMzJFbFJLTV9FZ3l1Zm9qUWhJZFV5Z2IweTNGeHg3Q0U3bnMyaXNhSlk2bFJ1bWRZbng4Nk9mMFQwazQydkVYald0MUpYNlFkY1",
+    "sources": []
+  },
+  {
     "id": "zoetis-2026-04-23-002",
     "date": "2026-04-23",
     "companies": [
@@ -53,6 +106,145 @@
     "impact": "neutral",
     "title": "Crown Holdings downgraded at UBS as earnings growth slows - MSN",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwNBVV95cUxQNVBPalNjOEhRZUFxYzdBT1ROaURtV0UxUlM0c0xlRVdSLWpBT0M0d1dpcGw3a0tsY3FOVlhVaWwzWWprY1JQdXNGYzBoNC1JdFIzWGJKbkE5aFl4WlVESVBjcGNxRXRhWjF4OUdTTk",
+    "sources": []
+  },
+  {
+    "id": "idexx-2026-04-23-002",
+    "date": "2026-04-23",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "IDXX (IDEXX Laboratories Inc.) posts Q4 2025 earnings beat and double digit revenue growth, shares drop 1.86 percent today. - Expansion Phase - Cổng thông tin điện tử tỉnh Tây Ninh",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQM2dWVk5NV1hUSXdCRjlkOUdROFkxQVNqSndnTGRnYmtXalRLWUZ5SFM3a2h5bXdjTHhrMTlTc2tRdEloTWZJdThIc1pSRHJYaHJhTm44c05WNWhYR21PMXRzMEV0UE9oemxONEQxQj",
+    "sources": []
+  },
+  {
+    "id": "petco-2026-04-23-006",
+    "date": "2026-04-23",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "WOOF (Petco Health and Wellness Company Inc.) notches 65.3 percent Q1 2026 EPS beat, shares climb 4.83 percent on positive investor sentiment. - Senior Analyst Forecasts - Xã Thanh Hà",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxNRGRxbl94Y1liMkxHTzh5S0tqbi1abzRzQUlFSXNFSWdsckdZWFpETVQ1YUVidFh4MjBkMUZGMXNaRzBOMVlib0lsSUhfZFg5WmpnVU9mSXBnUWU5Rk9qYU9QVWFaR3hzbUIzNTQxQm",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-008",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Best Growth Stocks to Buy for April 23rd - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPTUdXdHpocU1SbHdsNWd4elAxM1RIVzUxSXRrdGxndk84NjJ2Zzd3d2otZDZFeERVRTBYanlsZlpEdDVEQ21DUmhoTGJfaFo3Vm9tQXpsMDFVdExRNG5tQ29iWXdSYXBBMXdQTlliYn",
+    "sources": []
+  },
+  {
+    "id": "amcor-2026-04-23-011",
+    "date": "2026-04-23",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [
+      "pet_insurance"
+    ],
+    "impact": "neutral",
+    "title": "Amcor Leads Premium Packaging at LUXE Pack NY - Mirage News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdVd2TDhNcGozeGVIdmVHTlM0RnNveWRkOVJiMVViQWM4YzduQjA5OEE2NDk2cEIyYklNUnlhdXJfbHp5bVhWRk5yWmMwVnNpRk5sSktNUm95dHhHR0pNY3dxakIzWGN2Sk9BcTJ3Vl",
+    "sources": []
+  },
+  {
+    "id": "amcor-2026-04-23-012",
+    "date": "2026-04-23",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "MCP Acquires Amcor Flexibles Mohammedia to Expand Industrial Footprint in Morocco - Morocco World News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOaU1VQkFneGgycFM5NGJzUmlqTGxjLWxQOUFCVzcyUXBnSG1mRkFpVnI3VlFjazdlZVp4UWxvWFpxN2w1Q19IcXh3MFNnNUd3Rno2WFJncTJoYWFQX2NENjV0M21PMjhOVnZVclZDS2",
+    "sources": []
+  },
+  {
+    "id": "smurfit-2026-04-23-014",
+    "date": "2026-04-23",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Earnings Preview: Smurfit Westrock (SW) Q1 Earnings Expected to Decline - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQMDdWZUphQmVPNGgzWk9ESUxiSHgtZHpOTnBfZ3VGZHpNc2VNWHl2NFAtQXJIU2dLU19kVy12NkRSdjJ5SzBEZU5tNHlmTi1JQUxuTjJaRHY0ZGNoZWVYUm1ETkhpUGloLXJmRmE1QV",
+    "sources": []
+  },
+  {
+    "id": "smurfit-2026-04-23-015",
+    "date": "2026-04-23",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "What to Expect From Smurfit Westrock's Next Quarterly Earnings Report - Barchart",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQbk5DZE13WVUtdlctQTRONkx0azVIdEkyXzQxNHEtR04zTDdNcmE2cDJTUlNSaXYzcThqaXBPMjI0QXJLN1JGNEtvRE9ValI4eHRLdG10VTIzOElFNHF3QUdyVGY0bXBTQm5qWHhmVH",
+    "sources": []
+  },
+  {
+    "id": "crown-2026-04-23-016",
+    "date": "2026-04-23",
+    "companies": [
+      "crown"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Crown bets on India demand with can plant sized for 2.2B a year - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPSmVrR0RraFg1aTdnSmFOVzV3aEFIaU1oLTAyUjVjR2M3X3l2emRpYlYxZVUwX0lOMXQ3UWtFVmp3aU15MzJXSWVjSDF3WkdvcTRVQ3dhb0QwNXBiSE5NNHg0b3NuQU9hSlJIRnV2eT",
+    "sources": []
+  },
+  {
+    "id": "pkg-2026-04-23-019",
+    "date": "2026-04-23",
+    "companies": [
+      "pkg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "PCA expects strong Q1 demand to continue in 2026",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Jn9R1dLwXORZkEy2gpAL4mfqFywhXSLZeHcAyAo-RFI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxOTM0MjU1LmpwZw==",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-020",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "sustainable_packaging",
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "World Biodegradable Paper And Plastic Packaging - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU3l1V2dGRjZvMEk4OXZyZHl6SDlqLVBPSTdvbTF2dEkxai1ia1B3WEpPVkdhX19CTzQ2cmI0Tzh5c3E4VUhUVnNucU9IU3AxZUFhQVloRmdwRjFfRXE4dmpLSWhEeDVsaG5KODhWaW",
     "sources": []
   },
   {
@@ -207,6 +399,20 @@
     "sources": []
   },
   {
+    "id": "intl_paper-2026-04-22-009",
+    "date": "2026-04-22",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Paper Riegelwood Mill sold to American Industrial Partners for $1.5 billion - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgNBVV95cUxORkdFTWFabWxGZHplam5ITjJhVm42a2QwNU1WQ3haaUcwcXF5OFpncEtEWk5ta21XcmpkcDBNcm9FSnI4OGlfdHFwLVRFUXpMdW1JbGlCXzRsaUlzNmJzaHV3VWlQd1RybUZkREtMQn",
+    "sources": []
+  },
+  {
     "id": "zoetis-2026-04-21-001",
     "date": "2026-04-21",
     "companies": [
@@ -296,6 +502,20 @@
     "impact": "neutral",
     "title": "Crown Holdings (CCK) Earnings Expected to Grow: What to Know Ahead of Next Week's Release - Yahoo Finance",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNVFVHSTVvODB2NFlrNGVfekJmSDN0aXhfRkpua29rNGMyTnBncTkxaVg2dkI2Ny1fYUpobWdXR2NuckhwazVTMlI4MC1IelZvaEFnMEFiSVlraE1rR2tJNUtDYm41YjVOZWpJcTBMRW",
+    "sources": []
+  },
+  {
+    "id": "petco-2026-04-20-005",
+    "date": "2026-04-20",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "WOOF Stock Price, Quote & Chart | PETCO HEALTH AND WELLNESS CO (NASDAQ:WOOF) - ChartMill",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UemY1LWYzR3hQbkRFbmFheGFlcEJYa3ROVk9NU3pvQ3ZCSzl5dEhWMVNzUHpwS01yMkFFeU4wdl85TGktMDBnMTZMeGk5NlBiTDdjRjAySXpkMmRnS2Zn?oc=5\" target=\"_blank\"",
     "sources": []
   },
   {
@@ -1790,6 +2010,20 @@
     "sources": []
   },
   {
+    "id": "idexx-2026-04-07-003",
+    "date": "2026-04-07",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Here’s Why Analysts Have IDEXX Stock Priced at $742 - TIKR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPcnc4YnQtSng5X21CSmQ2UDNYYWlOUkVRMjQ1QkVucjdUX1lpQ1RSb0pJSE1yQ2pXRkxDLXBkWVNwb1VoSDltRUMyeFoxWlNQTm4wTW5SelJvQzdWWEV5Sm1zeEN4a2ZRcURfY09oN2",
+    "sources": []
+  },
+  {
     "id": "trupanion-2026-04-05-036",
     "date": "2026-04-05",
     "companies": [
@@ -2484,6 +2718,18 @@
     "impact": "neutral",
     "title": "Petsense, Allivet form cross-species veterinary advisory council - PetfoodIndustry",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ3pJUHRrZFgyWmdkbl9tYXFMeHBUMndjVWRlYWtISkIwWTN4QVA4d2RaRG1jcjlsUW52aTV1eDBhYTZ0VUZrZFVhbm96MUE3Q3FQNXREcFdEU3ZFY2RwQUJCa3NKaWFUc3dHTV9MRl",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-06-018",
+    "date": "2026-03-06",
+    "companies": [],
+    "topics": [
+      "pet_food"
+    ],
+    "impact": "neutral",
+    "title": "Mexico’s Pet Food Market Grows as Household Spending Rises - Mexico Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOLTJIb3NtMmRib0drNjM1bzhNUXktaENQUzhnS1JWUmc5QUdCYU13MUlPVTAxMS03cW02OFh1dnd6UWp4N01qTzJpVFZlLUR5a1J5OEhFTGhBUTNxcE9DQjZoYWV0cXBTejNjN0Myen",
     "sources": []
   },
   {
@@ -3307,6 +3553,20 @@
     "impact": "neutral",
     "title": "Q3 Earnings Recap: Crown Holdings (NYSE:CCK) Tops Industrial Packaging Stocks - Yahoo Finance",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPTmJPM2RvTzNGdEEyTzVYc1NPZHlmZTJ5WWs0bFFNM09BZlFIajdXQ2JuZ1FPXzJQd3ppMlJ4bE4tSWlwdEhMOVhwakloU2toTVdvTl9maVlBX0puUkZoY2pYVHh5OWlKS29KVmRya0",
+    "sources": []
+  },
+  {
+    "id": "zoetis-2025-12-18-001",
+    "date": "2025-12-18",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Zoetis to Participate in the 44th Annual J.P. Morgan Healthcare Conference - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQczRBbkRtd2pBcFo1T1NrdjRoX3RSVmM4SHBFdXNFT3pkaThSdUtRV0tET2VEZl8wVXptTmoyQ3dmVnJjVFRzRFRtU1VEQXlWVXFuYVJ3WkhWcVh6ODFQUkJMc0ZEaURBZ05oSS03aD",
     "sources": []
   },
   {
@@ -4233,6 +4493,20 @@
     "impact": "neutral",
     "title": "Amazon, Chewy Dominate Pet Product E-Commerce - PR Newswire",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSXpicXVmbHZfMUxSRFhBWnpYUWpnSGZ1X0ltM2RCb1JkOXFCYk56cE8wb3Q2S3k0UTB3WmpoalotdFY2cF81UkdLT1BScms3bklMQm80bU8zSjRCTDBkU3VVeWdELXpvdEdMenFWSD",
+    "sources": []
+  },
+  {
+    "id": "chewy-2020-09-15-004",
+    "date": "2020-09-15",
+    "companies": [
+      "chewy"
+    ],
+    "topics": [
+      "pet_food"
+    ],
+    "impact": "positive",
+    "title": "Chewy sales growth reflects pet industry e-commerce boom - Pet Food Processing",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzNnZTYxOWZQbDRSX3hlSTZzTC0wUk9GdWdBbWpKQkJPV1lmTnRTUkg5d1BnN0JiNmxHSnhLbWZ0ODY1YmZsWnhJdnpNS2dyR0tGdG5OUGgzWjZqUXYtaC0zdS1ZTHl1dVlUUzBhNT",
     "sources": []
   },
   {
