@@ -1,0 +1,135 @@
+{
+  "date": "2026-04-25",
+  "date_range": {
+    "start": "2026-04-19",
+    "end": "2026-04-25"
+  },
+  "generated_at": "2026-04-25T08:46:22.556886Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "zoetis-2026-04-22-001",
+      "date": "2026-04-22",
+      "title": "IDEXX Laboratories Vs. Zoetis: A Pre-Earnings Comparison (NASDAQ:IDXX) - Seeking Alpha",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 14,
+      "last_week": 10,
+      "week_over_week_change": "+40%",
+      "sentiment_this_week": 0.07
+    },
+    "guidance": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.17
+    },
+    "paper_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    }
+  },
+  "company_7d_summary": {
+    "sealed_air": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "crown": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "intl_paper": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 3
+    },
+    "zoetis": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "smurfit": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "petco": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 15,
+        "last": 11,
+        "change_pct": 36.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-19",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-20",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-21",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-22",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-23",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-24",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-25",
+      "event_count": 0,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-19 ~ 2026-04-25）共 15 則事件，重點為「IDEXX Laboratories Vs. Zoetis: A Pre-Earnings C...」。國際紙業情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "國際紙業",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "皇冠",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "碩騰",
+        "reason": "受紙價議題影響，供應鏈壓力可能上升。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
