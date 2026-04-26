@@ -1,0 +1,121 @@
+{
+  "date": "2026-04-26",
+  "generated_at": "2026-04-26T03:19:45.489239Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "smurfit-2026-04-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Smurfit Westrock (SW) Is Down 5.4% After Q1 Profit Miss And Outlook Shift - Has The Bull Case Changed? - simplywall.st",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcWZhNTFnMjRGNXFDaGxFY1VnQ3dZVEVNMWJCTC0xdHotUVFNTmVJVGJIWnVudm1jVzV6THNFZ2RVcFZlV2hHYVI3Y1h1MWFQYzlZcHdITHphWWpnSzhqWkdiLXdVZG1XRUMtYjNqN21SSnA1U1pCUXk3SWx3X1ctazdNVVZaSEFSd20xMDRHb3RaV0p3ZXhVOHJvRnZuZGxYdE1mR2lHZUpkbEUyUm8zNWFhX01pWEFvNC1qNENoQ2RKZTNOUXFSd0lzVjXSAdIBQVVfeXFMTlphX3FnVDJweUtkMGlyZTMyVnE2XzRWNDgwQU42SjJPaUxBc0xMQWRrZTRlczBka2NwbF9EVGZvQnB3dzBWTG16TEVPekxNOXlJZ0llc0prZHBwMGkzNy1DV1lPb3RydWVLVnlIMDg4U0JPUm5NcTBwdEx5NjV0cWxGVl9GdXNsUHk5bTRrV2x2bnQxWHk5b2FYQzllN0pEWFhGTW1peUJXMHRYMENnQ2FJWkVIdWRoNWhDZU0xeTJQUzF2bXdtN0tPUElwT0tPUmJn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "crown-2026-04-26-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Crown Holdings (CCK) Reports Q1: Everything You Need To Know Ahead Of Earnings - The Chronicle-Journal",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQWVleWY1TExiZVZ6dWZiOGRrTC12aHZHWUFuNTF6NFdPaTBmQU1tdVM4QnRjYUlidDBmbUtPZmVTZ1ExVEVCaWZqWG4xR2thQkx4WGdjZkktSWlrbURaTnpkZkdyM292QVYycG15cXE1aWpQV3dPV3drVWdLSklZVmV4TDBuRTF4UjJwUFN5OGMxS1B1aURmWWVycFVKZ014LTl4ei1ZMktKWENKT05lMWFxTVJNd3VNZlZKRDhLSWJ5dGdVQWM1TzBMN3ZsdkdnSlhHR29UNm9mNzhJZkR1WWJXaWpwenpuMzVfT0lB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "smurfit",
+        "count": 1
+      },
+      {
+        "id": "crown",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為斯莫菲特、皇冠相關動態：「Smurfit Westrock (SW) Is Down 5.4% After Q1 Profit Miss A...」。主要關注主題為財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Smurfit Westrock (SW) Is Down 5.4% After Q1 Profit Miss And Outlook Shift - H...（財報、展望）",
+        "level": "yellow"
+      },
+      {
+        "text": "Crown Holdings (CCK) Reports Q1: Everything You Need To Know Ahead Of Earning...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
