@@ -1,10 +1,16 @@
 {
-  "total_raw": 0,
-  "dup_title": 0,
+  "total_raw": 300,
+  "dup_title": 160,
   "no_date": 0,
-  "too_old": 0,
-  "gate1_fail": 0,
-  "gate2_fail": 0,
-  "passed": 0,
-  "gate2_samples": []
+  "too_old": 110,
+  "gate1_fail": 5,
+  "gate2_fail": 23,
+  "passed": 2,
+  "gate2_samples": [
+    "Zoetis Expands Vetscan OptiCell™ Capabilities - Vet Candy",
+    "Zoetis, Equine Network Foundation reconnect for ‘Long Live the Horse Care Grant’ - Equus Magazine",
+    "Why IDEXX Laboratories Stock Is Undervalued at $561 in 2026 - TIKR.com",
+    "Chewy stock: Is the pet e-commerce leader built for the long run? - MSN",
+    "Wall Street Zen Downgrades Petco Health and Wellness (NASDAQ:WOOF) to Hold - MarketBeat"
+  ]
 }
