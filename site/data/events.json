@@ -201,6 +201,46 @@
     ]
   },
   {
+    "id": "sealed_air-2026-04-25-008",
+    "date": "2026-04-25",
+    "companies": [
+      "sealed_air"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "JPMorgan-led banking group's $7.2B debt deal to fund Sealed Air-CD&R deal faces pushback - report - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMEZ6ZnFTbW9vc3poM29lTTBXNzYxV2w0clRGV204anh3aVJjVnc4ckh2N05PNzBLc3k1VUs4SHB4WTZUY3IxM3Rfak8wMUtPbDBLYWFDcklhQ1VGb3hVVnc3STdsS0RUYUNXTTZhRn",
+    "sources": [
+      {
+        "name": "sealed_air",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMEZ6ZnFTbW9vc3poM29lTTBXNzYxV2w0clRGV204anh3aVJjVnc4ckh2N05PNzBLc3k1VUs4SHB4WTZUY3IxM3Rfak8wMUtPbDBLYWFDcklhQ1VGb3hVVnc3STdsS0RUYUNXTTZhRnpOWUFaRjg4RHY1WWxrM2hZMmxUemlKN28yakZpMWtKV1B0eTM3dHBIMUo1ZHNjd2VKRWNkZFBGQVZUY2ZtemxlMDktOTY3WDlWXzdjYk43YUJ4R0pSWkdweXVfTDd6dE4yb0h4X0VPUXQyMzNyaTR3T3BR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "crown-2026-04-25-009",
+    "date": "2026-04-25",
+    "companies": [
+      "crown"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Crown Holdings appoints John M Rost as EVP and COO - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wJBVV95cUxNOFRFMmVZVVlZUXdiTzRxRlNTSEFKUk9JVlRfZXhCT1g2X1lfenVrZFNzM3VKck1IbVJNc3BQbnZjeExzOUNmMThHTzRrVC10NktPZEtENWlTVTRjV05KSVlPT3ZNdVc2VXVRS1pDY2",
+    "sources": [
+      {
+        "name": "crown",
+        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNOFRFMmVZVVlZUXdiTzRxRlNTSEFKUk9JVlRfZXhCT1g2X1lfenVrZFNzM3VKck1IbVJNc3BQbnZjeExzOUNmMThHTzRrVC10NktPZEtENWlTVTRjV05KSVlPT3ZNdVc2VXVRS1pDY2h1OFRUNDUzZG5TTGg2d3FyeEZBdE5WcnFNbHBFdTlmUGRzUk5sRUN0ZmdUY0JibUotTDFudmRPNFdGWTEydV96MUxaSmVLZWp0Njh5dVVVaFZmZC1jU0hNS21IeWJjQWJlYVBiWFpaQ3k0NzByaXkxUDBiVzhfODZUbzlrbl9NZmFQNFF2VUhFSDJIWFdTX290cDNtQWRFR3JRbXFYY05hUXVIUm1rWjNleFBGTlhWOVBzbUhZd0xPZUpCOHhxRV9Xc1VSajlEUzZZX09kaHN1WFJkUTEwN1dLbFZ3cEJJVEZTdE5YVkt4Z2d5c09XNnl1RFc3SWJhb0RQdjA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "petco-2026-04-24-007",
     "date": "2026-04-24",
     "companies": [
@@ -356,6 +396,26 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/epa-updates-pfas-destruction-and-disposal-guidance-amid-promising-researc/818400/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "crown-2026-04-24-013",
+    "date": "2026-04-24",
+    "companies": [
+      "crown"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "JP Morgan downgrades Crown Holdings (CCK) - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxPWDJVMGxnZDh1amVkb1NUeXhQdVFWUWF5V29manU3T1pDRUJLMUpYcWw4SHZUT0laT05XalVVc0M1TnEwTTlXeWpVZXhYVXN6d2VuWkZNdkFuZy1yZVY4VDBmVTg2bkgtVWxab0FBbl",
+    "sources": [
+      {
+        "name": "crown",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPWDJVMGxnZDh1amVkb1NUeXhQdVFWUWF5V29manU3T1pDRUJLMUpYcWw4SHZUT0laT05XalVVc0M1TnEwTTlXeWpVZXhYVXN6d2VuWkZNdkFuZy1yZVY4VDBmVTg2bkgtVWxab0FBblI1YTNPZXc2R1F0aVBKRUhMaFlBZldKdFpOSS01aThDZFA3VUFYVGI5Nlo0amFoQWM2SUdaZnhPcjNiOEw5OUdkd21PNlB2c1Qzd1NGYUtkQ2VIalZla1VzVkRCR1dKMzBNa0RCaXVHUlUwaEFESlYzTTJ0SXFsZ1BvNUx4OWhxSDlyYmEyYmRPaGJNbl92bThmb3Viem9lWnprWTdLSkY5MEFZVjZtajltb0xwS2JNNVRBOTRIaWwxSG95SUg?oc=5",
         "type": "rss"
       }
     ]
@@ -569,6 +629,44 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/waste-connections-q1-2026-earnings-artificial-intelligence-rng-fuel-prices/818325/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-23-018",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Best Growth Stocks to Buy for April 23rd - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPc3FSUC1ZRWl6Q1QycVJzcTVSaU96ekZFTzVBYnoxYlRmRDVDNzNlS1VxVzBBNkxiNU13SWUtWEtEZGl6SW5mcXNrY3JrWmpZcG1MS0FTNXVTdXlLS2VEMlFONV9WSzk0cG1wWElfb1",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc3FSUC1ZRWl6Q1QycVJzcTVSaU96ekZFTzVBYnoxYlRmRDVDNzNlS1VxVzBBNkxiNU13SWUtWEtEZGl6SW5mcXNrY3JrWmpZcG1MS0FTNXVTdXlLS2VEMlFONV9WSzk0cG1wWElfb1JhVVV1eFZKRURqWUlRRUk1T2VValo1c0R1WUM5cUpsanpVU0N2R1pwWA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "crown-2026-04-23-019",
+    "date": "2026-04-23",
+    "companies": [
+      "crown"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "A Look At Crown Holdings (CCK) Valuation After Recent Share Price Pressure And Longer Term Gains - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ2hrUDRxMEU0YXlfNndZOG1hQkNqcnlpdmo1Q0tGQmFmeF9pLXFyellqWnpHTGxqdDZLVGxhUGVPQ2IyOUNKckJfX2lYeW9SazE0Yl9EaWY5NGwyeUgxWkxkQTdiOEY0MGxlU2N1d2",
+    "sources": [
+      {
+        "name": "crown",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ2hrUDRxMEU0YXlfNndZOG1hQkNqcnlpdmo1Q0tGQmFmeF9pLXFyellqWnpHTGxqdDZLVGxhUGVPQ2IyOUNKckJfX2lYeW9SazE0Yl9EaWY5NGwyeUgxWkxkQTdiOEY0MGxlU2N1d2dfWlBiNDFBZ0wtbEVnZXpDSVFpcGJ1eDItUWNCTWdPR3gtd280czFNVGpCcldmSTdjRlJqRTdVT0xPamVPRmU1NWlNYXgxcGpGaVBIZi1XWUVZR2p5aWZmNDZMbUU0d9IB0wFBVV95cUxQUGtvZFFZTmE4VXNfdUNCdWRlb09tdi1BQnpUUHJQTGJrdF9BSnVucl9Nd1oycUVEUUFqczk5Z2hsLUFFWHJPLW5kTTQzNHZnNHM5OTdXd3d2eDV0UnFjNkRDc2pvZWpkcFBocnE4dk9WYjYtbDZtZE1XMXlJdTRCS01INnhwRm9tWElSUEhUYlJhSUUtTkVmUndLUDFNcDFZS2ROSE02WXdMWUdQYWw0RUpWZEloNmN4VnI4WFRGUmpsV2ttTEZ3OVQ0cjhKSHBsZ3NV?oc=5",
         "type": "rss"
       }
     ]
