@@ -14,6 +14,7 @@ companies:
   downstream:
   - chewy
   - petco
+  fetch_mode: http
 - id: zoetis
   name: Zoetis
   aliases:
@@ -28,6 +29,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="Zoetis"+animal+health&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
+  fetch_mode: http
 - id: idexx
   name: IDEXX Laboratories
   aliases:
@@ -43,6 +45,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="IDEXX+Laboratories"+veterinary+diagnostics&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
+  fetch_mode: http
 - id: central_pet
   name: Central Garden & Pet
   aliases:
@@ -60,6 +63,7 @@ companies:
   downstream:
   - chewy
   - petco
+  fetch_mode: http
 - id: elanco
   name: Elanco Animal Health
   aliases:
@@ -75,6 +79,7 @@ companies:
   rss_url: https://investor.elanco.com/investor-resources/rss-feed/PressRelease.aspx
   upstream: []
   downstream: []
+  fetch_mode: http
 - id: chewy
   name: Chewy
   aliases:
@@ -91,6 +96,7 @@ companies:
   - freshpet
   - central_pet
   downstream: []
+  fetch_mode: http
 - id: trupanion
   name: Trupanion
   aliases:
@@ -106,6 +112,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="Trupanion"+pet+insurance&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
+  fetch_mode: http
 - id: petco
   name: Petco Health and Wellness
   aliases:
@@ -123,6 +130,7 @@ companies:
   - freshpet
   - central_pet
   downstream: []
+  fetch_mode: http
 - id: intl_paper
   name: International Paper
   aliases:
@@ -142,6 +150,7 @@ companies:
   - cheng_loong
   - rong_cheng
   - graphic_pkg
+  fetch_mode: http
 - id: ball
   name: Ball Corporation
   aliases:
@@ -157,6 +166,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="Ball+Corporation"+metal+packaging&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
+  fetch_mode: http
 - id: amcor
   name: Amcor
   aliases:
@@ -171,6 +181,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="Amcor"+flexible+packaging&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
+  fetch_mode: http
 - id: sealed_air
   name: Sealed Air
   aliases:
@@ -186,6 +197,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="Sealed+Air"&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
+  fetch_mode: http
 - id: smurfit
   name: Smurfit Westrock
   aliases:
@@ -202,6 +214,7 @@ companies:
   upstream:
   - intl_paper
   downstream: []
+  fetch_mode: http
 - id: pkg
   name: Packaging Corporation of America
   aliases:
@@ -218,6 +231,8 @@ companies:
   upstream:
   - intl_paper
   downstream: []
+  ir_rss_url: https://www.packagingcorp.com/feed/
+  fetch_mode: rss
 - id: cheng_loong
   name: 正隆
   aliases:
@@ -234,6 +249,7 @@ companies:
   upstream:
   - intl_paper
   downstream: []
+  fetch_mode: http
 - id: rong_cheng
   name: 榮成紙業
   aliases:
@@ -250,6 +266,7 @@ companies:
   upstream:
   - intl_paper
   downstream: []
+  fetch_mode: http
 - id: crown
   name: Crown Holdings
   aliases:
@@ -266,6 +283,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="Crown+Holdings"&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
+  fetch_mode: http
 - id: graphic_pkg
   name: Graphic Packaging Holding
   aliases:
@@ -282,6 +300,7 @@ companies:
   upstream:
   - intl_paper
   downstream: []
+  fetch_mode: http
 - id: berry
   name: Berry Global Group
   aliases:
@@ -297,6 +316,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="Berry+Global+Group"+plastic+packaging&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
+  fetch_mode: http
 - id: sonoco
   name: Sonoco Products
   aliases:
@@ -312,6 +332,7 @@ companies:
   rss_url: https://investor.sonoco.com/rss/news-releases.xml
   upstream: []
   downstream: []
+  fetch_mode: http
 etfs: []
 supply_chain_positions:
   upstream:
