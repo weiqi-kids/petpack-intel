@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T03:37:18.239123Z",
+  "generated_at": "2026-04-27T10:10:58.933680Z",
   "top_events": [
     {
       "rank": 1,
@@ -82,14 +82,14 @@
     ]
   },
   "filter_audit": {
-    "total_raw": 660,
-    "dup_title": 342,
-    "too_old": 260,
-    "gate1_blocked": 16,
-    "gate2_blocked": 33,
-    "passed": 9,
-    "pass_rate": "2.8%",
-    "gate2_block_rate": "10.4%",
+    "total_raw": 990,
+    "dup_title": 513,
+    "too_old": 389,
+    "gate1_blocked": 24,
+    "gate2_blocked": 52,
+    "passed": 12,
+    "pass_rate": "2.5%",
+    "gate2_block_rate": "10.9%",
     "gate2_samples": [
       "Zoetis Expands Vetscan OptiCell™ Capabilities - Vet Candy",
       "Zoetis, Equine Network Foundation reconnect for ‘Long Live the Horse Care Grant’ - Equus Magazine",
