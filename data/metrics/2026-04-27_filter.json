@@ -1,11 +1,11 @@
 {
-  "total_raw": 330,
-  "dup_title": 170,
+  "total_raw": 660,
+  "dup_title": 342,
   "no_date": 0,
-  "too_old": 129,
-  "gate1_fail": 8,
-  "gate2_fail": 17,
-  "passed": 6,
+  "too_old": 260,
+  "gate1_fail": 16,
+  "gate2_fail": 33,
+  "passed": 9,
   "gate2_samples": [
     "Zoetis Expands Vetscan OptiCell™ Capabilities - Vet Candy",
     "Zoetis, Equine Network Foundation reconnect for ‘Long Live the Horse Care Grant’ - Equus Magazine",
