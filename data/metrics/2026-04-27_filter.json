@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 170,
+  "no_date": 0,
+  "too_old": 129,
+  "gate1_fail": 8,
+  "gate2_fail": 17,
+  "passed": 6,
+  "gate2_samples": [
+    "Zoetis Expands Vetscan OptiCell™ Capabilities - Vet Candy",
+    "Zoetis, Equine Network Foundation reconnect for ‘Long Live the Horse Care Grant’ - Equus Magazine",
+    "Why IDEXX Laboratories Stock Is Undervalued at $561 in 2026 - TIKR.com",
+    "Wall Street Zen Downgrades Petco Health and Wellness (NASDAQ:WOOF) to Hold - MarketBeat",
+    "Petco says it could return to sales growth - MSN"
+  ]
+}

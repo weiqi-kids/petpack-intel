@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27T01:41:40.884392Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 170,
+    "too_old": 129,
+    "gate1_blocked": 8,
+    "gate2_blocked": 17,
+    "passed": 6,
+    "pass_rate": "3.8%",
+    "gate2_block_rate": "10.6%",
+    "gate2_samples": [
+      "Zoetis Expands Vetscan OptiCell™ Capabilities - Vet Candy",
+      "Zoetis, Equine Network Foundation reconnect for ‘Long Live the Horse Care Grant’ - Equus Magazine",
+      "Why IDEXX Laboratories Stock Is Undervalued at $561 in 2026 - TIKR.com",
+      "Wall Street Zen Downgrades Petco Health and Wellness (NASDAQ:WOOF) to Hold - MarketBeat",
+      "Petco says it could return to sales growth - MSN"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-04-27 無寵物經濟 + 包裝產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
