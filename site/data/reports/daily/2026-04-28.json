@@ -1,0 +1,155 @@
+{
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28T10:10:26.911441Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veterinary Point-of-Care Diagnostics Market Competitive - openPR.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "vet_spending",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMFdpaVB3LUtKZl9zcGtCMGpqeFZsU3N6T3dCVG1PT3hySy1nZm1zVWZCNE94Q2pZV2pjNDJ5dGllR0tjRVFBNVJRWEFvcFRGWDBndm9mUFB1d0lWSS1nTVhfaVJLMUFfcGxRM0dOVVBVVkNSYTBDdHhMNkNxdFB4UGFld2hOWS1teGlSUkttUWxuN2RKZ2c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "crown-2026-04-28-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Research Alert: Crown Holdings Q1: Delivers Revenue Beat With Strong Beverage Shipment Growth - 富途牛牛",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUDZ3eDRYS0VSTURNMXFINzR3TE5Gd0ZSSEhmLURReG9kNmw0S2NRZVBsbElKU2JEUWVvUXd4cmQwR29ZdkcxUWM1bkVOaV80Y0NzV19VUWZGS3FuRXBfUjdNbzFNSEZVZTY0THVqNjVIam5ORG1MaHlFR3VjNUlUSEx5aEJjTF9zcVlCZE1uU1RuaUVzLXM0cTBmaURDdXVRS0lCTWk1SktJZ2M?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-28-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Silgan Holdings (SLGN) Reports Q1: Everything You Need To Know Ahead Of Earnings - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTlRLLW9nQW5ZZmtCN2xsal9OMzY1NC00dEo0S21IX1NWSXNvMFRSemx1d2Q5S0RmajBqek9WME1Wdm9rT0E0bzdvZkZ1MWQ1UnNaOGt0NThlVHY5TGlJQ2J5M2NDRDhjOWJtMGtIMVhJWXM3QTAxWjh3ODlENHRaOVZINHR1SUthcHZob0FoN0JPVE1zLWM1MHhfOEhlaHFFUHF0Y05ERERDdTI5dXhpQ3RoeDlXTmZuZWladUNIbVBtZG9tQUdMRG4taFpXUUhjMXI3MA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "vet_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "crown",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "vet_spending",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 153,
+    "too_old": 130,
+    "gate1_blocked": 11,
+    "gate2_blocked": 13,
+    "passed": 23,
+    "pass_rate": "13.0%",
+    "gate2_block_rate": "7.3%",
+    "gate2_samples": [
+      "Zoetis Expands Vetscan OptiCell™ Capabilities - Vet Candy",
+      "Why IDEXX Laboratories Stock Is Undervalued at $561 in 2026 - TIKR.com",
+      "Wall Street Zen Downgrades Petco Health and Wellness (NASDAQ:WOOF) to Hold - MarketBeat",
+      "Petco Health and Wellness (NASDAQ:WOOF) Stock Price Passes Above Two Hundred Day Moving Average - Wh",
+      "American Industrial Partners to acquire International Paper's Global Cellulose Fibers Division - MSN"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為皇冠相關動態：「Veterinary Point-of-Care Diagnostics Market Competitive -...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Veterinary Point-of-Care Diagnostics Market Competitive - openPR.com（獸醫支出、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Research Alert: Crown Holdings Q1: Delivers Revenue Beat With Strong Beverage...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
