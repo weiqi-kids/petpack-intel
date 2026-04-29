@@ -1,0 +1,176 @@
+{
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T10:01:50.435593Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "trupanion-2026-04-29-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Trupanion (TRUP) To Report Earnings Tomorrow: Here Is What To Expect - TradingView",
+      "companies": [
+        "trupanion"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYXFUWDc5UUlSYUhpQ25XN25uMHMtRnZUUEE3bXVabEVhUnB0R0prVWZTeHlsYU5SaEdrVUxMRnpBVWdWWFZGT2NlQ0lCMThTb0VDMWhQTXhnVnRhQjRYQ0xlaUZoS21qcV9xLW1QVnhqRkRSRC03Qkhxd2JTVmhjZ2Y3T3drNnVSRHpSNVZtUWZJMUh1WGlGSWNldUp5OENycU4zZW04ZmIxUnhFY1JOQ3p2Zl9NQWVnZUY5cmNjWVhVMXhB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intl_paper-2026-04-29-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper (IP) Reports Q1: Everything You Need To Know Ahead Of Earnings - FinancialContent",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSGdlNjVTNDlMTHV4YVItZWNLZ3AybjcwdDJxVmszVW9VMXZwdVBHME1HY2dUUXhzMkNNYTUwQmVuSXFOeVZmMnRVdTNkNVViQ3ltYVZEZm9mMzIwN1FzZVd3SGRkUnF2T211RDE3X0FJank3MmtDc1BrbzJHVVFxZmFfOXJGeDJwVzFiVGJUNFE1SGk2MUVDZUFjTWJURlZvYm9kNUlSbVNUT182MHIwTlR1UW93U3RHV2hzbTBPWXM1b3VHS3l5aUQ4SVVpTUlSUzhKam9oaUI?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "crown-2026-04-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Earnings Call Summary | Crown Holdings(CCK.US) Q1 2026 Earnings Conference - Moomoo",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdlZlbWs1SlIxZUR3V29sTHVvT09QSWR3UzI2bHpnbkh3QVFtSmJLbFJqY0dYMnhVcElEdGxVTEtBQjFHRkk4YnBfd21vQmJLRk4xWVg1LVh4YlY3MkRIbkhNRGt2aGxVVFdBYXh4bzdfM0wzbGNVVGdBRG04cVROeDJtZFV4akJBMW1pb0ZMZ19YS3pUdnFxQmdfWkJ1dUNpQ2ktQ3lzT0ZJVEU1d2h0X3FB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "crown-2026-04-29-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Crown Holdings Earnings Call Balances Growth and Risks - TipRanks",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMG50WEZ6TVRuS3REY245eDhpWHFXQVpSZnducXFHbXN3UUFhTGVLbXZVRGFGRFBhc3lOYXNuTC1xdDR5eTBKZ3RBTGFPS0REZ1JEa1FKVmlUN29hUW9iaE85dDZ1bVhkWVBqVzExNVFJSmhGaGZSTHI2YUF6ZTlIZEtNbXJaeml1MzM4eThza0pGV0pOQ25vYkp4Uy16X3lsVGd1SC16TkhKQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "crown",
+        "count": 2
+      },
+      {
+        "id": "trupanion",
+        "count": 1
+      },
+      {
+        "id": "intl_paper",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 153,
+    "too_old": 132,
+    "gate1_blocked": 10,
+    "gate2_blocked": 9,
+    "passed": 26,
+    "pass_rate": "14.7%",
+    "gate2_block_rate": "5.1%",
+    "gate2_samples": [
+      "Why IDEXX Laboratories Stock Is Undervalued at $561 in 2026 - TIKR.com",
+      "Wall Street Zen Downgrades Petco Health and Wellness (NASDAQ:WOOF) to Hold - MarketBeat",
+      "Petco Health and Wellness (NASDAQ:WOOF) Stock Price Passes Above Two Hundred Day Moving Average - Wh",
+      "Sealed Air spotlights Cryovac films for food packaging optimization - Packaging Insights",
+      "PepsiCo, Givaudan, Smurfit Westrock and Statkraft Sign 10‑Year Renewable Energy Agreement to Advance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為皇冠、寵物保險、國際紙業相關動態：「Trupanion (TRUP) To Report Earnings Tomorrow: Here Is Wha...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Trupanion (TRUP) To Report Earnings Tomorrow: Here Is What To Expect - Tradin...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "International Paper (IP) Reports Q1: Everything You Need To Know Ahead Of Ear...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

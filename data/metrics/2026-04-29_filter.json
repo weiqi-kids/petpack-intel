@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 153,
+  "no_date": 0,
+  "too_old": 132,
+  "gate1_fail": 10,
+  "gate2_fail": 9,
+  "passed": 26,
+  "gate2_samples": [
+    "Why IDEXX Laboratories Stock Is Undervalued at $561 in 2026 - TIKR.com",
+    "Wall Street Zen Downgrades Petco Health and Wellness (NASDAQ:WOOF) to Hold - MarketBeat",
+    "Petco Health and Wellness (NASDAQ:WOOF) Stock Price Passes Above Two Hundred Day Moving Average - Wh",
+    "Sealed Air spotlights Cryovac films for food packaging optimization - Packaging Insights",
+    "PepsiCo, Givaudan, Smurfit Westrock and Statkraft Sign 10‑Year Renewable Energy Agreement to Advance"
+  ]
+}
