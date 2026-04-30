@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T10:01:45.909987Z",
-  "quarter": "2025-12-31, 2026-01-31",
+  "updated_at": "2026-04-30T10:03:09.812837Z",
+  "quarter": "2025-12-31, 2026-01-31, 2026-03-31",
   "companies": [
     {
       "id": "amcor",
@@ -231,14 +231,14 @@
       "name": "Sonoco Products",
       "ticker": "SON",
       "currency": "USD",
-      "ar": 842810000,
-      "ar_prev": 1092445000,
-      "ar_qoq": "-23%",
-      "inventory": 1121009000,
-      "inv_prev": 1160029000,
-      "inv_qoq": "-3%",
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "ar": 893036000,
+      "ar_prev": 842810000,
+      "ar_qoq": "+6%",
+      "inventory": 1216812000,
+      "inv_prev": 1121009000,
+      "inv_qoq": "+9%",
+      "alert": false,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "trupanion",
