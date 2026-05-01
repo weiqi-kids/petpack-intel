@@ -1,0 +1,33 @@
+{
+  "date": "2026-05-01",
+  "total_events": 6,
+  "by_company": {
+    "intl_paper": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "smurfit": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "crown": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

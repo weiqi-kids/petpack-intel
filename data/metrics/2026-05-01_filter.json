@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 139,
+  "no_date": 0,
+  "too_old": 118,
+  "gate1_fail": 10,
+  "gate2_fail": 14,
+  "passed": 49,
+  "gate2_samples": [
+    "Why IDEXX Laboratories Stock Is Undervalued at $561 in 2026 - TIKR.com",
+    "Wall Street Zen Downgrades Petco Health and Wellness (NASDAQ:WOOF) to Hold - MarketBeat",
+    "International Paper Reports First Quarter 2026 Results - Yahoo Finance",
+    "International Paper Co. stock underperforms Thursday when compared to competitors - MarketWatch",
+    "International Paper Intends to Separate Its EMEA Packaging Business - Morningstar"
+  ]
+}
