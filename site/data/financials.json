@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T09:29:48.432575Z",
+  "updated_at": "2026-05-02T09:01:38.798266Z",
   "quarter": "2025-12-31, 2026-01-31, 2026-03-31",
   "companies": [
     {
@@ -245,14 +245,14 @@
       "name": "寵物保險",
       "ticker": "TRUP",
       "currency": "USD",
-      "ar": 301945000,
-      "ar_prev": 302534000,
-      "ar_qoq": "-0%",
+      "ar": 304796000,
+      "ar_prev": 301945000,
+      "ar_qoq": "+1%",
       "inventory": null,
       "inv_prev": null,
       "inv_qoq": "N/A",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "zoetis",

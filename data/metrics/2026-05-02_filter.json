@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 115,
+  "gate1_fail": 9,
+  "gate2_fail": 16,
+  "passed": 27,
+  "gate2_samples": [
+    "Wall Street Zen Downgrades Petco Health and Wellness (NASDAQ:WOOF) to Hold - MarketBeat",
+    "​​​​​​​International Paper touts $200M in EMEA cuts ahead of business split - Packaging Dive",
+    "International Paper Co. stock outperforms competitors on strong trading day - MarketWatch",
+    "Insider Moves: Major Boardroom Buy Signals Fresh Confidence in International Paper - TipRanks",
+    "International Paper (NYSE: IP) director adds 10,000 shares in open-market buy - Stock Titan"
+  ]
+}
