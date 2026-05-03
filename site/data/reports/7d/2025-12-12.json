@@ -1,0 +1,97 @@
+{
+  "date": "2025-12-12",
+  "date_range": {
+    "start": "2025-12-06",
+    "end": "2025-12-12"
+  },
+  "generated_at": "2026-05-03T02:42:26.228076Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2025-12-09-039",
+      "date": "2025-12-09",
+      "title": "There’s No Perfect Pet Insurance, But These Six Companies Stand Out | Reviews by Wirecutter - The New York Times",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "pet_insurance": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "pet_food": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "trupanion": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "chewy": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 5,
+        "last": 2,
+        "change_pct": 150.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-12-06",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-07",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-08",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-09",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-10",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-11",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-12",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

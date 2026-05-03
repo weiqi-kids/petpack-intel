@@ -1,0 +1,86 @@
+{
+  "date": "2025-07-29",
+  "date_range": {
+    "start": "2025-07-23",
+    "end": "2025-07-29"
+  },
+  "generated_at": "2026-05-03T02:42:19.585951Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2025-07-25-029",
+      "date": "2025-07-25",
+      "title": "Sustainability in packaging: What do European consumers value in 2025? - McKinsey & Company",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "pet_food": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "vet_spending": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {},
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 2,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-07-23",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-24",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-25",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-26",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-27",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-28",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-29",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

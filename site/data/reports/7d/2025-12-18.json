@@ -1,0 +1,85 @@
+{
+  "date": "2025-12-18",
+  "date_range": {
+    "start": "2025-12-12",
+    "end": "2025-12-18"
+  },
+  "generated_at": "2026-05-03T02:42:26.439180Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "chewy-2025-12-12-025",
+      "date": "2025-12-12",
+      "title": "E-commerce Pet Leader Chewy Unveils New Exclusive Lamb Chop Dog Toy Collection - Pet Age",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "chewy": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "zoetis": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 2,
+        "last": 5,
+        "change_pct": -60.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-12-12",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-13",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-18",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

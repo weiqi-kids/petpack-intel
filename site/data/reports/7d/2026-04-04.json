@@ -1,0 +1,138 @@
+{
+  "date": "2026-04-04",
+  "date_range": {
+    "start": "2026-03-29",
+    "end": "2026-04-04"
+  },
+  "generated_at": "2026-05-03T02:42:38.715597Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ball-2026-03-29-069",
+      "date": "2026-03-29",
+      "title": "Assenagon Asset Management Significantly Increases Ball Corporation Holdings - National Today",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 14,
+      "last_week": 9,
+      "week_over_week_change": "+56%",
+      "sentiment_this_week": 0.0
+    },
+    "sustainable_packaging": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "pet_insurance": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "vet_spending": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    }
+  },
+  "company_7d_summary": {
+    "ball": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 5
+    },
+    "berry": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "sealed_air": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "crown": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "intl_paper": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "smurfit": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 4
+    },
+    "zoetis": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "idexx": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 8
+    },
+    "chewy": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 17,
+        "last": 12,
+        "change_pct": 41.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-29",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-30",
+      "event_count": 5,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-31",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-01",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-02",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-03",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-04",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

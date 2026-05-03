@@ -1,0 +1,104 @@
+{
+  "date": "2026-03-29",
+  "generated_at": "2026-05-03T02:42:37.328490Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ball-2026-03-29-069",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Assenagon Asset Management Significantly Increases Ball Corporation Holdings - National Today",
+      "companies": [
+        "ball"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "berry-2026-03-29-111",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Berry Global Group Stock: A Leader in Sustainable Packaging Amid Evolving Consumer Demands - AD HOC NEWS",
+      "companies": [
+        "berry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "sustainable_packaging"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "sustainable_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ball",
+        "count": 1
+      },
+      {
+        "id": "berry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "sustainable_packaging",
+        "count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "date": "2026-02-03",
+  "total_events": 4,
+  "by_company": {
+    "zoetis": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "ball": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "pet_food": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "guidance": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "vet_spending": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

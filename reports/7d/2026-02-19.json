@@ -1,0 +1,112 @@
+{
+  "date": "2026-02-19",
+  "date_range": {
+    "start": "2026-02-13",
+    "end": "2026-02-19"
+  },
+  "generated_at": "2026-05-03T02:42:31.603941Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "sealed_air-2026-02-19-060",
+      "date": "2026-02-19",
+      "title": "Why Analysts See Petco Health And Wellness Company (WOOF) Story Shifting After Q3 And New Targets - Yahoo Finance",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 8,
+      "last_week": 3,
+      "week_over_week_change": "+167%",
+      "sentiment_this_week": 0.12
+    },
+    "pet_food": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "amcor": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "trupanion": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "crown": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 1
+    },
+    "sealed_air": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "petco": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 8,
+        "last": 3,
+        "change_pct": 166.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-02-13",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-16",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-17",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-19",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

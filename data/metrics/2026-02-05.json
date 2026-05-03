@@ -1,0 +1,20 @@
+{
+  "date": "2026-02-05",
+  "total_events": 2,
+  "by_company": {},
+  "by_topic": {
+    "pet_insurance": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

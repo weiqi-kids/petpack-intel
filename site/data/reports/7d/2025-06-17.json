@@ -1,0 +1,98 @@
+{
+  "date": "2025-06-17",
+  "date_range": {
+    "start": "2025-06-11",
+    "end": "2025-06-17"
+  },
+  "generated_at": "2026-05-03T02:42:18.522572Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "chewy-2025-06-13-024",
+      "date": "2025-06-13",
+      "title": "Chewy sales continue to rise - Pet Food Processing",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "pet_food": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "vet_spending": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "sustainable_packaging": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "chewy": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 4,
+        "last": 2,
+        "change_pct": 100.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-06-11",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-12",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-13",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-16",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-17",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

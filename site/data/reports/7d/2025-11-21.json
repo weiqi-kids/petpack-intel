@@ -1,0 +1,91 @@
+{
+  "date": "2025-11-21",
+  "date_range": {
+    "start": "2025-11-15",
+    "end": "2025-11-21"
+  },
+  "generated_at": "2026-05-03T02:42:24.291725Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ball-2025-11-18-068",
+      "date": "2025-11-18",
+      "title": "Ball boosts India can capacity with US$60M facility investment - Packaging Insights",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 3,
+      "last_week": 7,
+      "week_over_week_change": "-57%",
+      "sentiment_this_week": 0.0
+    },
+    "sustainable_packaging": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "ball": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "amcor": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 3,
+        "last": 7,
+        "change_pct": -57.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-11-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-18",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-21",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

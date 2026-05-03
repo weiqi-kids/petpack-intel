@@ -1,0 +1,33 @@
+{
+  "date": "2026-03-23",
+  "total_events": 7,
+  "by_company": {
+    "intl_paper": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "smurfit": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": 0.17
+    },
+    "guidance": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    },
+    "sustainable_packaging": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

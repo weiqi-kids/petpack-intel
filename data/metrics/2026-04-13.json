@@ -1,0 +1,65 @@
+{
+  "date": "2026-04-13",
+  "total_events": 13,
+  "by_company": {
+    "zoetis": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    },
+    "idexx": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "intl_paper": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "amcor": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "smurfit": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "crown": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "petco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "vet_spending": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    },
+    "earnings": {
+      "count": 13,
+      "sentiment_avg": 0.04
+    },
+    "sustainable_packaging": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "paper_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pet_insurance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

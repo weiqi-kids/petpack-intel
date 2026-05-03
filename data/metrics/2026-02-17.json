@@ -1,0 +1,25 @@
+{
+  "date": "2026-02-17",
+  "total_events": 3,
+  "by_company": {
+    "trupanion": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "crown": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

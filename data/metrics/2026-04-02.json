@@ -1,0 +1,29 @@
+{
+  "date": "2026-04-02",
+  "total_events": 2,
+  "by_company": {
+    "zoetis": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "idexx": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "vet_spending": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

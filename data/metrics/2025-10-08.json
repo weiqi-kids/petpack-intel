@@ -1,0 +1,29 @@
+{
+  "date": "2025-10-08",
+  "total_events": 2,
+  "by_company": {
+    "idexx": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "pet_food": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "vet_spending": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

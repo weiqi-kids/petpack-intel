@@ -1,0 +1,33 @@
+{
+  "date": "2025-09-30",
+  "total_events": 2,
+  "by_company": {
+    "trupanion": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "sustainable_packaging": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "vet_spending": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pet_insurance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

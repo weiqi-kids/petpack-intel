@@ -1,0 +1,108 @@
+{
+  "date": "2026-03-27",
+  "date_range": {
+    "start": "2026-03-21",
+    "end": "2026-03-27"
+  },
+  "generated_at": "2026-05-03T02:42:37.201400Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "intl_paper-2026-03-21-013",
+      "date": "2026-03-21",
+      "title": "International Paper announces plans for $225M packaging plant in Rankin County - SuperTalk Mississippi Media",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 10,
+      "last_week": 6,
+      "week_over_week_change": "+67%",
+      "sentiment_this_week": 0.05
+    },
+    "guidance": {
+      "this_week": 5,
+      "last_week": 1,
+      "week_over_week_change": "+400%",
+      "sentiment_this_week": 0.2
+    },
+    "sustainable_packaging": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "pet_insurance": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "intl_paper": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "smurfit": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "crown": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 13,
+        "last": 8,
+        "change_pct": 62.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-21",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-22",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-23",
+      "event_count": 7,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-24",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-25",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-26",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-27",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

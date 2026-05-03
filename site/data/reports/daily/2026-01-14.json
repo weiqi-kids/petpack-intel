@@ -1,0 +1,62 @@
+{
+  "date": "2026-01-14",
+  "generated_at": "2026-05-03T02:42:28.076110Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "trupanion-2026-01-14-011",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trupanion pet insurance review 2026: 2.5 out of 5 stars - Yahoo Finance",
+      "companies": [
+        "trupanion"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "pet_insurance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "pet_insurance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "trupanion",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "pet_insurance",
+        "count": 1
+      }
+    ]
+  }
+}

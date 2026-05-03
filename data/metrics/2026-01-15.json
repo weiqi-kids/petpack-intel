@@ -1,0 +1,33 @@
+{
+  "date": "2026-01-15",
+  "total_events": 5,
+  "by_company": {
+    "chewy": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "ball": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "idexx": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "vet_spending": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

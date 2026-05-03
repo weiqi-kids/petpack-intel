@@ -1,0 +1,80 @@
+{
+  "date": "2018-06-21",
+  "date_range": {
+    "start": "2018-06-15",
+    "end": "2018-06-21"
+  },
+  "generated_at": "2026-05-03T02:42:12.653890Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ball-2018-06-21-074",
+      "date": "2018-06-21",
+      "title": "Ball Corporation Agrees to Sell U.S. Steel Food and Steel Ae - Ball",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "ball": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2018-06-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2018-06-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2018-06-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2018-06-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2018-06-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2018-06-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2018-06-21",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

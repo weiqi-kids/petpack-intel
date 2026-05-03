@@ -1,0 +1,92 @@
+{
+  "date": "2026-01-30",
+  "date_range": {
+    "start": "2026-01-24",
+    "end": "2026-01-30"
+  },
+  "generated_at": "2026-05-03T02:42:29.234580Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "trupanion-2026-01-28-010",
+      "date": "2026-01-28",
+      "title": "Trupanion Marks 25 Years As Market Weighs Pet Insurance Track Record - Yahoo Finance",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "pet_insurance": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 1.0
+    },
+    "earnings": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.5
+    },
+    "pet_food": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "trupanion": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 2,
+        "last": 3,
+        "change_pct": -33.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-01-24",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-25",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-26",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-27",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-28",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-29",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-30",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

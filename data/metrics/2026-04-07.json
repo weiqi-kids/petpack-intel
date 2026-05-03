@@ -1,0 +1,29 @@
+{
+  "date": "2026-04-07",
+  "total_events": 3,
+  "by_company": {
+    "idexx": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "paper_price": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

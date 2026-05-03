@@ -1,0 +1,85 @@
+{
+  "date": "2025-12-23",
+  "date_range": {
+    "start": "2025-12-17",
+    "end": "2025-12-23"
+  },
+  "generated_at": "2026-05-03T02:42:26.651860Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "zoetis-2025-12-18-001",
+      "date": "2025-12-18",
+      "title": "Zoetis to Participate in the 44th Annual J.P. Morgan Healthcare Conference - Yahoo Finance",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "zoetis": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "crown": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 2,
+        "last": 3,
+        "change_pct": -33.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-12-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-18",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-23",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}
