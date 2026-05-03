@@ -1,0 +1,16 @@
+{
+  "total_raw": 327,
+  "dup_title": 168,
+  "no_date": 0,
+  "too_old": 124,
+  "gate1_fail": 9,
+  "gate2_fail": 13,
+  "passed": 13,
+  "gate2_samples": [
+    "​​​​​​​International Paper touts $200M in EMEA cuts ahead of business split - Packaging Dive",
+    "International Paper Co. stock outperforms competitors on strong trading day - MarketWatch",
+    "International Paper Co. stock underperforms Thursday when compared to competitors - MarketWatch",
+    "Sealed Air spotlights Cryovac films for food packaging optimization - Packaging Insights",
+    "Sealed Air Corporation Financial Disclosures & Filings - TradingView"
+  ]
+}

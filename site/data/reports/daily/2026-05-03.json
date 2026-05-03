@@ -1,0 +1,96 @@
+{
+  "date": "2026-05-03",
+  "generated_at": "2026-05-03T09:19:06.330892Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intl_paper-2026-05-03-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Artemis Investment Management LLP Trims Holdings in International Paper Company $IP - MarketBeat",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMDltUkgzX21FWndUTWc4UEZFTWVPcG9kWXVaOTNtTGM5OVd0MXRpbGQxWmtMSXpDUTR5dkRGSHBvWVlSOGZuSUstS3U2OWtiVEJDY0Q1Qk5mZWFSbVFlYUVOYkc0dzlYbEFHWFhKNzMydlNzT3pzSndKRHI3YVYzQzJzSHZBWU1ILS1rNDJ6dXFja251YUtXeDdpeGh1akhjd2JmNnppZmh4VmE5Y0tsVDA4cXl3QXJTekJQV1VWa3RoMVp5YmVuLW9lYXVpYmVpZGs1bDNzNVFmcFk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 327,
+    "dup_title": 168,
+    "too_old": 124,
+    "gate1_blocked": 9,
+    "gate2_blocked": 13,
+    "passed": 13,
+    "pass_rate": "8.2%",
+    "gate2_block_rate": "8.2%",
+    "gate2_samples": [
+      "​​​​​​​International Paper touts $200M in EMEA cuts ahead of business split - Packaging Dive",
+      "International Paper Co. stock outperforms competitors on strong trading day - MarketWatch",
+      "International Paper Co. stock underperforms Thursday when compared to competitors - MarketWatch",
+      "Sealed Air spotlights Cryovac films for food packaging optimization - Packaging Insights",
+      "Sealed Air Corporation Financial Disclosures & Filings - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為國際紙業相關動態：「Artemis Investment Management LLP Trims Holdings in Inter...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Artemis Investment Management LLP Trims Holdings in International Paper Compa...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "國際紙業為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
