@@ -1,0 +1,33 @@
+{
+  "date": "2026-05-04",
+  "total_events": 6,
+  "by_company": {
+    "amcor": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "smurfit": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "crown": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    }
+  },
+  "by_topic": {
+    "sustainable_packaging": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
