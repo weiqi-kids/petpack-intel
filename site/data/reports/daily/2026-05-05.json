@@ -1,0 +1,146 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T09:58:21.183948Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "smurfit-2026-05-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Smurfit Westrock launches prototype of glueline-free packaging solution - Packaging News",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMnVWaU1yM2JMSkMxSEdGakVZZUwxY05NcE16QnNPVXhRejE2eEdiY3dvelZfUHhYTGx4SkwwS1FrRXU3Y3BHa2drd1poeU9GejV3TGFuZEF0elRjQ3dyTl9oUmJvRUo0QnNwTnFadFNVZ282X0JhTnhjSElfQWFqMHJvRHdrSi1mRFFYc3FqQnk0YldLWlNhRnFjUkRFQXY0cUdWQllMeWlqSzJNak1DbU9qNzRFMHNPbHhqbTZ2RllkS0hlcDYwdDVaMA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "crown-2026-05-05-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Crown Holdings posts a rise in net sales as global shipments increase 5% in Q1 2026 - alcircle",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaUhGdGxwcUNGWjM5RzMyeHM4dy1XbUVpZklpNDNLSHFfSmpheW9lZ2xkcnJHS2lxbzJvQUFLNjVtWDB3aHkwUUJVaVdiM2E3dDh6LS1GaXZzWFRXbE9zdW5WYTdkdnR1ckR2ekdrVHl4Y1hYTHJKOTVpMk5vLWRQY3Voc3pzOGI0VV9GYzdGSnZQWEQ4R3Z0NllPRl9lUmVWZjAycnQtS0RPa0haWDIyR1AwOHdXellmT1Vz?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "crown-2026-05-05-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "3 Industrials Stocks With Warning Signs: Heartland Express, Ford, Crown Holdings - News and Statistics - IndexBox",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSmxJejZVSkoyVG91TGNlekJvZUNOalJWSWRQeTEzM3FGWWJsaklsZks1NkZlRFBmeE5lRVRJX2J4N3VFWm40Z3M0U3RUSjctQl9SN2pEV0QtUGM3eXVtcXhiV3R6YTR1MWREamF3U1RERjJRU1dYeWY0SXZtbmJnQ08wZUc5MGhuZXFBWVFGUnRtbnV2YTVLcy1zTjk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "crown",
+        "count": 2
+      },
+      {
+        "id": "smurfit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 327,
+    "dup_title": 164,
+    "too_old": 114,
+    "gate1_blocked": 13,
+    "gate2_blocked": 22,
+    "passed": 14,
+    "pass_rate": "8.6%",
+    "gate2_block_rate": "13.5%",
+    "gate2_samples": [
+      "How The Petco Health And Wellness Company (WOOF) Narrative Is Shifting On Mixed 2026 Expectations - ",
+      "Petco Health and Wellness Company, Inc. (NASDAQ:WOOF) Receives Consensus Recommendation of \"Hold\" fr",
+      "​​​​​​​International Paper touts $200M in EMEA cuts ahead of business split - Packaging Dive",
+      "International Paper Co. stock outperforms competitors on strong trading day - MarketWatch",
+      "Wells Fargo upgrades International Paper stock rating on improved operations - Investing.com Austral"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為皇冠、斯莫菲特相關動態：「Smurfit Westrock launches prototype of glueline-free pack...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Smurfit Westrock launches prototype of glueline-free packaging solution - Pac...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Crown Holdings posts a rise in net sales as global shipments increase 5% in Q...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

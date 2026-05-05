@@ -1,0 +1,16 @@
+{
+  "total_raw": 327,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 114,
+  "gate1_fail": 13,
+  "gate2_fail": 22,
+  "passed": 14,
+  "gate2_samples": [
+    "How The Petco Health And Wellness Company (WOOF) Narrative Is Shifting On Mixed 2026 Expectations - ",
+    "Petco Health and Wellness Company, Inc. (NASDAQ:WOOF) Receives Consensus Recommendation of \"Hold\" fr",
+    "​​​​​​​International Paper touts $200M in EMEA cuts ahead of business split - Packaging Dive",
+    "International Paper Co. stock outperforms competitors on strong trading day - MarketWatch",
+    "Wells Fargo upgrades International Paper stock rating on improved operations - Investing.com Austral"
+  ]
+}
