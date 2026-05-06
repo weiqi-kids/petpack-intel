@@ -1,0 +1,135 @@
+{
+  "date": "2026-05-06",
+  "date_range": {
+    "start": "2026-04-30",
+    "end": "2026-05-06"
+  },
+  "generated_at": "2026-05-06T06:03:11.460768Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "intl_paper-2026-05-05-006",
+      "date": "2026-05-05",
+      "title": "International Paper: Earnings Reset And Strategic Uncertainty Drive Downside Risk (Rating Downgrade) - Seeking Alpha",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 21,
+      "last_week": 19,
+      "week_over_week_change": "+11%",
+      "sentiment_this_week": 0.08
+    },
+    "guidance": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "sustainable_packaging": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "chewy": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "amcor": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "smurfit": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "crown": {
+      "event_count": 8,
+      "sentiment_avg": 0.13,
+      "rank": 2
+    },
+    "intl_paper": {
+      "event_count": 6,
+      "sentiment_avg": -0.13,
+      "rank": 3
+    },
+    "zoetis": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 143,
+        "last": 139,
+        "change_pct": 2.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-30",
+      "event_count": 60,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-01",
+      "event_count": 29,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-02",
+      "event_count": 9,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-03",
+      "event_count": 7,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-04",
+      "event_count": 16,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-05",
+      "event_count": 20,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-06",
+      "event_count": 2,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-30 ~ 2026-05-06）共 143 則事件，重點為「International Paper: Earnings Reset And Strateg...」。財報、展望、永續包裝為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "斯莫菲特",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "皇冠",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "國際紙業",
+        "reason": "本週出現 6 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

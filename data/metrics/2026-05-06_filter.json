@@ -1,0 +1,16 @@
+{
+  "total_raw": 328,
+  "dup_title": 157,
+  "no_date": 0,
+  "too_old": 115,
+  "gate1_fail": 12,
+  "gate2_fail": 21,
+  "passed": 23,
+  "gate2_samples": [
+    "Zoetis to buy Neogen animal genomics business for US $160m - petnews.com.au",
+    "How The Petco Health And Wellness Company (WOOF) Narrative Is Shifting On Mixed 2026 Expectations - ",
+    "Petco Health and Wellness Company, Inc. (NASDAQ:WOOF) Receives Consensus Recommendation of \"Hold\" fr",
+    "International Paper Nears Its Monthly Support Zone. Opportunity for a Bounce? - Barron's",
+    "​​​​​​​International Paper touts $200M in EMEA cuts ahead of business split - Packaging Dive"
+  ]
+}
