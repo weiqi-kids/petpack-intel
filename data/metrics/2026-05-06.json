@@ -1,19 +1,19 @@
 {
   "date": "2026-05-06",
-  "total_events": 2,
+  "total_events": 3,
   "by_company": {
     "zoetis": {
       "count": 1,
       "sentiment_avg": 0.0
     },
     "smurfit": {
-      "count": 1,
+      "count": 2,
       "sentiment_avg": 0.0
     }
   },
   "by_topic": {
     "earnings": {
-      "count": 2,
+      "count": 3,
       "sentiment_avg": 0.0
     }
   },

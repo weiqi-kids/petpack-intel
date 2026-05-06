@@ -1,11 +1,11 @@
 {
-  "total_raw": 328,
-  "dup_title": 157,
+  "total_raw": 656,
+  "dup_title": 331,
   "no_date": 0,
-  "too_old": 115,
-  "gate1_fail": 12,
-  "gate2_fail": 21,
-  "passed": 23,
+  "too_old": 232,
+  "gate1_fail": 24,
+  "gate2_fail": 44,
+  "passed": 25,
   "gate2_samples": [
     "Zoetis to buy Neogen animal genomics business for US $160m - petnews.com.au",
     "How The Petco Health And Wellness Company (WOOF) Narrative Is Shifting On Mixed 2026 Expectations - ",

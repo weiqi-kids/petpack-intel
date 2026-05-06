@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T06:03:11.371820Z",
+  "generated_at": "2026-05-06T10:13:18.442834Z",
   "top_events": [
     {
       "rank": 1,
@@ -49,12 +49,36 @@
         "score": 0.0
       },
       "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUk1wRjhVajFJNnFqaER4N1RycnVLbHVhejE3TXNWX2toMTJ3Z0VVSkpZWXVVTUlCaWZKRTVLZkNpSmxMc2F5UGJIdUoxWDFaRWtwQXpyVzQydkxiNFp4VkdXQzY1MGpYU3lvOElDQXFQbzAxTEVzMUExU0lFWFBKV2REZnpaMzFVRFMyNWVLR1gxRmJZQUtfNXVLb0s2X2lnUWR1ZFRfSzMxZTRFOEU4?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "smurfit-2026-05-06-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Smurfit Westrock Capacity Cuts And Price Hikes Test Earnings Resilience - Yahoo Finance",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbHBwQlhhY0tWM2ZWQk96MDBhcVFUaDJWQkVCYnR1N1VudVpBQmpDTkVBM2E2VldXcnlCaGg1bVhZN2xzcUNEaWxOU0dXQnEwcUx1c1JueXp4c2N4eHdjOVZSWks2VndGYVk1YkctZEZ6OTlEQ0I3SGI3WFZGQlpTTHk3SVk0TzVBU21VWlF1Vm1ZZW82S2hfZjZDX3FQdjhLOHVr?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "earnings": {
-      "today": 2,
+      "today": 3,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -66,38 +90,38 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 2,
+    "total_events": 3,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 2,
+      "neutral": 3,
       "negative": 0
     },
     "top_companies": [
       {
-        "id": "zoetis",
-        "count": 1
+        "id": "smurfit",
+        "count": 2
       },
       {
-        "id": "smurfit",
+        "id": "zoetis",
         "count": 1
       }
     ],
     "top_topics": [
       {
         "id": "earnings",
-        "count": 2
+        "count": 3
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 328,
-    "dup_title": 157,
-    "too_old": 115,
-    "gate1_blocked": 12,
-    "gate2_blocked": 21,
-    "passed": 23,
-    "pass_rate": "13.5%",
-    "gate2_block_rate": "12.3%",
+    "total_raw": 656,
+    "dup_title": 331,
+    "too_old": 232,
+    "gate1_blocked": 24,
+    "gate2_blocked": 44,
+    "passed": 25,
+    "pass_rate": "7.7%",
+    "gate2_block_rate": "13.5%",
     "gate2_samples": [
       "Zoetis to buy Neogen animal genomics business for US $160m - petnews.com.au",
       "How The Petco Health And Wellness Company (WOOF) Narrative Is Shifting On Mixed 2026 Expectations - ",
@@ -108,7 +132,7 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 2 則事件，焦點為碩騰、斯莫菲特相關動態：「Zoetis (ZTS) Q1 Earnings: What To Expect - StockStory」。主要關注主題為財報，市場情緒中性。",
+    "summary": "今日共 3 則事件，焦點為斯莫菲特、碩騰相關動態：「Zoetis (ZTS) Q1 Earnings: What To Expect - StockStory」。主要關注主題為財報，市場情緒中性。",
     "signals": [
       {
         "text": "Zoetis (ZTS) Q1 Earnings: What To Expect - StockStory（財報）",

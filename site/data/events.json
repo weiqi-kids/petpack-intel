@@ -40,6 +40,26 @@
     ]
   },
   {
+    "id": "smurfit-2026-05-06-003",
+    "date": "2026-05-06",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Smurfit Westrock Capacity Cuts And Price Hikes Test Earnings Resilience - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNbHBwQlhhY0tWM2ZWQk96MDBhcVFUaDJWQkVCYnR1N1VudVpBQmpDTkVBM2E2VldXcnlCaGg1bVhZN2xzcUNEaWxOU0dXQnEwcUx1c1JueXp4c2N4eHdjOVZSWks2VndGYVk1YkctZE",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbHBwQlhhY0tWM2ZWQk96MDBhcVFUaDJWQkVCYnR1N1VudVpBQmpDTkVBM2E2VldXcnlCaGg1bVhZN2xzcUNEaWxOU0dXQnEwcUx1c1JueXp4c2N4eHdjOVZSWks2VndGYVk1YkctZEZ6OTlEQ0I3SGI3WFZGQlpTTHk3SVk0TzVBU21VWlF1Vm1ZZW82S2hfZjZDX3FQdjhLOHVr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "smurfit-2026-05-05-001",
     "date": "2026-05-05",
     "companies": [
@@ -741,6 +761,25 @@
       {
         "name": "intl_paper",
         "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPNE14TDFzQmdxUkFGdThCVGJOZExWNzFkaUo1bVlFR2lta1RUbnJURVJVaGRSM3RYOVdUSXBpZTRDNGNGVkM2WDY0V001T2hBS0dwcjlwSGluUjQxSWdfYU1BUkVKN0FBUW80cWFzX3NNQ0l1eE9VaWExUlhralJCMzJQd21OZUR0TkJYTzBnb1FycE1hNGtSd2ExTk1lNlJlcHhPQXRsMkFWR1RLdm9lbDlKMWZWRjBXdTJsVkJuUVAtX282N3lNdVd6WldBWVNmZWFpZGNudzhoN2cyaDFrazZpcFB3aHh2ZV9RQlhWYXpZZFlPWkc2Q3hqVGlBQmpscWJrOFk5bXRxYXVTOHJUM2xfUVdORFVpTWRnYTB4aTM3Z1cyYjVqMGt4NTB3bjhEMENva2p1MGZ0Tnh2?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-017",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "packaging_price",
+      "paper_price"
+    ],
+    "impact": "positive",
+    "title": "Producers launch second wave of containerboard price increases in 2026 - Packaging Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPM25FWlR0OWktZTBTQWtvSk41V0V5RWZSSElxY0RFZGtqMjFUNGRORkNaRHh0ay1VelIwekhUUUFtZUo5OFc4bTJxLWtmTjVOUDFCYXE5YVlzU1pFQWtYVmtmVlg3ZEFTaDNBU2NUR3",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM25FWlR0OWktZTBTQWtvSk41V0V5RWZSSElxY0RFZGtqMjFUNGRORkNaRHh0ay1VelIwekhUUUFtZUo5OFc4bTJxLWtmTjVOUDFCYXE5YVlzU1pFQWtYVmtmVlg3ZEFTaDNBU2NUR3k0NGtvc3VwWlRWZEpHSUhKRlVSNUhsUTF2S3ItdWlZNTJldlgxODhzUWlRdXh0dw?oc=5",
         "type": "rss"
       }
     ]
