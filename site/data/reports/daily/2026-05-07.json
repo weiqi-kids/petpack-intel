@@ -1,0 +1,124 @@
+{
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07T10:18:58.936357Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "trupanion-2026-05-07-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The 5 Most Interesting Analyst Questions From Trupanion’s Q1 Earnings Call - StockStory",
+      "companies": [
+        "trupanion"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVVYzNldwZ1hEQ0RFU3FSdVNSbUlzYkdqSG91MHV6TURyV2QxbklUckRGUy13NldJSmpCYkJqeUpJYkc0eWxzSWtqZmJ4R0I4MHlRVkhMdlFYQWZHb2huNnlaUGJFS1dxWnJ5cFYyT0hUZUYxVGNXdUVkYlo3NTRvUlhHMUhJeG5HZ0pwWks1Z1lVRW9hZDFjOHZBc2xtQ3pqc0Z4MFFfaHFsSEFtUlRBZFI4U2NORlY3XzdPT3M1V1NfeHctbGYtY3lWSTRjdmxWN2pN?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intl_paper-2026-05-07-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "5 Must-Read Analyst Questions From International Paper’s Q1 Earnings Call - FinancialContent",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUzhNTmpYUXplLTBaNGhMdERRVkt3cDFhTkp2YjNHZGpQR21sSF9Xb1c3RlhnNjhVbkxYa05JOWN4NGJfUnU0dFVFay1DS2QwTWxDQmN0ZWdyNEhGZWNHY0ZXc0dMNnUzemsyUnJaOTZ3ZEpHQU5KcXJOMmhrMThZbGwxQWR0ZzNVNmplcGl5dWF0bW5WdjQ4UkMzYXdhOWlYU2ZqYmdzZ0s5M2JrOFRud0tUdV9OTkxldDdwbnBLVDZ0a3NUbjFCOWFxUHd1MndvWkMxS3pyZk90b2E2?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "trupanion",
+        "count": 1
+      },
+      {
+        "id": "intl_paper",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 327,
+    "dup_title": 161,
+    "too_old": 115,
+    "gate1_blocked": 12,
+    "gate2_blocked": 25,
+    "passed": 14,
+    "pass_rate": "8.4%",
+    "gate2_block_rate": "15.1%",
+    "gate2_samples": [
+      "Zoetis to buy Neogen animal genomics business for US $160m - petnews.com.au",
+      "How The Petco Health And Wellness Company (WOOF) Narrative Is Shifting On Mixed 2026 Expectations - ",
+      "Petco Health and Wellness Company, Inc. (NASDAQ:WOOF) Receives Consensus Recommendation of \"Hold\" fr",
+      "WOOF SEC Filings - Petco Health & Wellness Company, Inc. 10-K, 10-Q, 8-K Forms - Stock Titan",
+      "International Paper Reports First Quarter 2026 Results - Ink World magazine -"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為寵物保險、國際紙業相關動態：「The 5 Most Interesting Analyst Questions From Trupanion’s...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "The 5 Most Interesting Analyst Questions From Trupanion’s Q1 Earnings Call - ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "5 Must-Read Analyst Questions From International Paper’s Q1 Earnings Call - F...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
