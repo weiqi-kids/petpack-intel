@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T10:18:55.574346Z",
+  "updated_at": "2026-05-08T09:12:02.010832Z",
   "quarter": "2025-12-31, 2026-01-31, 2026-03-31",
   "companies": [
     {
@@ -7,14 +7,14 @@
       "name": "安姆科",
       "ticker": "AMCR",
       "currency": "USD",
-      "ar": 3161000000,
-      "ar_prev": 3430000000,
-      "ar_qoq": "-8%",
-      "inventory": 3481000000,
-      "inv_prev": 3473000000,
-      "inv_qoq": "+0%",
+      "ar": 3513000000,
+      "ar_prev": 3161000000,
+      "ar_qoq": "+11%",
+      "inventory": 3362000000,
+      "inv_prev": 3481000000,
+      "inv_qoq": "-3%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "ball",

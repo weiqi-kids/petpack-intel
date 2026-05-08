@@ -1,0 +1,155 @@
+{
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T09:12:05.239150Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "zoetis-2026-05-08-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zoetis (ZTS) Is Down 24.1% After Cutting 2026 Guidance On Softer U.S. Pet Demand – Has The Bull Case Changed? - Yahoo Finance",
+      "companies": [
+        "zoetis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORXZ5ZTdjSkhIMC16cGFlRElUUFZuRWE3WlRxVGpiTVVJdVg3dnVmcURxdGhsWGFpUHlOVkpqRWhUMm9yRTBVd2hXeUlsR3NCYWp4VzRQM3A2VGY5cC1SY2F4VU12SE54RFRGREdpdWQ1MTRZRm1HcEhMQ1BUWjdPYnlVZVFwOXQxUkItSVNaT2xBejg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "smurfit-2026-05-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Smurfit Westrock unveils water-activated adhesive for paper packaging - Packaging Insights",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNjZIUGpQVUVVRXc2UWlkZmdHSGlpeHRCNUZGQVpseGlOX0Y1MVlyTEEyQXlMai1sSVA4LXNQZ1E3d2pHWENvLV9LRXBzN2ZlMzh0WV9oSXdILVU1cUduSWdIS3FYT0Vmc3Zham1ra1Z5b0wzdEJiOVZMaHZscmV3bnIyQTNpRlBtVFh1MXQyZW4?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "smurfit-2026-05-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Smurfit Westrock launches prototype of glueline-free packaging solution - PULPAPERnews.com",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUVtVFJkaFgyNFpTSEt2WjB1QVJEYTY0cHlBMUlvN3B1QmN2YjM2NWgxS183T3dpNWpSaHhhM1hVcVBnOHVFVjMzLWU1Q0M0eGlrRkJ1VTNPSDZ4dFhtRU1rZDlPTVZBY2pESkhWS25qaF9WWVh2QmFzeWNmSWIzSUhCaWZMOHZoQVRzc3Nkb3JWQThFaXdBZG9QWUY5OEtReUV2WmdaWFZtVjlxVUlmaDJB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "smurfit",
+        "count": 2
+      },
+      {
+        "id": "zoetis",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 328,
+    "dup_title": 148,
+    "too_old": 114,
+    "gate1_blocked": 10,
+    "gate2_blocked": 22,
+    "passed": 34,
+    "pass_rate": "18.9%",
+    "gate2_block_rate": "12.2%",
+    "gate2_samples": [
+      "Why Zoetis Shares Plummeted Today - AOL.com",
+      "How The Petco Health And Wellness Company (WOOF) Narrative Is Shifting On Mixed 2026 Expectations - ",
+      "Petco Health and Wellness Company, Inc. (NASDAQ:WOOF) Receives Consensus Recommendation of \"Hold\" fr",
+      "WOOF SEC Filings - Petco Health & Wellness Company, Inc. 10-K, 10-Q, 8-K Forms - Stock Titan",
+      "International Paper Nears Its Monthly Support Zone. Opportunity for a Bounce? - Barron's"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為斯莫菲特、碩騰相關動態：「Zoetis (ZTS) Is Down 24.1% After Cutting 2026 Guidance On...」。主要關注主題為財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Zoetis (ZTS) Is Down 24.1% After Cutting 2026 Guidance On Softer U.S. Pet Dem...（財報、展望）",
+        "level": "yellow"
+      },
+      {
+        "text": "Smurfit Westrock unveils water-activated adhesive for paper packaging - Packa...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
