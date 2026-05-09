@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08T09:12:02.010832Z",
+  "updated_at": "2026-05-09T09:14:50.191146Z",
   "quarter": "2025-12-31, 2026-01-31, 2026-03-31",
   "companies": [
     {
@@ -259,14 +259,14 @@
       "name": "碩騰",
       "ticker": "ZTS",
       "currency": "USD",
-      "ar": 1590000000,
-      "ar_prev": 1541000000,
-      "ar_qoq": "+3%",
-      "inventory": 2430000000,
-      "inv_prev": 2465000000,
-      "inv_qoq": "-1%",
+      "ar": 1506000000,
+      "ar_prev": 1590000000,
+      "ar_qoq": "-5%",
+      "inventory": 2550000000,
+      "inv_prev": 2430000000,
+      "inv_qoq": "+5%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     }
   ]
 }

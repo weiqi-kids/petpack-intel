@@ -1,0 +1,16 @@
+{
+  "total_raw": 328,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 118,
+  "gate1_fail": 12,
+  "gate2_fail": 19,
+  "passed": 15,
+  "gate2_samples": [
+    "Why Zoetis Shares Plummeted Today - AOL.com",
+    "Zoetis Stock Plunge: The Pet-Care Slowdown Wall Street Can’t Ignore - TechStock²",
+    "Here’s Why IDEXX Laboratories Stock Could Deliver Around 11% Annual Returns Despite a 15% YTD Pullba",
+    "How The Petco Health And Wellness Company (WOOF) Narrative Is Shifting On Mixed 2026 Expectations - ",
+    "Petco Health and Wellness Company, Inc. (NASDAQ:WOOF) Receives Consensus Recommendation of \"Hold\" fr"
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T09:14:53.968470Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "idexx-2026-05-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "IDEXX Laboratories stock (US45168D1046): Mixed price moves amid strong earnings and valuation debate - AD HOC NEWS",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTk8zMHJUSWhvQVZ2OVRfN3E5TTBYWWQyWWdLcWg5SEJJSWpoNUR0MjdqQkZGd2hFcVJCLWwwVUx2d05QdXI2X3JfVEtZWlFSSGRtd3dJSlR5VHJIVERSc3VoZGgyRDlNNFdNczFTUGQ0eEVIdHlfZmlJbWZ6NW02NUhmOUpTMWVzVVVjczBUMjdvaE9QSlhwZklIdGdWUjM5NFI3ekwzQkx6YjNJaXVLQmNQaDFKVEJ2VmFrMWFmTXBTaWYz?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intl_paper-2026-05-09-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper stock (US4601461035): Packaging giant posts strong Q4 revenue growth and eyes ne - AD HOC NEWS",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbjNkaVNIMmRSM09KNC1kSlhsOHdjcFlrYjRCeHVIT2d1WmdHWGM4OFVIcmU5b1JwNndVVVdNcGMtX21KTlNfNFdORi1VT25iaDRSbnZSR3dlT29IZUYzVzVTODJGbXYzOExObW9mbVJKSG9FS3RUV0NaVTVQVThYOEpUYWZQTDB1aFUzd2lXRmlGZGtuZ1VjR3Z3VU1zMzUtd2NlUE9fVi1mREg3aGNKeTNNVEQ1UVYtVlNNcHVucGVjQkNoRHBSLQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sealed_air-2026-05-09-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sealed Air Corp. stock (US81211K1007): Packaging giant faces margin pressure amid inflation and dema - AD HOC NEWS",
+      "companies": [
+        "sealed_air"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc0U1ZGU5M2VyRGhERV9CVGhSVW9ORk44UjVNQnhzbzJoU0NwUzZ2NnhoQ1l3R2x3RGd1d3ZjQ0FZVnlqbVpGeTlvYmc4T1hTX0NpM0d4dy1kNE0tVFJXLWY3bzlPMHNGMnVXeXdGczBlOUlzd2w1R2RhN2VMSUw0UnV1MmZmSU4xZXVQZkZNRzV2YW1nUGhfcV9laDJIYnBsa0tjWEZNdWQxTHBod2M2SFNqNkN4clc5UEt3X280RQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-09-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The Navigator Company stock (PTNVG0AE0000): Paper and packaging group reports latest results and out - AD HOC NEWS",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR3lSUlBlbEE1T28zSzhkN08xMDdESnkzUTR1T0k2QU4yNnpnRndadWRoNWJsQndUR0tld1gtbC1EcnRnS3YtTkZla0ZOWVd6RHhJbHVlUEI0QWFWemIza1hzVDQ1SGRSazRFaXFfbWVkUk5kTWh4ZzBtbkxhTEtIZHo0dndZTzZHY2tGa2o5MzFhQVlCQVBveDBsUEYxbWdkenJScjhScVhkeWJyc1Vvd2czcUxMT3FieVVEczctYmVyeTA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "idexx",
+        "count": 1
+      },
+      {
+        "id": "intl_paper",
+        "count": 1
+      },
+      {
+        "id": "sealed_air",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 328,
+    "dup_title": 164,
+    "too_old": 118,
+    "gate1_blocked": 12,
+    "gate2_blocked": 19,
+    "passed": 15,
+    "pass_rate": "9.1%",
+    "gate2_block_rate": "11.6%",
+    "gate2_samples": [
+      "Why Zoetis Shares Plummeted Today - AOL.com",
+      "Zoetis Stock Plunge: The Pet-Care Slowdown Wall Street Can’t Ignore - TechStock²",
+      "Here’s Why IDEXX Laboratories Stock Could Deliver Around 11% Annual Returns Despite a 15% YTD Pullba",
+      "How The Petco Health And Wellness Company (WOOF) Narrative Is Shifting On Mixed 2026 Expectations - ",
+      "Petco Health and Wellness Company, Inc. (NASDAQ:WOOF) Receives Consensus Recommendation of \"Hold\" fr"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為愛德士、國際紙業、希悅爾相關動態：「IDEXX Laboratories stock (US45168D1046): Mixed price move...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "IDEXX Laboratories stock (US45168D1046): Mixed price moves amid strong earnin...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "International Paper stock (US4601461035): Packaging giant posts strong Q4 rev...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,83 @@
 [
   {
+    "id": "idexx-2026-05-09-001",
+    "date": "2026-05-09",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "IDEXX Laboratories stock (US45168D1046): Mixed price moves amid strong earnings and valuation debate - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNTk8zMHJUSWhvQVZ2OVRfN3E5TTBYWWQyWWdLcWg5SEJJSWpoNUR0MjdqQkZGd2hFcVJCLWwwVUx2d05QdXI2X3JfVEtZWlFSSGRtd3dJSlR5VHJIVERSc3VoZGgyRDlNNFdNczFTUG",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTk8zMHJUSWhvQVZ2OVRfN3E5TTBYWWQyWWdLcWg5SEJJSWpoNUR0MjdqQkZGd2hFcVJCLWwwVUx2d05QdXI2X3JfVEtZWlFSSGRtd3dJSlR5VHJIVERSc3VoZGgyRDlNNFdNczFTUGQ0eEVIdHlfZmlJbWZ6NW02NUhmOUpTMWVzVVVjczBUMjdvaE9QSlhwZklIdGdWUjM5NFI3ekwzQkx6YjNJaXVLQmNQaDFKVEJ2VmFrMWFmTXBTaWYz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-05-09-002",
+    "date": "2026-05-09",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "International Paper stock (US4601461035): Packaging giant posts strong Q4 revenue growth and eyes ne - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbjNkaVNIMmRSM09KNC1kSlhsOHdjcFlrYjRCeHVIT2d1WmdHWGM4OFVIcmU5b1JwNndVVVdNcGMtX21KTlNfNFdORi1VT25iaDRSbnZSR3dlT29IZUYzVzVTODJGbXYzOExObW9mbV",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbjNkaVNIMmRSM09KNC1kSlhsOHdjcFlrYjRCeHVIT2d1WmdHWGM4OFVIcmU5b1JwNndVVVdNcGMtX21KTlNfNFdORi1VT25iaDRSbnZSR3dlT29IZUYzVzVTODJGbXYzOExObW9mbVJKSG9FS3RUV0NaVTVQVThYOEpUYWZQTDB1aFUzd2lXRmlGZGtuZ1VjR3Z3VU1zMzUtd2NlUE9fVi1mREg3aGNKeTNNVEQ1UVYtVlNNcHVucGVjQkNoRHBSLQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sealed_air-2026-05-09-003",
+    "date": "2026-05-09",
+    "companies": [
+      "sealed_air"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Sealed Air Corp. stock (US81211K1007): Packaging giant faces margin pressure amid inflation and dema - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOc0U1ZGU5M2VyRGhERV9CVGhSVW9ORk44UjVNQnhzbzJoU0NwUzZ2NnhoQ1l3R2x3RGd1d3ZjQ0FZVnlqbVpGeTlvYmc4T1hTX0NpM0d4dy1kNE0tVFJXLWY3bzlPMHNGMnVXeXdGcz",
+    "sources": [
+      {
+        "name": "sealed_air",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc0U1ZGU5M2VyRGhERV9CVGhSVW9ORk44UjVNQnhzbzJoU0NwUzZ2NnhoQ1l3R2x3RGd1d3ZjQ0FZVnlqbVpGeTlvYmc4T1hTX0NpM0d4dy1kNE0tVFJXLWY3bzlPMHNGMnVXeXdGczBlOUlzd2w1R2RhN2VMSUw0UnV1MmZmSU4xZXVQZkZNRzV2YW1nUGhfcV9laDJIYnBsa0tjWEZNdWQxTHBod2M2SFNqNkN4clc5UEt3X280RQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-09-004",
+    "date": "2026-05-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The Navigator Company stock (PTNVG0AE0000): Paper and packaging group reports latest results and out - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR3lSUlBlbEE1T28zSzhkN08xMDdESnkzUTR1T0k2QU4yNnpnRndadWRoNWJsQndUR0tld1gtbC1EcnRnS3YtTkZla0ZOWVd6RHhJbHVlUEI0QWFWemIza1hzVDQ1SGRSazRFaXFfbW",
+    "sources": [
+      {
+        "name": "google_news_packaging",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR3lSUlBlbEE1T28zSzhkN08xMDdESnkzUTR1T0k2QU4yNnpnRndadWRoNWJsQndUR0tld1gtbC1EcnRnS3YtTkZla0ZOWVd6RHhJbHVlUEI0QWFWemIza1hzVDQ1SGRSazRFaXFfbWVkUk5kTWh4ZzBtbkxhTEtIZHo0dndZTzZHY2tGa2o5MzFhQVlCQVBveDBsUEYxbWdkenJScjhScVhkeWJyc1Vvd2czcUxMT3FieVVEczctYmVyeTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "zoetis-2026-05-08-001",
     "date": "2026-05-08",
     "companies": [
@@ -52,6 +130,120 @@
       {
         "name": "smurfit",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUVtVFJkaFgyNFpTSEt2WjB1QVJEYTY0cHlBMUlvN3B1QmN2YjM2NWgxS183T3dpNWpSaHhhM1hVcVBnOHVFVjMzLWU1Q0M0eGlrRkJ1VTNPSDZ4dFhtRU1rZDlPTVZBY2pESkhWS25qaF9WWVh2QmFzeWNmSWIzSUhCaWZMOHZoQVRzc3Nkb3JWQThFaXdBZG9QWUY5OEtReUV2WmdaWFZtVjlxVUlmaDJB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "zoetis-2026-05-08-004",
+    "date": "2026-05-08",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "vet_spending",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Zoetis cuts outlook as pet owners curb vet spending - The Pig Site",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOMExKOHJ3NDVnUjdkd0xNZmpBWlV4VElGLWpMekljdTFEbktGTnpwRllUTHBIMHdrUWprZ0FwTm9iUHJCMUkyVGF5alAxTWpseFUzR1R6S0lDT2J6MGRwY0pLUjdyaDl6RjZ2MjRvbj",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMExKOHJ3NDVnUjdkd0xNZmpBWlV4VElGLWpMekljdTFEbktGTnpwRllUTHBIMHdrUWprZ0FwTm9iUHJCMUkyVGF5alAxTWpseFUzR1R6S0lDT2J6MGRwY0pLUjdyaDl6RjZ2MjRvbjBDUTNlMUh6ZFRrdTl6SFV4WU5TdGo1RVRuY3pTa2c0S1dSc25TVEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-08-005",
+    "date": "2026-05-08",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "ZTS Q1 Deep Dive: Guidance Cut as Competition and Consumer Headwinds Weigh on Performance - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZUFmdUVYeTQ1eFhKdldUQTEyOEllRVdlU0hCcG8wMzNna0p3eDJRMWtwSjBzaENZTnBEQTRrbHZaaEdwUWVCOHlFUVRReHJJVGlwLV9NVEF5aENTLWpuNnZfVWc4M0Znd19nZDJaaU",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZUFmdUVYeTQ1eFhKdldUQTEyOEllRVdlU0hCcG8wMzNna0p3eDJRMWtwSjBzaENZTnBEQTRrbHZaaEdwUWVCOHlFUVRReHJJVGlwLV9NVEF5aENTLWpuNnZfVWc4M0Znd19nZDJaaUN2QUZGVi00Y3lTdXFYQU9pYnZUSVJCVHFhUElzV284dlNacWViZzliQnB3TVYtY3U0NU1PWHlYYTFDcTJVbVE4aVlRNnkydWhzTWluWS04WC1aQ3RDUFJ3THVId1J2aXhwLUtpWkozS0ktU2R4ZGJBbXlGUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sealed_air-2026-05-08-006",
+    "date": "2026-05-08",
+    "companies": [
+      "sealed_air"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Interpack 2026 live: Sealed Air’s vacuum pack solutions address market and regulatory pressures - Packaging Insights",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNbC02UHRac01maVJUS0wyUWlVOTR5MHg1NmV3a3FidmlqN0ctOUFERXprd2M2dUlSLUNGaHBvSloyaEN2eHdCenoxTHRtR0c3SmMyMlJuRV9YeHZLZ1hsZ2ZReFhMNDZGRGNJWHNIMl",
+    "sources": [
+      {
+        "name": "sealed_air",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbC02UHRac01maVJUS0wyUWlVOTR5MHg1NmV3a3FidmlqN0ctOUFERXprd2M2dUlSLUNGaHBvSloyaEN2eHdCenoxTHRtR0c3SmMyMlJuRV9YeHZLZ1hsZ2ZReFhMNDZGRGNJWHNIMlEzY0lWbjlic0g5b1Vib0xlMDJCTzJ6QUZWY0hBSjNlZzdJSksxNm5WcWUtcDI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-05-08-007",
+    "date": "2026-05-08",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Smurfit Westrock considers closure of UK paper mill - Printweek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNTm1ZLUtxMUFVTDNwOV9FY1h6VUtuQURQN1Z4alpXNVE2elMxTjJUS2RjbkZtT2VCTnVoR0JXa3ZRMlZSTTZwMWhjYXp2ZGlSa3pEQ2JlTjBvZUQ2eF9oSVlBRTJOMmZzOXRnTlV2d1",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTm1ZLUtxMUFVTDNwOV9FY1h6VUtuQURQN1Z4alpXNVE2elMxTjJUS2RjbkZtT2VCTnVoR0JXa3ZRMlZSTTZwMWhjYXp2ZGlSa3pEQ2JlTjBvZUQ2eF9oSVlBRTJOMmZzOXRnTlV2d1dHN2IwbFBVY3RYMjMzdGJiQTJaTXdPOHp2NU9qMENlWU9GVXRt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "crown-2026-05-08-008",
+    "date": "2026-05-08",
+    "companies": [
+      "crown"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Stocks making big moves this week: Comfort Systems, Customers Bancorp, Sprouts, Titan International, and Crown Holdings - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVll6bEhfTUV2OWhKcktUN3hjbXQwU3VxWWVUNl8yLVRYZzJXZlU2Qy1LR3BKU3Y2UTA4VmpqcEZCZWlhSVFFRS1jNU9uMk04eTVDLVhBQmVyUm5pOXJsbTRYTjZzQWxuX0EtRmJEUV",
+    "sources": [
+      {
+        "name": "crown",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVll6bEhfTUV2OWhKcktUN3hjbXQwU3VxWWVUNl8yLVRYZzJXZlU2Qy1LR3BKU3Y2UTA4VmpqcEZCZWlhSVFFRS1jNU9uMk04eTVDLVhBQmVyUm5pOXJsbTRYTjZzQWxuX0EtRmJEUVNsUW5HUHdUTkhwOGstQVQtSHl6WFVzWm9PNlB1dUlwZFkwMjU4eWRqcXAyTHlKMEsxNWY5anB4LXU3N3dWNTlmcjdTblJQT285VEN4Yno3ZnNkUFdWS24xQUhfNjNqUHBmek9OMU9GTzRtQ0NmMV9NM2YxOXVsOTRTLU1PWlVDYjFURDlLUnRXY0o0WDI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-08-009",
+    "date": "2026-05-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Republic Services beats headwinds to deliver growth in Q1",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/JL41yvHpK7JUhoZ5p5rUp_498mrU-8Ar-2qJYaLcokE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UcnVja182LmpwZw==.webp\"/></div></figu",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/republic-services-financial-growth-earnings-q1-2026/819689/",
         "type": "rss"
       }
     ]
@@ -602,6 +794,102 @@
       {
         "name": "packaging_dive",
         "url": "https://www.packagingdive.com/news/smurfit-westrock-pleasant-prairie-wisconsin-corrugated-box-superplant-tour/819538/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-029",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Fluffy's Drugmaker Crashes; Slashed Guide Is Still A 'Heavy Lift' - Investor's Business Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkNpd0xkSmswYl9ka2JubXB6R09FajM2V3dLMkR3NVNkaUdyMjJ6dFQ3ZUthQ3E2TlJjUXlzbEQtd2l4YWRST2J2cDY1bHJzdXRTOTllalJfTno0bTUxSWpSbUFTYUdPbGwxbXhUSG",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkNpd0xkSmswYl9ka2JubXB6R09FajM2V3dLMkR3NVNkaUdyMjJ6dFQ3ZUthQ3E2TlJjUXlzbEQtd2l4YWRST2J2cDY1bHJzdXRTOTllalJfTno0bTUxSWpSbUFTYUdPbGwxbXhUSGpiaWxNX0cwLUdGeGdBSk5HNUJxT0EwVTFSYmRhMUZXNDF4Z0JrMmNYV1RVR2ctb1hYdmJfM3Jib1BGaE9QNHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "zoetis-2026-05-07-030",
+    "date": "2026-05-07",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Zoetis stock falls after Q1 2026 earnings miss (ZTS:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNc3VOV1JwZXJwQkRROTVXTWZtemViclF1eW53N0dFamRHUHQxTEM3cUc4V2w5ZHd2NlVDZFBCX0kzclVKMWV2T0x1WWR6U3FJQWk5d19va1NqSFp1ZFc4TkFDZy1XZFRzV3FHOV9wdG",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc3VOV1JwZXJwQkRROTVXTWZtemViclF1eW53N0dFamRHUHQxTEM3cUc4V2w5ZHd2NlVDZFBCX0kzclVKMWV2T0x1WWR6U3FJQWk5d19va1NqSFp1ZFc4TkFDZy1XZFRzV3FHOV9wdGllSVNtYnNIZ0M5a0ZZM2gtVVpObXR3Wk9YVVI4bQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "zoetis-2026-05-07-031",
+    "date": "2026-05-07",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why Zoetis Shares Plummeted Today - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNNjVKVFh6T2M1Tmh0Yi1pbTBoLUFIempWQ2VZUXRRRks5ZlJaUDZKWEJiQk1MQ1RWeUxmR1o5ZzVIakZkcTNNaDNmNXd2LS04R3RkSnh6UkFCTU1tR1FXUDNGeHlHa0p0SVVQNHdDWX",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNjVKVFh6T2M1Tmh0Yi1pbTBoLUFIempWQ2VZUXRRRks5ZlJaUDZKWEJiQk1MQ1RWeUxmR1o5ZzVIakZkcTNNaDNmNXd2LS04R3RkSnh6UkFCTU1tR1FXUDNGeHlHa0p0SVVQNHdDWXR5YUhRN3gzNmYwMFRKeWloWktn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-032",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Best Growth Stocks to Buy for May 7th - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQWkV3Sk1tcDZHRG1pN0dMN2E0ZUhzSFdYLXFUeElfU3B0NnlLZFdZQVJEdU10Rm1iZ2RyOVlnbUJaX1hBZWhXRFRpd1pScE01d2l0Ui15czQ3MVhhVmNqbzlLREZ5cktzTkg5VVR1b3",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWkV3Sk1tcDZHRG1pN0dMN2E0ZUhzSFdYLXFUeElfU3B0NnlLZFdZQVJEdU10Rm1iZ2RyOVlnbUJaX1hBZWhXRFRpd1pScE01d2l0Ui15czQ3MVhhVmNqbzlLREZ5cktzTkg5VVR1b3MwN1NEZWFhWWdsdllYSVdVVg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-05-07-033",
+    "date": "2026-05-07",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "5 Must-Read Analyst Questions From International Paper’s Q1 Earnings Call - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPWDFnNlR0Y3FoeDByaVF0UEFpbXZmZERQa1puYllfaXVPVlpRSk5rWVFlT3Y4ZGJ2YnZkUV81ZXc5UmFGZzBJVi1abWF4c3N2T1VuZFphUzg1S3BCdzM2SGtHcURaUGc3a2tKOGV3Um",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWDFnNlR0Y3FoeDByaVF0UEFpbXZmZERQa1puYllfaXVPVlpRSk5rWVFlT3Y4ZGJ2YnZkUV81ZXc5UmFGZzBJVi1abWF4c3N2T1VuZFphUzg1S3BCdzM2SGtHcURaUGc3a2tKOGV3UmI5ajBQRzlKUW1MbS1vQkJwR0pEMnBHcU1GOHdmaHpUMFdPVjNhbm9LN1U0OWdoeTV6TkozRzB3dzZhOU9lTWZiRzA4a24zb1NXeHlmbjA2a1NHMGpZVnhfdTBQRUQ?oc=5",
         "type": "rss"
       }
     ]
