@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-09T09:14:50.191146Z",
+  "updated_at": "2026-05-10T09:25:53.165972Z",
   "quarter": "2025-12-31, 2026-01-31, 2026-03-31",
   "companies": [
     {
@@ -91,14 +91,14 @@
       "name": "禮來動保",
       "ticker": "ELAN",
       "currency": "USD",
-      "ar": 873000000,
-      "ar_prev": 894000000,
-      "ar_qoq": "-2%",
-      "inventory": 1737000000,
-      "inv_prev": 1708000000,
-      "inv_qoq": "+2%",
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "ar": 1084000000,
+      "ar_prev": 873000000,
+      "ar_qoq": "+24%",
+      "inventory": 1717000000,
+      "inv_prev": 1737000000,
+      "inv_qoq": "-1%",
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "freshpet",

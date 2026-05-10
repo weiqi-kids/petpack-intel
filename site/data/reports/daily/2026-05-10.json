@@ -1,0 +1,96 @@
+{
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10T09:25:56.357005Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intl_paper-2026-05-10-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper (IP) Valuation Check As Q1 2026 Profit Returns But Cost And Demand Headwinds Persist - simplywall.st",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTWpUM19kNkt0em5GcV9SRjRic2N0WElGNEhsVGUwWEEzTDVBcTNtR0dKdGpPRFFQR201a0VDTlZSSXp1ay1IRGU4MGJwZ3Q2MjVmb3B1N2tYcUprd2VSQ2JxQm5rOXNhcnlGa05Qeno1VFV4YVdIZ21oTU1hZlZDV0tFSjRVQzRuM29LbzFEWHRxdjljLS0xaWtPcV9FZXpkV0F6T2tGQU9ac05JUzhqWnFacjU2bGtpX3p1V281R0RuWi1tb2M5T2IxMXA5UlVY0gHWAUFVX3lxTE1aNHBHS0VUYnA3ZTc1M0dGZ3VWQk9URC1TLUFER3dfbDhtVU81NlBEUEs1aFpMSFVRcy1pNXUzR3NFSmZhdXhYUFd5XzR4SzcyVkNBa2RuWTZBTW9PTmg3MHM1X1VpVlN1dFoyXzBQSDFGRlkyN0syQWctYlJmTkdyRHNneWlXYkpabXpPanYzNUw5TldBQnZTTmFiOG9RUl9CSG5FTmRya25qanZpYi00MTM2VTNSR05xM3hsT3Z4VERyQW9pTTFYek1EcU4zdF9kVUdXeHc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 168,
+    "too_old": 121,
+    "gate1_blocked": 13,
+    "gate2_blocked": 20,
+    "passed": 8,
+    "pass_rate": "4.9%",
+    "gate2_block_rate": "12.3%",
+    "gate2_samples": [
+      "Why Zoetis Shares Plummeted Today - AOL.com",
+      "Zoetis Stock Plunge: The Pet-Care Slowdown Wall Street Can’t Ignore - TechStock²",
+      "Here’s Why IDEXX Laboratories Stock Could Deliver Around 11% Annual Returns Despite a 15% YTD Pullba",
+      "How The Petco Health And Wellness Company (WOOF) Narrative Is Shifting On Mixed 2026 Expectations - ",
+      "Petco Health and Wellness Company, Inc. (NASDAQ:WOOF) Receives Consensus Recommendation of \"Hold\" fr"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為國際紙業相關動態：「International Paper (IP) Valuation Check As Q1 2026 Profi...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "International Paper (IP) Valuation Check As Q1 2026 Profit Returns But Cost A...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "國際紙業為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

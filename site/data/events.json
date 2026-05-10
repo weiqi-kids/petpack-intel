@@ -1,5 +1,25 @@
 [
   {
+    "id": "intl_paper-2026-05-10-001",
+    "date": "2026-05-10",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Paper (IP) Valuation Check As Q1 2026 Profit Returns But Cost And Demand Headwinds Persist - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTWpUM19kNkt0em5GcV9SRjRic2N0WElGNEhsVGUwWEEzTDVBcTNtR0dKdGpPRFFQR201a0VDTlZSSXp1ay1IRGU4MGJwZ3Q2MjVmb3B1N2tYcUprd2VSQ2JxQm5rOXNhcnlGa05Qen",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTWpUM19kNkt0em5GcV9SRjRic2N0WElGNEhsVGUwWEEzTDVBcTNtR0dKdGpPRFFQR201a0VDTlZSSXp1ay1IRGU4MGJwZ3Q2MjVmb3B1N2tYcUprd2VSQ2JxQm5rOXNhcnlGa05Qeno1VFV4YVdIZ21oTU1hZlZDV0tFSjRVQzRuM29LbzFEWHRxdjljLS0xaWtPcV9FZXpkV0F6T2tGQU9ac05JUzhqWnFacjU2bGtpX3p1V281R0RuWi1tb2M5T2IxMXA5UlVY0gHWAUFVX3lxTE1aNHBHS0VUYnA3ZTc1M0dGZ3VWQk9URC1TLUFER3dfbDhtVU81NlBEUEs1aFpMSFVRcy1pNXUzR3NFSmZhdXhYUFd5XzR4SzcyVkNBa2RuWTZBTW9PTmg3MHM1X1VpVlN1dFoyXzBQSDFGRlkyN0syQWctYlJmTkdyRHNneWlXYkpabXpPanYzNUw5TldBQnZTTmFiOG9RUl9CSG5FTmRya25qanZpYi00MTM2VTNSR05xM3hsT3Z4VERyQW9pTTFYek1EcU4zdF9kVUdXeHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "idexx-2026-05-09-001",
     "date": "2026-05-09",
     "companies": [
@@ -73,6 +93,65 @@
       {
         "name": "google_news_packaging",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR3lSUlBlbEE1T28zSzhkN08xMDdESnkzUTR1T0k2QU4yNnpnRndadWRoNWJsQndUR0tld1gtbC1EcnRnS3YtTkZla0ZOWVd6RHhJbHVlUEI0QWFWemIza1hzVDQ1SGRSazRFaXFfbWVkUk5kTWh4ZzBtbkxhTEtIZHo0dndZTzZHY2tGa2o5MzFhQVlCQVBveDBsUEYxbWdkenJScjhScVhkeWJyc1Vvd2czcUxMT3FieVVEczctYmVyeTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "zoetis-2026-05-09-005",
+    "date": "2026-05-09",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Zoetis: Significant Patience Required (NYSE:ZTS) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNUEZwUlo1NHQ2NjNCd1N6MTNsWVU4NlQ1WjM3UnFlaThnRFZuZy1qNXFESy1ycmxFblVnVDc2RzZPZXhFR010bWNNRzM4dlFISUFyQ0tLRWJQeWtyWmhqSkJUdC1iUXQ3OW52NVVRdE",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUEZwUlo1NHQ2NjNCd1N6MTNsWVU4NlQ1WjM3UnFlaThnRFZuZy1qNXFESy1ycmxFblVnVDc2RzZPZXhFR010bWNNRzM4dlFISUFyQ0tLRWJQeWtyWmhqSkJUdC1iUXQ3OW52NVVRdEFkU1M5MFkzeVJWcXJENkNuQUs0RQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "petco-2026-05-09-006",
+    "date": "2026-05-09",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Petco Health and Wellness (NASDAQ:WOOF) Upgraded to Buy at Wall Street Zen - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPamhFQnJtT29pRlQ1c3RSdXMxX2hUUjlBemtNbm1RMWFfX05JQllITmdRS1oxOWJLVndGZV9NakdxaldIWFc0U21HUHlTSHFHeTFSUDdNSy02c3d0QVVMdTdwNUJIMFVmcS05Zzc3aG",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPamhFQnJtT29pRlQ1c3RSdXMxX2hUUjlBemtNbm1RMWFfX05JQllITmdRS1oxOWJLVndGZV9NakdxaldIWFc0U21HUHlTSHFHeTFSUDdNSy02c3d0QVVMdTdwNUJIMFVmcS05Zzc3aGF3UW5vWldGWUQ5ZEpKZ3FjVnhKMks4Vy1qdHY0Qy1Rd0dTaXB2TlBaajg5MmttTmtqak5jMWFKNVh4by1PczRnSFhlUjlfRHo3b3pfS3phbmZkSmM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-09-007",
+    "date": "2026-05-09",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "PVC Container Market Forecast to 2035: Growth Supported by Industrial and Healthcare Packaging Needs - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQm5iRV9qcHVsdC1QSWJGZ25tZ2FKQUhmR1c0RXcxWl9KNUxrd0M0QmFsbktYUzM5eFhTaGtnY2F0TFFxMU5QZjlIX0V6b2F6Z3BzUlZNZmRqaEZnWmNnQ2JhRVdab3JjMTdPcWxncE",
+    "sources": [
+      {
+        "name": "berry",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQm5iRV9qcHVsdC1QSWJGZ25tZ2FKQUhmR1c0RXcxWl9KNUxrd0M0QmFsbktYUzM5eFhTaGtnY2F0TFFxMU5QZjlIX0V6b2F6Z3BzUlZNZmRqaEZnWmNnQ2JhRVdab3JjMTdPcWxncEVqM0EwYzZOVThNeDdUa1BWTW9LNElON0tBOXN5T1NBdDZjWGZpbkx4UFNYbEtIQldMREFNMzhOTVF1Zm1KWlRUVVU3SEVXQzZ4N1dfNVNKemZ5ZG9PSVAyNVZZNlBaYVoyZWlzalNhZE1xNWtjRWpPTHJKdjA?oc=5",
         "type": "rss"
       }
     ]
@@ -244,6 +323,27 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/republic-services-financial-growth-earnings-q1-2026/819689/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "zoetis-2026-05-08-010",
+    "date": "2026-05-08",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "vet_spending",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Zoetis cuts outlook as pet owners curb vet spending - The Poultry Site",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOdmd5T0VCdGtVam5kV1lPYzVZczhwX3VGZ3V4UWplRUY0N3BseGZZb1NuaVJQN0VYeXU0N2hUTXVneVU4RFNkV0RKelJNcjU3YlNJWTlmOTlreVZmVmFDV25HTS1oN3BOcFBCTE5IVG",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdmd5T0VCdGtVam5kV1lPYzVZczhwX3VGZ3V4UWplRUY0N3BseGZZb1NuaVJQN0VYeXU0N2hUTXVneVU4RFNkV0RKelJNcjU3YlNJWTlmOTlreVZmVmFDV25HTS1oN3BOcFBCTE5IVG5sVWpPbUd4aERQNDJ0V0wyNnJTRUpnVXk5Nm5wVm1uNDlPUi1qVVgwZGpVSQ?oc=5",
         "type": "rss"
       }
     ]
@@ -895,6 +995,24 @@
     ]
   },
   {
+    "id": "unknown-2026-05-07-034",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Best Growth Stocks to Buy for May 7th - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPRGNEdGpsT01JSVotaXRaOFhQb3J2cUNvT3ZLX1FNdVluaU1URlFIQmdQX2R4OF84Y09SZ09pRHNTazZiY3ZhM3pEZUEtSHYwb3NVU0toc2tNWmQ2eFFfcmZoSlgzanBmYXFMZjRwWX",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRGNEdGpsT01JSVotaXRaOFhQb3J2cUNvT3ZLX1FNdVluaU1URlFIQmdQX2R4OF84Y09SZ09pRHNTazZiY3ZhM3pEZUEtSHYwb3NVU0toc2tNWmQ2eFFfcmZoSlgzanBmYXFMZjRwWXhpWDJ4ZDFUUmU5VE9NdXBZLQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "zoetis-2026-05-06-001",
     "date": "2026-05-06",
     "companies": [
@@ -1086,6 +1204,46 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/clean-harbors-raises-guidance-record-high-q1-revenue/819463/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-05-06-011",
+    "date": "2026-05-06",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Paper Publishes 2025 Sustainability Report Highlighting ESG Progress - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQelU0TEdxa3ZWUE9KMkpudDdORmNnZlRMMU9ZNTE4OGtqYk5HSmUzUXFGUGJON1BIMGZkeGxiMllmSnNPMnlMLVU3RmYxRndyU2hmaGdfeEd0VEhJdzFiVEhhNVlqTUNoUHQ4Wl91bU",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQelU0TEdxa3ZWUE9KMkpudDdORmNnZlRMMU9ZNTE4OGtqYk5HSmUzUXFGUGJON1BIMGZkeGxiMllmSnNPMnlMLVU3RmYxRndyU2hmaGdfeEd0VEhJdzFiVEhhNVlqTUNoUHQ4Wl91bUtUblZ6MUVWSUx0cThzZUdNXzFNTG5vX25JSlBtMWJVQUJ5MGQ3dHpuLTZRcGR0c2tRczZCWmlVZk40N3gtTUFzYmFqZURoSm5SMW5kOXRkRGZudmY3dnRBUXRKWkctbTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-05-06-012",
+    "date": "2026-05-06",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Smurfit WestRock (HAM:N4U) Short-term investments - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhS0JZQUtnaHBvVmFwMTVCQ2dpVnBfVTBjamN5Y0VhZTVLeUNEd1IyVTJxV2FUdGRDWnlWTzR6c2tYTUh6M0tRRnVvcHRJaXdwcnMwQkpmVXlONVRVbXB0MFVsU1JmdTg?oc=5\" targ",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhS0JZQUtnaHBvVmFwMTVCQ2dpVnBfVTBjamN5Y0VhZTVLeUNEd1IyVTJxV2FUdGRDWnlWTzR6c2tYTUh6M0tRRnVvcHRJaXdwcnMwQkpmVXlONVRVbXB0MFVsU1JmdTg?oc=5",
         "type": "rss"
       }
     ]
