@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 151,
+  "no_date": 0,
+  "too_old": 126,
+  "gate1_fail": 12,
+  "gate2_fail": 22,
+  "passed": 19,
+  "gate2_samples": [
+    "Zoetis Stock Plunge: The Pet-Care Slowdown Wall Street Can’t Ignore - TechStock²",
+    "Why Zoetis Shares Plummeted Today - AOL.com",
+    "Here’s Why IDEXX Laboratories Stock Could Deliver Around 11% Annual Returns Despite a 15% YTD Pullba",
+    "Best Growth Stocks to Buy for May 12th - Yahoo Finance",
+    "International Paper Co. stock underperforms Monday when compared to competitors - MarketWatch"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "date": "2026-05-12",
+  "total_events": 5,
+  "by_company": {
+    "elanco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "zoetis": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pkg": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "amcor": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "smurfit": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "crown": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

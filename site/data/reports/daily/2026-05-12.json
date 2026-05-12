@@ -1,0 +1,199 @@
+{
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T10:28:23.612036Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pkg-2026-05-12-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Winners And Losers Of Q1: Packaging Corporation of America (NYSE:PKG) Vs The Rest Of The Industrial Packaging Stocks - TradingView",
+      "companies": [
+        "pkg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObkV6SFd4VDNxZ2FfSkZSNUhQenVNSDQ2OG8zU05fTXZrUmJNa195SUo1dmxuUnkweHBkNEpKMUxEanA1MWhEZFJJSmxGZXRLRWFnT1ZRd01qS3dSeXYtVXNTWnZweEpZZW9SSmxzcjJLNXdUVUhGVkh1MmVMSy1KQVBrZWhNdE1HeFJWbkhhVEd6LWhrdmlGblhkTzd5dmJJRlJoR3JVdEpPRUpublIxNmVOSllwMWtIRld0SG9YQTh4VGpxU0tLSG04Um5Tc1liRUtWOExRYUtKUktJYVhGRmg2bFFZTlg4Ulhqa0hHdklGQUxFYXd2b2JmbTI4S3N4WUgwaA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "amcor-2026-05-12-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Amcor continues China expansion with innovation lab accreditation - Packaging Insights",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOblpRUkRaU3E2TW90X0ZtbGlrUXlOZzZsZGx0ZlgwVVBGdjRuNFZKVmNOLVlSX204Tk13ZEhKd2VxQ2RFUWZ4TVlLa1AtVVZmZENyX2JNSlJ0Ri15TFY5TWJOR1Z3cjFHRzFCN1YyWXdMb1lZX3ZmaEJiTjdQNlJ2RmtHWlQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "elanco-2026-05-12-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Pet Wellness Products Market Touching New Development Level | Zoetis, Elanco, Virbac - openPR.com",
+      "companies": [
+        "elanco",
+        "zoetis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT2k3RDBfaGFjS29uTVhCQTJObWJveVFZcnNZR09NQV9yaUtiUW1ENy1waDgtaU9SU2hzd1hDTllqUzdDcjFteGxwWHY2MklfSVd0SS1vUTJCc3hSU3RXcEZCMmVVTWktb0wySTVTMi1iQTlkM29IdGxNcERqSFd3dzdTeEktV3JTbWk2T3pTaVRfMzc4azVvcjRoSQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "smurfit-2026-05-12-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Smurfit Westrock : launches new Better Planet targets as it reports key 2025 sustainability achievements - marketscreener.com",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMklsMV9HcGZLUksyN2taLV9kZllnQkRWdW9JQVNJNWc1d243WThTaTRaRVdkVWE3UUpYMi1IOG03bzBQczZ0UUlNVGtUbnNWZE1rS1dEQnNOeHcybUwzdFVWd3VIUzZDdk5TVUtYSGw4ekpEU0twM3VvR3N2aDRjY1pVbnJFVWczc2c5X3NBcU5ZN1Npdi1nNmFacVVubXFycUVZVlVodHVydmlvcXlaUmEyQzJzNzNsNy05eHBQa3daMFFPODM4M1BmLVZPV2lLYy1jOERjdlB2U1BVV3BXbzdFd0wyUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "crown-2026-05-12-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Precision Trading with Crown Holdings Inc. (CCK) Risk Zones - Stock Traders Daily",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeVp0NC1hNjNkS3dBZEFoY0xvSFVUNXI2WHJiTGN3c0I5WG0zWUJUM1dwampFNjNFLXlvM3loMlMxV0RBQkhURnU1bGxReHJ1czhWUnpsZnVVRmRLdzJ6WjBNTDhtZkNvZWZGZHNRaEV0a0VIQm1SSXd4MXVNSnV4eHE3UExBdTZUbnJHWWtTQ09fRE1Wb2RISURiZTJJWC1xTTJrcWVEUzdhb2NIVmJEWlZJSGJnRnc0a1pNMGtHeVpfbURJRVJvUEI3YnpuTnhhQnNN?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "elanco",
+        "count": 1
+      },
+      {
+        "id": "zoetis",
+        "count": 1
+      },
+      {
+        "id": "pkg",
+        "count": 1
+      },
+      {
+        "id": "amcor",
+        "count": 1
+      },
+      {
+        "id": "smurfit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 151,
+    "too_old": 126,
+    "gate1_blocked": 12,
+    "gate2_blocked": 22,
+    "passed": 19,
+    "pass_rate": "10.6%",
+    "gate2_block_rate": "12.3%",
+    "gate2_samples": [
+      "Zoetis Stock Plunge: The Pet-Care Slowdown Wall Street Can’t Ignore - TechStock²",
+      "Why Zoetis Shares Plummeted Today - AOL.com",
+      "Here’s Why IDEXX Laboratories Stock Could Deliver Around 11% Annual Returns Despite a 15% YTD Pullba",
+      "Best Growth Stocks to Buy for May 12th - Yahoo Finance",
+      "International Paper Co. stock underperforms Monday when compared to competitors - MarketWatch"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為禮來動保、碩騰、美國包裝相關動態：「Winners And Losers Of Q1: Packaging Corporation of Americ...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Winners And Losers Of Q1: Packaging Corporation of America (NYSE:PKG) Vs The ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Amcor continues China expansion with innovation lab accreditation - Packaging...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
