@@ -1,0 +1,126 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T10:18:55.415462Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sealed_air-2026-05-13-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Metalized Flexible Packaging Market Is Going to Boom | Amcor , Sealed Air, Constantia Flexibles - openPR.com",
+      "companies": [
+        "sealed_air",
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRXJJZlBUOHBxaDhld19ObWxCWkpKY1VBWHhxTXU4cElmRmxYZUlNZVVZTGFuRzY4ME53ajkyRjZnU3I0Q3Z5aEFoRDM0YUZYa2VsR2xlZjA5NFpzakFMZDZyajQwQndBRmlzbkFReG95UUpRSndwei1FTDlyaUltU0ZPcjc4ZjRxNk1xMXBDLXdZLVhndHBUYVRB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "smurfit-2026-05-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Smurfit Westrock updates environmental and social targets under ‘Better Planet’ programme - Sustainability Online",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUmx3bmZRVHhEWkpTbXk4dUd4QXNYbl9qUVdodEZ0UE4xeXR1SXAwSnZseEFkRFhIVUNNOUVFWE9MbG5vb0RjRDRfbWJRSE05eEZ0cUhJV3JJRFNoMkxWWFhab3RhNGZJdHhlTTJfc2JOYnJ5VWtrUktmbklDY20wWUgtc0ZEclVVRDVCLWEtMlFDOTdsdlRiMUZ2MUtad1NpTWxTbEgwODRSYTluMlpyVy0yajBDYWlYODFRR2psNTExU2gt?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "sealed_air",
+        "count": 1
+      },
+      {
+        "id": "amcor",
+        "count": 1
+      },
+      {
+        "id": "smurfit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 150,
+    "too_old": 127,
+    "gate1_blocked": 13,
+    "gate2_blocked": 20,
+    "passed": 20,
+    "pass_rate": "11.1%",
+    "gate2_block_rate": "11.1%",
+    "gate2_samples": [
+      "Zoetis Stock Plunge: The Pet-Care Slowdown Wall Street Can’t Ignore - TechStock²",
+      "Why Zoetis Shares Plummeted Today - AOL.com",
+      "Here’s Why IDEXX Laboratories Stock Could Deliver Around 11% Annual Returns Despite a 15% YTD Pullba",
+      "Best Growth Stocks to Buy for May 12th - Yahoo Finance",
+      "International Paper Co. stock underperforms Monday when compared to competitors - MarketWatch"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為希悅爾、安姆科、斯莫菲特相關動態：「Metalized Flexible Packaging Market Is Going to Boom | Am...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Metalized Flexible Packaging Market Is Going to Boom | Amcor , Sealed Air, Co...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Smurfit Westrock updates environmental and social targets under ‘Better Plane...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
