@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 158,
+  "no_date": 0,
+  "too_old": 127,
+  "gate1_fail": 16,
+  "gate2_fail": 15,
+  "passed": 14,
+  "gate2_samples": [
+    "Zoetis Stock Plunge: The Pet-Care Slowdown Wall Street Can’t Ignore - TechStock²",
+    "Why Zoetis Shares Plummeted Today - AOL.com",
+    "IDEXX Laboratories stock (US45168D1046): Shares drop 4.7% to $533.92 - AD HOC NEWS",
+    "Here’s Why IDEXX Laboratories Stock Could Deliver Around 11% Annual Returns Despite a 15% YTD Pullba",
+    "International Paper Co. stock underperforms Monday when compared to competitors - MarketWatch"
+  ]
+}
