@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 165,
+  "no_date": 0,
+  "too_old": 129,
+  "gate1_fail": 18,
+  "gate2_fail": 11,
+  "passed": 7,
+  "gate2_samples": [
+    "Why S&P 500 Attention Is Turning Toward Zoetis Growth? - Kalkine Media",
+    "IDEXX Laboratories stock (US45168D1046): Shares drop 4.7% to $533.92 - AD HOC NEWS",
+    "MSN Money - MSN",
+    "International Paper Co (IP) Shares Fall 4.2% -- What GF Score of 69 Tells Investors - GuruFocus",
+    "Sealed Air releases compact cushioning system for paper-based protective pads - Packaging Insights"
+  ]
+}

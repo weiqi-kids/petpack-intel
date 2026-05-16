@@ -1,5 +1,23 @@
 [
   {
+    "id": "petco-2026-05-16-001",
+    "date": "2026-05-16",
+    "companies": [
+      "petco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "WOOF | Petco Health and Wellness Executive Compensation - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5sQUh1V0VCZmU1MnREc0QwSk1JcWQ0ZmZlcng5R1k4Y1ZoYzlZRkVtN1ZXaHdIUGpJSW9BNW9VdWtZWTVNQ0tBcVpubmtjeElNNWFEaDhlRU5NVUU5ZUNfZThEVUhHQmQ0UjZPb0JDbw",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sQUh1V0VCZmU1MnREc0QwSk1JcWQ0ZmZlcng5R1k4Y1ZoYzlZRkVtN1ZXaHdIUGpJSW9BNW9VdWtZWTVNQ0tBcVpubmtjeElNNWFEaDhlRU5NVUU5ZUNfZThEVUhHQmQ0UjZPb0JDbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "idexx-2026-05-15-001",
     "date": "2026-05-15",
     "companies": [
@@ -35,6 +53,107 @@
       {
         "name": "berry",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcnd5WmdjUUgxa21XOEM0ZmdYMmh6a01JSnBDYzI5TnpicTZzTXdxQzVzY282Y2N0VUMzakxNdUY4Z05tSTFvUDhrZ0poSTljaFVlZ2s2bGNYZUh0bjZWRGp4NGVaUE5MZGgtNVNuUV9qM1BINUNfbUdFTDRqdWYzYmdwamQ1X2tjVEtNcjhTRXdtTFY0a2FQdklUa0dLZjd4djFIS2hyLWM4S0luNVNoT1czVENNUnlyQTYwVXNCZm1HMV9lUnY2UTJ0ZHhwQ3lIeUtiUnFR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "idexx-2026-05-15-003",
+    "date": "2026-05-15",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "vet_spending",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "IDEXX Laboratories stock (US45168D1046): Q1 2025 earnings highlight growth in pet diagnostics - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOaWJwNlIxXzlFLXdxY05veDNVOGdOZVBfcExVVms3Y1RHb2tXd3NVaElKcUhsVGdmVVpYRXlFNTdIVTVRamJxdGxkRzdZN292YzBNaW54bUMwTEl6c2hTaDNZLUwtTXd5VG8xb01rMz",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaWJwNlIxXzlFLXdxY05veDNVOGdOZVBfcExVVms3Y1RHb2tXd3NVaElKcUhsVGdmVVpYRXlFNTdIVTVRamJxdGxkRzdZN292YzBNaW54bUMwTEl6c2hTaDNZLUwtTXd5VG8xb01rMzlGS1NLWkFOc1o3TjBDX0ZjSEdnUUVSeUE3cFZhbmtXNW1vLTI0eTNpLXRkLXdrRnVfdWYya1hZeEtmWnBHR0VHaGpPaTNEU3Fpa1BJSGxtZTcwN0puSUJOS25R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-05-15-004",
+    "date": "2026-05-15",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "T. Rowe Price (IP) holds 49.2M shares, 9.3% stake reported - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYURGZ01tVTliYXB0ZDlrcVNSUHY1LUUtOHVWNk1BNVFGNVNYLUhjeE9QU2RWR2tLUDZHNlc0dm4zRG1GU282d3NNRlRfTUNoWTZRQXFmTV8wTC04OHlDbmtkQ3hnVExuOURLN2tkZD",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYURGZ01tVTliYXB0ZDlrcVNSUHY1LUUtOHVWNk1BNVFGNVNYLUhjeE9QU2RWR2tLUDZHNlc0dm4zRG1GU282d3NNRlRfTUNoWTZRQXFmTV8wTC04OHlDbmtkQ3hnVExuOURLN2tkZDVBMmIxUE92R0FIa1BaRjRrTWgyTjJ2d09lT2lfV281UGZOaThVUlBwaG85RXV1SDRZZzNreXRyS01OMmNkbnVvaXJuNWRpOF84UlNCNFBLenYtaTNObGpXaA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sealed_air-2026-05-15-005",
+    "date": "2026-05-15",
+    "companies": [
+      "sealed_air"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sealed Air Corp. stock (US81211K1007): Packaging group refocuses after latest earnings - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTXpEMzktUGJqUWVDcFg3NkVTelBUOV9QUU10U3pndEI2N2daWEFaWXhVWVl0ZDdZT0xJX2FoSzBnUExzOXkxMGxvM3JIMGcwSXJaZ2o0b1U0Q0ZNR2FhM2tvekxteGhOd0F3WF9wX0",
+    "sources": [
+      {
+        "name": "sealed_air",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTXpEMzktUGJqUWVDcFg3NkVTelBUOV9QUU10U3pndEI2N2daWEFaWXhVWVl0ZDdZT0xJX2FoSzBnUExzOXkxMGxvM3JIMGcwSXJaZ2o0b1U0Q0ZNR2FhM2tvekxteGhOd0F3WF9wX0lqVDVnTDM5aWlwYXZUR2VCc1Z5Yk5jbmI0U0FHeW9FQUtERk9UUVhjTkpLTmRfQmluOTFWd1NTUUpqMDF5NlVEUVlEZWZ5ZFFEMllMRlI2RUJFeDQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-05-15-006",
+    "date": "2026-05-15",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Smurfit Westrock PLC stock underperforms Friday when compared to competitors - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNTk1Q2J4NVQ2WFVpSFB1WVdHcTZNcktWUHp6U2VUWjV6a3A2cmU1M1ZIUVdrT2pKMndTNmRCbEFkR1pRVEZLZWdidk1fZ3ZjUm11T1JWQ1BuWXpiWlFQRkdxUEJYTTRtMzkwM0tPVD",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNTk1Q2J4NVQ2WFVpSFB1WVdHcTZNcktWUHp6U2VUWjV6a3A2cmU1M1ZIUVdrT2pKMndTNmRCbEFkR1pRVEZLZWdidk1fZ3ZjUm11T1JWQ1BuWXpiWlFQRkdxUEJYTTRtMzkwM0tPVDdGOUw2UzV3bjJkbTFxZHpqTURMMzlYRExZZUMtVDZMZ3NxM1VKVVBYOUxieXJUR3FfcDEybDE4ajZtVkdDUndFSzVqRnN2MUlLeWRBWGkydWNqeGQzU0RtRTR4dW1YTGhpZUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-05-15-007",
+    "date": "2026-05-15",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Smurfit Westrock's Leon Nicholas talks about the big themes affecting retail - Drug Store News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPRFpxQ2ZRU1BFNFRzZnloYXgta2lVOG5wSjZPcm5ldlozMnFZVHZKV2E1SnZpZEdmdXhZTUdtUEVWVmViYVZPT0liYkcyVFNBR1pZZEZDVHpVMVQ3c0h2aDlhdENrY0g1U01veFEtMT",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRFpxQ2ZRU1BFNFRzZnloYXgta2lVOG5wSjZPcm5ldlozMnFZVHZKV2E1SnZpZEdmdXhZTUdtUEVWVmViYVZPT0liYkcyVFNBR1pZZEZDVHpVMVQ3c0h2aDlhdENrY0g1U01veFEtMTd1THRWYTZGVWNGcFF4VzBRbWg4Y0daM3gyTG5kcTNUS3dBVVlOa0ZQSGxWQWdpQQ?oc=5",
         "type": "rss"
       }
     ]
@@ -481,6 +600,26 @@
       {
         "name": "google_news_packaging",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFc0Z29KZTcwOVhvWUhKMWhhMGF3R3Q2SWUxQXlCbF9VaklCWGN4aVRuV0pCeHVOT2hhMFBBV1lQT0szZEtmT2U2U1RJMnAyQWUwXzZHNHpXWFhUd1JyR1JZc1ROUXU4MW91VkdCNkpuLXJkOTBnbUpPSkVsTndOVzdqdzVqMjl2Z1ZIRnZfTlpYNmhtanIxUnZESS1NOE9zZkJpdGQ4QnlNS3dFSUp5bmIzWmpUQzE0Z1lqeXVB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "zoetis-2026-05-14-024",
+    "date": "2026-05-14",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Here is Why Zoetis (ZTS) is One of the Best NYSE Stocks According Analysts - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ1Vtb1Z0enBLa0pqZjJZUnBfZTYybWNXS2VUMG95Q3lMclhfU053ZmY0azFyeTNsRDRZUjZmVzZmOEJjVVJmRGVIYzV2RzVwLTc2cnRCYVNNcFNqd25LMjdEWFphRHhQbE03Tmx2Sl",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ1Vtb1Z0enBLa0pqZjJZUnBfZTYybWNXS2VUMG95Q3lMclhfU053ZmY0azFyeTNsRDRZUjZmVzZmOEJjVVJmRGVIYzV2RzVwLTc2cnRCYVNNcFNqd25LMjdEWFphRHhQbE03Tmx2Slp2Tjl4bi1xbHlGUVNoUlROUTloNmxuSFJsMmpWVm0ySkRmN1pVUmlNQmVVY2VuSGFSenIxNzllYnVLZHpmZ3o3bGx5R2pUMmfSAb8BQVVfeXFMUHhuYURyQ0pxeURBNFJtMjAtdVU3cVlkT3FaV1doaXV2NXJQZDFqRnQzdFBnXzJwSGZCM2JLR0p6X2RIOGtoa29sQ21pNm9fSzBHYnFqWU1Pa3BNTGJPNFhLSXJ4MjdsMzFMUnBnSUNJSGpGMC1TOWp1ZnAxUmwyQ3BFczlaS3FaUDVCanFSOXRQNUZJbnozX2ZaSVhNRzFuenA2d2MwYXdBNU5ZaVpFaWY2b1NkSjgtaUw4a0lHTU0?oc=5",
         "type": "rss"
       }
     ]
