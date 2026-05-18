@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T09:31:27.441411Z",
+  "updated_at": "2026-05-18T11:41:16.366512Z",
   "quarter": "2025-12-31, 2026-01-31, 2026-03-31",
   "companies": [
     {
@@ -35,14 +35,14 @@
       "name": "Central Garden & Pet",
       "ticker": "CENT",
       "currency": "USD",
-      "ar": 357803000,
-      "ar_prev": 325297000,
-      "ar_qoq": "+10%",
-      "inventory": 836270000,
-      "inv_prev": 722106000,
-      "inv_qoq": "+16%",
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "ar": 603152000,
+      "ar_prev": 357803000,
+      "ar_qoq": "+69%",
+      "inventory": 782330000,
+      "inv_prev": 836270000,
+      "inv_qoq": "-6%",
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "cheng_loong",

@@ -1,23 +1,23 @@
 {
   "freshpet": {
-    "earliest": "2015-09-30",
+    "earliest": "2015-07-02",
     "latest": "2026-05-15",
-    "count": 2672
+    "count": 2734
   },
   "zoetis": {
-    "earliest": "2015-09-30",
+    "earliest": "2015-07-02",
     "latest": "2026-05-15",
-    "count": 2672
+    "count": 2734
   },
   "idexx": {
-    "earliest": "2015-09-30",
+    "earliest": "2015-07-02",
     "latest": "2026-05-15",
-    "count": 2672
+    "count": 2734
   },
   "central_pet": {
-    "earliest": "2015-09-30",
+    "earliest": "2015-07-02",
     "latest": "2026-05-15",
-    "count": 2672
+    "count": 2734
   },
   "elanco": {
     "earliest": "2018-09-20",
@@ -32,9 +32,9 @@
     "history_complete": true
   },
   "trupanion": {
-    "earliest": "2015-09-30",
+    "earliest": "2015-07-02",
     "latest": "2026-05-15",
-    "count": 2672
+    "count": 2734
   },
   "petco": {
     "earliest": "2021-01-14",
@@ -43,58 +43,58 @@
     "history_complete": true
   },
   "intl_paper": {
-    "earliest": "2015-09-30",
+    "earliest": "2015-07-02",
     "latest": "2026-05-15",
-    "count": 2672
+    "count": 2734
   },
   "ball": {
-    "earliest": "2015-09-30",
+    "earliest": "2015-07-02",
     "latest": "2026-05-15",
-    "count": 2672
+    "count": 2734
   },
   "amcor": {
-    "earliest": "2015-09-30",
+    "earliest": "2015-07-02",
     "latest": "2026-05-15",
-    "count": 2672
+    "count": 2734
   },
   "sealed_air": {
-    "earliest": "2015-09-30",
+    "earliest": "2015-07-02",
     "latest": "2026-04-09",
-    "count": 2646
+    "count": 2708
   },
   "smurfit": {
-    "earliest": "2015-09-30",
+    "earliest": "2015-07-02",
     "latest": "2026-05-15",
-    "count": 2672
+    "count": 2734
   },
   "pkg": {
-    "earliest": "2015-09-30",
+    "earliest": "2015-07-02",
     "latest": "2026-05-15",
-    "count": 2672
+    "count": 2734
   },
   "cheng_loong": {
-    "earliest": "2015-09-29",
-    "latest": "2026-05-15",
-    "count": 2582
+    "earliest": "2015-07-01",
+    "latest": "2026-05-18",
+    "count": 2646
   },
   "rong_cheng": {
-    "earliest": "2015-09-29",
-    "latest": "2026-05-15",
-    "count": 2582
+    "earliest": "2015-07-01",
+    "latest": "2026-05-18",
+    "count": 2646
   },
   "crown": {
-    "earliest": "2015-09-30",
+    "earliest": "2015-07-02",
     "latest": "2026-05-15",
-    "count": 2672
+    "count": 2734
   },
   "graphic_pkg": {
-    "earliest": "2015-09-30",
+    "earliest": "2015-07-02",
     "latest": "2026-05-15",
-    "count": 2672
+    "count": 2734
   },
   "sonoco": {
-    "earliest": "2015-09-30",
+    "earliest": "2015-07-02",
     "latest": "2026-05-15",
-    "count": 2672
+    "count": 2734
   }
 }
