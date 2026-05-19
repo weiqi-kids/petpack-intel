@@ -1,0 +1,218 @@
+{
+  "date": "2026-05-19",
+  "generated_at": "2026-05-19T10:59:22.086353Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "petco-2026-05-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Petco Health & Wellness stock (US7167441077): short interest data keeps pressure on WOOF - AD HOC NEWS",
+      "companies": [
+        "petco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVmsxcWIxemRoaERSdTlFU2U0YkdlcTVHdWRhcFFuZHVhTXRBOU0tRHZtQ1NHVkRETDlhX2dTWE0tZTNGX3RaTkl0b3VPU08wX2ZiNTNhN01ZcW9KeWQ4cGktOVpPZWg1ZDJOYkd0MTEyM1UzRzBFRDV2dHdIUm9SSnJVYU80dEFrb0NVYm1zLTVvS1ZjZHRoTk8ySkI1cmdnVUJDemp1RjBNOWxGejJ3NzN0NFFYWnlRRmViZ1dIdlI?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intl_paper-2026-05-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper acquires Delmarva Corrugated Packaging - Packaging Gateway",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbHJzLU9NOHhNRGtuclVuV1Q2WDM1QW04NmZDRWR2YTBLelozR0t5c2pqWEstYXZPakdSeS1mdzUtb3hEU3dTV3ZkMlYzRy1helBEakpYYmpQMTdxMWpaRl9sMW1YT2lmbkZNS3h1S0t6NUp1QlFnUnlLYmVZZTM1ZGl3MHNMaTRqSTRYc01tQzNob2c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "intl_paper-2026-05-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper Acquires Delmarva Corrugated Packaging Facility in Dover, Delaware - IndexBox",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWE51MTc1YXpsVTBROHUxNk9hazBITUZRQkFLbVQ2NEhEZ2dXeE1ubG4tSndVNUUxSUN1UjU4ZXAyZUFuUnliUklBSXBTX2YxMG1yLXZjTUU5S1ppRmxvci11S0NzZmVWcTF4VFIxa2ZNdXFRdVc5aEhZV3hCRmFwejk0ME1MVS11V0tkaWk4dHBCUjRodzIxeTg2UkNsRk1sS2M3YkhKa0pkY2NPVGNWdnRXajZqQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "amcor-2026-05-19-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Amcor plc stock (JE00BJ1F6598): steady packaging player after mixed Q3 update - AD HOC NEWS",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSDZ5OV9HOWhraGFOYU5tVTNpMkNHa3JyNGtWeldYS1o5Z29PT212dVlFNDlHb0Z4dzF1M1Jib1NhaWNPT1BxaEw5TmRWN3FaeFFta3pGalgtbTM1Y0xJcXVZdXBVSlhNeVBQMnB4T1dSeXZ5Q3E3VTRRTkFWWDY2dUhlMjk5SjN6VnkyTUVsMk8tVy10ZkZFd0JGWXFSTmlfbXVVNXV5VUp0b3BzM1k5NC02OEtVWUNnSE9LeXNDV0w3ZnlF?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "sealed_air-2026-05-19-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sealed Air Corp. stock (US81211K1007): fresh earnings update and automation push in focus - AD HOC NEWS",
+      "companies": [
+        "sealed_air"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRDg3Y1E4MnUtZ1A5OXJNQi1wODE2Z1BBZ25kbklyMWFyODZzaVI1WVZlQTJRRllJSnJkR3pXcEZBRWUtQXh6VldsQ1V0NFRCZm5MZjRUbnF3ZlFyLVpodjZFT3Jjd3JaeG1hakttMnlKQ2ttSmdsN3NWb0U4aFFpdXZJZFZCWHFoQmF0UVZpMDh1bGhKWmdodWpfQkc3RlNlZVFiZTRnSzNIWVl1UnhKMlFSTHpZcXd4WGdr?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "sustainable_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 3
+      },
+      {
+        "id": "petco",
+        "count": 1
+      },
+      {
+        "id": "amcor",
+        "count": 1
+      },
+      {
+        "id": "sealed_air",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "sustainable_packaging",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 331,
+    "dup_title": 150,
+    "too_old": 118,
+    "gate1_blocked": 15,
+    "gate2_blocked": 22,
+    "passed": 26,
+    "pass_rate": "14.4%",
+    "gate2_block_rate": "12.2%",
+    "gate2_samples": [
+      "Zoetis Stock at Support Zone – Bargain or Trap? - Trefis",
+      "Why S&P 500 Attention Is Turning Toward Zoetis Growth? - Kalkine Media",
+      "Zoetis Stock Hits Key Support - Buying Opportunity? - Trefis",
+      "IDEXX Laboratories stock (US45168D1046): Shares drop 4.7% to $533.92 - AD HOC NEWS",
+      "Why Did Petco (WOOF) Stock Skyrocket Today - Kavout"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為國際紙業、WOOF、安姆科相關動態：「Petco Health & Wellness stock (US7167441077): short inter...」。主要關注主題為財報、永續包裝，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Petco Health & Wellness stock (US7167441077): short interest data keeps press...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "International Paper acquires Delmarva Corrugated Packaging - Packaging Gateway（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

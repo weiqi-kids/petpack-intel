@@ -1,0 +1,37 @@
+{
+  "date": "2026-05-19",
+  "total_events": 6,
+  "by_company": {
+    "petco": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "intl_paper": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "amcor": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sealed_air": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": -0.1
+    },
+    "sustainable_packaging": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T11:41:16.366512Z",
+  "updated_at": "2026-05-19T10:59:17.463714Z",
   "quarter": "2025-12-31, 2026-01-31, 2026-03-31",
   "companies": [
     {
@@ -105,14 +105,14 @@
       "name": "鮮寵",
       "ticker": "FRPT",
       "currency": "USD",
-      "ar": 63762000,
-      "ar_prev": 64327000,
-      "ar_qoq": "-1%",
-      "inventory": 76766000,
-      "inv_prev": 69845000,
-      "inv_qoq": "+10%",
+      "ar": 65370000,
+      "ar_prev": 63762000,
+      "ar_qoq": "+3%",
+      "inventory": 80588000,
+      "inv_prev": 76766000,
+      "inv_qoq": "+5%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "graphic_pkg",
@@ -175,14 +175,14 @@
       "name": "美國包裝",
       "ticker": "PKG",
       "currency": "USD",
-      "ar": 1255800000,
-      "ar_prev": 1352300000,
-      "ar_qoq": "-7%",
-      "inventory": 1243200000,
-      "inv_prev": 1277100000,
-      "inv_qoq": "-3%",
+      "ar": 1335900000,
+      "ar_prev": 1255800000,
+      "ar_qoq": "+6%",
+      "inventory": 1258400000,
+      "inv_prev": 1243200000,
+      "inv_qoq": "+1%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "rong_cheng",
