@@ -1,0 +1,16 @@
+{
+  "total_raw": 332,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 119,
+  "gate1_fail": 19,
+  "gate2_fail": 22,
+  "passed": 27,
+  "gate2_samples": [
+    "Zoetis Stock Near Crucial Support - Buy Signal? - Trefis",
+    "Zoetis Stock at Support Zone – Bargain or Trap? - Trefis",
+    "Zoetis Stock Hits Key Support - Buying Opportunity? - Trefis",
+    "IDEXX Laboratories stock (US45168D1046): Shares drop 4.7% to $533.92 - AD HOC NEWS",
+    "Why Did Petco (WOOF) Stock Skyrocket Today - Kavout"
+  ]
+}

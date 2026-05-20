@@ -1,0 +1,45 @@
+{
+  "date": "2026-05-20",
+  "total_events": 15,
+  "by_company": {
+    "zoetis": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "idexx": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "intl_paper": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "sealed_air": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "smurfit": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "crown": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 13,
+      "sentiment_avg": 0.04
+    },
+    "guidance": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
