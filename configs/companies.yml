@@ -113,6 +113,7 @@ companies:
   upstream: []
   downstream: []
   fetch_mode: http
+  inventory_applicable: false
 - id: petco
   name: Petco Health and Wellness
   aliases:
