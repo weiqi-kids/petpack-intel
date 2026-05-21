@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T11:17:46.562375Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "zoetis-2026-05-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zoetis Faces Fraud Probe As Burry Backs Dividend-Paying Animal Health Firm - simplywall.st",
+      "companies": [
+        "zoetis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "vet_spending",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb2Q0MFpudHJBRHJRLWcxZFdZQnZoczVQSk9saFhYMS12RjNoOXBnV0c5a2dxLTNNV29ZRjVzTkV5THI0eEw3RzFOM2Q3X1NyRDlsV3lzQlJNZmk5eHBfWXhBajNDLVdOYWxtdkNqOEFBWUxsRG5pMFExMDNsRFBCT0Z3emtKQTJVNTRhQmZ2Njg0eWdrc3lMc0s5aDB2dzZHMmE0ekdhUDhlZlNIR3A3dF9pcmM2SUpnd0Z3b1JfYnE3UG1MU0c5ZDZHNTVWR0RDR21n0gHYAUFVX3lxTE9EcFRDOENaaUk3REhGSDZFQldncGRCY05KVTgydmV2dWx3aVF0TTN0dXV0cWphajZXUEVxMUVmVDhZcWVnQUJtbTJ3QjN2R0gxY0FBRzc3c2loS0tYY09oZVFOcGN1aWFrZkdoQXBuNnZjRS1ORlVEQWJOWGhqcjl6anRvemIySzZtRVBzTXljSG9HZWdCN1ZqTDRnSU9SSktJRG04R1B1M21RTElERGtBZG1QanRXSWdUZzVtX2RpcmxUNi1VSm5IYndsa0dacW94S1JENHNxNg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "zoetis-2026-05-21-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zoetis Declares Third Quarter 2026 Dividend - BioSpace",
+      "companies": [
+        "zoetis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZW1ZaFdXTW5NMVdOSzlyTm1PRW1IQ1V4eVBpTzd3SUt0Q2ZwQTVpZkZzQVVuVUxEU1VWaUN0VmF4SWZWaG9Ma0FvejRDa2RRdE1QejZENDhKcGUwaC1VMWh2VGVid195VmxEanJrcUdsVHBvMnZJT1dGN3pYWjhRUGdxQkZvbm1ET0ZR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "smurfit-2026-05-21-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Barclays Adjusts Price Target on Smurfit Westrock to $52 From $54, Maintains Overweight Rating - marketscreener.com",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVWZIUmNTWkNxNzFfU0ZZTHdrUWpreG0taFdTZFdsS0RjVVVVT2V1bjVSMUdUSGNOemtVdGRFc1VoQi1hS2JMUEFlRW0zREhwNUN6S3ktaE9UQ2FwV2JyMzZ6RFE0anM3YU5VblFXd25oQmJEYUpTMDlNNDlVREY5R2xnTlRYV080aHMwNlNKRjZDOFFrTnNpWjV1ZUx0NXFZV2hjbkFYUEtsTGxwc0FFZFlKalZ5RDZmQ0ZYVks2UmtEVW9Rdy1RSHFWQ2FhYk5BZk9LZ19wdHJVRUlP?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "crown-2026-05-21-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "37,439 Shares in Crown Holdings, Inc. $CCK Bought by Fideuram Intesa Sanpaolo Private Banking S.P.A. - MarketBeat",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVnNReS1UNVl2ZU1PVkNua0xjeXhSaGRiWEhMalJzS0JGOFgza2JvdWY3N3I5Sm4zQ1JkeXE5TnBnVlAwZk1HeDkyaFhjMUV4ZXp3U2cxaTFLbnJlNEJHd09VZy1LQXpHX1pDR2pLWm14clRGOF9Da3RYR0pWMXctckVMaWhJQUdOc0dPbEFwdGdKalBFcHNrX1E2UzNfWllScDV0eVFTdWY0eURVV0ZqNkpYblUwcERNanloN2xkSU5na2gzT01uQUhfTHJ0amUwU2x4cXdSTTgxUVJVNzJNU3N5VmZDREZNSUE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "amcor-2026-05-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Amcor explores regulatory compliance for animal feed and bedding packaging - Packaging Insights",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbVpEbGlTT1NiYlZUZDJKVjJ6YkZiUDJxejBoaWRMdlhoYkphUlNuZ3J1ZTlvYmE4V1V3d2sxbkc1djU5bDMtVDZOSU5JODhRS0tXbVVrb1JWZlRYXy0teVFHQm9ZWWo4MmljWDhLMnlWWXk2dUlqYWZwdWVHbHdMWnV5S29tQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "vet_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "zoetis",
+        "count": 2
+      },
+      {
+        "id": "smurfit",
+        "count": 2
+      },
+      {
+        "id": "amcor",
+        "count": 1
+      },
+      {
+        "id": "crown",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "vet_spending",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 331,
+    "dup_title": 144,
+    "too_old": 123,
+    "gate1_blocked": 20,
+    "gate2_blocked": 26,
+    "passed": 18,
+    "pass_rate": "9.6%",
+    "gate2_block_rate": "13.9%",
+    "gate2_samples": [
+      "Zoetis Stock Pulls Back to Support – Smart Entry? - Trefis",
+      "Zoetis Stock Near Crucial Support - Buy Signal? - Trefis",
+      "Zoetis Stock at Support Zone – Bargain or Trap? - Trefis",
+      "Zoetis Stock Hits Key Support - Buying Opportunity? - Trefis",
+      "Why Did Petco (WOOF) Stock Skyrocket Today - Kavout"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為碩騰、斯莫菲特、安姆科相關動態：「Zoetis Faces Fraud Probe As Burry Backs Dividend-Paying A...」。主要關注主題為財報、獸醫支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Zoetis Faces Fraud Probe As Burry Backs Dividend-Paying Animal Health Firm - ...（獸醫支出、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Zoetis Declares Third Quarter 2026 Dividend - BioSpace（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
