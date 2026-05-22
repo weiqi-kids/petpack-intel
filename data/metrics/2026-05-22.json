@@ -1,0 +1,33 @@
+{
+  "date": "2026-05-22",
+  "total_events": 4,
+  "by_company": {
+    "idexx": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "ball": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sealed_air": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "vet_spending": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

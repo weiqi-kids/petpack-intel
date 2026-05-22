@@ -1,0 +1,185 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T10:46:04.051710Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "idexx-2026-05-22-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "IDEXX Laboratories stock (US45168D1046): Earnings beat keeps veterinary diagnostics leader in focus - AD HOC NEWS",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "vet_spending",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQS1MSWtiU1N1dDFyOXJvUUFiNG9tOTdNdTN3OTRQTUdwOVJfX0tVVzdIejhsZl9ERVpJeXRZNi03YzZsMmlVVkdHNmxjdjg2bENKV3doVjc0cFNoWk1PMXE1T2lhaUp6NG5mOUxUVTh1aTVDSEVDaG1zdy1hZHlzZHNWSnVCazNoYmJjN0lHbU5BeTFaeWdaWlNQeE5Fa0xkT0ZuWWFnVGM1eEJLazM3aFhyOVF5V2tob0NCUmw0MmpnV1FzYWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ball-2026-05-22-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ball Corporation advances substantiated sustainability in aluminum packaging - Packaging Insights",
+      "companies": [
+        "ball"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOVhoeVJPRFp6anU1VWpvNnVpX0liY0V3ZXRyQWlaWVBITW11OWJrR1hpRW1pcWV1bkhpTWV1eVZhUExCdi1mdnFSMTZySzg1RHh1RHY2Q2pjZjNLZ3hKZmlib2Z4TmFPVWg1UWo1WDVOZ28wZzF1Z3ZuSDFEdVBHMWVvN1o2T3FmNzQzNk41bllGWVJH?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "idexx-2026-05-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "IDEXX Laboratories stock (US45168D1046): institutional selldown and animal health growth story - AD HOC NEWS",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "vet_spending"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeERpcTdYZHZHUWNpSDRlR2V5SU9lOEdTRTIwWUY2Y1BCSWlEb2dxRXpHODhITkFPWlVfbXNIcDh4V2tHbnpVRUwtY3VYSzJVVEY1ejRoLXUwbHRWY3MyWWR1cHRtUVZnYmN0cnNCd0JWTzdRemF6SlgzSlVCUTJXY1lLVExoOTN4OE1tcnFoT052RVNXVW5yTmFUNXgwZDJBZDdiSFJ3WHB5d2dWbTkzZTVNVmp4TVpsUUtqem81R3VmWTcyU3pEUVhR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sealed_air-2026-05-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sealed Air Corp. stock (US81211K1007): focus shifts to restructuring and cash generation after lates - AD HOC NEWS",
+      "companies": [
+        "sealed_air"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPanhpeFhKUjRiejJnY19TNTZaYmEzWlktSWJhdWlENk9zczhPQzBwOHBrQ01zX3ZxbXJrY2dzbnRSM3BwanlZeFBJMmJ1RThNX2o1ZFBUY1pYWkZEQmx2ZXUydklFdlJWM0pGSmdlMmpXVUlOMXdTNEFiaVBLR2VlcVdMODhtY092RVBPYUVwSUtxMkM2SEhIdWtncnNkQzVmNVp6OTR1NW5LMERlUjVwblo4cFh5aDI1QXltR0pPQXluTy1mN3c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "vet_spending": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "idexx",
+        "count": 2
+      },
+      {
+        "id": "ball",
+        "count": 1
+      },
+      {
+        "id": "sealed_air",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "vet_spending",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 152,
+    "too_old": 124,
+    "gate1_blocked": 17,
+    "gate2_blocked": 19,
+    "passed": 18,
+    "pass_rate": "10.1%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "Zoetis Stock Pulls Back to Support – Smart Entry? - Trefis",
+      "Zoetis Stock Near Crucial Support - Buy Signal? - Trefis",
+      "Zoetis Stock at Support Zone – Bargain or Trap? - Trefis",
+      "International Paper breaks ground on $225 million facility in Rankin County - WAPT",
+      "1 of Wall Street’s Favorite Stock with Competitive Advantages and 2 We Find Risky - StockStory"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為愛德士、波爾、希悅爾相關動態：「IDEXX Laboratories stock (US45168D1046): Earnings beat ke...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "IDEXX Laboratories stock (US45168D1046): Earnings beat keeps veterinary diagn...（獸醫支出、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Ball Corporation advances substantiated sustainability in aluminum packaging ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

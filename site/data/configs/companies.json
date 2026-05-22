@@ -136,7 +136,8 @@
       "rss_url": "https://news.google.com/rss/search?q=\"Trupanion\"+pet+insurance&hl=en&gl=US&ceid=US:en",
       "upstream": [],
       "downstream": [],
-      "fetch_mode": "http"
+      "fetch_mode": "http",
+      "inventory_applicable": false
     },
     {
       "id": "petco",
