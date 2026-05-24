@@ -1,0 +1,16 @@
+{
+  "total_raw": 328,
+  "dup_title": 161,
+  "no_date": 0,
+  "too_old": 127,
+  "gate1_fail": 17,
+  "gate2_fail": 15,
+  "passed": 8,
+  "gate2_samples": [
+    "Zoetis Stock Pulls Back to Support – Smart Entry? - Trefis",
+    "Zoetis' Wide Moat Remains Intact, but We've Lowered Our Fair Value Estimate - Morningstar",
+    "Zoetis Stock Near Crucial Support - Buy Signal? - Trefis",
+    "IDEXX SDMA Rollout Ties Earlier Kidney Detection To Valuation Debate - Sahm",
+    "International Paper breaks ground on $225 million facility in Rankin County - WAPT"
+  ]
+}
