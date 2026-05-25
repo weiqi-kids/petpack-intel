@@ -1,5 +1,26 @@
 [
   {
+    "id": "idexx-2026-05-25-001",
+    "date": "2026-05-25",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "vet_spending",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "IDEXX Laboratories stock (US45168D1046): strong Q1 earnings keep diagnostics specialist in focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPVjMxczFrVE5RWlNCWm05UHlUR2t3VFF1Z0tBUGFEY2xvZlhoSF9LYUdSOXJSdkt5d3NKdG9sUmdZN2JPQzZsUk1SaGZCMC1RT3lCUmZSTXJYN25NMkU5NHVMM1psWjQxbGNadGxBRG",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVjMxczFrVE5RWlNCWm05UHlUR2t3VFF1Z0tBUGFEY2xvZlhoSF9LYUdSOXJSdkt5d3NKdG9sUmdZN2JPQzZsUk1SaGZCMC1RT3lCUmZSTXJYN25NMkU5NHVMM1psWjQxbGNadGxBRGZPR3prRVdaYVNIRHM4SUFmT1U3eG56VU5uRWxab2lfb1NuS0NLNDVBRUZ3WFJHUHZHUUluc2Uzc0Y0eVpWV0RoMmJ4SzRVSGJ5bldRUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "petco-2026-05-24-001",
     "date": "2026-05-24",
     "companies": [
@@ -75,6 +96,26 @@
       {
         "name": "smurfit",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMG9MQjZtQ1Z0TjM2a3VLWG9aYnlPYjRqRmVyRGhLeGdBZWNyUkJVQ0hGbnhvNGpvcWNnNXpqNVRvTFFJNlZnbVhSdk85LUJWTTRpZ1JUZlJkemVxVkJlUzl5a002YUVLTVdfZHlyaHpDMnRFeU9rOFk0ZHYwemVrdmFnbGhSSjQyWm9XM29XZHkzWnVxZWNmcFFlYlZ0TzRGTE9tQlNRcjNBR0hXNHRENHU0elduQlYzZ0JvbWh0d3dnTEs2eWhnV0NzVWPSAdIBQVVfeXFMT21VVVYtUDNKYU51ZnZkeXYxdlpKclpETWEwVkUtWkFEQlY1UVpUZFdnUnNuMG9wOWMzUzRGY0lnWTBsRlZTVENJUm5TRktFSE5tZWJMeDZYYWs2SXhWT3Y2OEFkbjhBWmZMbFpVQVA2SDJYZ0pJNlJiN08xTXB4R0VXakpZOWtYTTZ1dmNKSW5NUnFMWjhZOWpXeFlLSFotTm9TdlR5eFFiY3VpMFV6cllTRTdNUXN0b0hTM1p4b3d1SjYtWHoxRFBaSFJUekhIUFBn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "idexx-2026-05-24-005",
+    "date": "2026-05-24",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "IDEXX Laboratories stock (US45168D1046): Q1 profit beats as pet-care demand holds - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbVp6NGRQN3BfU054eDBwUG02NDJ6LXp4OC0yWmEwZVIxcGFXcDBFS0diNkh6MG1zcDRvcGc4Sm1lWnJTa2VGSEdvZFhJR1JJZERKYW9mQXB3V2pmbF9DVndUbzdTYTVwd2ltcTA3cW",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbVp6NGRQN3BfU054eDBwUG02NDJ6LXp4OC0yWmEwZVIxcGFXcDBFS0diNkh6MG1zcDRvcGc4Sm1lWnJTa2VGSEdvZFhJR1JJZERKYW9mQXB3V2pmbF9DVndUbzdTYTVwd2ltcTA3cWl3cXpVTUQ4U0JtZW9iSDRkVHFGb2p6WnRKMl9sWHBGVVh1TjhWbG9ZSXAwejlGeFpkTGVfV2hqcEtWbjB4UW1yamJlYXFNX05McTYzWHpyNDNvZw?oc=5",
         "type": "rss"
       }
     ]
@@ -272,6 +313,26 @@
       {
         "name": "intl_paper",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWnh6YUZSSTZfQVVxZHlBSzJ6NnNUeWtTU3R4RGluTnpwb2dfREgtMVFlb2RUNWItdlFWNUJOX0hJSDZPdUluN1dXRXVhbXY3QVhOU080T0N3WW9UWWVRM2FBU3FMUjVuRlVDR1ZoLVJqUTZteE45SUR2bWQ1QXltaGhyMmtyRXB5cDlyUEJBcFJDbVNZb0FXOTZlQ0cyRXpSNkwtOVFjMjVteDA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-05-22-010",
+    "date": "2026-05-22",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Smurfit Westrock (SW) Stock Forecast and Price Target 2026 $SW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFUzBXcFVaUE9qQkpYbV9mZmpYXzZPVklGc01qRUV5VlBkY1psUldBcm9rWWxtNFRrR1ZGOUNkanhaR0VmaGd5QS12VG1Ua2tyNmZubzVKQlh2NzcwMENLcQ?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFUzBXcFVaUE9qQkpYbV9mZmpYXzZPVklGc01qRUV5VlBkY1psUldBcm9rWWxtNFRrR1ZGOUNkanhaR0VmaGd5QS12VG1Ua2tyNmZubzVKQlh2NzcwMENLcQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1202,6 +1263,42 @@
     ]
   },
   {
+    "id": "unknown-2026-05-20-033",
+    "date": "2026-05-20",
+    "companies": [],
+    "topics": [
+      "pet_insurance"
+    ],
+    "impact": "neutral",
+    "title": "Spot vs. Nationwide Pet Insurance 2026 | U.S. News - U.S. News & World Report",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9kSjdIdEpJSVNpQzBzc2M5eWlYakFobmdIaWxNdzQxeTdQQnB5bk9zNnhndGdWcUpXTjgxWGFONTVFYThsU2czZ3lDUzRJRjJJS1RYYlB2RnN1cGx1aVlEZnN6cExvTktyVl9yeVNtVW",
+    "sources": [
+      {
+        "name": "trupanion",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kSjdIdEpJSVNpQzBzc2M5eWlYakFobmdIaWxNdzQxeTdQQnB5bk9zNnhndGdWcUpXTjgxWGFONTVFYThsU2czZ3lDUzRJRjJJS1RYYlB2RnN1cGx1aVlEZnN6cExvTktyVl9yeVNtVW5lX1k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "petco-2026-05-20-034",
+    "date": "2026-05-20",
+    "companies": [
+      "petco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Petco (WOOF) CRO Venezia has 26,120 shares withheld for RSU tax liability - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNXzk5VUQxX3piNXR1SVR2SC1lZmUwQTNhallWdXBLb3VyaGpoaTBpZ3FzTGVFd1dJVW9SNjduVm1XdU1tcl9vcnV4alppWHk3VW1UZ1JFOGVEbEFDZkJhOTFEOUtaUm5fcjVUME92a0",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNXzk5VUQxX3piNXR1SVR2SC1lZmUwQTNhallWdXBLb3VyaGpoaTBpZ3FzTGVFd1dJVW9SNjduVm1XdU1tcl9vcnV4alppWHk3VW1UZ1JFOGVEbEFDZkJhOTFEOUtaUm5fcjVUME92a0VQNzZiQndscFZjTDRMZUVLR2JjaXVrSWpfV2puTjJfeUNhZFc0QnR0MUVUOTJhcUVDbGFmMXkxY3hpR3YxZzBHeXlrSXFLTjlodjd0R214S1M3eUNLNWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "petco-2026-05-19-001",
     "date": "2026-05-19",
     "companies": [
@@ -1533,6 +1630,26 @@
       {
         "name": "petco",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQelVZRUk0dW1MV3dlMGxTWnNrbTFRN0JQeTdaeVYzWGczSTBlN05vM242RmRRenl1S2x1MEFCSHc5Smt2Q09DQVVjc08zS3VMWFlfN3dUYzYxcVM4SXpDTlNMREtRZ3FNR0RhQmVDQ2tnRDYxVVdjV0ZvQjNTdXFjbmlTSEJFQWFURXBEd0pxMXhNZTRfNXBGMlFYVC1hcTI2ekhWV3RyR2M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-05-19-018",
+    "date": "2026-05-19",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Paper acquires Delmarva Corrugated Packaging - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPSlQ3aVBjcUduRlRTVW5QMGdLX1E5dGZ4U0ZSRHNzaFRRbmctSVQwZVhmQ0xhckhGem12NmVvNzZqNHRic1drcnhFZjBieVZ6UjZ3NTRXU2oyZHdYM3JZOUFXNWh5WWVnT1daNEd2dE",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSlQ3aVBjcUduRlRTVW5QMGdLX1E5dGZ4U0ZSRHNzaFRRbmctSVQwZVhmQ0xhckhGem12NmVvNzZqNHRic1drcnhFZjBieVZ6UjZ3NTRXU2oyZHdYM3JZOUFXNWh5WWVnT1daNEd2dEdjbnNHdmxxM2d3d1dJaFBkbjVEN2RFN19pM0kyOUxaUXg3TVFWT1ZTNFFadDkzczY0c1Zzb0pWNU5xWi1oazM4WC05UQ?oc=5",
         "type": "rss"
       }
     ]

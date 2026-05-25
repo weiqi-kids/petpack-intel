@@ -1,0 +1,16 @@
+{
+  "total_raw": 328,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 128,
+  "gate1_fail": 17,
+  "gate2_fail": 14,
+  "passed": 6,
+  "gate2_samples": [
+    "Zoetis Stock Pulls Back to Support – Smart Entry? - Trefis",
+    "Zoetis Stock Near Crucial Support - Buy Signal? - Trefis",
+    "IDEXX SDMA Rollout Ties Earlier Kidney Detection To Valuation Debate - Sahm",
+    "International Paper breaks ground on $225 million facility in Rankin County - WAPT",
+    "International Paper acquires Delmarva Corrugated Packaging facility in Dover - Delaware Business Tim"
+  ]
+}

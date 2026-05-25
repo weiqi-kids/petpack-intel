@@ -1,0 +1,111 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T11:49:27.181731Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "idexx-2026-05-25-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "IDEXX Laboratories stock (US45168D1046): strong Q1 earnings keep diagnostics specialist in focus - AD HOC NEWS",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "vet_spending",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVjMxczFrVE5RWlNCWm05UHlUR2t3VFF1Z0tBUGFEY2xvZlhoSF9LYUdSOXJSdkt5d3NKdG9sUmdZN2JPQzZsUk1SaGZCMC1RT3lCUmZSTXJYN25NMkU5NHVMM1psWjQxbGNadGxBRGZPR3prRVdaYVNIRHM4SUFmT1U3eG56VU5uRWxab2lfb1NuS0NLNDVBRUZ3WFJHUHZHUUluc2Uzc0Y0eVpWV0RoMmJ4SzRVSGJ5bldRUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "vet_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "idexx",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "vet_spending",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 328,
+    "dup_title": 163,
+    "too_old": 128,
+    "gate1_blocked": 17,
+    "gate2_blocked": 14,
+    "passed": 6,
+    "pass_rate": "3.6%",
+    "gate2_block_rate": "8.5%",
+    "gate2_samples": [
+      "Zoetis Stock Pulls Back to Support – Smart Entry? - Trefis",
+      "Zoetis Stock Near Crucial Support - Buy Signal? - Trefis",
+      "IDEXX SDMA Rollout Ties Earlier Kidney Detection To Valuation Debate - Sahm",
+      "International Paper breaks ground on $225 million facility in Rankin County - WAPT",
+      "International Paper acquires Delmarva Corrugated Packaging facility in Dover - Delaware Business Tim"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為愛德士相關動態：「IDEXX Laboratories stock (US45168D1046): strong Q1 earnin...」。主要關注主題為獸醫支出、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "IDEXX Laboratories stock (US45168D1046): strong Q1 earnings keep diagnostics ...（獸醫支出、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "愛德士為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
