@@ -1,0 +1,16 @@
+{
+  "total_raw": 329,
+  "dup_title": 137,
+  "no_date": 0,
+  "too_old": 143,
+  "gate1_fail": 18,
+  "gate2_fail": 12,
+  "passed": 19,
+  "gate2_samples": [
+    "This Memorial Day Marks Another Season of Giving Through the Zoetis Patriots' Pledge Program - Ameri",
+    "Zoetis to Participate in Upcoming Investor Conferences - Business Wire",
+    "IDEXX expands fecal testing to detect taeniid tapeworms - Investing.com UK",
+    "Chewy vs. Petco: Which Pet-Care Stock Looks Better Positioned? - The Globe and Mail",
+    "Amcor Lift-Off Challenge 2026: Rigid Packaging & Systems Call for Start-Ups - News and Statistics - "
+  ]
+}

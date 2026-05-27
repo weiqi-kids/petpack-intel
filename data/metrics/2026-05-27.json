@@ -1,0 +1,21 @@
+{
+  "date": "2026-05-27",
+  "total_events": 6,
+  "by_company": {
+    "intl_paper": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.12
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
