@@ -1,0 +1,16 @@
+{
+  "total_raw": 329,
+  "dup_title": 143,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 18,
+  "gate2_fail": 10,
+  "passed": 13,
+  "gate2_samples": [
+    "Zoetis to Participate in Upcoming Investor Conferences - Business Wire",
+    "IDEXX expands fecal testing to detect taeniid tapeworms - Investing.com UK",
+    "Chewy vs. Petco: Which Pet-Care Stock Looks Better Positioned? - The Globe and Mail",
+    "CPKC joins International Paper to break ground on new rail-served packaging facility - CPKC",
+    "Amcor Lift-Off Challenge 2026: Rigid Packaging & Systems Call for Start-Ups - News and Statistics - "
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T11:33:30.122297Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "crown-2026-05-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Analyst Concerns Over Input Costs And Scale At Crown Holdings (CCK) Have Changed Its Investment Story - simplywall.st",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaHBBVmVVYlhyUkJyTExiRHhTeG9ZZ1Y3RGVSSXU5VWVjWVZRUGpySjJMXzkzbWMwSUF1eVRNNXE4S0VxWXphX2ZrZEdCXzhHNDUwb1E1bE5FNk5tR0NySEZnRTlrQVhfeF80MEVwdi1Zb2c3NUcxM2Fvck1pTE9SYThXTXJHeWxGRks2MDlJRDlQRXhXSXUzQ3hmeVVMRm1SMjNZWmN5R2ROZnk1T1V5Qm1UVERVY1VIOXlMY0w4RFNLUEZxVWhUNHdLVdIB0AFBVV95cUxPc0tqTHJLU2Jyc05Dd2paOGdkaF9MMGZfc1JVT1lPdTd6R29TX0t2cjVqQ1pFMmJDVzhTNC05bHQ2S1lMNF9TdldLdWFsc2NBdnUtV1FJQW1KVFRiSHJkWVNrZVpPUVowWmliRlk4TjRhUGRkYjN0N3dNUlR2Zzdzd0hveVJkQXBuTExQUHJodUFFVXFVUjhURkFkRHlmZE43QTE5Umt2UkdlaHdGck81WEZmaXZ2cmd5aVIyY00yYVFIV1pCUzFnNzhjNDVMRk1W?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "crown",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 329,
+    "dup_title": 143,
+    "too_old": 145,
+    "gate1_blocked": 18,
+    "gate2_blocked": 10,
+    "passed": 13,
+    "pass_rate": "7.0%",
+    "gate2_block_rate": "5.4%",
+    "gate2_samples": [
+      "Zoetis to Participate in Upcoming Investor Conferences - Business Wire",
+      "IDEXX expands fecal testing to detect taeniid tapeworms - Investing.com UK",
+      "Chewy vs. Petco: Which Pet-Care Stock Looks Better Positioned? - The Globe and Mail",
+      "CPKC joins International Paper to break ground on new rail-served packaging facility - CPKC",
+      "Amcor Lift-Off Challenge 2026: Rigid Packaging & Systems Call for Start-Ups - News and Statistics - "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為皇冠相關動態：「How Analyst Concerns Over Input Costs And Scale At Crown ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "How Analyst Concerns Over Input Costs And Scale At Crown Holdings (CCK) Have ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "皇冠為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
