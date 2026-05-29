@@ -1,0 +1,120 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T11:24:05.691090Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "crown-2026-05-29-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Assessing Crown Holdings (CCK) Valuation As Growth Concerns And Rising Costs Pressure Margins - simplywall.st",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": -0.17
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWVdtdlFpR2R1bUN3OGVKTVNWZE9EWW9qbkVROFROTllIMHlfWEV3T1drLWtPX0QzSkhDS0YwcXlLUThjQU5HYUtkanRadEg5bkc4VER5WDdNQ3ZpeEtSQ3RRcnh3cmdSMV9wUWF6S2sweWc4aDZZMk9EN2dlNnd5LW0xX2JoRmVjX1dWdmQwcHdkblduOUxTbU5iaDZ0QVhTalFMQVVVU1RoVi03LXd5QnBwRDF1bDIwLTdjb2N6NVdUc3ZwbTYzMUtDc9IB0AFBVV95cUxPbmRqaWFIdXFyV2RLTlNvTkhibXNZOTZkdTMtU3lrVFJMZGI3c0t1aklPTkMzNmlNc1hNYlR1UG5Jc2toVlRBUFhEelZuM0FQRUljZE8yamFuNWhRWnBkbzU5dl9BSmRFM1FzZHBjaFlyUjZIWE1vaVNzQ2FhXzg1d200Y3JkUkVtZ0dFeWFIaENNc3ozNzluaVUxNldZUmJnNkdpRzU0N28tU1ZkQ1VnRkx1WmNsWHJFUXRVZUN5azFyUmx4QU9zckROSFp0VGEz?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "petco-2026-05-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Petco Health & Wellness stock (US7167441077): Valuation in focus as Nasdaq-listed WOOF trades around - AD HOC NEWS",
+      "companies": [
+        "petco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRzRMS2dYWDFEZjBIOXRQOGprQzhzZ2VWSklsajFzTU1xNEsxeWFNYmkxN0FmQ0thdmd0R3VGS0IyZ3lnUzJxOW94TTBBS21aTVN3WXFVMHBneG43N1B3TmFnY0FUVmJtZkhQdHE5WFJwQjdKVmRRUWZXS3hPQkRzT0J2X1hQdDN4Q0FKUTl5QWdGaF9zZEVwalJXTDFVTXhLa0h3bEdFMGlmWnFEZmRWMmFBQnUyc1pjMGN5NThaazlDZUk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "petco",
+        "count": 1
+      },
+      {
+        "id": "crown",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 153,
+    "too_old": 145,
+    "gate1_blocked": 15,
+    "gate2_blocked": 6,
+    "passed": 11,
+    "pass_rate": "6.2%",
+    "gate2_block_rate": "3.4%",
+    "gate2_samples": [
+      "Zoetis Hit With Investor Suit Over Slowed Pet Drug Sales - law360.com",
+      "This Memorial Day Marks Another Season of Giving Through the Zoetis Patriots' Pledge Program - Ameri",
+      "IDEXX expands fecal testing to detect taeniid tapeworms - Investing.com UK",
+      "CPKC joins International Paper to break ground on new rail-served packaging facility - CPKC",
+      "Smurfit WestRock report highlights sustainability progress - Packaging News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為WOOF、皇冠相關動態：「Assessing Crown Holdings (CCK) Valuation As Growth Concer...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Assessing Crown Holdings (CCK) Valuation As Growth Concerns And Rising Costs ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Petco Health & Wellness stock (US7167441077): Valuation in focus as Nasdaq-li...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

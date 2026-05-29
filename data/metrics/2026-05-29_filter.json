@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 153,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 15,
+  "gate2_fail": 6,
+  "passed": 11,
+  "gate2_samples": [
+    "Zoetis Hit With Investor Suit Over Slowed Pet Drug Sales - law360.com",
+    "This Memorial Day Marks Another Season of Giving Through the Zoetis Patriots' Pledge Program - Ameri",
+    "IDEXX expands fecal testing to detect taeniid tapeworms - Investing.com UK",
+    "CPKC joins International Paper to break ground on new rail-served packaging facility - CPKC",
+    "Smurfit WestRock report highlights sustainability progress - Packaging News"
+  ]
+}
