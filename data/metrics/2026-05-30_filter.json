@@ -1,0 +1,16 @@
+{
+  "total_raw": 329,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 14,
+  "gate2_fail": 6,
+  "passed": 4,
+  "gate2_samples": [
+    "Zoetis Hit With Investor Suit Over Slowed Pet Drug Sales - Law360",
+    "IDEXX expands fecal testing to detect taeniid tapeworms - Investing.com UK",
+    "Amcor Lift-Off Challenge 2026: Rigid Packaging & Systems Call for Start-Ups - News and Statistics - ",
+    "SEE SEC Filings - Sealed Air Cp 10-K, 10-Q, 8-K Forms - Stock Titan",
+    "Is Smurfit Westrock (SW) One of the Best Stocks to Buy from Billionaire George Soros’ Stock Portfoli"
+  ]
+}

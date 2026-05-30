@@ -1,0 +1,50 @@
+{
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T09:54:53.156904Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 329,
+    "dup_title": 159,
+    "too_old": 146,
+    "gate1_blocked": 14,
+    "gate2_blocked": 6,
+    "passed": 4,
+    "pass_rate": "2.4%",
+    "gate2_block_rate": "3.5%",
+    "gate2_samples": [
+      "Zoetis Hit With Investor Suit Over Slowed Pet Drug Sales - Law360",
+      "IDEXX expands fecal testing to detect taeniid tapeworms - Investing.com UK",
+      "Amcor Lift-Off Challenge 2026: Rigid Packaging & Systems Call for Start-Ups - News and Statistics - ",
+      "SEE SEC Filings - Sealed Air Cp 10-K, 10-Q, 8-K Forms - Stock Titan",
+      "Is Smurfit Westrock (SW) One of the Best Stocks to Buy from Billionaire George Soros’ Stock Portfoli"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-05-30 無寵物經濟 + 包裝產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
