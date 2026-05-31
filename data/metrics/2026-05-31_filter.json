@@ -1,0 +1,16 @@
+{
+  "total_raw": 328,
+  "dup_title": 147,
+  "no_date": 0,
+  "too_old": 150,
+  "gate1_fail": 15,
+  "gate2_fail": 6,
+  "passed": 10,
+  "gate2_samples": [
+    "Zoetis Hit With Investor Suit Over Slowed Pet Drug Sales - Law360",
+    "Amcor Lift-Off Challenge 2026: Rigid Packaging & Systems Call for Start-Ups - News and Statistics - ",
+    "Is Smurfit Westrock (SW) One of the Best Stocks to Buy from Billionaire George Soros’ Stock Portfoli",
+    "Smurfit WestRock report highlights sustainability progress - Packaging News",
+    "RBC Capital Remains a Buy on Crown Holdings (CCK) - The Globe and Mail"
+  ]
+}
