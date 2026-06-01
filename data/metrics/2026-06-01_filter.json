@@ -1,0 +1,16 @@
+{
+  "total_raw": 328,
+  "dup_title": 150,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 17,
+  "gate2_fail": 6,
+  "passed": 9,
+  "gate2_samples": [
+    "Zoetis Hit With Investor Suit Over Slowed Pet Drug Sales - Law360",
+    "SEE SEC Filings - Sealed Air Cp 10-K, 10-Q, 8-K Forms - Stock Titan",
+    "Former Smurfit Westrock employee at the helm of Carton Ondulé de France - PrintIndustry.news",
+    "Is Smurfit Westrock’s (SW) NYSE-Only Listing a Signal About Its Long-Term Investor Base Strategy? - ",
+    "Is Smurfit Westrock (SW) One of the Best Stocks to Buy from Billionaire George Soros’ Stock Portfoli"
+  ]
+}

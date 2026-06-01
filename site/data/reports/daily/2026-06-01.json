@@ -1,0 +1,167 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T13:32:34.378023Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "idexx-2026-06-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "IDEXX Laboratories Inc stock (US45167R1041): shares steady as investors digest AI strategy and secto - AD HOC NEWS",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUkVYaDFROXpIbFdjMzlrMnpFTm10YTNsU3BSay1vY1daaXgxWG5EUk5tbHdkN2hPRGN1N1AyZ3lDNktxVlE5LXNta1VGTXZqQ3dhbFFLRHFYbkZlX0dwZnVDQzlxV2RfcXozNlFBZDBJTzNoUE9oLUoyeVFmRWpiMTNOakUzUTFyTXg4MlM4MDBHZU5PT2FlR3JWc3VzUWJEcWlUQ19zWHpIMW1SWjVUVi1hbEU3QU41eWFibDNleHFJUjB2VXc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intl_paper-2026-06-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper begins construction of new sustainable packaging facility in Mississippi - Tissue Online North America",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "sustainable_packaging",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRmNJdkZ4QVN2anRUQUNweTZSMEo4YjExSEozUlNIR1JNcGF3cGZtSzVnbDlsbHl0ckIwcllHdXBJMktZRk5iT21sUEVyQmwyWThyY3JadEVnZkF0Mk9heE1yYVZVMGVYVWVXQ0dzNmYxLXhoaWVlVktNeGd2eldOYmpkYWVZUm9KREctMFg4alMyQm1zYmp0VHdmU19BeEFnSGUwS0c0LUwyQVgxNDU2aXdBREhYN2RNYjBtOHFJaklBQ2RpMEc3Q09B?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "smurfit-2026-06-01-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Smurfit Westrock : announces €600 million investment ahead of Choose France summit - marketscreener.com",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPelJFY0wzdHRvNTVVVE1INUVYN3hJWWdaem5FeWVNbXI5LTdqOGEyRGZSTmxuVlhYZUgxNjdNeWU2VDVJN2JZdG5nc09rLWtfQ3hzcFFRQWFwWm51RnRqWVJSamlCNzREWGtVWHkteTdVZ0pMRWJuV0FQT21lMjkyRFFMUklvMkFKWGQzU3Ixc2loS3F4MWZUeTZoVXdrX09XRWxfQ3QwbFZoZGh3cDJ0ZkNUNENyUXN5NmZMY1NmbVpjdVJ5S2ZZdnA4VFcyQTQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "sustainable_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "idexx",
+        "count": 1
+      },
+      {
+        "id": "intl_paper",
+        "count": 1
+      },
+      {
+        "id": "smurfit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "sustainable_packaging",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 328,
+    "dup_title": 150,
+    "too_old": 146,
+    "gate1_blocked": 17,
+    "gate2_blocked": 6,
+    "passed": 9,
+    "pass_rate": "5.1%",
+    "gate2_block_rate": "3.4%",
+    "gate2_samples": [
+      "Zoetis Hit With Investor Suit Over Slowed Pet Drug Sales - Law360",
+      "SEE SEC Filings - Sealed Air Cp 10-K, 10-Q, 8-K Forms - Stock Titan",
+      "Former Smurfit Westrock employee at the helm of Carton Ondulé de France - PrintIndustry.news",
+      "Is Smurfit Westrock’s (SW) NYSE-Only Listing a Signal About Its Long-Term Investor Base Strategy? - ",
+      "Is Smurfit Westrock (SW) One of the Best Stocks to Buy from Billionaire George Soros’ Stock Portfoli"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為愛德士、國際紙業、斯莫菲特相關動態：「IDEXX Laboratories Inc stock (US45167R1041): shares stead...」。主要關注主題為財報、永續包裝，市場情緒中性。",
+    "signals": [
+      {
+        "text": "IDEXX Laboratories Inc stock (US45167R1041): shares steady as investors diges...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "International Paper begins construction of new sustainable packaging facility...（永續包裝、財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
