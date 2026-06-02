@@ -1,0 +1,16 @@
+{
+  "total_raw": 329,
+  "dup_title": 151,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 18,
+  "gate2_fail": 13,
+  "passed": 12,
+  "gate2_samples": [
+    "Zoetis Hit With Investor Suit Over Slowed Pet Drug Sales - Law360",
+    "This Memorial Day Marks Another Season of Giving Through the Zoetis Patriots' Pledge Program - Ameri",
+    "Petco: 'Reach For The Sky' Looks Promising, But It Will Depend On The Execution (WOOF) - Seeking Alp",
+    "CPKC joins International Paper to break ground on new rail-served packaging facility - CPKC",
+    "Longview mill implosion may rank among deadliest, underscores industry dangers - OregonLive.com"
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T12:01:22.779537Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "zoetis-2026-06-02-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zoetis Lawsuits Challenge Companion Animal Outlook Yet Valuation Screens As Undemanding - Yahoo Finance",
+      "companies": [
+        "zoetis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdzQyVTZhLXh5WEc1b0FBZzdsNkpjd0Uyb0x4N04wUGc3QjJwVm9DdFFYR0JKUllsQWxKTmJoVF9SNkdQclFXWjliNTRVbndUb1V1MXJaMW9RVWhneTcwczJhNGl1Q25ITjU1YmRPVm9JeHpnTGsyd19YeVRDUlhRT3g1LXlwMjVlRlhmdHFkZ29rTkI5SDBrNmlLcUhmOGE1bFVNWWRwRVV6UTg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "smurfit-2026-06-02-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Smurfit Westrock to invest approximately €600 million in France - PULPAPERnews.com",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcmV1YWpzc1Uzc0djV0RNVGVBbTRzRU44UFRwWkFOZmM2LU5RbEFxLWcxbEZocU9TeUxTQl9LdHFzVTBKRW1DZHNQTmo4LU8tTzZUdTB0ekVDU3RXTlZVNUVpOGRtUV9jMHlpbTJzYU1seE5qNFFnN1o3TmNGR3lkWHlraS0zMVRZbWVRLURCQ2Y1a29lQndOenh3NHpaVF91TlktMw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "amcor-2026-06-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Amcor Unveils New Beauty Solutions at Munich Event - Mirage News",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY0ZqVWZERVlodHJBOWE0b2Y1LW9sdmdQVm9OLWVNZWhBWDBhSkZtZFRPX1VLT09JMHA5RU5udW10WWk2aFJDcXlfS2ZPaEFzWl94TUVaUkZyeHF2dVpYSnd1WF95U2tVOEJ3bUNndjhrcVJrMktqZDhhbXczSzZWTWFEMnZMeGc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "zoetis",
+        "count": 1
+      },
+      {
+        "id": "amcor",
+        "count": 1
+      },
+      {
+        "id": "smurfit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 329,
+    "dup_title": 151,
+    "too_old": 135,
+    "gate1_blocked": 18,
+    "gate2_blocked": 13,
+    "passed": 12,
+    "pass_rate": "6.7%",
+    "gate2_block_rate": "7.3%",
+    "gate2_samples": [
+      "Zoetis Hit With Investor Suit Over Slowed Pet Drug Sales - Law360",
+      "This Memorial Day Marks Another Season of Giving Through the Zoetis Patriots' Pledge Program - Ameri",
+      "Petco: 'Reach For The Sky' Looks Promising, But It Will Depend On The Execution (WOOF) - Seeking Alp",
+      "CPKC joins International Paper to break ground on new rail-served packaging facility - CPKC",
+      "Longview mill implosion may rank among deadliest, underscores industry dangers - OregonLive.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為碩騰、安姆科、斯莫菲特相關動態：「Zoetis Lawsuits Challenge Companion Animal Outlook Yet Va...」。主要關注主題為財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Zoetis Lawsuits Challenge Companion Animal Outlook Yet Valuation Screens As U...（財報、展望）",
+        "level": "yellow"
+      },
+      {
+        "text": "Smurfit Westrock to invest approximately €600 million in France - PULPAPERnew...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

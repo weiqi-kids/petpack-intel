@@ -12,14 +12,14 @@
     "history_complete": true
   },
   "idexx": {
-    "earliest": "2012-04-25",
+    "earliest": "2012-01-26",
     "latest": "2026-06-01",
-    "count": 3545
+    "count": 3607
   },
   "central_pet": {
-    "earliest": "2012-04-25",
+    "earliest": "2012-01-26",
     "latest": "2026-06-01",
-    "count": 3545
+    "count": 3607
   },
   "elanco": {
     "earliest": "2018-09-20",
@@ -46,58 +46,59 @@
     "history_complete": true
   },
   "intl_paper": {
-    "earliest": "2012-04-25",
+    "earliest": "2012-01-26",
     "latest": "2026-06-01",
-    "count": 3545
+    "count": 3607
   },
   "ball": {
-    "earliest": "2012-04-25",
+    "earliest": "2012-01-26",
     "latest": "2026-06-01",
-    "count": 3545
+    "count": 3607
   },
   "amcor": {
     "earliest": "2012-05-15",
     "latest": "2026-06-01",
-    "count": 3531
+    "count": 3531,
+    "history_complete": true
   },
   "sealed_air": {
-    "earliest": "2012-04-25",
+    "earliest": "2012-01-26",
     "latest": "2026-04-09",
-    "count": 3509
+    "count": 3571
   },
   "smurfit": {
-    "earliest": "2012-04-25",
+    "earliest": "2012-01-26",
     "latest": "2026-06-01",
-    "count": 3545
+    "count": 3607
   },
   "pkg": {
-    "earliest": "2012-04-25",
+    "earliest": "2012-01-26",
     "latest": "2026-06-01",
-    "count": 3545
+    "count": 3607
   },
   "cheng_loong": {
-    "earliest": "2012-04-24",
-    "latest": "2026-06-01",
-    "count": 3441
+    "earliest": "2012-01-30",
+    "latest": "2026-06-02",
+    "count": 3500
   },
   "rong_cheng": {
-    "earliest": "2012-04-24",
-    "latest": "2026-06-01",
-    "count": 3441
+    "earliest": "2012-01-30",
+    "latest": "2026-06-02",
+    "count": 3500
   },
   "crown": {
-    "earliest": "2012-04-25",
+    "earliest": "2012-01-26",
     "latest": "2026-06-01",
-    "count": 3545
+    "count": 3607
   },
   "graphic_pkg": {
-    "earliest": "2012-04-25",
+    "earliest": "2012-01-26",
     "latest": "2026-06-01",
-    "count": 3545
+    "count": 3607
   },
   "sonoco": {
-    "earliest": "2012-04-25",
+    "earliest": "2012-01-26",
     "latest": "2026-06-01",
-    "count": 3545
+    "count": 3607
   }
 }
