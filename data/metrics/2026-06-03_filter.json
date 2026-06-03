@@ -1,0 +1,16 @@
+{
+  "total_raw": 329,
+  "dup_title": 148,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 17,
+  "gate2_fail": 10,
+  "passed": 16,
+  "gate2_samples": [
+    "Zoetis Hit With Investor Suit Over Slowed Pet Drug Sales - Law360",
+    "Petco: 'Reach For The Sky' Looks Promising, But It Will Depend On The Execution (WOOF) - Seeking Alp",
+    "Longview mill implosion may rank among deadliest, underscores industry dangers - OregonLive.com",
+    "SEE SEC Filings - Sealed Air Cp 10-K, 10-Q, 8-K Forms - Stock Titan",
+    "Smurfit Westrock plans to invest Euro 600 million across its operations in France - lesprom.com"
+  ]
+}

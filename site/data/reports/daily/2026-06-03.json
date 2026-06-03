@@ -1,0 +1,163 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T12:39:13.097639Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "amcor-2026-06-03-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Amcor Boosts India Output for Healthcare Packaging - Mirage News",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOG5yWHZiV1JaSldKZm44MEtiaFR5NjN2dlZBR3VfUloxSzFlenVfVkpXMWRKeXYtZlJFeDdvdWtya1dTd0NVN1dDNHJZZkVjTFNyZW1NaUlpYVhnSnZDVUctUlR2WGx3cm9GQ1lzVlZvbU1hVHJUTnBoMGRCb1N0YnRB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "smurfit-2026-06-03-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Smurfit WestRock Stock Surges 19%, With A 9-Day Winning Spree - Trefis",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNmhvMEtOTEFjTmdodW9DLS1iZkJ5Q19ESHhWb1RkanBBcG1ickdZWFl3ZmpPd0ItQTVFT2JON3hRRlg4MHRVdlpITGYyNmszNERfMTRzNFpmZklSTWRWRXZGS1JUTTZ5YUNaYTJYdXRfc09ET1IyUFBZdVZCV25XLUw3V2FFd01GVGEwYnVVM2ZSOFhyQ3hQLTJQNWZnQ0RLdnNXTlpFYWtUZzkzUG9VRjd2eHYyWGZ6SGc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "smurfit-2026-06-03-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Smurfit Westrock to Invest EUR600 Million in Sustainable Packaging in France - News and Statistics - IndexBox",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "sustainable_packaging",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeG52YVZqTHFrLVNxeS02b1hPdmxHckpsSUZLTm1tOHdhaWloVTZOcHJ2dzM4cFhJQ0NJLWpVQTFpZnZfNVlPcGc1cmxnVmQ1LUJndkFyajRZMm5rS3B2bjF0MVdWUHZQWGFkU2R2blFzZy11aHpFU1hRMHR4QzJ3cFI5ZEZpSlNPYjRZYWpWelB3dGJvdm44?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "sustainable_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "smurfit",
+        "count": 2
+      },
+      {
+        "id": "amcor",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "sustainable_packaging",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 329,
+    "dup_title": 148,
+    "too_old": 138,
+    "gate1_blocked": 17,
+    "gate2_blocked": 10,
+    "passed": 16,
+    "pass_rate": "8.8%",
+    "gate2_block_rate": "5.5%",
+    "gate2_samples": [
+      "Zoetis Hit With Investor Suit Over Slowed Pet Drug Sales - Law360",
+      "Petco: 'Reach For The Sky' Looks Promising, But It Will Depend On The Execution (WOOF) - Seeking Alp",
+      "Longview mill implosion may rank among deadliest, underscores industry dangers - OregonLive.com",
+      "SEE SEC Filings - Sealed Air Cp 10-K, 10-Q, 8-K Forms - Stock Titan",
+      "Smurfit Westrock plans to invest Euro 600 million across its operations in France - lesprom.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為斯莫菲特、安姆科相關動態：「Amcor Boosts India Output for Healthcare Packaging - Mira...」。主要關注主題為財報、永續包裝，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Amcor Boosts India Output for Healthcare Packaging - Mirage News（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Smurfit WestRock Stock Surges 19%, With A 9-Day Winning Spree - Trefis（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,136 @@
+{
+  "date": "2026-06-03",
+  "date_range": {
+    "start": "2026-05-28",
+    "end": "2026-06-03"
+  },
+  "generated_at": "2026-06-03T12:39:13.218386Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "zoetis-2026-06-01-004",
+      "date": "2026-06-01",
+      "title": "ZTS INVESTOR NOTICE: Robbins Geller Rudman & Dowd LLP Announces that Zoetis Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - Business Wire",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 10,
+      "last_week": 13,
+      "week_over_week_change": "-23%",
+      "sentiment_this_week": -0.07
+    },
+    "sustainable_packaging": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "crown": {
+      "event_count": 2,
+      "sentiment_avg": -0.34,
+      "rank": 2
+    },
+    "petco": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "idexx": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "intl_paper": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "smurfit": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "zoetis": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "amcor": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 52,
+        "last": 74,
+        "change_pct": -29.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-28",
+      "event_count": 7,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-05-29",
+      "event_count": 7,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-05-30",
+      "event_count": 5,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-31",
+      "event_count": 5,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-01",
+      "event_count": 10,
+      "sentiment_avg": -0.1
+    },
+    {
+      "date": "2026-06-02",
+      "event_count": 15,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-06-03",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-28 ~ 2026-06-03）共 52 則事件，重點為「ZTS INVESTOR NOTICE: Robbins Geller Rudman & Do...」。皇冠情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "皇冠",
+        "reason": "本週情緒偏負面（-0.3），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "斯莫菲特",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
