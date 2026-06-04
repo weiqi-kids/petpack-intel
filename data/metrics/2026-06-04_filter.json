@@ -1,0 +1,16 @@
+{
+  "total_raw": 329,
+  "dup_title": 146,
+  "no_date": 0,
+  "too_old": 130,
+  "gate1_fail": 17,
+  "gate2_fail": 16,
+  "passed": 20,
+  "gate2_samples": [
+    "How Is Zoetis’ Stock Performance Compared to Other Healthcare Stocks? - Yahoo Finance",
+    "Jim Cramer Says He Feels 'Something Not Well' At Zoetis, Names A Rival As His Pick - Benzinga",
+    "Zoetis Hit With Investor Suit Over Slowed Pet Drug Sales - Law360",
+    "Petco: 'Reach For The Sky' Looks Promising, But It Will Depend On The Execution (WOOF) - Seeking Alp",
+    "Stocks to Watch: Broadcom, CrowdStrike, PVH, Petco - Moomoo"
+  ]
+}
