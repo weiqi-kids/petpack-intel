@@ -1,0 +1,16 @@
+{
+  "total_raw": 329,
+  "dup_title": 142,
+  "no_date": 0,
+  "too_old": 133,
+  "gate1_fail": 18,
+  "gate2_fail": 13,
+  "passed": 23,
+  "gate2_samples": [
+    "Zoetis Shares Resources and Tips for New World Screwworm Response and Management - Oklahoma Farm Rep",
+    "How Is Zoetis’ Stock Performance Compared to Other Healthcare Stocks? - Barchart.com",
+    "Jim Cramer Says He Feels 'Something Not Well' At Zoetis, Names A Rival As His Pick - Benzinga",
+    "Citigroup Lowers Petco Health and Wellness (NASDAQ:WOOF) Price Target to $3.25 - MarketBeat",
+    "Petco: 'Reach For The Sky' Looks Promising, But It Will Depend On The Execution (WOOF) - Seeking Alp"
+  ]
+}

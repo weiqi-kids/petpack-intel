@@ -1,0 +1,220 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T11:22:45.836169Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "petco-2026-06-05-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Petco Health and Wellness: Still Too Early To Call This A Successful Turnaround - Seeking Alpha",
+      "companies": [
+        "petco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSWstOUR3MXBfdTJ4MHZHbVlXYjVTaHlZUFpPS0xkQl9RMTgtNHl5ei16YnRhUS1Da2dMTlJDaVVoSnJGN2tYYk5DQWJDMDUyVjVTWklYUlZKQ3U1bzRBUEFlZlJ2WGFoMGhVNXhxRmN3a0ZuRFp0RllBUXZSRUg2MTg2Vk1laFdFd0cxS240dzdXVC14ZmhZVnpaaGhjM0JfY29DTXRPNVk2aTBlT0x2ZzhLQ1poQld0VU1R?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intl_paper-2026-06-05-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Winners And Losers Of Q1: International Paper (NYSE:IP) Vs The Rest Of The Industrial Packaging Stocks - StockStory",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVXFSbVJIREpQZWZ5R2NCMDFScGcxR0VrUEl6enY0Q2xqNVlzZkp1WkR1aXlKd1RrSkFuNF9SRWRPeXVxWDlVT09NdVFac0lSeUhueTlGRml1cklKVzBZOHZjQUQzWGZ5Y2NWaTk4T0ZmaExuSTZhUG9sankxdFVJR09iZ3VsV2RaU2hyZzFEY1U4ZWZLMmtfY2JmSWktQ2FMMnFmQW5XallKY0JkTks5Q3pQZ3lXU25SeVNFOWVRaVNYOWt2b2RYRlJrU2c3UVBCQ1Bmdi1YZU0tbF9RUFVOdVdMWDJhZ2lm?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "intl_paper-2026-06-05-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper Completes $360 Million Acquisition of NORPAC - geneonline.com",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUpIdWZyMGZKT29yOUhGX0RwT3luSEZBb0MxWTljaHF0VGdLb0tDM3pQSHBqWE1uNndIX1JEd2lRUVl2Sl9LYXNNbnQ2dUx3WTFVbF9hQkJqbUNBckQ3S3pRU2JHa1Zqd2tlYzdtVzJRRGtGY09aU2dXTlcwN2RTbGxmTzlONlhYT0I4OEhsaXQ1aE1oNlE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "crown-2026-06-05-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Crown Holdings Targets APAC Growth As Shares Trade Below Valuation Estimates - simplywall.st",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcWZTTXppNFhJb2psQ2NFSHdUbWNfYmp5Qk9VU1VFcElHQVNWU09FcHdXT0Vyc0pwUlk2MFBybVJIQ0NsQjB1SVVhOFRCT3lXb0dBdE9lNUhPZk5JdDdvUndQbV91c0hNeHdXQkdGWW14VExZeU1CMEpRWjdEeGlKUGdtQXo5cjRCcU41MmpVSTlpckxCV0xuTmR1bHRVcFgyOGdMZmE3X2ZZb3p5YmI4SjNsQVBkZkZlRFo0RTluQm8ybkQ0a3lnTDdFTlhFNjVf0gHQAUFVX3lxTE9xZlNNemk0WElvamxDY0VId1RtY19ianlCT1VTVUVwSUdBU1ZTT0Vwd1dPRXJzSnBSWTYwUHJtUkhDQ2xCMHVJVWE4VEJPeVdvR0F0T2U1SE9mTkl0N29Sd1BtX3VzSE14d1dCR0ZZbXhUTFl5TUIwSlFaN0R4aUpQZ21BejlyNEJxTjUyalVJOWlyTEJXTG5OZHVsdFVwWDI4Z0xmYTdfZllvenliYjhKM2xBUGRmRmVEWjRFOW5CbzJuRDRreWdMN0VOWEU2NV8?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "zoetis-2026-06-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A Look At Zoetis (ZTS) Valuation After Guidance Cut Legal Actions And Companion Animal Headwinds - Yahoo Finance",
+      "companies": [
+        "zoetis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeDZlVEZPSndBbmhTNENwal93YUgxU1NBcmRNS2J6WWVFOFlVaTdlY01ibjhDSVl0ZUtkbExxY0xjaFF1aXVUYXNidFRWVUFIMl9ORUZRRWVHbFlqaldDX21sZnhGLTF0WmdtQk9aTDVpaVRmczI4U0MtS1hKS1lCY3F6XzBKaVhNV2pzZFJzSVV4Qzk2MmdHZFI4cERCTHVo?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 2
+      },
+      {
+        "id": "zoetis",
+        "count": 1
+      },
+      {
+        "id": "petco",
+        "count": 1
+      },
+      {
+        "id": "amcor",
+        "count": 1
+      },
+      {
+        "id": "crown",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 329,
+    "dup_title": 142,
+    "too_old": 133,
+    "gate1_blocked": 18,
+    "gate2_blocked": 13,
+    "passed": 23,
+    "pass_rate": "12.3%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "Zoetis Shares Resources and Tips for New World Screwworm Response and Management - Oklahoma Farm Rep",
+      "How Is Zoetis’ Stock Performance Compared to Other Healthcare Stocks? - Barchart.com",
+      "Jim Cramer Says He Feels 'Something Not Well' At Zoetis, Names A Rival As His Pick - Benzinga",
+      "Citigroup Lowers Petco Health and Wellness (NASDAQ:WOOF) Price Target to $3.25 - MarketBeat",
+      "Petco: 'Reach For The Sky' Looks Promising, But It Will Depend On The Execution (WOOF) - Seeking Alp"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為國際紙業、碩騰、WOOF相關動態：「Petco Health and Wellness: Still Too Early To Call This A...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Petco Health and Wellness: Still Too Early To Call This A Successful Turnarou...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Winners And Losers Of Q1: International Paper (NYSE:IP) Vs The Rest Of The In...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
