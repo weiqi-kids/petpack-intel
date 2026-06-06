@@ -1,0 +1,16 @@
+{
+  "total_raw": 329,
+  "dup_title": 148,
+  "no_date": 0,
+  "too_old": 129,
+  "gate1_fail": 19,
+  "gate2_fail": 16,
+  "passed": 17,
+  "gate2_samples": [
+    "How Is Zoetis’ Stock Performance Compared to Other Healthcare Stocks? - Yahoo Finance",
+    "Zoetis Shares Resources and Tips for New World Screwworm Response and Management - Oklahoma Farm Rep",
+    "Zoetis's Blueprint for Resilience: How Sustainability Became Core Strategy - BriefGlance",
+    "Jim Cramer Recommends Elanco Over Zoetis - Insider Monkey",
+    "Trupanion Review - U.S. News & World Report"
+  ]
+}
