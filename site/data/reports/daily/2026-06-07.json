@@ -1,0 +1,135 @@
+{
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T10:25:37.095232Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "smurfit-2026-06-07-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SW Technical Analysis & Stock Price Forecast - Intellectia AI",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuLU53NjZTdnRPQ3JJT1VuTEp1dzJqOHlhZ3VvNWtZZ1ZqQmVhd3ZTclBaR0t5REVFbXd5d243S2dIRE5SeldvblY3WWFGOTRUNEhEOGdTMA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intl_paper-2026-06-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "International Paper Expands Packaging Reach With NORPAC And Delmarva Deals - simplywall.st",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMkFXR1dXaFRTLW5obU1fNzh2bzRTaTZTYVNKU0VwU3UzUjFPZGI2Zjd6TEh5bUN1aWg3YXRGMWNWRkc2U2RSbW1zSHR1VEwxNlUxcE9PUWY5WE9nbHlPTm9jNXc1MnRwMjNYRVNyZHNKQzVPV2o2OUFfVWI3UGdzMzdHZjk3R0dEX3dTLW1jUERHWVgwYl9MX2xkMnd0aHcwYzN5b0ZJVkNqNFVnS29PUTA1UTZBYnc0VklkcmQxZXJia2FjYXN4WS0zcXpjc03SAdQBQVVfeXFMTWFNdFBHd09ZMHNnUzRrMFVQWk5RanFJb3VLUVJaM3JEdklucWljTUhvMXRGVGZDcW5SUndNbW5NWE1VNHJPdEtGYjFVV2M3NE0wMGx2eUdRY1RHU0thZDBZVUMzQWxQNXNRcjBjTWR0S1J4aVlTSVRCY3dOMGM3QWtWZVpyS2V0a1JfQ3hDc3FrRG5qZExKQmlFMWt4R3hpUGc2TUJNY1E3dmxodDJhOWdmMEV2ZFVNblZSSzJQMmMzem5JRml1dUJHdW14ak96SlhGX1Y?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 1
+      },
+      {
+        "id": "smurfit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 329,
+    "dup_title": 158,
+    "too_old": 134,
+    "gate1_blocked": 18,
+    "gate2_blocked": 10,
+    "passed": 9,
+    "pass_rate": "5.3%",
+    "gate2_block_rate": "5.8%",
+    "gate2_samples": [
+      "How Is Zoetis’ Stock Performance Compared to Other Healthcare Stocks? - Yahoo Finance",
+      "Zoetis Shares Resources and Tips for New World Screwworm Response and Management - Oklahoma Farm Rep",
+      "Jim Cramer Says He Feels 'Something Not Well' At Zoetis, Names A Rival As His Pick - Sahm",
+      "Jim Cramer Recommends Elanco Over Zoetis - Insider Monkey",
+      "Trupanion Review - U.S. News & World Report"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為國際紙業、斯莫菲特相關動態：「SW Technical Analysis & Stock Price Forecast - Intellecti...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "SW Technical Analysis & Stock Price Forecast - Intellectia AI（財報、展望）",
+        "level": "yellow"
+      },
+      {
+        "text": "International Paper Expands Packaging Reach With NORPAC And Delmarva Deals - ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
