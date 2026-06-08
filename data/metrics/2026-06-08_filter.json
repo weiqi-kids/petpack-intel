@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 160,
+  "no_date": 0,
+  "too_old": 140,
+  "gate1_fail": 19,
+  "gate2_fail": 6,
+  "passed": 5,
+  "gate2_samples": [
+    "Zoetis Shares Resources and Tips for New World Screwworm Response and Management - Oklahoma Farm Rep",
+    "Zoetis (ZTS) Receives UK Approval for Long-Acting Osteoarthritis Pain Therapy Lenivia - Insider Monk",
+    "How Is Zoetis’ Stock Performance Compared to Other Healthcare Stocks? - Yahoo Finance",
+    "Petco Health And Wellness Company's Plunge Was An Overreaction (Upgrade) (NASDAQ:WOOF) - Seeking Alp",
+    "Petco Faces Tough Competition, But Momentum Is Building - MarketBeat"
+  ]
+}
