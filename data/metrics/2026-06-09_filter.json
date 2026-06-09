@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 158,
+  "no_date": 0,
+  "too_old": 136,
+  "gate1_fail": 17,
+  "gate2_fail": 7,
+  "passed": 12,
+  "gate2_samples": [
+    "How Is Zoetis’ Stock Performance Compared to Other Healthcare Stocks? - Yahoo Finance",
+    "Jim Cramer Says He Feels 'Something Not Well' At Zoetis, Names A Rival As His Pick - Sahm",
+    "Zoetis Shares Resources and Tips for New World Screwworm Response and Management - Oklahoma Farm Rep",
+    "Petco Health And Wellness Company's Plunge Was An Overreaction (Upgrade) (NASDAQ:WOOF) - Seeking Alp",
+    "Petco Faces Tough Competition, But Momentum Is Building - MarketBeat"
+  ]
+}

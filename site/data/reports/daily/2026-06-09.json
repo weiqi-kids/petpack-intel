@@ -1,0 +1,96 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T10:57:03.603733Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "crown-2026-06-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Industrial Packaging Stocks Q1 In Review: Crown Holdings (NYSE:CCK) Vs Peers - StockStory",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeURSblhPTGZxa1Ewd3V3TGhUSW5OZ2lKSmJmdFZVX0hjTmtPTGpJZ0pPOWFSV3hDVlBlRXFYckRBTnpFazVWd3lhMGFFaWpUMjFUMWtWMGhma2pUbHhnZEphRmF4RkprcU9oOG52VkRsb2E3aWdyMllFbDU5MWVYMDVTMUdpQUwzOTUwZVU5dWxfTnZpUTlTbVljTjByUVpPTnRvSU1KU00xZGhteWRqald5Y1ZWS01Bcm84b3ZkYWxtUk9mYVpz?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "crown",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 158,
+    "too_old": 136,
+    "gate1_blocked": 17,
+    "gate2_blocked": 7,
+    "passed": 12,
+    "pass_rate": "7.0%",
+    "gate2_block_rate": "4.1%",
+    "gate2_samples": [
+      "How Is Zoetis’ Stock Performance Compared to Other Healthcare Stocks? - Yahoo Finance",
+      "Jim Cramer Says He Feels 'Something Not Well' At Zoetis, Names A Rival As His Pick - Sahm",
+      "Zoetis Shares Resources and Tips for New World Screwworm Response and Management - Oklahoma Farm Rep",
+      "Petco Health And Wellness Company's Plunge Was An Overreaction (Upgrade) (NASDAQ:WOOF) - Seeking Alp",
+      "Petco Faces Tough Competition, But Momentum Is Building - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為皇冠相關動態：「Industrial Packaging Stocks Q1 In Review: Crown Holdings ...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Industrial Packaging Stocks Q1 In Review: Crown Holdings (NYSE:CCK) Vs Peers ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "皇冠為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
