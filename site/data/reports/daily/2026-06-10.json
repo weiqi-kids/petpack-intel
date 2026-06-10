@@ -1,0 +1,180 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T11:35:42.275477Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "petco-2026-06-10-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Petco’s Q1 Earnings Call: Our Top 5 Analyst Questions - Yahoo Finance",
+      "companies": [
+        "petco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQjFLWjhldDV3U2Y2X3BXbHF3NmV1M05sRHNlM1VpQ2lLWUtWdDBuYmRNTFNKaFlvVDVCWmh5dGVnWlBBQ1pnSHozY0pHUUlPNkJxWFdiRTNfUzdmeWIxQUdwZ2xubTdoWlFYRVdxSmxqVm54MzdBMkdWY3hSQURuZjF2WTBhMWFaS2kwQUlJUVBWUkRJdFE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intl_paper-2026-06-10-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper Pensacola Mill Announces 2026 Community Grants Program - NorthEscambia.com",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWU5Q29zU2ktSHdHNHZtQzRBOFpLSUwxcTRpX3g2Z05fNFFjVG5Qa1R0Z0Z1M1pkYmlMN0xPVjJ1OWstVmsyQk1Dd1V6SW9CNlNvSzJBdjZacjhZYmliYUVGOTZrdzg4UXpSVmZ0YlN0d3VpNmRRTmFFV3N3VEFNY2JHYXY3TkhZYkNTemZFWFdvUzVJVjFCb2RORUU0UFQ4dW9BVEY3M295TW1oejhjdg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "amcor-2026-06-10-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Amcor gains RecyClass certification for UK-made flexible packaging - Packaging Gateway",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWXVVakhYenViRDBxT2JoMGdpaXhEUGFsZGRqbmtudHpkZDFXaWF6dFdTYmwtQ1BDZVNwaDFRdnZVLU90bmJaUUMzaVNCZ20yLUVqb2Z0OGJuSzhVekV2UG80WW4wSUNSSGxGREtpa2FUMlhEZUxBMEZ4WDVfWW9Ub0lCcDUwZVIyNmc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "smurfit-2026-06-10-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sustainability & Impact Awards 2026 | Smurfit Westrock shortlisted - Packaging News",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNm1qMjVwdUtfcmhXcjNyU0JoTHFLSU5OU25XODVobEdFZ0Q1Y3lUZW9PenFNNkhvbjdXdlhqLTBMRU9LVk9YUnU4TURQQVlBTUxqdkJJUVM4NmdQSUdjcVpqZEpZdnRjNEVuUWJOMGVMM052b05XSzBPMDF1eDl0UlkzektHM1VzTkV1WUhmVlp4UGVyQ1A1ZDd4bXBjMzV3Sk1ycGNXRFVFbW1KWGFTYTRQanBTZmpZemFkWFB6a05sRUp0TjVILVptVTJLeWc3VzJaU0ludm12Zw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "petco",
+        "count": 1
+      },
+      {
+        "id": "intl_paper",
+        "count": 1
+      },
+      {
+        "id": "amcor",
+        "count": 1
+      },
+      {
+        "id": "smurfit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 328,
+    "dup_title": 157,
+    "too_old": 132,
+    "gate1_blocked": 16,
+    "gate2_blocked": 12,
+    "passed": 11,
+    "pass_rate": "6.4%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "Zoetis Lenivia Approval Tests Companion Animal Growth And Legal Concerns - Yahoo Finance",
+      "ZTS UPCOMING DEADLINE: Levi & Korsinsky Alerts Zoetis Inc. - GlobeNewswire",
+      "Zoetis (ZTS) Receives UK Approval for Long-Acting Osteoarthritis Pain Therapy Lenivia - Insider Monk",
+      "Zoetis Shares Resources and Tips for New World Screwworm Response and Management - Oklahoma Farm Rep",
+      "How Is Zoetis’ Stock Performance Compared to Other Healthcare Stocks? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為WOOF、國際紙業、安姆科相關動態：「Petco’s Q1 Earnings Call: Our Top 5 Analyst Questions - Y...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Petco’s Q1 Earnings Call: Our Top 5 Analyst Questions - Yahoo Finance（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "International Paper Pensacola Mill Announces 2026 Community Grants Program - ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

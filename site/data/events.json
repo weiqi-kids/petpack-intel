@@ -1,5 +1,85 @@
 [
   {
+    "id": "petco-2026-06-10-001",
+    "date": "2026-06-10",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Petco’s Q1 Earnings Call: Our Top 5 Analyst Questions - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNQjFLWjhldDV3U2Y2X3BXbHF3NmV1M05sRHNlM1VpQ2lLWUtWdDBuYmRNTFNKaFlvVDVCWmh5dGVnWlBBQ1pnSHozY0pHUUlPNkJxWFdiRTNfUzdmeWIxQUdwZ2xubTdoWlFYRVdxSm",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQjFLWjhldDV3U2Y2X3BXbHF3NmV1M05sRHNlM1VpQ2lLWUtWdDBuYmRNTFNKaFlvVDVCWmh5dGVnWlBBQ1pnSHozY0pHUUlPNkJxWFdiRTNfUzdmeWIxQUdwZ2xubTdoWlFYRVdxSmxqVm54MzdBMkdWY3hSQURuZjF2WTBhMWFaS2kwQUlJUVBWUkRJdFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-06-10-002",
+    "date": "2026-06-10",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Paper Pensacola Mill Announces 2026 Community Grants Program - NorthEscambia.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWU5Q29zU2ktSHdHNHZtQzRBOFpLSUwxcTRpX3g2Z05fNFFjVG5Qa1R0Z0Z1M1pkYmlMN0xPVjJ1OWstVmsyQk1Dd1V6SW9CNlNvSzJBdjZacjhZYmliYUVGOTZrdzg4UXpSVmZ0Yl",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWU5Q29zU2ktSHdHNHZtQzRBOFpLSUwxcTRpX3g2Z05fNFFjVG5Qa1R0Z0Z1M1pkYmlMN0xPVjJ1OWstVmsyQk1Dd1V6SW9CNlNvSzJBdjZacjhZYmliYUVGOTZrdzg4UXpSVmZ0YlN0d3VpNmRRTmFFV3N3VEFNY2JHYXY3TkhZYkNTemZFWFdvUzVJVjFCb2RORUU0UFQ4dW9BVEY3M295TW1oejhjdg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amcor-2026-06-10-003",
+    "date": "2026-06-10",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Amcor gains RecyClass certification for UK-made flexible packaging - Packaging Gateway",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNWXVVakhYenViRDBxT2JoMGdpaXhEUGFsZGRqbmtudHpkZDFXaWF6dFdTYmwtQ1BDZVNwaDFRdnZVLU90bmJaUUMzaVNCZ20yLUVqb2Z0OGJuSzhVekV2UG80WW4wSUNSSGxGREtpa2",
+    "sources": [
+      {
+        "name": "amcor",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWXVVakhYenViRDBxT2JoMGdpaXhEUGFsZGRqbmtudHpkZDFXaWF6dFdTYmwtQ1BDZVNwaDFRdnZVLU90bmJaUUMzaVNCZ20yLUVqb2Z0OGJuSzhVekV2UG80WW4wSUNSSGxGREtpa2FUMlhEZUxBMEZ4WDVfWW9Ub0lCcDUwZVIyNmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-06-10-004",
+    "date": "2026-06-10",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sustainability & Impact Awards 2026 | Smurfit Westrock shortlisted - Packaging News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNm1qMjVwdUtfcmhXcjNyU0JoTHFLSU5OU25XODVobEdFZ0Q1Y3lUZW9PenFNNkhvbjdXdlhqLTBMRU9LVk9YUnU4TURQQVlBTUxqdkJJUVM4NmdQSUdjcVpqZEpZdnRjNEVuUWJOMG",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNm1qMjVwdUtfcmhXcjNyU0JoTHFLSU5OU25XODVobEdFZ0Q1Y3lUZW9PenFNNkhvbjdXdlhqLTBMRU9LVk9YUnU4TURQQVlBTUxqdkJJUVM4NmdQSUdjcVpqZEpZdnRjNEVuUWJOMGVMM052b05XSzBPMDF1eDl0UlkzektHM1VzTkV1WUhmVlp4UGVyQ1A1ZDd4bXBjMzV3Sk1ycGNXRFVFbW1KWGFTYTRQanBTZmpZemFkWFB6a05sRUp0TjVILVptVTJLeWc3VzJaU0ludm12Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "crown-2026-06-09-001",
     "date": "2026-06-09",
     "companies": [
@@ -15,6 +95,84 @@
       {
         "name": "crown",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeURSblhPTGZxa1Ewd3V3TGhUSW5OZ2lKSmJmdFZVX0hjTmtPTGpJZ0pPOWFSV3hDVlBlRXFYckRBTnpFazVWd3lhMGFFaWpUMjFUMWtWMGhma2pUbHhnZEphRmF4RkprcU9oOG52VkRsb2E3aWdyMllFbDU5MWVYMDVTMUdpQUwzOTUwZVU5dWxfTnZpUTlTbVljTjByUVpPTnRvSU1KU00xZGhteWRqald5Y1ZWS01Bcm84b3ZkYWxtUk9mYVpz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "idexx-2026-06-09-002",
+    "date": "2026-06-09",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is IDEXX Laboratories Stock Underperforming the Nasdaq? - inkl",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQYkZNOHUzamxWMi13R0R2UktMTUhYRzJrdG1tbjBKZDJobzJKSFVYcVdSWjVqQ1MzOUI1Uk41YTdlaHk1QmZ1eVJKeU40Vlh1aXdZZHhfY2lWdnJQRGlyRGFwX3cwbnVTY2tNZG1JUz",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYkZNOHUzamxWMi13R0R2UktMTUhYRzJrdG1tbjBKZDJobzJKSFVYcVdSWjVqQ1MzOUI1Uk41YTdlaHk1QmZ1eVJKeU40Vlh1aXdZZHhfY2lWdnJQRGlyRGFwX3cwbnVTY2tNZG1JUzFoQjRUZ0dOMXdGY0xLZ0RiN3gwTlppOFo1UWNfLXJHd1N3NkU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-06-09-003",
+    "date": "2026-06-09",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "A Look At International Paper’s (IP) Valuation After A Year Of Weaker Share Price Performance - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPOEVmcS1uTnBOZVBKOFlQU3VXTXd6ZC1Ddk1LUXk5aVRwMWpUODNuNGJMVk1HQ2NOZU11elh3Y1NPWmdIZFRkSWVRSzVwM21qZm14TTRSWllndWM0ZXJpNV83V1JQWTNOb1ZDbjZYOX",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOEVmcS1uTnBOZVBKOFlQU3VXTXd6ZC1Ddk1LUXk5aVRwMWpUODNuNGJMVk1HQ2NOZU11elh3Y1NPWmdIZFRkSWVRSzVwM21qZm14TTRSWllndWM0ZXJpNV83V1JQWTNOb1ZDbjZYOXI5M1pEUnZVaDVOUGxkam9DcjZCRjNQeWNtQkk5Ql9leTU3X3pQNGJNTFVqWldzakl3RUlvbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-06-09-004",
+    "date": "2026-06-09",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "International Paper Rail Hub Project Tests Valuation Gap And Dividend Risks - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWUxhOUJHU0N3VXVRSVplM0dZOVdFUVlvRC1vYm1haTE0ay0wS0dGSEcxZEpmdElRTlpqR0tHeHFZRUI4LWFjTmdvbDFkZ09BMGZDLXFTLUEwVVVUWVlGak9LUGJUNnlieHNVWXdRWE",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWUxhOUJHU0N3VXVRSVplM0dZOVdFUVlvRC1vYm1haTE0ay0wS0dGSEcxZEpmdElRTlpqR0tHeHFZRUI4LWFjTmdvbDFkZ09BMGZDLXFTLUEwVVVUWVlGak9LUGJUNnlieHNVWXdRWE9BTk9DLUhfOWF6OTMyNVcyaHh4QUJ1eGJtZmZtdGRndHpzLTR3M0RSRndTSEFuM3pWYzItZG1PM2NlMnVtUWN1S09GRkpsZlQzM3ZSUG8tSkZLNC05THZlWnVObWxJcWYy0gHWAUFVX3lxTE43TFE1ZjJtSm9tTGtGUmZqUW95eDNnY2hmOGRWUGE5MTZ3Y1VFdHA3Y1ZYVzdxOGdkRTlFQ000dnBOSGNzRjZOalRPZ0R0WkV2dHJlUko3YTFQa3FrUml5SjhpQVN5a0tydHJwbGVZdDNkMGM5VHZlMjZjc3d5TkVjdGRwQUpJby11QWtYRXhHSkluNnNqT3lFdFA0V2ZRVXVHNzg1c1JOTjZuY19FOGhKT29jSzZ5QUpUNGN2Tm5KN0Y0TnF5ZHdjZmROclhiYlVTaHVHRUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "crown-2026-06-09-005",
+    "date": "2026-06-09",
+    "companies": [
+      "crown"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Industrial Packaging Stocks Q1 In Review: Crown Holdings (NYSE:CCK) Vs Peers - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPSkN6UGxZbDd5YV9MaHpWLXBPTV9RVW9oQVZPYmZKZ3VsRUxEWUt3YXVwSkN4dzBqYmlneUhSWjB6RlhhdHpJMnpuUm1TT2laRW42VURBNWprZGNrWjB5cDRFakYtQmpCajRXWEZObF",
+    "sources": [
+      {
+        "name": "crown",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSkN6UGxZbDd5YV9MaHpWLXBPTV9RVW9oQVZPYmZKZ3VsRUxEWUt3YXVwSkN4dzBqYmlneUhSWjB6RlhhdHpJMnpuUm1TT2laRW42VURBNWprZGNrWjB5cDRFakYtQmpCajRXWEZObFlXMGZuT1pCdmJGUElhMUtzVHBKZjliYklaTTVMWWVad1BKVUs3Yzg4ZUJkNHd2TDZfSVJyWg?oc=5",
         "type": "rss"
       }
     ]
@@ -231,6 +389,26 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/us-mergers-acquisitions-volume-projected-rise-8-percent-2026-ey/822249/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "zoetis-2026-06-08-012",
+    "date": "2026-06-08",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "ZTS INVESTOR ALERT: Zoetis Inc. Investors with Substantial Losses Have Opportunity to Lead Shareholder Class Action Lawsuit - TMX Newsfile",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdk1zUDVIN2dDajRPSFNGNDM1a0k1MzFKZXBCTXRibVlWMkVicEp4U2FReDdRS0dhc19ORFBPUlhfdW1lTXFRSFpyTTJ4aUlUQnI5Nm1kRGdSTjNQdWRXS0tpdGFZTkJMQlVobWdfb1",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdk1zUDVIN2dDajRPSFNGNDM1a0k1MzFKZXBCTXRibVlWMkVicEp4U2FReDdRS0dhc19ORFBPUlhfdW1lTXFRSFpyTTJ4aUlUQnI5Nm1kRGdSTjNQdWRXS0tpdGFZTkJMQlVobWdfb1R1eURNTUxHclhtLTNOYUNaVWc2RXZseDc5OTBKLXF0ZFJWT1F2SWxGc01UckJaWlMwWl9NbEJrZTIyT3hCOHEzek56cVQ2TENOWTdsQmxQbHJOMHhndGI0NklFSFpNcXowaG1ZU1lPUmVVaHBaRTAzVmtkRnpfd3M1aGFMRHpRY2dJUU92ckIwS3Nn?oc=5",
         "type": "rss"
       }
     ]
@@ -1258,6 +1436,24 @@
     ]
   },
   {
+    "id": "intl_paper-2026-06-04-029",
+    "date": "2026-06-04",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "International Paper Completes $360MM Acquisition of North Pacific Paper Company - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNbXBxSFNtNVBwemZuRjhiSUZmVHBIejZSd1NFejNRcjlvc2pzTmR1dzktMldvdlBiSUNBLXhLMkV2Y3ZNTjNJa2dRZFJnd2c3SF80YjBCTkNzUVd1SlYtLWtzRGhaUjl1SFpXZE9UY2",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbXBxSFNtNVBwemZuRjhiSUZmVHBIejZSd1NFejNRcjlvc2pzTmR1dzktMldvdlBiSUNBLXhLMkV2Y3ZNTjNJa2dRZFJnd2c3SF80YjBCTkNzUVd1SlYtLWtzRGhaUjl1SFpXZE9UY2FkN2RvOGhXQVFZaDFMZ0xhb29SSUxYSVJ6b1J1eTZRdHZsX1NuY3lXTjBESXJ3eUhUdkx1ZWkzQXowRkFNbEV6NlN5clY1LWRLdVJjT3JjU1FxRUwxZTNURE5QYUU1UHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "amcor-2026-06-03-001",
     "date": "2026-06-03",
     "companies": [
@@ -1671,6 +1867,26 @@
       {
         "name": "petco",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeHV1Z0o4bXI3c196eE8xUHhabFJxeTN5T3g3RTljMlcxVGZCODBVNm1nc1h3Z0dTSF8wUUZLTEs2cGxfanUyVXdxZW5xalRHTEhNazBZUDZYUnIwMW9NTk5OdV9XX1E1X0IzSEtpbVV0YW5HeTFIczBUTFZIVlNWd1JkbWZuYTlUXzFpVmcxYlVzcDV6ZHV4Rm9aNUZFQlBKUWdvdm9yUGFuWUpra1dqdTlHWnNjWkx3NTIybFhFc0lYNTRiWTFaR2FZVVlYdGxjR0tKd1ByLWtyNjNScVg0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "petco-2026-06-03-022",
+    "date": "2026-06-03",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Petco Health and Wellness Q1 Earnings Call Highlights - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxONWtfMmlGRjhWdjNEVldPNzVIS09OaTNzeWQyTGRzVVo2ak5PNkttdi05SGhqLXJ0NXZYcGVUR0RrQ0hDbEtuYVo4aWxGdXFmekpRbHl4aThiekF4R2ZzOF9kWjVKRl9jQ1B6OWg4ZW",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONWtfMmlGRjhWdjNEVldPNzVIS09OaTNzeWQyTGRzVVo2ak5PNkttdi05SGhqLXJ0NXZYcGVUR0RrQ0hDbEtuYVo4aWxGdXFmekpRbHl4aThiekF4R2ZzOF9kWjVKRl9jQ1B6OWg4ZWY2d0J0dG0yNEVOUUlNNUpQWjRQZEhEWkNoNVVOTnlsZnB5Skl5ajFBaVRSOVZTcXhIS2pKZEZqRUJkdjlpWXRFUWM5X0F3S1czXzVJNlNjY0JGVVdEUFYzMzhXbWw4dWkwRjMxSA?oc=5",
         "type": "rss"
       }
     ]

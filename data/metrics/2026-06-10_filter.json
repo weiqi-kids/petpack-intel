@@ -1,0 +1,16 @@
+{
+  "total_raw": 328,
+  "dup_title": 157,
+  "no_date": 0,
+  "too_old": 132,
+  "gate1_fail": 16,
+  "gate2_fail": 12,
+  "passed": 11,
+  "gate2_samples": [
+    "Zoetis Lenivia Approval Tests Companion Animal Growth And Legal Concerns - Yahoo Finance",
+    "ZTS UPCOMING DEADLINE: Levi & Korsinsky Alerts Zoetis Inc. - GlobeNewswire",
+    "Zoetis (ZTS) Receives UK Approval for Long-Acting Osteoarthritis Pain Therapy Lenivia - Insider Monk",
+    "Zoetis Shares Resources and Tips for New World Screwworm Response and Management - Oklahoma Farm Rep",
+    "How Is Zoetis’ Stock Performance Compared to Other Healthcare Stocks? - Yahoo Finance"
+  ]
+}
