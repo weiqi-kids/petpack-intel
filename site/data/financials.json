@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-10T11:35:38.217902Z",
-  "quarter": "2025-12-31, 2026-01-31, 2026-03-31",
+  "updated_at": "2026-06-11T12:07:09.917954Z",
+  "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
       "id": "amcor",
@@ -75,17 +75,17 @@
       "name": "寵物電商",
       "ticker": "CHWY",
       "currency": "USD",
-      "ar": 222200000,
-      "ar_prev": 216000000,
-      "ar_qoq": "+3%",
+      "ar": 231400000,
+      "ar_prev": 222200000,
+      "ar_qoq": "+4%",
       "ar_period": "QoQ",
-      "inventory": 864800000,
-      "inv_prev": 943900000,
-      "inv_qoq": "-8%",
+      "inventory": 1007900000,
+      "inv_prev": 864800000,
+      "inv_qoq": "+17%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-01-31"
+      "quarter_date": "2026-04-30"
     },
     {
       "id": "crown",
@@ -194,17 +194,17 @@
       "name": "Petco Health and Wellness",
       "ticker": "WOOF",
       "currency": "USD",
-      "ar": 45812000,
-      "ar_prev": 42900000,
-      "ar_qoq": "+7%",
+      "ar": 36928000,
+      "ar_prev": 45812000,
+      "ar_qoq": "-19%",
       "ar_period": "QoQ",
-      "inventory": 590210000,
-      "inv_prev": 617896000,
-      "inv_qoq": "-4%",
+      "inventory": 632912000,
+      "inv_prev": 590210000,
+      "inv_qoq": "+7%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-01-31"
+      "quarter_date": "2026-04-30"
     },
     {
       "id": "pkg",
@@ -238,23 +238,6 @@
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-12-31"
-    },
-    {
-      "id": "sealed_air",
-      "name": "希悅爾",
-      "ticker": "SEE",
-      "currency": "USD",
-      "ar": 522200000,
-      "ar_prev": 490600000,
-      "ar_qoq": "+6%",
-      "ar_period": "QoQ",
-      "inventory": 737000000,
-      "inv_prev": 825100000,
-      "inv_qoq": "-11%",
-      "inv_period": "QoQ",
-      "inventory_applicable": true,
-      "alert": false,
       "quarter_date": "2025-12-31"
     },
     {

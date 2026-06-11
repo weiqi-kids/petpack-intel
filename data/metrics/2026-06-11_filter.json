@@ -1,0 +1,16 @@
+{
+  "total_raw": 328,
+  "dup_title": 154,
+  "no_date": 0,
+  "too_old": 133,
+  "gate1_fail": 18,
+  "gate2_fail": 11,
+  "passed": 12,
+  "gate2_samples": [
+    "Zoetis Lenivia Approval Tests Companion Animal Growth And Legal Concerns - Yahoo Finance",
+    "ZTS UPCOMING DEADLINE: Levi & Korsinsky Alerts Zoetis Inc. - GlobeNewswire",
+    "Zoetis Shares Resources and Tips for New World Screwworm Response and Management - Oklahoma Farm Rep",
+    "Is IDEXX Laboratories Stock Underperforming the Nasdaq? - Barchart.com",
+    "Why Is Chewy Drawing Attention as Pet E-Commerce Trends Evolve? - Kalkine Media"
+  ]
+}

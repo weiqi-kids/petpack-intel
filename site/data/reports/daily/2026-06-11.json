@@ -1,0 +1,120 @@
+{
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T12:07:13.958614Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "zoetis-2026-06-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zoetis Stock Might Be Cheap For A Reason (NYSE:ZTS) - Seeking Alpha",
+      "companies": [
+        "zoetis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS1I3UHJQbHR4d09GRkZzbXo2eEtxbkV6ZFg4VzVFdWExcFF0dm91VW9HOGJFTXozdUdZVWxvWmJrUTNieTUzdmZNZi1RZ0o2UWJZTmQ4YXg3SU1QQ1BnMzVlUmtsTUdYdVF1VVNrZGo5Qm5DUUxIbDdBYVpqMjVxZ2pnaWdrblpq?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "amcor-2026-06-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Amcor gains RecyClass certification for PCR - PKN Packaging News",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdnlwRjJZeTFyOEExRGI5MjBOQnhCRFJVTm1WOE9Sclhidk43VFNGcFNkSjl6ckpsZm9jc2s2TmRQVVNuRFEweE1ERmNqdmZoVzdVZy1MblprczJOVFJMS1JGSWtScFQtS3NLVzlZQjg1UXVWU0JPekVJdEtZcmdWS21yWVppNU5Gdk92Yjk1MTR4a1dQWWc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "zoetis",
+        "count": 1
+      },
+      {
+        "id": "amcor",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 328,
+    "dup_title": 154,
+    "too_old": 133,
+    "gate1_blocked": 18,
+    "gate2_blocked": 11,
+    "passed": 12,
+    "pass_rate": "6.9%",
+    "gate2_block_rate": "6.3%",
+    "gate2_samples": [
+      "Zoetis Lenivia Approval Tests Companion Animal Growth And Legal Concerns - Yahoo Finance",
+      "ZTS UPCOMING DEADLINE: Levi & Korsinsky Alerts Zoetis Inc. - GlobeNewswire",
+      "Zoetis Shares Resources and Tips for New World Screwworm Response and Management - Oklahoma Farm Rep",
+      "Is IDEXX Laboratories Stock Underperforming the Nasdaq? - Barchart.com",
+      "Why Is Chewy Drawing Attention as Pet E-Commerce Trends Evolve? - Kalkine Media"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為碩騰、安姆科相關動態：「Zoetis Stock Might Be Cheap For A Reason (NYSE:ZTS) - See...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Zoetis Stock Might Be Cheap For A Reason (NYSE:ZTS) - Seeking Alpha（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Amcor gains RecyClass certification for PCR - PKN Packaging News",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
