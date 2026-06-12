@@ -1,0 +1,16 @@
+{
+  "total_raw": 327,
+  "dup_title": 150,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 16,
+  "gate2_fail": 13,
+  "passed": 10,
+  "gate2_samples": [
+    "ZTS UPCOMING DEADLINE: Levi & Korsinsky Alerts Zoetis Inc. - GlobeNewswire",
+    "Zoetis Lenivia Approval Tests Companion Animal Growth And Legal Concerns - Yahoo Finance",
+    "Is IDEXX Laboratories Stock Underperforming the Nasdaq? - Barchart.com",
+    "Why Is Chewy Drawing Attention as Pet E-Commerce Trends Evolve? - Kalkine Media",
+    "Petco Health and Wellness Company's Plunge Was An Overreaction (Upgrade) (NASDAQ:WOOF) - Seeking Alp"
+  ]
+}
