@@ -1,0 +1,96 @@
+{
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T10:25:01.967107Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "amcor-2026-06-13-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Amcor (AMCR) Stock Valuation After New RecyClass Certification On UK Flexible Packaging - simplywall.st",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcjlxZzQ1RC00UVdDcEJTbzZIejQwYVZHZXp0YVAyaTJTeHNMVmM3alMwdGxQZy04UnEyS2ZiVXhPMEJrX21EdFdCVTZvZ3dmcTdiMmsxTE5jWFZiVDU0LV9hLWthNVVVLXlFNjlfTU8xMGhhMW5kYkR5Vm4tZlNPN0hyNHhONlFJVXlHNjdOSU1vMDJCYjBVN1FONGJSVWZ6em0wblZJd09RTWJFYmNuYW9XaWpkNlM5ZnJFX2hxQUrSAcYBQVVfeXFMTTdORHJ6Z1MtZlBUNWktTWVzZUVGTXJlZDhUMG8zQzZxbDFEcTJFTmFQamNvQ3JsNlNTSk1zY0VMUm1MX0NvN0xmRkNNTHJreHFNUktHYlRqZnhoc2gyLWR0QzJmWk9mUl9sVGhCTlRfSDlrX2pRTU1id1lsTERPQnB3bzRhc1VKemY3T2JCbGJCVDhJa1lLTEdKSkluakUtdjlWekVWTFF0Sk1lZU95cDh3X1JNVEJIbHJaWl92c2c2TXY4a0Rn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "amcor",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 328,
+    "dup_title": 145,
+    "too_old": 134,
+    "gate1_blocked": 16,
+    "gate2_blocked": 11,
+    "passed": 22,
+    "pass_rate": "12.0%",
+    "gate2_block_rate": "6.0%",
+    "gate2_samples": [
+      "ZTS UPCOMING DEADLINE: Levi & Korsinsky Alerts Zoetis Inc. - GlobeNewswire",
+      "Zoetis Lenivia Approval Tests Companion Animal Growth And Legal Concerns - Yahoo Finance",
+      "Why Is Chewy Drawing Attention as Pet E-Commerce Trends Evolve? - Kalkine Media",
+      "Petco Faces Tough Competition, But Momentum Is Building - MarketBeat",
+      "CES receives grant from International Paper - The Tidewater News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為安姆科相關動態：「Amcor (AMCR) Stock Valuation After New RecyClass Certific...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Amcor (AMCR) Stock Valuation After New RecyClass Certification On UK Flexible...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "安姆科為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 328,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 134,
+  "gate1_fail": 16,
+  "gate2_fail": 11,
+  "passed": 22,
+  "gate2_samples": [
+    "ZTS UPCOMING DEADLINE: Levi & Korsinsky Alerts Zoetis Inc. - GlobeNewswire",
+    "Zoetis Lenivia Approval Tests Companion Animal Growth And Legal Concerns - Yahoo Finance",
+    "Why Is Chewy Drawing Attention as Pet E-Commerce Trends Evolve? - Kalkine Media",
+    "Petco Faces Tough Competition, But Momentum Is Building - MarketBeat",
+    "CES receives grant from International Paper - The Tidewater News"
+  ]
+}
