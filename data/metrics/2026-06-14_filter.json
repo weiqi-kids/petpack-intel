@@ -1,0 +1,16 @@
+{
+  "total_raw": 328,
+  "dup_title": 151,
+  "no_date": 0,
+  "too_old": 149,
+  "gate1_fail": 16,
+  "gate2_fail": 7,
+  "passed": 5,
+  "gate2_samples": [
+    "Why Is Chewy Drawing Attention as Pet E-Commerce Trends Evolve? - Kalkine Media",
+    "International Paper to acquire North Pacific Paper Company - Supermarket Perimeter",
+    "Comp update: Smurfit Westrock (SW) officer granted shares and RSUs - Stock Titan",
+    "Smurfit Westrock (SW) officer receives share and RSU awards in equity grant - Stock Titan",
+    "Smurfit Westrock (SW) officer Ben Garren granted 60 shares, holds 14,869 - Stock Titan"
+  ]
+}
