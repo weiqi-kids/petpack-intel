@@ -1,0 +1,16 @@
+{
+  "total_raw": 329,
+  "dup_title": 160,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 15,
+  "gate2_fail": 9,
+  "passed": 6,
+  "gate2_samples": [
+    "Zoetis Lenivia Approval Tests Companion Animal Growth And Legal Concerns - Yahoo Finance",
+    "Is IDEXX Laboratories Stock Underperforming the Nasdaq? - Barchart.com",
+    "Why Is Chewy Drawing Attention as Pet E-Commerce Trends Evolve? - Kalkine Media",
+    "Amcor (NYSE: AMCR) taps Ryan Yost to lead Global Flexible Packaging - Stock Titan",
+    "Comp update: Smurfit Westrock (SW) officer granted shares and RSUs - Stock Titan"
+  ]
+}
