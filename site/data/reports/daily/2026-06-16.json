@@ -1,0 +1,96 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T12:49:41.418465Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "amcor-2026-06-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Amcor names new leadership for flexible packaging and investor relations - Yahoo Finance",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZE5aODBKamRILU05OFRFSnFpelRSX3lRR3NCak11bS14ck56a2NyVkY4Y3QyV3U0RVNGQ2l5OFlZZThkcF9FSHZTTW1BeHpKb3ZsSS05SVRGZ0wwV0JLalBEVTVKRGdRa2w4ZDdyV3AzdzFsUzJRdFA2SmZWVTZSQkExXzBuRjhUTUlDcWd3eUJqOXd3WWdkbXJsZ1FSenY4VFN1NnI5WHZnUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "amcor",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 329,
+    "dup_title": 159,
+    "too_old": 134,
+    "gate1_blocked": 16,
+    "gate2_blocked": 13,
+    "passed": 7,
+    "pass_rate": "4.1%",
+    "gate2_block_rate": "7.6%",
+    "gate2_samples": [
+      "Zoetis Lenivia Approval Tests Companion Animal Growth And Legal Concerns - Yahoo Finance",
+      "Is IDEXX Laboratories Stock Underperforming the Nasdaq? - Barchart.com",
+      "Why Is Chewy Drawing Attention as Pet E-Commerce Trends Evolve? - Kalkine Media",
+      "Petco Health and Wellness | 4: Statement of changes in beneficial ownership of securities-Officer In",
+      "Amcor taps Avery Dennison exec to lead global flexibles - Packaging Dive"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為安姆科相關動態：「Amcor names new leadership for flexible packaging and inv...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Amcor names new leadership for flexible packaging and investor relations - Ya...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "安姆科為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
