@@ -1,0 +1,139 @@
+{
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T12:14:11.262320Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "idexx-2026-06-17-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "IDEXX Catalyst One turns into a smarter clinic accessory for faster in-house diagnostics - AD HOC NEWS",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "vet_spending",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQM3BrVmkxaHhjSktWS3Q2bWZFeDV1VW82NlJuTWNHY1FLOTJJOW9OOUZ0OF9oak41QmhfLWhBUEtyWmE5N3dLUXNtOGE3S3Y3TkY1YWljV2E0aElOZkVQZGpOa19uQ0N1VGI0MUp6VDZUSWVlbmZwY191bkVrbVZlZm5CLTE3Z3gxd2x6S1N6bEk4US0zVzZjSkliU0MwZURJaFdSQ2RBMjlqYWFMQ1J3SE1EVzNteThTSzJEbVJCYmEtOHZ1?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intl_paper-2026-06-17-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper (IP) Stock Could Be 8.2% Undervalued Despite Rising Financial Risk - simplywall.st",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX2RzNTZhVFBBRUQ2UURqWVJTN3dnRjZwT2pwcG9JeERQN2VEaDlIQ3laaThVelh5TlBPcjFtMVhURG4tY0ZrY0hNWG1RZWdwbW9JcXZFYlBqYWhGZWdYSTdVUTRoVlk2aTZycDI3a1FNcHljU1Iza0FicmdWemptRU9GcEhYWTFXMDRMUEUzWUpkRVhINEx2UmU0cm1hY01nZC1xSmtiMkhidVUzYVdzN1pSalZRM2ktNEhmWmpodFQ3RUQyR2lsU3ZwQVI3ZTlH0gHWAUFVX3lxTE1kbUlSM3JWQU1CZVV4dXpmWmtIN0VwRk4xREc0alpEeVZldnVwMTh4SHlZN01ReW43Ylp0Q0s0VXQ4YVY4bm8tdVgxNVNKTEdhNFJacnVHMnExZkk4aUF1cEZIQmpRaEtpWVR1LU5Hc3I1eUZWNVRTLWFEUFZYRG42eE1tX1hob3Q0Zi12SzMwVDU2Q2xQWnFIY3hBdWZkaTNWOExROVVjRlBkc1BvQ09TMDlqdVVMRXpLYUl3UXhjMk12VGtQNmo0S3A2dHBEMVhsTHNhOVE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "vet_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "idexx",
+        "count": 1
+      },
+      {
+        "id": "intl_paper",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "vet_spending",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 140,
+    "too_old": 139,
+    "gate1_blocked": 14,
+    "gate2_blocked": 9,
+    "passed": 5,
+    "pass_rate": "3.0%",
+    "gate2_block_rate": "5.4%",
+    "gate2_samples": [
+      "Why Is Chewy Drawing Attention as Pet E-Commerce Trends Evolve? - Kalkine Media",
+      "Trupanion Shareholders Back Board, Auditor and Pay Plans - The Globe and Mail",
+      "Petco Health and Wellness | 4: Statement of changes in beneficial ownership of securities-Officer In",
+      "International Paper seeking Maintenance Mechanic - Dubois County Free Press, Inc.",
+      "CES receives grant from International Paper - The Tidewater News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為愛德士、國際紙業相關動態：「IDEXX Catalyst One turns into a smarter clinic accessory ...」。主要關注主題為財報、獸醫支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "IDEXX Catalyst One turns into a smarter clinic accessory for faster in-house ...（獸醫支出、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "International Paper (IP) Stock Could Be 8.2% Undervalued Despite Rising Finan...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
