@@ -1,0 +1,16 @@
+{
+  "total_raw": 288,
+  "dup_title": 126,
+  "no_date": 0,
+  "too_old": 117,
+  "gate1_fail": 15,
+  "gate2_fail": 16,
+  "passed": 14,
+  "gate2_samples": [
+    "What Makes Zoetis (ZTS) an Attractive Bet? - Yahoo Finance UK",
+    "IDEXX Laboratories Stock - Analyst views and valuation debate - AD HOC NEWS",
+    "International Paper seeking Maintenance Mechanic - Dubois County Free Press, Inc.",
+    "International Paper Co (IP)'s Uncertain Future: Understanding th - GuruFocus",
+    "Amcor taps Avery Dennison exec to lead global flexibles - Packaging Dive"
+  ]
+}

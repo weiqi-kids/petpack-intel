@@ -1,64 +1,64 @@
 {
   "freshpet": {
     "earliest": "2014-11-07",
-    "latest": "2026-06-16",
-    "count": 2917,
+    "latest": "2026-06-17",
+    "count": 2918,
     "history_complete": true
   },
   "zoetis": {
     "earliest": "2013-02-01",
-    "latest": "2026-06-16",
-    "count": 3363,
+    "latest": "2026-06-17",
+    "count": 3364,
     "history_complete": true
   },
   "idexx": {
-    "earliest": "2008-05-23",
-    "latest": "2026-06-16",
-    "count": 4544
+    "earliest": "2008-02-25",
+    "latest": "2026-06-17",
+    "count": 4608
   },
   "central_pet": {
-    "earliest": "2008-05-23",
-    "latest": "2026-06-16",
-    "count": 4544
+    "earliest": "2008-02-25",
+    "latest": "2026-06-17",
+    "count": 4608
   },
   "elanco": {
     "earliest": "2018-09-20",
-    "latest": "2026-06-16",
-    "count": 1944,
+    "latest": "2026-06-17",
+    "count": 1945,
     "history_complete": true
   },
   "chewy": {
     "earliest": "2019-06-14",
-    "latest": "2026-06-16",
-    "count": 1761,
+    "latest": "2026-06-17",
+    "count": 1762,
     "history_complete": true
   },
   "trupanion": {
     "earliest": "2014-07-18",
-    "latest": "2026-06-16",
-    "count": 2996,
+    "latest": "2026-06-17",
+    "count": 2997,
     "history_complete": true
   },
   "petco": {
     "earliest": "2021-01-14",
-    "latest": "2026-06-16",
-    "count": 1361,
+    "latest": "2026-06-17",
+    "count": 1362,
     "history_complete": true
   },
   "intl_paper": {
-    "earliest": "2008-05-23",
-    "latest": "2026-06-16",
-    "count": 4544
+    "earliest": "2008-02-25",
+    "latest": "2026-06-17",
+    "count": 4608
   },
   "ball": {
-    "earliest": "2008-05-23",
-    "latest": "2026-06-16",
-    "count": 4544
+    "earliest": "2008-02-25",
+    "latest": "2026-06-17",
+    "count": 4608
   },
   "amcor": {
     "earliest": "2012-05-15",
-    "latest": "2026-06-16",
-    "count": 3542,
+    "latest": "2026-06-17",
+    "count": 3543,
     "history_complete": true
   },
   "sealed_air": {
@@ -69,37 +69,38 @@
   },
   "smurfit": {
     "earliest": "2008-06-17",
-    "latest": "2026-06-16",
-    "count": 4528
+    "latest": "2026-06-17",
+    "count": 4529,
+    "history_complete": true
   },
   "pkg": {
-    "earliest": "2008-05-23",
-    "latest": "2026-06-16",
-    "count": 4544
+    "earliest": "2008-02-25",
+    "latest": "2026-06-17",
+    "count": 4608
   },
   "cheng_loong": {
-    "earliest": "2008-06-06",
-    "latest": "2026-06-17",
-    "count": 4418
+    "earliest": "2008-03-10",
+    "latest": "2026-06-18",
+    "count": 4481
   },
   "rong_cheng": {
-    "earliest": "2008-06-06",
-    "latest": "2026-06-17",
-    "count": 4418
+    "earliest": "2008-03-10",
+    "latest": "2026-06-18",
+    "count": 4481
   },
   "crown": {
-    "earliest": "2008-05-23",
-    "latest": "2026-06-16",
-    "count": 4544
+    "earliest": "2008-02-25",
+    "latest": "2026-06-17",
+    "count": 4608
   },
   "graphic_pkg": {
-    "earliest": "2008-05-23",
-    "latest": "2026-06-16",
-    "count": 4544
+    "earliest": "2008-02-25",
+    "latest": "2026-06-17",
+    "count": 4608
   },
   "sonoco": {
-    "earliest": "2008-05-23",
-    "latest": "2026-06-16",
-    "count": 4544
+    "earliest": "2008-02-25",
+    "latest": "2026-06-17",
+    "count": 4608
   }
 }
