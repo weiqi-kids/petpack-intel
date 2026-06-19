@@ -1,0 +1,50 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T12:03:24.851835Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 329,
+    "dup_title": 152,
+    "too_old": 142,
+    "gate1_blocked": 14,
+    "gate2_blocked": 10,
+    "passed": 11,
+    "pass_rate": "6.2%",
+    "gate2_block_rate": "5.6%",
+    "gate2_samples": [
+      "What Makes Zoetis (ZTS) an Attractive Bet? - Yahoo Finance UK",
+      "Petco Health and Wellness | 4: Statement of changes in beneficial ownership of securities-Officer In",
+      "Is International Paper Stock Underperforming the Nasdaq? - Barchart.com",
+      "International Paper Co (IP)'s Uncertain Future: Understanding th - GuruFocus",
+      "Amcor taps Avery Dennison exec to lead global flexibles - Packaging Dive"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-06-19 無寵物經濟 + 包裝產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

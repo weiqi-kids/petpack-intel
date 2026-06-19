@@ -1,0 +1,16 @@
+{
+  "total_raw": 329,
+  "dup_title": 152,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 14,
+  "gate2_fail": 10,
+  "passed": 11,
+  "gate2_samples": [
+    "What Makes Zoetis (ZTS) an Attractive Bet? - Yahoo Finance UK",
+    "Petco Health and Wellness | 4: Statement of changes in beneficial ownership of securities-Officer In",
+    "Is International Paper Stock Underperforming the Nasdaq? - Barchart.com",
+    "International Paper Co (IP)'s Uncertain Future: Understanding th - GuruFocus",
+    "Amcor taps Avery Dennison exec to lead global flexibles - Packaging Dive"
+  ]
+}
