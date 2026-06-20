@@ -1,0 +1,16 @@
+{
+  "total_raw": 329,
+  "dup_title": 152,
+  "no_date": 0,
+  "too_old": 144,
+  "gate1_fail": 15,
+  "gate2_fail": 8,
+  "passed": 10,
+  "gate2_samples": [
+    "What Makes Zoetis (ZTS) an Attractive Bet? - Yahoo Finance UK",
+    "Is International Paper Stock Underperforming the Nasdaq? - Barchart.com",
+    "International Paper Co (IP)'s Uncertain Future: Understanding th - GuruFocus",
+    "Amcor taps Avery Dennison exec to lead global flexibles - Packaging Dive",
+    "Amcor appoints Ryan Yost as Division President, Global Flexible Packaging Solutions - lesprom.com"
+  ]
+}
