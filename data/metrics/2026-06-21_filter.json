@@ -1,0 +1,16 @@
+{
+  "total_raw": 329,
+  "dup_title": 160,
+  "no_date": 0,
+  "too_old": 144,
+  "gate1_fail": 14,
+  "gate2_fail": 8,
+  "passed": 3,
+  "gate2_samples": [
+    "What Makes Zoetis (ZTS) an Attractive Bet? - Yahoo Finance UK",
+    "IDEXX Laboratories Stock - Saturday deep dive into the long-term business model - AD HOC NEWS",
+    "Is International Paper Stock Underperforming the Nasdaq? - Yahoo Finance",
+    "Amcor taps Avery Dennison exec to lead global flexibles - Packaging Dive",
+    "Amcor (NYSE: AMCR) taps Ryan Yost to lead Global Flexible Packaging - Stock Titan"
+  ]
+}
