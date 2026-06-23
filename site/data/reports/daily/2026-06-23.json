@@ -1,0 +1,76 @@
+{
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T10:59:54.505678Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "smurfit-2026-06-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Smurfit Westrock’s Shift To A Sole NYSE Listing (SW) Has Changed Its Investment Story - simplywall.st",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTFJnNUZkRWZ5Uk9EMkNvX2tJaXYyTWFXWUVoTkVqQVRsWnoxc1B1cVVxUUZCckNoUTlZYXdYcW5vNlZjU0Z3OEhJWFVTTEplNGJvckNhSnhpSDNQbXB0eVJnZjN1a2lNLVFRY2Jfbm5kMmEySWQxc2xVTXk3NHViNzJkUnJDRFJkTTFtdklVWEJLRDVtQWZZZGJXU2pnaVBQN05RbnlZd3NCa1dQaTE0dV9PUXVkOXVXRWtRRG1fTDZxcFBoVmhhX3dZX1rSAdIBQVVfeXFMUGdvQ0RJbEJqWjRCMzZrU1RjMmRIT0RadVZ5cjQybDFaMVV1dmh5S1BFUktfc2Z0aGZPV3pyVFRoOGhxRzJ4aGsxNzNRYk5aQWh5UXduckpRLWoyRmMtd2RfYk1HOGs5YURCNVdQZE1yY25Eb2d5ODRPR3BKSnR0VkpQUXVqTE5PNFRsSmgxT0JTd3pqU3pMdl9yZ1U5dUMtS094RHlzdTY1d1VjRWVrbTlVNGxMbmpuc085dHVnc2dTM3MwUVNDNmxmVWdiVllyTU53?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "smurfit",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 328,
+    "dup_title": 151,
+    "too_old": 137,
+    "gate1_blocked": 16,
+    "gate2_blocked": 12,
+    "passed": 12,
+    "pass_rate": "6.8%",
+    "gate2_block_rate": "6.8%",
+    "gate2_samples": [
+      "Zoetis (ZTS) Lost 22% in a Day; What Has Wall Street Worried? - Yahoo Finance",
+      "ZTS UPCOMING DEADLINE: Levi & Korsinsky Alerts Zoetis Inc. - GlobeNewswire",
+      "IDEXX Laboratories Stock - Saturday deep dive into the long-term business model - AD HOC NEWS",
+      "Chewy Stock - Sunday background on the pet e-commerce player - AD HOC NEWS",
+      "Is International Paper Stock Underperforming the Nasdaq? - Barchart.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為斯莫菲特相關動態：「How Smurfit Westrock’s Shift To A Sole NYSE Listing (SW) ...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "How Smurfit Westrock’s Shift To A Sole NYSE Listing (SW) Has Changed Its Inve...",
+        "level": "green"
+      },
+      {
+        "text": "斯莫菲特為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

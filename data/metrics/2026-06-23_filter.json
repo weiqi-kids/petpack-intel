@@ -1,0 +1,16 @@
+{
+  "total_raw": 328,
+  "dup_title": 151,
+  "no_date": 0,
+  "too_old": 137,
+  "gate1_fail": 16,
+  "gate2_fail": 12,
+  "passed": 12,
+  "gate2_samples": [
+    "Zoetis (ZTS) Lost 22% in a Day; What Has Wall Street Worried? - Yahoo Finance",
+    "ZTS UPCOMING DEADLINE: Levi & Korsinsky Alerts Zoetis Inc. - GlobeNewswire",
+    "IDEXX Laboratories Stock - Saturday deep dive into the long-term business model - AD HOC NEWS",
+    "Chewy Stock - Sunday background on the pet e-commerce player - AD HOC NEWS",
+    "Is International Paper Stock Underperforming the Nasdaq? - Barchart.com"
+  ]
+}
