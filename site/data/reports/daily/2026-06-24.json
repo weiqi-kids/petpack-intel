@@ -1,0 +1,76 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T10:45:48.258893Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sealed_air-2026-06-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sealed Air and Yangi: Fiber trays & flexibles reshape protein packs amid regulatory pressures - Packaging Insights",
+      "companies": [
+        "sealed_air"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeldOb0xtOXI3RHhJdUthWnNWaTVWY0lTY0hUandhUzZTLVdrNGtnV2tiWVZ1RjNqczE4SHFHTERKT3lTYThZY3cwUm84U0lPdG4zaDZvWk9IWFh6bjROYVU4TkhSRERVMnNTRWw4TF9pd1Vxd2FDRXJUMWJrWVdWbUp6WHcyUHFjR2dnYWYtZFp6OVJLQlpIRQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "sealed_air",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 328,
+    "dup_title": 150,
+    "too_old": 133,
+    "gate1_blocked": 14,
+    "gate2_blocked": 13,
+    "passed": 18,
+    "pass_rate": "10.1%",
+    "gate2_block_rate": "7.3%",
+    "gate2_samples": [
+      "Zoetis (ZTS) Lost 22% in a Day; What Has Wall Street Worried? - Yahoo Finance",
+      "ZTS UPCOMING DEADLINE: Levi & Korsinsky Alerts Zoetis Inc. - GlobeNewswire",
+      "IDEXX Laboratories Stock - Saturday deep dive into the long-term business model - Ad-hoc-news.de",
+      "Chewy Stock - Sunday background on the pet e-commerce player - Ad-hoc-news.de",
+      "International Paper Co (IP)'s Uncertain Future: Understanding th - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為希悅爾相關動態：「Sealed Air and Yangi: Fiber trays & flexibles reshape pro...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Sealed Air and Yangi: Fiber trays & flexibles reshape protein packs amid regu...",
+        "level": "green"
+      },
+      {
+        "text": "希悅爾為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
