@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 152,
+  "no_date": 0,
+  "too_old": 127,
+  "gate1_fail": 14,
+  "gate2_fail": 15,
+  "passed": 22,
+  "gate2_samples": [
+    "Zoetis (ZTS) Lost 22% in a Day; What Has Wall Street Worried? - Yahoo Finance",
+    "Lost Money on Zoetis Inc. (ZTS)? Join Class Action Suit Seeking Recovery - Contact Levi & Korsinsky ",
+    "ZTS UPCOMING DEADLINE: Levi & Korsinsky Alerts Zoetis Inc. - GlobeNewswire",
+    "Chewy Stock - Sunday background on the pet e-commerce player - Ad-hoc-news.de",
+    "International Paper Employees Scholarship Foundation Awards $6,000 In College Scholarships - NorthEs"
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T10:48:16.012111Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cheng_loong-2026-06-26-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Enterprise value to revenue forward of Cheng Loong Corp. – TWSE:1904 - TradingView",
+      "companies": [
+        "cheng_loong"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOUNaamZiZGpPMld1ZnZmMFVneURuaHhBWklDZlJSWXB1RDVac1ZzWjFHbllkY0ZFWWxnenFQbGxGUmJPT24wQ1Y3UGZnQjIzZmxZTzhNQXZlX3VTQWloVk0zQUhfMU9jTHlOYVAxY2xDam4zRk9PSDQtUjZXV3QtSU9KdWNfSnVlSE94dnl5VGpBN1k4c3hnT1FWdHFBbjlGLWdlRnpaUFAyUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cheng_loong-2026-06-26-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Price to earnings forward of Cheng Loong Corp. – TWSE:1904 - TradingView",
+      "companies": [
+        "cheng_loong"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOclhmTlpTd0NKMU84NVg1V0FiMXRKS0pUNFJGWTNCUFVxYmtpbXA3MlF4ZWtuMXNaMlZZRnpyOVFsOHdQeGlSMzRiTkFuaHRLWlRKU2U0Y3VwY0lhS0Q1Nks5YWFFU3BMM3Zsb3pVcFNvQWhMMDRMQno3S01zbDhwcVZCOEJ5M0RWaEFaTTNOQUFhUGRuRVQ2bzZjNXh5Qkk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "crown-2026-06-26-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Price to earnings forward of Crown Holdings, Inc. – NYSE:CCK - TradingView",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQzNCR0locGJDVzhvOFhOUWZTdndZY3h4RmphSGlDdUFLWFhpYm51UVpXVjBWYXo4ZmV4QVJOWDlLUlNYdDFQZUR3bGRnRFhYb0E5ZmIwVUltQ25kOWMyQ0tLMFQ1bHp6ZGZzczJEMWR5QTV2ZnlKX2RUMzlaWTc4Q1hCVUd6TjNFYlFMZ0hsOVJXdzhvV21wX3d0RWlSZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "smurfit-2026-06-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Smurfit Westrock climate goals evolving post-merger - Resource Recycling",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTVRYa3c3dTl6eW04alNRTUNrTE9qc1VVcEVTXy1RYURoRFZGb3JYMWIzdkgzcjhDUG9xZHFMeGkyWjE2cWp3WlZ0R21aVXV4aGUyS181Rm9OeTE2Tmo3aU81T2JtZ09MYmdLNE1PR2pRdFg5SXdGclpwVHNld3hCb1lVX2RNeXVJSWRlTGx4b3ZBZFRSclhQa2VCWW1GMEdHT2F3eUE1TQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cheng_loong",
+        "count": 2
+      },
+      {
+        "id": "smurfit",
+        "count": 1
+      },
+      {
+        "id": "crown",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 152,
+    "too_old": 127,
+    "gate1_blocked": 14,
+    "gate2_blocked": 15,
+    "passed": 22,
+    "pass_rate": "12.4%",
+    "gate2_block_rate": "8.4%",
+    "gate2_samples": [
+      "Zoetis (ZTS) Lost 22% in a Day; What Has Wall Street Worried? - Yahoo Finance",
+      "Lost Money on Zoetis Inc. (ZTS)? Join Class Action Suit Seeking Recovery - Contact Levi & Korsinsky ",
+      "ZTS UPCOMING DEADLINE: Levi & Korsinsky Alerts Zoetis Inc. - GlobeNewswire",
+      "Chewy Stock - Sunday background on the pet e-commerce player - Ad-hoc-news.de",
+      "International Paper Employees Scholarship Foundation Awards $6,000 In College Scholarships - NorthEs"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Cheng Loong、斯莫菲特、皇冠相關動態：「Enterprise value to revenue forward of Cheng Loong Corp. ...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Enterprise value to revenue forward of Cheng Loong Corp. – TWSE:1904 - Tradin...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Price to earnings forward of Cheng Loong Corp. – TWSE:1904 - TradingView（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
