@@ -1,0 +1,96 @@
+{
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T10:01:12.805308Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "idexx-2026-06-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "IDEXX Laboratories focuses on long-term growth, shares in NASDAQ-100 healthcare peer group - Ad-hoc-news.de",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUlZ1Q0M3MmFXRW5DNUVqNlZNUGNjMnBZTkZHa0swQ1ZEMkE1Z21RVHVrTDFBNkVwMm9BV1NxZS02WUVfeGhwcnRDTU5WQWt2ZXVwODMxcjhtZEpvNS1Tc0FzamNtem5vSVp5OWZTaE5NN3F1eV9EOFhnaGhnZ01nb2I0alNjNFdkZ1BNVmFNX1I1eFFlYVBhVV8ybU9jQTdyM3hmRHJDTGN1X0lBaGVIWkFaNVhkc2R1bkRwVjY1dlZUUktt?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "idexx",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 157,
+    "too_old": 125,
+    "gate1_blocked": 17,
+    "gate2_blocked": 22,
+    "passed": 9,
+    "pass_rate": "5.2%",
+    "gate2_block_rate": "12.7%",
+    "gate2_samples": [
+      "Zoetis (ZTS) Lost 22% in a Day; What Has Wall Street Worried? - Yahoo Finance",
+      "Lost Money on Zoetis Inc. (ZTS)? Join Class Action Suit Seeking Recovery - Contact Levi & Korsinsky ",
+      "ZTS UPCOMING DEADLINE: Levi & Korsinsky Alerts Zoetis Inc. - GlobeNewswire",
+      "Chewy Stock - Sunday background on the pet e-commerce player - Ad-hoc-news.de",
+      "Price to sales forward of Petco Health and Wellness Company, Inc. – NASDAQ:WOOF - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為愛德士相關動態：「IDEXX Laboratories focuses on long-term growth, shares in...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "IDEXX Laboratories focuses on long-term growth, shares in NASDAQ-100 healthca...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "愛德士為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
