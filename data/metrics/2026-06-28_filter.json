@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 157,
+  "no_date": 0,
+  "too_old": 129,
+  "gate1_fail": 15,
+  "gate2_fail": 21,
+  "passed": 8,
+  "gate2_samples": [
+    "Zoetis (ZTS) Lost 22% in a Day; What Has Wall Street Worried? - Yahoo Finance",
+    "Lost Money on Zoetis Inc. (ZTS)? Join Class Action Suit Seeking Recovery - Contact Levi & Korsinsky ",
+    "ZTS UPCOMING DEADLINE: Levi & Korsinsky Alerts Zoetis Inc. - GlobeNewswire",
+    "IDEXX Laboratories opens the week with a clear consensus, NASDAQ-100 shares in a steady trend - Ad-h",
+    "Chewy Stock - Sunday background on the pet e-commerce player - Ad-hoc-news.de"
+  ]
+}
