@@ -1,0 +1,118 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T10:53:47.130338Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intl_paper-2026-06-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "International Paper announces shutdowns, layoffs at 4 US facilities - Packaging Dive",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQmdYXzJBOHNkRlhmZjVHZG1MZm1BT2Y2eUViZU92aGpVWFU0Z09jaFdDLUNTeHB3Y0o3U2VHNWkxTU5PSF9mLTcyUWxpa1o5U04xOFlDdHNjcUVDNGptOExRa29UcnJMSzJXLUZ0NEtWNWkzNWg3U1h2UkZJVHJpV2xRQngwZ3ktcWxJbHpvRXdIUTNWUFNwenVORzFud1F3bmswd29ldExadw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sealed_air-2026-06-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sealed Air exec: Proof, not promises, will drive packaging sustainability claims - Packaging Insights",
+      "companies": [
+        "sealed_air"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "pet_insurance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOHlBLVFUYzlLNlpaVHd0c0RxMDhncjJ2dmZCc3hTNWItd0hqelp6SWpYMGN5cll4Yng1YmhjakVEV19kX3UxcVBxTzdWVkdyVTNSZlYyZGpxYk9jdEVqaVlJbnlNSUhScjdnNTJPek1aNzZyT19yeDZRdUk4YVdUVGlzRkV4cDlJOTIwaVRmZ2s0SE1BSWc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "pet_insurance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 1
+      },
+      {
+        "id": "sealed_air",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "pet_insurance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 329,
+    "dup_title": 152,
+    "too_old": 129,
+    "gate1_blocked": 15,
+    "gate2_blocked": 17,
+    "passed": 16,
+    "pass_rate": "9.0%",
+    "gate2_block_rate": "9.6%",
+    "gate2_samples": [
+      "Lost Money on Zoetis Inc. (ZTS)? Join Class Action Suit Seeking Recovery - Contact Levi & Korsinsky ",
+      "Why Is Zoetis (NYSE:ZTS) Turning Heads Today? - Kalkine Media",
+      "Petco Health and Wellness Company, Inc.(NasdaqGS:WOOF) dropped from Russell 3000 Growth Benchmark - ",
+      "Price to sales forward of Petco Health and Wellness Company, Inc. – NASDAQ:WOOF - TradingView",
+      "Petco Health and Wellness Company, Inc. (WOOF) Investigation: Bro - The National Law Review"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為國際紙業、希悅爾相關動態：「International Paper announces shutdowns, layoffs at 4 US ...」。主要關注主題為寵物保險，市場情緒中性。",
+    "signals": [
+      {
+        "text": "International Paper announces shutdowns, layoffs at 4 US facilities - Packagi...",
+        "level": "green"
+      },
+      {
+        "text": "Sealed Air exec: Proof, not promises, will drive packaging sustainability cla...（寵物保險）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
