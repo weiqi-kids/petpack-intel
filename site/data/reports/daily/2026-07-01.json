@@ -1,0 +1,172 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T11:21:21.118095Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "zoetis-2026-07-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Branded Pharmaceuticals Stocks Q1 Teardown: Zoetis (NYSE:ZTS) Vs The Rest - TradingView",
+      "companies": [
+        "zoetis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd2RiUWJlUnhMbldRN1dPWndiLUZTMFBSXzVoNHZDSnZUNGlSN1RKcjI1cmFpcGVNZXVRcGhWTnZpeDRwMzc0YUZvUnlaMF8yVHViTFRCSzlPODdYWUxadWk2RGxQSU8wdEM4TWlqSHhYeUpibnBWeERoaXp5WVd3dDJVeUpSb3BDbGtrZDJqS3BZZlpmcFY1OW5DSGU0d1prUVpMTlpjMzBIdklkYmpaNUpEWW9xT0NnMEhsUndZbnhDRUJVSXdHUGc4Yw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "smurfit-2026-07-01-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Forbes names Smurfit Westrock as one of the world’s most successful companies - PULPAPERnews.com",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMDVxYWgzNlQ1b1Z6MFRFOHdYSG85WEVJWHo5dUh1S3pzM09vb1RCYnJfUEFfVl9YV1pGbjNaeWlyZ3FxYXVHenF3MEFDb05fazFwaGJBeENpZUJsN2xSR2NsWHBGX1JpR25KaHREMmIxbDBXME1LNVBHWFBpQ2t6aGQ5cHJyUHVJVTFTQ0JQRmptWUxDSkozTEZSakoxZW5TbS1xTDNfZjZJOExaVV93?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "smurfit-2026-07-01-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Packaging News Sustainability PowerBook | UK Packaging PRO, Smurfit Westrock - Packaging News",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQN0h3SmhHdjQ1SUNOM3BScVB0bnFwaVZJamZmOTRGcFctVU1peXFOcGJJLTVkaldrSnhGYnpGQ2UySGtSODVRdlczNjgyYkRZOUV6a1kwVFlWbjllZE91U3BNQTFDSEVxRmFXT3FNNllNYWQyMDRxaXRnMkc3QWZtUVVCTzhlMFQ2a2pLeTJEWHhFWlZWUmQ2SnZVUHBLS1hDeWlZQk9ab3BGS0xiVWZ1eEd3ZFVmaGhtTGJwT2EzbktJS3JMaXI5bHhfVFBhLU81QV9qbXNZRzlremx5aUdwSFkzSWxrZ2t5?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "amcor-2026-07-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Amcor partners with Kelpi to test seaweed coating for recyclable fiber packaging - Packaging Insights",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPNVJaaGtUcVA2dGdrc0dLVGUzdHpDdl9qcW5mOFRxTkVDcElXc3hiWlRIZHFleTFONWlQakxvVDk1azVtT19Xc3RRNUlocFI4bHQxdHhLcjJndUQtUEpzTzF5RzZBbFJVbXg4bnR0b0wwalZJdTNTN01yUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "smurfit",
+        "count": 2
+      },
+      {
+        "id": "zoetis",
+        "count": 1
+      },
+      {
+        "id": "amcor",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 328,
+    "dup_title": 151,
+    "too_old": 130,
+    "gate1_blocked": 15,
+    "gate2_blocked": 15,
+    "passed": 17,
+    "pass_rate": "9.6%",
+    "gate2_block_rate": "8.5%",
+    "gate2_samples": [
+      "Lost Money on Zoetis Inc. (ZTS)? Join Class Action Suit Seeking Recovery - Contact Levi & Korsinsky ",
+      "Petco Health and Wellness Company, Inc.(NasdaqGS:WOOF) dropped from Russell 3000 Growth Benchmark - ",
+      "Price to sales forward of Petco Health and Wellness Company, Inc. – NASDAQ:WOOF - TradingView",
+      "Petco Health and Wellness Company, Inc. (WOOF) Investigation: Bro - The National Law Review",
+      "International Paper Continues Strategic Transformation with North America Packaging Network Optimiza"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為斯莫菲特、碩騰、安姆科相關動態：「Branded Pharmaceuticals Stocks Q1 Teardown: Zoetis (NYSE:...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Branded Pharmaceuticals Stocks Q1 Teardown: Zoetis (NYSE:ZTS) Vs The Rest - T...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Forbes names Smurfit Westrock as one of the world’s most successful companies...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

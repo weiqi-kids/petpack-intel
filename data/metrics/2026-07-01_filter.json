@@ -1,0 +1,16 @@
+{
+  "total_raw": 328,
+  "dup_title": 151,
+  "no_date": 0,
+  "too_old": 130,
+  "gate1_fail": 15,
+  "gate2_fail": 15,
+  "passed": 17,
+  "gate2_samples": [
+    "Lost Money on Zoetis Inc. (ZTS)? Join Class Action Suit Seeking Recovery - Contact Levi & Korsinsky ",
+    "Petco Health and Wellness Company, Inc.(NasdaqGS:WOOF) dropped from Russell 3000 Growth Benchmark - ",
+    "Price to sales forward of Petco Health and Wellness Company, Inc. – NASDAQ:WOOF - TradingView",
+    "Petco Health and Wellness Company, Inc. (WOOF) Investigation: Bro - The National Law Review",
+    "International Paper Continues Strategic Transformation with North America Packaging Network Optimiza"
+  ]
+}

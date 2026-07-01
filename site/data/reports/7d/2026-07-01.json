@@ -1,0 +1,145 @@
+{
+  "date": "2026-07-01",
+  "date_range": {
+    "start": "2026-06-25",
+    "end": "2026-07-01"
+  },
+  "generated_at": "2026-07-01T11:21:21.241214Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "zoetis-2026-06-25-004",
+      "date": "2026-06-25",
+      "title": "Zoetis's Q2 Test: Can Innovation Outpace a Challenging Market? - BriefGlance",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "guidance": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    },
+    "earnings": {
+      "this_week": 15,
+      "last_week": 13,
+      "week_over_week_change": "+15%",
+      "sentiment_this_week": 0.03
+    },
+    "pet_insurance": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "idexx": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 3
+    },
+    "smurfit": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "cheng_loong": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "crown": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "intl_paper": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "sealed_air": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "zoetis": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "amcor": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 81,
+        "last": 78,
+        "change_pct": 3.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-25",
+      "event_count": 20,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-26",
+      "event_count": 14,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-06-27",
+      "event_count": 7,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-06-28",
+      "event_count": 3,
+      "sentiment_avg": 0.17
+    },
+    {
+      "date": "2026-06-29",
+      "event_count": 23,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-30",
+      "event_count": 10,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-07-01",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-25 ~ 2026-07-01）共 81 則事件，重點為「Zoetis's Q2 Test: Can Innovation Outpace a Chal...」。財報、展望、寵物保險為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "愛德士",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "斯莫菲特",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "國際紙業",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
