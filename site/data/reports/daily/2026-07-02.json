@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T10:34:11.322426Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intl_paper-2026-07-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "International Paper highlights global packaging role as markets eye sustainable materials - AD HOC NEWS",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTmM3VVg4aGVkcTRDQklLdmlDakY3aUJGSXJIZWFwa1FrWlZUTzdDdTRFX1VEMHRncDc5VXYyaTFyVFRyMXFKZE9fWmV0WC1KNnZEQWhDMVAtMjd2dzRTRGJvOGloaW5XRGFJckpfcWhXbFRpYWZBR0FUblpXRVpPZTFCWFdxRGJ3d0dQbUpaa01JSnhpajM1YVRmNkNtblB5ZVgtUVd1N3lXOEJOMERhTEJqN0dwRG0tY0YxLXZicWpYMkRN?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 328,
+    "dup_title": 160,
+    "too_old": 137,
+    "gate1_blocked": 17,
+    "gate2_blocked": 9,
+    "passed": 5,
+    "pass_rate": "3.0%",
+    "gate2_block_rate": "5.4%",
+    "gate2_samples": [
+      "Petco Health and Wellness Company, Inc.(NasdaqGS:WOOF) dropped from Russell 3000 Growth Benchmark - ",
+      "Petco Health and Wellness Company, Inc. (WOOF) Investigation: Bro - The National Law Review",
+      "International Paper Continues Strategic Transformation with North America Packaging Network Optimiza",
+      "International Paper restructures North American packaging network - Global Cosmetics News",
+      "Amcor tests seaweed-based coatings for fiber packaging - Stock Titan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為國際紙業相關動態：「International Paper highlights global packaging role as m...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "International Paper highlights global packaging role as markets eye sustainab...",
+        "level": "green"
+      },
+      {
+        "text": "國際紙業為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

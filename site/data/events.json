@@ -1,5 +1,23 @@
 [
   {
+    "id": "intl_paper-2026-07-02-001",
+    "date": "2026-07-02",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "International Paper highlights global packaging role as markets eye sustainable materials - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQTmM3VVg4aGVkcTRDQklLdmlDakY3aUJGSXJIZWFwa1FrWlZUTzdDdTRFX1VEMHRncDc5VXYyaTFyVFRyMXFKZE9fWmV0WC1KNnZEQWhDMVAtMjd2dzRTRGJvOGloaW5XRGFJckpfcW",
+    "sources": [
+      {
+        "name": "google_news_packaging",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTmM3VVg4aGVkcTRDQklLdmlDakY3aUJGSXJIZWFwa1FrWlZUTzdDdTRFX1VEMHRncDc5VXYyaTFyVFRyMXFKZE9fWmV0WC1KNnZEQWhDMVAtMjd2dzRTRGJvOGloaW5XRGFJckpfcWhXbFRpYWZBR0FUblpXRVpPZTFCWFdxRGJ3d0dQbUpaa01JSnhpajM1YVRmNkNtblB5ZVgtUVd1N3lXOEJOMERhTEJqN0dwRG0tY0YxLXZicWpYMkRN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "zoetis-2026-07-01-001",
     "date": "2026-07-01",
     "companies": [
@@ -73,6 +91,64 @@
       {
         "name": "smurfit",
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQN0h3SmhHdjQ1SUNOM3BScVB0bnFwaVZJamZmOTRGcFctVU1peXFOcGJJLTVkaldrSnhGYnpGQ2UySGtSODVRdlczNjgyYkRZOUV6a1kwVFlWbjllZE91U3BNQTFDSEVxRmFXT3FNNllNYWQyMDRxaXRnMkc3QWZtUVVCTzhlMFQ2a2pLeTJEWHhFWlZWUmQ2SnZVUHBLS1hDeWlZQk9ab3BGS0xiVWZ1eEd3ZFVmaGhtTGJwT2EzbktJS3JMaXI5bHhfVFBhLU81QV9qbXNZRzlremx5aUdwSFkzSWxrZ2t5?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "zoetis-2026-07-01-005",
+    "date": "2026-07-01",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "vet_spending"
+    ],
+    "impact": "neutral",
+    "title": "Zoetis (ZTS) Index Shift: A Harbinger for Its Competitive Moat in Companion-Animal Health? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQMkVkOUZyMFZjWm1Ma1FXSE9aaHFjVXI1Y0dzalZXVWt1R2JzeWZ4Wm9HYm9zUFZqSU0xM3hkMXJwcjdYbWx5NUdGNkxCZjFtUDJXcXhmMERtT2VHWDNJTzBaVXlsV2lBVzZkMzBscU",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMkVkOUZyMFZjWm1Ma1FXSE9aaHFjVXI1Y0dzalZXVWt1R2JzeWZ4Wm9HYm9zUFZqSU0xM3hkMXJwcjdYbWx5NUdGNkxCZjFtUDJXcXhmMERtT2VHWDNJTzBaVXlsV2lBVzZkMzBscUF6Wmh3Y2RxMTlWUWFFa2ZiWlc4NHd4aXkwX1NKMnViVUJvQkF5a2IySVlwdVdydw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "zoetis-2026-07-01-006",
+    "date": "2026-07-01",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Branded Pharmaceuticals Stocks Q1 Teardown: Zoetis (NYSE:ZTS) Vs The Rest - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZDRWVDNMVlRQMV9zbkFBS2NrMHVyQURUaTFGbnpNWEpFLVB3WWktTXg4M3V0WWlSRzBLQ0h6bVExaFFTSUk2UjZUbENHSm5DZjZfOEJncThkcC1yNThNSzFxaXFUVXNFZE9MU1pGVz",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZDRWVDNMVlRQMV9zbkFBS2NrMHVyQURUaTFGbnpNWEpFLVB3WWktTXg4M3V0WWlSRzBLQ0h6bVExaFFTSUk2UjZUbENHSm5DZjZfOEJncThkcC1yNThNSzFxaXFUVXNFZE9MU1pGVzdseEtmRndwcDhsajcyVndzU3pMa3QtRXV3RXdLaHVNTFJIbXhzTnZ4X1hqU1lEUDRMLWZ2X3lweTR5RDdleGtYMlNUX2RQazA0RklJeDUxQWlqcWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amcor-2026-07-01-007",
+    "date": "2026-07-01",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Amcor Announces Scott Fallon as President of Amcor Flexibles North America - Packaging Strategies",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOZlEwMVR4VXp4b29ldlhrT2czVWJQQjczX2xYdm5Wc3lpbHBoajdFV0dIOGI5QWpCTEM0bDZRQnFQNXZNRlVoR01FM3dQdFhTdnB5LWRmUEZWZ2RHamRwY0pkRV9BdFl4U3I3ZlV4N3",
+    "sources": [
+      {
+        "name": "amcor",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZlEwMVR4VXp4b29ldlhrT2czVWJQQjczX2xYdm5Wc3lpbHBoajdFV0dIOGI5QWpCTEM0bDZRQnFQNXZNRlVoR01FM3dQdFhTdnB5LWRmUEZWZ2RHamRwY0pkRV9BdFl4U3I3ZlV4N3o2YTd3Y0FaLWVOcTJGVUxGT3VoQWFTckN2bVBUS0I2WTR3YkxYaGxPWWNSTG4wOFRZZ1VDN2ZlWmRTSlp4Vy1FWGYxM1UtX3lPaVdORnBGN3lPdmdm?oc=5",
         "type": "rss"
       }
     ]
@@ -262,6 +338,26 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/chemical-recycling-standard-transparency-operations-environmental-concerns/824088/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-06-30-011",
+    "date": "2026-06-30",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Paper Streamlines Operations Through Facility Closures - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTG82cERvc1ZXOUhVT044X1ZjakUzQVpnSG1PTFRvdUE2V2dzRXZ6ZlRuSXlHY0dGc2hiN3h2blBzeHlUNnJqcnJOY0xTQUtCRE1aOFNfcVJIWHpJQ3duZkRpX0hTQ3Z2ZGhtMkJ1ZE",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTG82cERvc1ZXOUhVT044X1ZjakUzQVpnSG1PTFRvdUE2V2dzRXZ6ZlRuSXlHY0dGc2hiN3h2blBzeHlUNnJqcnJOY0xTQUtCRE1aOFNfcVJIWHpJQ3duZkRpX0hTQ3Z2ZGhtMkJ1ZEMxcjl5aFRTdkk2VG9Ma2FlUkM4TFZDajAyS1BNcWl0eDVpT3dIZjh0enFTcXg5djVKQ1JlTkswWlZmbF9Nc1gzVDA4RC0zeTNnZFhndGs5LVU0Zw?oc=5",
         "type": "rss"
       }
     ]

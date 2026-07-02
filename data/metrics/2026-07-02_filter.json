@@ -1,0 +1,16 @@
+{
+  "total_raw": 328,
+  "dup_title": 160,
+  "no_date": 0,
+  "too_old": 137,
+  "gate1_fail": 17,
+  "gate2_fail": 9,
+  "passed": 5,
+  "gate2_samples": [
+    "Petco Health and Wellness Company, Inc.(NasdaqGS:WOOF) dropped from Russell 3000 Growth Benchmark - ",
+    "Petco Health and Wellness Company, Inc. (WOOF) Investigation: Bro - The National Law Review",
+    "International Paper Continues Strategic Transformation with North America Packaging Network Optimiza",
+    "International Paper restructures North American packaging network - Global Cosmetics News",
+    "Amcor tests seaweed-based coatings for fiber packaging - Stock Titan"
+  ]
+}
