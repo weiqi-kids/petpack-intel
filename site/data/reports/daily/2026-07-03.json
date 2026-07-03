@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T10:31:45.332572Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 329,
+    "dup_title": 155,
+    "too_old": 135,
+    "gate1_blocked": 16,
+    "gate2_blocked": 10,
+    "passed": 13,
+    "pass_rate": "7.5%",
+    "gate2_block_rate": "5.7%",
+    "gate2_samples": [
+      "Petco Health and Wellness Company, Inc.(NasdaqGS:WOOF) dropped from Russell 3000 Growth Benchmark - ",
+      "Petco Health and Wellness Company, Inc. (WOOF) Investigation: Bro - The National Law Review",
+      "International Paper Continues Strategic Transformation with North America Packaging Network Optimiza",
+      "International Paper (IP) Is Closing Four U.S. Facilities To Rework Its Network - Yahoo Finance",
+      "Amcor, Kelpi Explore Bioplastic Barrier Coating - PlasticsToday"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-07-03 無寵物經濟 + 包裝產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

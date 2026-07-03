@@ -1,0 +1,16 @@
+{
+  "total_raw": 329,
+  "dup_title": 155,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 16,
+  "gate2_fail": 10,
+  "passed": 13,
+  "gate2_samples": [
+    "Petco Health and Wellness Company, Inc.(NasdaqGS:WOOF) dropped from Russell 3000 Growth Benchmark - ",
+    "Petco Health and Wellness Company, Inc. (WOOF) Investigation: Bro - The National Law Review",
+    "International Paper Continues Strategic Transformation with North America Packaging Network Optimiza",
+    "International Paper (IP) Is Closing Four U.S. Facilities To Rework Its Network - Yahoo Finance",
+    "Amcor, Kelpi Explore Bioplastic Barrier Coating - PlasticsToday"
+  ]
+}
