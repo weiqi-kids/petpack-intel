@@ -1,0 +1,111 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T10:05:09.376043Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "idexx-2026-07-04-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "IDEXX Laboratories stock leans on its diagnostics base - Ad-hoc-news.de",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "vet_spending",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUHViVFd4M3JlX2owNGo0eVJSalE3b09tZFdhWDdYVV9LR0R0Tko4V2I3R194UmlkRGQwYjd0VHhRaFZnUUw1T0VGa3JtWnd3NVlPZ201U01JakZPclZpTHctR1B2OU12RktHcndtbDc0YlFKNWdDd05PRW9FelZvYTY4YW4tVFdhR3Vxdk1uT04tM0R4VnVqV1o1YXotS2VOcVdDWGFXYzFTQ1RyYTJFVVdMUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "vet_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "idexx",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "vet_spending",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 327,
+    "dup_title": 159,
+    "too_old": 129,
+    "gate1_blocked": 18,
+    "gate2_blocked": 9,
+    "passed": 12,
+    "pass_rate": "7.1%",
+    "gate2_block_rate": "5.4%",
+    "gate2_samples": [
+      "Petco Health and Wellness Company, Inc.(NasdaqGS:WOOF) dropped from Russell 3000 Growth Benchmark - ",
+      "Petco Health and Wellness Company, Inc. (WOOF) Investigation: Bro - The National Law Review",
+      "International Paper (IP) Is Closing Four U.S. Facilities To Rework Its Network - Yahoo Finance",
+      "Amcor, Kelpi Explore Bioplastic Barrier Coating - PlasticsToday",
+      "Amcor tests seaweed-based coatings for fiber packaging - Stock Titan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為愛德士相關動態：「IDEXX Laboratories stock leans on its diagnostics base - ...」。主要關注主題為獸醫支出、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "IDEXX Laboratories stock leans on its diagnostics base - Ad-hoc-news.de（獸醫支出、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "愛德士為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
