@@ -1,0 +1,118 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T10:08:11.163095Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "amcor-2026-07-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Amcor plc builds on global packaging scale as investors watch long term margins - AD HOC NEWS",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORnVoQXo3dHo1bXptWjctcnFEaC1aNmRKZWd1Uk1oUTVvX294UnoxU01GQmd5Y094ZldVTllHamhjLXhmMGkzdnR3UmF6STNBZW1YY3ZEYUQ1dEJ4cERYSGdnb0xPTm1VMHRob1M5QTBLbFQ5cm1lR1l2ZDNVQWR2Z2ZyZmNKdU1iei1iMnViOTA0ODBzWkNIMHJlQ1U0SFRJdjNyeEphVHVBc2RMNmstTVVHX1JGelZLWm1QMmdfdXdKdnI3aW8yVGFn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-05-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Deere Stock And 2 Blue Chips Tied To Global Demand And US Market Strength - simplywall.st",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZUFiZFNEeXMwRDBHajJXN2tQb1d2cUZDUTVSaUNvVEZyWEROQWNrcmVQejNMSU50RHpvaFp0YVJ3VzFHSE5zMmw1UWlJdUtuQVZDRVhuVEtPMElRWHkzRzZhS3B4UHBBY3pQcVNyWXdTWXd6NmxhNDRfb2QxSWhSRHZqWHkzMGJ5RGt3RUhDSmp0UlFsNnUxTmd0N3hlcV9FNUJPZ2pyb3o4cm52VmZkYmRnNGVNaDhqaGVLc3NEbmVhUy0temEzMHM0UHB3eFVw0gHQAUFVX3lxTE5lQWJkU0R5czBEMEdqMlc3a1BvV3ZxRkNRNVJpQ29URnJYRE5BY2tyZVB6M0xJTnREem9oWnRhUndXMUdITnMybDVRaUl1S25BVkNFWG5US08wSVFYeTNHNmFLcHhQcEFjelBxU3JZd1NZd3o2bGE0NF9vZDFJaFJEdmpYeTMwYnlEa3dFSENKanRSUWw2dTFOZ3Q3eGVxX0U1Qk9nanJvejhybnZWZmRiZGc0ZU1oOGpoZUtzc0RuZWFTLS16YTMwczRQcHd4VXA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "amcor",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 327,
+    "dup_title": 156,
+    "too_old": 136,
+    "gate1_blocked": 15,
+    "gate2_blocked": 12,
+    "passed": 8,
+    "pass_rate": "4.7%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "The IDEXX Catalyst One analyzer - a long-running workhorse for vet clinics - AD HOC NEWS",
+      "Petco Health and Wellness Company, Inc.(NasdaqGS:WOOF) dropped from Russell 3000 Growth Benchmark - ",
+      "International Paper (IP) Is Closing Four U.S. Facilities To Rework Its Network - Yahoo Finance",
+      "Amcor, Kelpi Explore Bioplastic Barrier Coating - PlasticsToday",
+      "Amcor Installs First Moda Rotary Vacuum Chamber in Brazil - Packaging Strategies"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為安姆科相關動態：「Amcor plc builds on global packaging scale as investors w...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Amcor plc builds on global packaging scale as investors watch long term margi...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Deere Stock And 2 Blue Chips Tied To Global Demand And US Market Strength - s...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

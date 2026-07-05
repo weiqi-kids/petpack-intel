@@ -1,0 +1,16 @@
+{
+  "total_raw": 327,
+  "dup_title": 156,
+  "no_date": 0,
+  "too_old": 136,
+  "gate1_fail": 15,
+  "gate2_fail": 12,
+  "passed": 8,
+  "gate2_samples": [
+    "The IDEXX Catalyst One analyzer - a long-running workhorse for vet clinics - AD HOC NEWS",
+    "Petco Health and Wellness Company, Inc.(NasdaqGS:WOOF) dropped from Russell 3000 Growth Benchmark - ",
+    "International Paper (IP) Is Closing Four U.S. Facilities To Rework Its Network - Yahoo Finance",
+    "Amcor, Kelpi Explore Bioplastic Barrier Coating - PlasticsToday",
+    "Amcor Installs First Moda Rotary Vacuum Chamber in Brazil - Packaging Strategies"
+  ]
+}
