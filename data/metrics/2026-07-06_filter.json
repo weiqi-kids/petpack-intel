@@ -1,0 +1,16 @@
+{
+  "total_raw": 327,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 130,
+  "gate1_fail": 15,
+  "gate2_fail": 15,
+  "passed": 8,
+  "gate2_samples": [
+    "Zoetis: The 60% Decline Was Justified, But Shares Are Finally Buyable - Seeking Alpha",
+    "Here’s What Analysts Say About Petco Health and Wellness (WOOF) - Yahoo Finance",
+    "Here’s What Analysts Say About Petco Health and Wellness (WOOF) - Insider Monkey",
+    "Petco (WOOF) is One of the Best Value Penny Stocks to Buy According to Hedge Funds - Yahoo Finance",
+    "Petco Health and Wellness Company, Inc.(NasdaqGS:WOOF) dropped from Russell 3000 Growth Benchmark - "
+  ]
+}

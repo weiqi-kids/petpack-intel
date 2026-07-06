@@ -1,5 +1,87 @@
 [
   {
+    "id": "idexx-2026-07-06-001",
+    "date": "2026-07-06",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "vet_spending",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "IDEXX Laboratories stock holds its focus on diagnostics. Investors watch the business mix. - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOMUZac1BTODUwMjdDS04zYklXaWU4bHZPTW9aMHVjV2lqZVJRM3Y1RlRNNnUtZ29vR2NpRXZqVmpyQ3laVEI1bkM1QkU1YXNjY0hJdk9NM2Y0dEV2eUJPMml4S05YMEVfS0pYS2NmRz",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMUZac1BTODUwMjdDS04zYklXaWU4bHZPTW9aMHVjV2lqZVJRM3Y1RlRNNnUtZ29vR2NpRXZqVmpyQ3laVEI1bkM1QkU1YXNjY0hJdk9NM2Y0dEV2eUJPMml4S05YMEVfS0pYS2NmRzcyWnhFanJhTWZ2X0oycFJqSlB4TUQweWtjR09WVUozazZpMlJ3dXJyMUlBeEV6UGlxSWUxeHFJWl9vemplSG4zOVh5VHIxZlBEV2pHTkFuLXFSSmE2U20wWDJB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "idexx-2026-07-06-002",
+    "date": "2026-07-06",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "vet_spending",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The SNAP Pro Analyzer - IDEXX Laboratories leans on faster point-of-care diagnostics - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeXQwSlRvZlUyUlBwbjdDY0J4cVJZNEFFNFh1VnFMZkF1dzlYSGprM2dTMW1IR1ZHYXNIeElvX2RvLUN4NnhkVnhZLXlYMXpMVXJ3cUJDVGM2TFdqZTZJWlJIMEVrWGNrVWVWOVEtVl",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeXQwSlRvZlUyUlBwbjdDY0J4cVJZNEFFNFh1VnFMZkF1dzlYSGprM2dTMW1IR1ZHYXNIeElvX2RvLUN4NnhkVnhZLXlYMXpMVXJ3cUJDVGM2TFdqZTZJWlJIMEVrWGNrVWVWOVEtVlAtdTNDOWdjeHFjT3J5eVFPWXZkTVB4ZEJXMUtPN3c5dkxJcVhiNFNVWVliYm1TMVRWWWtVb2lYeUU1WUhKc0NpcGx5LTJDY0Y3NEI3YWl3bjhGQ2U2ZWhmOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sealed_air-2026-07-06-003",
+    "date": "2026-07-06",
+    "companies": [
+      "sealed_air"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sealed Air stock. Business context stays steady. - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSlpKSmtoX1NybXYzbGRqSFNzSzRGcW5jYmFGSHcwa1A0ZHdYMHdUOVV0ZkpKQUFRM1dKUXdDZUhUTUJWaUoydXpScElsZ18zUTBUMFU4aGNLTGNReVNqaHh3OEVXZHMxSmNORzdNQ2",
+    "sources": [
+      {
+        "name": "sealed_air",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSlpKSmtoX1NybXYzbGRqSFNzSzRGcW5jYmFGSHcwa1A0ZHdYMHdUOVV0ZkpKQUFRM1dKUXdDZUhUTUJWaUoydXpScElsZ18zUTBUMFU4aGNLTGNReVNqaHh3OEVXZHMxSmNORzdNQ2I3ZjVVb1UzRy1KY2hOcFVnNUNGLWZDRTh1NWV4R1B2WVhVajBsbW84MFJxa3VJdXBTaGR4bC1ZbGo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-07-06-004",
+    "date": "2026-07-06",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Smurfit Westrock’s Longview mill under inspection - PULPAPERnews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNbGgzclVXVWFPZHczYmQ4Rl9DSE5oT19MdTl0OUNqai15amI3cHFzNHh5MjlnS29oRmlJeXRNSllYOGx6Z0IzX3QyaDlMclpCNmp5ZjRGbk96LTFJWW9ub0duM3A0VDhSS1VWNDR5RD",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbGgzclVXVWFPZHczYmQ4Rl9DSE5oT19MdTl0OUNqai15amI3cHFzNHh5MjlnS29oRmlJeXRNSllYOGx6Z0IzX3QyaDlMclpCNmp5ZjRGbk96LTFJWW9ub0duM3A0VDhSS1VWNDR5RDJfNS1fZG9rWEN5VVdCeFNyY29qWlc5U0czLVhtSGxfSkFmWjBIcS1Z?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "amcor-2026-07-05-001",
     "date": "2026-07-05",
     "companies": [
@@ -33,6 +115,67 @@
       {
         "name": "crown",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZUFiZFNEeXMwRDBHajJXN2tQb1d2cUZDUTVSaUNvVEZyWEROQWNrcmVQejNMSU50RHpvaFp0YVJ3VzFHSE5zMmw1UWlJdUtuQVZDRVhuVEtPMElRWHkzRzZhS3B4UHBBY3pQcVNyWXdTWXd6NmxhNDRfb2QxSWhSRHZqWHkzMGJ5RGt3RUhDSmp0UlFsNnUxTmd0N3hlcV9FNUJPZ2pyb3o4cm52VmZkYmRnNGVNaDhqaGVLc3NEbmVhUy0temEzMHM0UHB3eFVw0gHQAUFVX3lxTE5lQWJkU0R5czBEMEdqMlc3a1BvV3ZxRkNRNVJpQ29URnJYRE5BY2tyZVB6M0xJTnREem9oWnRhUndXMUdITnMybDVRaUl1S25BVkNFWG5US08wSVFYeTNHNmFLcHhQcEFjelBxU3JZd1NZd3o2bGE0NF9vZDFJaFJEdmpYeTMwYnlEa3dFSENKanRSUWw2dTFOZ3Q3eGVxX0U1Qk9nanJvejhybnZWZmRiZGc0ZU1oOGpoZUtzc0RuZWFTLS16YTMwczRQcHd4VXA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "zoetis-2026-07-05-003",
+    "date": "2026-07-05",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why is Zoetis stock collapsing today? - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOTFJVbjRhQnBWN2RiOVlRWUY3dTdXMGs2M1VGVVltZURpd3Ytbk85Vm5JRXp4YXU4S29ZZENFa0pVSTJWNlpyWmZrNUxCb0lJNE1lUldCbEQ1dDJJRTYxX1RzLU42WlZtamVFREZDUE",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTFJVbjRhQnBWN2RiOVlRWUY3dTdXMGs2M1VGVVltZURpd3Ytbk85Vm5JRXp4YXU4S29ZZENFa0pVSTJWNlpyWmZrNUxCb0lJNE1lUldCbEQ1dDJJRTYxX1RzLU42WlZtamVFREZDUElyMkE3WE5RQXN5dklwaDN5aUlfb0VKM0lpSzUwRmszcU45cEtYNE5XOElqYlNEZVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "idexx-2026-07-05-004",
+    "date": "2026-07-05",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "vet_spending",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "IDEXX Laboratories stock tracks its core diagnostics business - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHgzSnZxeFlhYWM1Q2wydE5teDNNd1YxczZvNXJCUjBfQ0lvUld2aWpYMlNUSTQwZjBwWnNSUXdtWGRlZGlrYlJJRjduZHBaaWt0eTlxeG1hZFp6VlBqVk53TkVhcWhzdkpjanB6bW",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHgzSnZxeFlhYWM1Q2wydE5teDNNd1YxczZvNXJCUjBfQ0lvUld2aWpYMlNUSTQwZjBwWnNSUXdtWGRlZGlrYlJJRjduZHBaaWt0eTlxeG1hZFp6VlBqVk53TkVhcWhzdkpjanB6bW4yeV9LaTBJd1JQbm9lWm9LV3lxQ3k1emZpZ3E3cFdQRS0tMS1VZklJZGxxd19oZ05SMjAtQjhYUEhyUURNaHZ1VUtiR3g5djNUanJhWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sealed_air-2026-07-05-005",
+    "date": "2026-07-05",
+    "companies": [
+      "sealed_air"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "How Sealed Air Corporation (SEE) Affects Rotational Strategy Timing - Stock Traders Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOVJfN1ZQQ3JiaUY3Z0U3Rk1sTU9hYVJWRERXT2tnUTE5VXpEMllYTXZNVWZ4SFp0WUluSFNITi1ITWVFM0FsVDVvdzVXM0dYY3hKUHZDVk5ucWtONkNMdElLRmt1dEUtOWcxQkwzam",
+    "sources": [
+      {
+        "name": "sealed_air",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOVJfN1ZQQ3JiaUY3Z0U3Rk1sTU9hYVJWRERXT2tnUTE5VXpEMllYTXZNVWZ4SFp0WUluSFNITi1ITWVFM0FsVDVvdzVXM0dYY3hKUHZDVk5ucWtONkNMdElLRmt1dEUtOWcxQkwzamVYV1o5TFVad3BDLUhKdVpVcEQ2UjB0cTZhTllMYi16dFdRODhqaW0xZzMxb3VrMFNYbVJUZnpOTjM2TEpYdUU3OVpvaWpJbDdyTU5VSHg2VzRfalY3Z3c5S1d3SF80R2RIdHR6NDgtY3N3TDRMQ0E?oc=5",
         "type": "rss"
       }
     ]
@@ -315,6 +458,24 @@
       {
         "name": "trupanion",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSEdSdHlzWExRc245cmdSU3NXMGFBTVVZYl9PSWhsRFlETW42VFdIc3NiblduUkRRWUhvbUVWeDE4aGhMOXFYa0dQbmhYM3MtWUl6V1ZJX0tZR3JZc2R4TW44WHJfY2pjdV9YbWM5TGs3MHBSTjRsb3VCVzhNVVVRbjJxcDgyTmwyZTVjUmNRanRzWHVnNjhVemQxZWRDZUVydTd4UVVPNWgtdUNlYldIYk4tLVY0VElFbGpKU1NrV1BKaHZJUEFXTmx3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-03-012",
+    "date": "2026-07-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Oceanic Packaging Partnerships - Trend Hunter",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tRmRSVzFnVHBhYTgyVHZYTExfSFp1akZIS19rZUpYdkdXeEp4OVNtZWVwTElvcS1IYktlQ3VaX05BZnUxSDQteV9LNTUzRjV4d19sSWdFSV9NaGdzLUYw0gFkQVVfeXFMT1ZOc2V0dX",
+    "sources": [
+      {
+        "name": "amcor",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tRmRSVzFnVHBhYTgyVHZYTExfSFp1akZIS19rZUpYdkdXeEp4OVNtZWVwTElvcS1IYktlQ3VaX05BZnUxSDQteV9LNTUzRjV4d19sSWdFSV9NaGdzLUYw0gFkQVVfeXFMT1ZOc2V0dXRNMDJGMTFaa2F5bElrS1BwR01fRW5xNGtOc0pIejR0b3hqd0JmYk5YeVNjN1d1OWVHbDVrSFJGOXc2UVgwelZFamhyWmNUNGlobjRVZEk4anZWU3NNQQ?oc=5",
         "type": "rss"
       }
     ]

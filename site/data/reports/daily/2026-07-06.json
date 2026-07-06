@@ -1,0 +1,192 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T12:00:49.122157Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "idexx-2026-07-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "IDEXX Laboratories stock holds its focus on diagnostics. Investors watch the business mix. - AD HOC NEWS",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "vet_spending",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMUZac1BTODUwMjdDS04zYklXaWU4bHZPTW9aMHVjV2lqZVJRM3Y1RlRNNnUtZ29vR2NpRXZqVmpyQ3laVEI1bkM1QkU1YXNjY0hJdk9NM2Y0dEV2eUJPMml4S05YMEVfS0pYS2NmRzcyWnhFanJhTWZ2X0oycFJqSlB4TUQweWtjR09WVUozazZpMlJ3dXJyMUlBeEV6UGlxSWUxeHFJWl9vemplSG4zOVh5VHIxZlBEV2pHTkFuLXFSSmE2U20wWDJB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "idexx-2026-07-06-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The SNAP Pro Analyzer - IDEXX Laboratories leans on faster point-of-care diagnostics - AD HOC NEWS",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "vet_spending",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeXQwSlRvZlUyUlBwbjdDY0J4cVJZNEFFNFh1VnFMZkF1dzlYSGprM2dTMW1IR1ZHYXNIeElvX2RvLUN4NnhkVnhZLXlYMXpMVXJ3cUJDVGM2TFdqZTZJWlJIMEVrWGNrVWVWOVEtVlAtdTNDOWdjeHFjT3J5eVFPWXZkTVB4ZEJXMUtPN3c5dkxJcVhiNFNVWVliYm1TMVRWWWtVb2lYeUU1WUhKc0NpcGx5LTJDY0Y3NEI3YWl3bjhGQ2U2ZWhmOA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sealed_air-2026-07-06-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sealed Air stock. Business context stays steady. - AD HOC NEWS",
+      "companies": [
+        "sealed_air"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSlpKSmtoX1NybXYzbGRqSFNzSzRGcW5jYmFGSHcwa1A0ZHdYMHdUOVV0ZkpKQUFRM1dKUXdDZUhUTUJWaUoydXpScElsZ18zUTBUMFU4aGNLTGNReVNqaHh3OEVXZHMxSmNORzdNQ2I3ZjVVb1UzRy1KY2hOcFVnNUNGLWZDRTh1NWV4R1B2WVhVajBsbW84MFJxa3VJdXBTaGR4bC1ZbGo?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "smurfit-2026-07-06-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Smurfit Westrock’s Longview mill under inspection - PULPAPERnews.com",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbGgzclVXVWFPZHczYmQ4Rl9DSE5oT19MdTl0OUNqai15amI3cHFzNHh5MjlnS29oRmlJeXRNSllYOGx6Z0IzX3QyaDlMclpCNmp5ZjRGbk96LTFJWW9ub0duM3A0VDhSS1VWNDR5RDJfNS1fZG9rWEN5VVdCeFNyY29qWlc5U0czLVhtSGxfSkFmWjBIcS1Z?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "vet_spending": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "idexx",
+        "count": 2
+      },
+      {
+        "id": "sealed_air",
+        "count": 1
+      },
+      {
+        "id": "smurfit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "vet_spending",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 327,
+    "dup_title": 159,
+    "too_old": 130,
+    "gate1_blocked": 15,
+    "gate2_blocked": 15,
+    "passed": 8,
+    "pass_rate": "4.8%",
+    "gate2_block_rate": "8.9%",
+    "gate2_samples": [
+      "Zoetis: The 60% Decline Was Justified, But Shares Are Finally Buyable - Seeking Alpha",
+      "Here’s What Analysts Say About Petco Health and Wellness (WOOF) - Yahoo Finance",
+      "Here’s What Analysts Say About Petco Health and Wellness (WOOF) - Insider Monkey",
+      "Petco (WOOF) is One of the Best Value Penny Stocks to Buy According to Hedge Funds - Yahoo Finance",
+      "Petco Health and Wellness Company, Inc.(NasdaqGS:WOOF) dropped from Russell 3000 Growth Benchmark - "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為愛德士、希悅爾、斯莫菲特相關動態：「IDEXX Laboratories stock holds its focus on diagnostics. ...」。主要關注主題為財報、獸醫支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "IDEXX Laboratories stock holds its focus on diagnostics. Investors watch the ...（獸醫支出、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "The SNAP Pro Analyzer - IDEXX Laboratories leans on faster point-of-care diag...（獸醫支出、財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
