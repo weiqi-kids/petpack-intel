@@ -1,5 +1,144 @@
 [
   {
+    "id": "idexx-2026-07-07-001",
+    "date": "2026-07-07",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "vet_spending"
+    ],
+    "impact": "negative",
+    "title": "IDEXX Laboratories focuses on diagnostics growth. Business model supports long-term demand - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPbzZuRVJPQ0Z1azVvSWxXaUVKU2ZwSTZGNmNlV0lmdlRsU1Y1TXA5SVVRaFljN0llUlU4UHhldm1uc081MDlWTkJOZG9QUTdqRDFSVURqYXUxd2JmR1RYR2NTUTREUXVVbmgxMllIU0",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbzZuRVJPQ0Z1azVvSWxXaUVKU2ZwSTZGNmNlV0lmdlRsU1Y1TXA5SVVRaFljN0llUlU4UHhldm1uc081MDlWTkJOZG9QUTdqRDFSVURqYXUxd2JmR1RYR2NTUTREUXVVbmgxMllIU0ZJOTZoM2FZZHpSblZwS25IT3lCeW1XZFVJSExKdlYydDRtWmhKbm9NUTFYVkk5RWIyb1ZJVWtRV1Bsdl9rY01NSk5kMmo1QkxxNkRpdVE0UmZIcXlURlAtSkV4Yw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amcor-2026-07-07-002",
+    "date": "2026-07-07",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [
+      "sustainable_packaging",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Amcor plc focuses on sustainable packaging as investors weigh long-term growth prospects - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOeWR0U2dWUWhfTWFLWU93WGpydllLMWNZX1dkMGNtRExDLW9GSkt2VHVocHgybkd1RUpqaGZackV2R0pGaEZzNktXcFlXeWtWaURKSkZuYTJONmF0ZzBDZUQzMXhiU285S3EtZXdDNE",
+    "sources": [
+      {
+        "name": "amcor",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeWR0U2dWUWhfTWFLWU93WGpydllLMWNZX1dkMGNtRExDLW9GSkt2VHVocHgybkd1RUpqaGZackV2R0pGaEZzNktXcFlXeWtWaURKSkZuYTJONmF0ZzBDZUQzMXhiU285S3EtZXdDNENhbS1hbm9oMEYzZ2xPbWtvbWNwc2NsVHJOb0VmRmFvVWtRMEw2YVpQT2cwT29Ld2VSNmZCbUJBQ1A2dDBKUW04NEozVkJ4TmdCeGtiWGQwcUxVTTZuZTZZSmdn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amcor-2026-07-07-003",
+    "date": "2026-07-07",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Amcor (ASX:AMC): Can This Global Packaging Giant's Defensive Earnings Hold Through a Mixed Market? - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOZXFWZGVHOWhLRW9vaVg5eG1rVWFmUFBCR1F2bERtdFRlYlZranJpUWJKSDNheWVCY1JNVzlGM0RDb1hiLUtvQThHdXJFSjJWSU1RTWVoMWFUNzItNlpGZ09Md3JncmJvdzYydy1VZ3",
+    "sources": [
+      {
+        "name": "amcor",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZXFWZGVHOWhLRW9vaVg5eG1rVWFmUFBCR1F2bERtdFRlYlZranJpUWJKSDNheWVCY1JNVzlGM0RDb1hiLUtvQThHdXJFSjJWSU1RTWVoMWFUNzItNlpGZ09Md3JncmJvdzYydy1VZ3NTUWdPM2xBWWZfVVRPUW1weEtQZmp3c2I0MXpqWmpzRkEzNjU4MGlYMHl3MTBwNldqZnFWaXB1c3dzSlBVLVFLcUozYmtoR1Vuams4UGh6RWVNLU1Jemc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-07-07-004",
+    "date": "2026-07-07",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Smurfit Westrock partners with Coca-Cola on World Cup packaging to capture spike in consumer demand - PA Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZkFicHRCX2UyakloVzVtUVZYSm1WcFRVZU15cnRSWnNVS0xCM2pUVjU1ZGdYQUdQbmdmc3hMc1djQ3NMMDU0VVNTNFVfZUVidGE0SFEzOWJEZ2I1RGhSSU9rVUsxQ3BiV2NBZHZIMm",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZkFicHRCX2UyakloVzVtUVZYSm1WcFRVZU15cnRSWnNVS0xCM2pUVjU1ZGdYQUdQbmdmc3hMc1djQ3NMMDU0VVNTNFVfZUVidGE0SFEzOWJEZ2I1RGhSSU9rVUsxQ3BiV2NBZHZIMmdPck1ITkpqd0ZLNWZxWmtaOGx1WnNMQWF1X1FRMVZrd0tUeVpzdUtMb0liNktLVEotTTVCZlFTVHJFalNFWVp3NWJta3pPWmNDU0Viam51ekZSV0NPVVowdi01aV9ObDlFMTl1cV9UWUk5Mkk5UTJUdkFNZll3QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-07-07-005",
+    "date": "2026-07-07",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Smurfit Westrock and Coca-Cola eye World Cup demand with new packaging (SW:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNQXRTZlVSeVU2ZEpjWXE2aV9GTDl1a2R6TjNKSndPbGxFdnMwWV8zYnFGaW9GT0VwNlE2Vlg2LVJUbGJmdHJPWll0TTVfcWtXOGV2bWp0blJwVEtBUkVvdklCS2hlMmhxNEZSbjFGT3",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQXRTZlVSeVU2ZEpjWXE2aV9GTDl1a2R6TjNKSndPbGxFdnMwWV8zYnFGaW9GT0VwNlE2Vlg2LVJUbGJmdHJPWll0TTVfcWtXOGV2bWp0blJwVEtBUkVvdklCS2hlMmhxNEZSbjFGT3FBSHNBZnplc0RFRzJYOFFDYlFaT0VOeUtiTkNfNjJIN3JmamdGQVRfU0VzcmFrMXFmSjlTMkZJczdYVDJv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-07-07-006",
+    "date": "2026-07-07",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Smurfit Westrock partners with Coca-Cola on World Cup packaging to capture spike in consumer demand - Bluefield Daily Telegraph",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxQc1p3RlgtbDQ3YjBpTWlMX01lbXU1XzlSR2wzRy1LNjk2MTdTV1A0VTVhRXROYncxM2tWRk1mWE9KRG9NYWhmMlRramoyY0c3QjVuZ0d4TWI5ZlpfdC14WllyM1NJNVhwb2NXUFlDek",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQc1p3RlgtbDQ3YjBpTWlMX01lbXU1XzlSR2wzRy1LNjk2MTdTV1A0VTVhRXROYncxM2tWRk1mWE9KRG9NYWhmMlRramoyY0c3QjVuZ0d4TWI5ZlpfdC14WllyM1NJNVhwb2NXUFlDekVUSkhpVF9vVmxub18zZVFnVUJUeVhGMzl6TllnNnBDeGR0TXE1bUd5VmRoaTVQQXBYZHItT0FHWEtXaTdMeldwejdwdXIzNGdrTGpOZzlmRFA5SzZMRVhjUWJLZEdTT3ZpSTd6QUZPR3c0bWhXNm55VXFmeFpWa3RVU1drNHB1NkxmSG5udlNmVFNMMzRRcFF5S3g2RVJsT2lGTjB4T09ybzZSaXlQbEtkX0tZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-07-07-007",
+    "date": "2026-07-07",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Regulatory Oversight Intensifies for Smurfit Westrock (SW) Follo - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ0JaTVdCdEpRNDhEelZMNjVGb3k4VW8zMzh0aWJsUGZ0VTA4Z0p4bWlBYWdPbXVheGJxT2NncUM1QzQ1eDJLdVJNUTJEMTM1aGxJdU5UVDNmak10X3gzM2FBNVRKek82SVhmdnJ4Wk",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ0JaTVdCdEpRNDhEelZMNjVGb3k4VW8zMzh0aWJsUGZ0VTA4Z0p4bWlBYWdPbXVheGJxT2NncUM1QzQ1eDJLdVJNUTJEMTM1aGxJdU5UVDNmak10X3gzM2FBNVRKek82SVhmdnJ4WkRfamlJZ0pZNUlwZk1MQk1QN3JhTlpwY1JkV1IwMVcyUGVNN2QzTzhRR01yOFBRM09GVW9xc0E1elViOTRmV0Q5dlNyWTZKbjFmV0FLWXlKbjM1ejUzQ3NGWl84RV92dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "idexx-2026-07-06-001",
     "date": "2026-07-06",
     "companies": [
@@ -77,6 +216,102 @@
       {
         "name": "smurfit",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbGgzclVXVWFPZHczYmQ4Rl9DSE5oT19MdTl0OUNqai15amI3cHFzNHh5MjlnS29oRmlJeXRNSllYOGx6Z0IzX3QyaDlMclpCNmp5ZjRGbk96LTFJWW9ub0duM3A0VDhSS1VWNDR5RDJfNS1fZG9rWEN5VVdCeFNyY29qWlc5U0czLVhtSGxfSkFmWjBIcS1Z?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-07-06-005",
+    "date": "2026-07-06",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Smurfit WestRock mill under inspection by Washington state regulator - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUHRWZ1MtQ2FRTTBCQ1g2VnBfZl80XzdBNVR5R2U0UnVleExGQUF0U2IzSjQzT3gzbmE3UmlYaFduVU5aU2VLcG1QcmRQSXlOYXY4VGVuZjc5TjVHZWFyWUYzMjNIWGRmVkRWR2ViTj",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUHRWZ1MtQ2FRTTBCQ1g2VnBfZl80XzdBNVR5R2U0UnVleExGQUF0U2IzSjQzT3gzbmE3UmlYaFduVU5aU2VLcG1QcmRQSXlOYXY4VGVuZjc5TjVHZWFyWUYzMjNIWGRmVkRWR2ViTjB3cG5zdGEtcTRRYUQwTzZVeGFPU0c4Y0Naazl3VTF1MU84azY5UVkzeXpLMl8wUkhKalF2bW9TTjd5V3dPRUl6M0JrOU9xZVZJelJwT2lFTGpQMUxuenAyci1HeFFLOW1peEV3c0ZMNW1IUl9LTU55ZERB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-07-06-006",
+    "date": "2026-07-06",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Smurfit Westrock (SW) Faces New Inspections Amid Safety Concerns - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOZzJQbTVrSnZNaWkxQTJMTVpuZjNNWWtyTkcxUmxkd3VYUHByVkk0aTRYS0pXOHh0dnlzRDBiQ21uWnFVc3h6YjdXUDNmNjZhaEViMENRWjB6Y1BiUDFMb3A5WXJNSVpBMWFyaUtiZz",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZzJQbTVrSnZNaWkxQTJMTVpuZjNNWWtyTkcxUmxkd3VYUHByVkk0aTRYS0pXOHh0dnlzRDBiQ21uWnFVc3h6YjdXUDNmNjZhaEViMENRWjB6Y1BiUDFMb3A5WXJNSVpBMWFyaUtiZzloU1R6OHZxY3dHWWpmYzVTUV81aDU3NFpORE9XclpkTnBFNDhhV1NLWVE3OVB0R0JCT25z?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "crown-2026-07-06-007",
+    "date": "2026-07-06",
+    "companies": [
+      "crown"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "How Crown Holdings Inc. (CCK) Affects Rotational Strategy Timing - Stock Traders Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZHljd0ZVa1VOSmdfMHR2a2ktcmU1VTRfMzFxOVRhaEotVmUtRU01bWZoWEVXYlZINXFJWnVyZTBvNFktYnQ0Zk9DcnN2WTktZ1B6UlNMMWR0eFFwTlhCeEJaX1k3Zjg5djZGblFwaH",
+    "sources": [
+      {
+        "name": "crown",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZHljd0ZVa1VOSmdfMHR2a2ktcmU1VTRfMzFxOVRhaEotVmUtRU01bWZoWEVXYlZINXFJWnVyZTBvNFktYnQ0Zk9DcnN2WTktZ1B6UlNMMWR0eFFwTlhCeEJaX1k3Zjg5djZGblFwaHVwd0JrNWl6ZEhYUGxXQ2VUZGh3b3lGb1NJSWhVaTAxaDFxR1M1Z0JncnBsTkE5ZkYzSVNHWmlvVHFJUnVGTERjNE1fQVBYSG16dFB6eHFCRkJvaWNnQjQxWl8wV2Z0RHVoT3N5dlpHS0ZMUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-07-06-008",
+    "date": "2026-07-06",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Washington AG to investigate Nippon Dynawave paper mill disaster",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/mN2joKNS9OX0QY5c5X9hxlPjv5oAs7syd9mADlRAXgI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9uaXBwb25fdGFuay5qcGc=.webp\"/></div></",
+    "sources": [
+      {
+        "name": "packaging_dive",
+        "url": "https://www.packagingdive.com/news/nippon-dynawave-disaster-longview-washington-attorney-general-investigation-labor-industries/824437/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amcor-2026-07-06-009",
+    "date": "2026-07-06",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Packaging innovations: Bath & Body Works launches fresh formats",
+    "summary": "<p>Plus, Blue Ocean Closures expands with a product that can enable entirely fiber-based packages. And Amcor and Avery Dennison-backed Pragmatic embeds new NFC-based tracking within packaging.</p>",
+    "sources": [
+      {
+        "name": "packaging_dive",
+        "url": "https://www.packagingdive.com/news/packaging-innovations-bath-and-body-works-blue-ocean-closures-pragmatic/824099/",
         "type": "rss"
       }
     ]
@@ -176,6 +411,24 @@
       {
         "name": "sealed_air",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOVJfN1ZQQ3JiaUY3Z0U3Rk1sTU9hYVJWRERXT2tnUTE5VXpEMllYTXZNVWZ4SFp0WUluSFNITi1ITWVFM0FsVDVvdzVXM0dYY3hKUHZDVk5ucWtONkNMdElLRmt1dEUtOWcxQkwzamVYV1o5TFVad3BDLUhKdVpVcEQ2UjB0cTZhTllMYi16dFdRODhqaW0xZzMxb3VrMFNYbVJUZnpOTjM2TEpYdUU3OVpvaWpJbDdyTU5VSHg2VzRfalY3Z3c5S1d3SF80R2RIdHR6NDgtY3N3TDRMQ0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-05-006",
+    "date": "2026-07-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Deere Stock And 2 Blue Chips Tied To Global Demand And US Market Strength - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa3ZqRXNXZFBFczlsYS01SlN2cnFsOUUtVGF1UlNSMnVuZ2N0MktFQmQ5NU1tSE9PSU9tWEFrMTEtQmg4a1dUMjhZLXhPc1R2eTNDYngtS3JoZU03WkJJTEplblNubml0VVFYbC1oYj",
+    "sources": [
+      {
+        "name": "crown",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa3ZqRXNXZFBFczlsYS01SlN2cnFsOUUtVGF1UlNSMnVuZ2N0MktFQmQ5NU1tSE9PSU9tWEFrMTEtQmg4a1dUMjhZLXhPc1R2eTNDYngtS3JoZU03WkJJTEplblNubml0VVFYbC1oYjVuTF9odnBKZUZrNi1sMzVwUktXUmNONDU2czE1SnllQ2NYYWlORlc4bGNCYWhGd3JwenZaMWFUMkt3dXhXOE9WSXpVblRBVU5xTmVJNVc3RTRNd2c?oc=5",
         "type": "rss"
       }
     ]
@@ -1104,6 +1357,25 @@
       {
         "name": "intl_paper",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFNRcGJxZ2F2aUxnVUp5cnl1dzJ3VVplTm1zUXNOTmJuUkduWnJ6c3ZsNGw0TDA4RV9ITVZwZWRkQW5XV015YTVKWVYtNDJVUktkbmFDNlhCRnpCUl9vamI4UjgxT2dBTGhzbFd4MHZQMXVXeG04OWNzcnZxX3ZhbzZRNWdnbVdzRXdxaXI3d1hERHdFbkhJUWlOYm9yWjBhVnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-014",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "pet_insurance",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Costco Pet Insurance Review for 2026 | U.S. News - U.S. News & World Report",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFA2akQ3RlRLZXg4cldEai1tNllTR0N4c2lEekNUc1pEWFFLcVJpQzc0S2thdVpadjRLMjhKVDY1Ty1wMC1zX3Bib0xLMGs2MnJIaVZRWU9Gcnc0dU1POFR2SkN3WFJtVWRPNWhMbQ?oc=",
+    "sources": [
+      {
+        "name": "trupanion",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2akQ3RlRLZXg4cldEai1tNllTR0N4c2lEekNUc1pEWFFLcVJpQzc0S2thdVpadjRLMjhKVDY1Ty1wMC1zX3Bib0xLMGs2MnJIaVZRWU9Gcnc0dU1POFR2SkN3WFJtVWRPNWhMbQ?oc=5",
         "type": "rss"
       }
     ]

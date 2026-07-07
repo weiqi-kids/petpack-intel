@@ -1,0 +1,16 @@
+{
+  "total_raw": 327,
+  "dup_title": 158,
+  "no_date": 0,
+  "too_old": 128,
+  "gate1_fail": 12,
+  "gate2_fail": 15,
+  "passed": 14,
+  "gate2_samples": [
+    "Zoetis: The 60% Decline Was Justified, But Shares Are Finally Buyable - Seeking Alpha",
+    "Here’s What Analysts Say About Petco Health and Wellness (WOOF) - Yahoo Finance",
+    "Here’s What Analysts Say About Petco Health and Wellness (WOOF) - Insider Monkey",
+    "Petco (WOOF) is One of the Best Value Penny Stocks to Buy According to Hedge Funds - Yahoo Finance",
+    "International Paper (IP) Is Closing Four U.S. Facilities To Rework Its Network - Yahoo Finance"
+  ]
+}
