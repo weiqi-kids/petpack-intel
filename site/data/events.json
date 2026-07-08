@@ -1,5 +1,124 @@
 [
   {
+    "id": "idexx-2026-07-08-001",
+    "date": "2026-07-08",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "vet_spending",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "IDEXX Laboratories extends its diagnostics reach as a key S&P 500 health-tech name - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPek15bEQ2TGJvNTdNX0RzT3VWeEdRSWcyYWVBV19sUkVXWHFzNEt4bW9HYW1lMzZaeE1EWEQtMzc3V3ZSd0I0a0hrRllzTE5JZEVFQUp0SUt5Y2J2V1p0elFMYkpKUmtfbWZvVzlkUj",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPek15bEQ2TGJvNTdNX0RzT3VWeEdRSWcyYWVBV19sUkVXWHFzNEt4bW9HYW1lMzZaeE1EWEQtMzc3V3ZSd0I0a0hrRllzTE5JZEVFQUp0SUt5Y2J2V1p0elFMYkpKUmtfbWZvVzlkUjVVV1pZd1VSVlF3WWRaWndCS2tiRzU4b3JmZHZEWlFRNDRCQ2dGaWp3SkE3RnhOc1ZNNGN1Q0NDS052QVhlU281ckZTUHliekhKMGtBcFQxV05jSjh4TGlZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-07-08-002",
+    "date": "2026-07-08",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "pet_insurance"
+    ],
+    "impact": "neutral",
+    "title": "The Hammermill Color Copy Digital from International Paper - premium paper for vivid US office print - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxON0NqYWF6RVE3dFp2N0p4X05vTFYweEVWYzd1RXgwVUI0cm91aHo4Z2t2NS1TNXVGZUlvVUZYZHdhZ3ctdlFoWjNQVDVXbjZnZFcwbmsyS0EwUURCbDlEeEJPZVg5al9kaDNlaG80WF",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxON0NqYWF6RVE3dFp2N0p4X05vTFYweEVWYzd1RXgwVUI0cm91aHo4Z2t2NS1TNXVGZUlvVUZYZHdhZ3ctdlFoWjNQVDVXbjZnZFcwbmsyS0EwUURCbDlEeEJPZVg5al9kaDNlaG80WFZZd0x1Y201dkhDSFFiV1pidklidTg0MGNoZGdkYXJyRmszTzdMZGpieE1pRXBxWkI5T2VUNlg2US1Lb1dHTzd5eDdkTmRjQ0doYnZ5Vm1ZQWZYLUtYU2RlZWROOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-07-08-003",
+    "date": "2026-07-08",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Paper focuses on core packaging business as industry evolves - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPTVVvUlFGbWwzT01DYklEd2lMelhKNWIycEJ2U1BvOU1TbTh0cjZEeUVuSS0yalUwQWpYTlNoR0JVOWg1N1YxVnFaRThEQTR0LVJFUWpzQ3k2SDBWdzREVlIwMkdwUkdtN1EtaVUyLU",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTVVvUlFGbWwzT01DYklEd2lMelhKNWIycEJ2U1BvOU1TbTh0cjZEeUVuSS0yalUwQWpYTlNoR0JVOWg1N1YxVnFaRThEQTR0LVJFUWpzQ3k2SDBWdzREVlIwMkdwUkdtN1EtaVUyLUxqZG50WXlqT3JfY2R5OHlGSGl3Q2RXLUFaYkcwSDVGMjZoTFVLa1dzREViUExnaGdyWXR5Zk5HbDhBWHhCc2VLMzRmR2xrc25yRWZ3RmluM3VKTXJTSVY4eXdlRmkwQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amcor-2026-07-08-004",
+    "date": "2026-07-08",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AmPrima PE Plus Recycle Ready Pouch from Amcor - Monomaterial design targets US curbside recycling - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZFJiRE9ENUlqTWtGcDJ1YUZhN0N4cGJtREpLdG8yb1lvQVUtd0k4UWNUSlJXRlhzcXV1b1ZQWHItN3M0dzZIWi1vR2dTd0FXX1BRZDJxT3JVYlRBeFF6X0tEYjJJckNFZk1oMVBxRF",
+    "sources": [
+      {
+        "name": "amcor",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZFJiRE9ENUlqTWtGcDJ1YUZhN0N4cGJtREpLdG8yb1lvQVUtd0k4UWNUSlJXRlhzcXV1b1ZQWHItN3M0dzZIWi1vR2dTd0FXX1BRZDJxT3JVYlRBeFF6X0tEYjJJckNFZk1oMVBxRFZ5eDRBWWVBVFFHaWRwUWwzdWZ0cnc2d0ZkU3RHVVVvQ1YwV20tbV9taEYtMExCMGI5Q2NZOWM2YkFhWnZLQzR4Y0YydXNZSXk2LUxjSmloTzhqV2M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sealed_air-2026-07-08-005",
+    "date": "2026-07-08",
+    "companies": [
+      "sealed_air"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sealed Air focuses on packaging innovation as investors watch operational progress - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOSnFTSlpka2xrTlh2RTBYbllNMFdiWDBMeEMyY1BWdWhqWWtKcGowU3lWcmcxalVrXzYyZ0FYVkJMWHY3UDhnMFgxZXNxQ2xXUE9nU0lBNzJFdTVOQTlKeEIybXliS1B6YUpsNWJIMU",
+    "sources": [
+      {
+        "name": "sealed_air",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSnFTSlpka2xrTlh2RTBYbllNMFdiWDBMeEMyY1BWdWhqWWtKcGowU3lWcmcxalVrXzYyZ0FYVkJMWHY3UDhnMFgxZXNxQ2xXUE9nU0lBNzJFdTVOQTlKeEIybXliS1B6YUpsNWJIMUVlcVF0LWswd3ZSN2ljOVR0dS1RZ3NfYUZ0UkRfX0p6V1lXRXdlNVBrN1BPV3FCUmFwbmJCSUFDYXFOeU9rcVZvRC1wOFRZZFA0U2liNHN1OE9sY3lhbGVQaGxOOUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-07-08-006",
+    "date": "2026-07-08",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Smurfit Westrock creates Coca-Cola World Cup packs - PKN Packaging News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNVl82eUdnRzZrUXNPTGg5aEF2NDRaampEUng1YnR6Mm9xUGVXRjhDUXlyVjVJOS1mbm14OE9pbXRfY3RPMkdidVBQS3lNdXlTMWthT2pBWEtGSUJtU2VTYmFMOUVqczA2QWhKYVRzMT",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVl82eUdnRzZrUXNPTGg5aEF2NDRaampEUng1YnR6Mm9xUGVXRjhDUXlyVjVJOS1mbm14OE9pbXRfY3RPMkdidVBQS3lNdXlTMWthT2pBWEtGSUJtU2VTYmFMOUVqczA2QWhKYVRzMTFCTkZIcEgzS3pncHVjTGdTLTk0ZnNSUXZJeWFPcWJGa3NhZHBFd0JB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "idexx-2026-07-07-001",
     "date": "2026-07-07",
     "companies": [
@@ -134,6 +253,304 @@
       {
         "name": "smurfit",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ0JaTVdCdEpRNDhEelZMNjVGb3k4VW8zMzh0aWJsUGZ0VTA4Z0p4bWlBYWdPbXVheGJxT2NncUM1QzQ1eDJLdVJNUTJEMTM1aGxJdU5UVDNmak10X3gzM2FBNVRKek82SVhmdnJ4WkRfamlJZ0pZNUlwZk1MQk1QN3JhTlpwY1JkV1IwMVcyUGVNN2QzTzhRR01yOFBRM09GVW9xc0E1elViOTRmV0Q5dlNyWTZKbjFmV0FLWXlKbjM1ejUzQ3NGWl84RV92dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "zoetis-2026-07-07-008",
+    "date": "2026-07-07",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Zoetis receives EU authorization for Newcastle vaccine in poultry - Feedstuffs",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOeUhCbmtIU3pEa2tzZUYtQWh2Q25ac2pIR1J4N0xLaV8yOVFQZUVCa25LcjFNeTVyaWdBM2p2eTRjZTl0TUgwRDVralFSWkp2aS1RWkdzcUo3dmxrUHFWSk5WTFdVWFlKYVNXZ0hlZD",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeUhCbmtIU3pEa2tzZUYtQWh2Q25ac2pIR1J4N0xLaV8yOVFQZUVCa25LcjFNeTVyaWdBM2p2eTRjZTl0TUgwRDVralFSWkp2aS1RWkdzcUo3dmxrUHFWSk5WTFdVWFlKYVNXZ0hlZDlIZ0NweEVMdFZ0VUZpM2d6d0k1T0dOVXBHU0hLZHc3OWhFTmpIX3FLWkZ1VnkyVnJVaWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "zoetis-2026-07-07-009",
+    "date": "2026-07-07",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Zoetis Receives European Commission Marketing Authorization for Poulvac® Procerta® HVT-ND - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYm1vVzJ6UHcyUVlvVnVNazdyX3hsS3kxUzlZcFNCMkRpbWI1cHVUUjlHWUg3dzVVcUc4WWd4bHBtd0lIMXQ2d3pQR2tZVFgzTU9FU2JkOUtYbFZ5OHFIem5yS1JMQk16MURZd0ZfNy",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYm1vVzJ6UHcyUVlvVnVNazdyX3hsS3kxUzlZcFNCMkRpbWI1cHVUUjlHWUg3dzVVcUc4WWd4bHBtd0lIMXQ2d3pQR2tZVFgzTU9FU2JkOUtYbFZ5OHFIem5yS1JMQk16MURZd0ZfNy1DWXhHV0ZoYmdIZ05UYnFZQ3lVNjU3Z2lkWHpkTXQtQXNxcjUwYWJBbF9ya1JkUUE3ZmtsVjNlUC1rM2RMeG0wdk01NE1EZ3B1bnZOVkJZYmRPU0x4eUR4RC13UV9uWnkyNG5IU2FSNUJubjg3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trupanion-2026-07-07-010",
+    "date": "2026-07-07",
+    "companies": [
+      "trupanion"
+    ],
+    "topics": [
+      "pet_insurance",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Trupanion Inc focuses on pet insurance growth as a niche player in the US market - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNR0EweE5IMnVvUkVGdVhmNXJUY25RWllzU3lpZlA0cXpOTUZmRjVNcmVYVW05MVZpZVZEcm0yeS1OQ0o0LVBXNk9IRUp5WnBUeXdzVW1fSzFieFdMNE40aTlBb1RmUXU1LVhzVjN2Qk",
+    "sources": [
+      {
+        "name": "trupanion",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR0EweE5IMnVvUkVGdVhmNXJUY25RWllzU3lpZlA0cXpOTUZmRjVNcmVYVW05MVZpZVZEcm0yeS1OQ0o0LVBXNk9IRUp5WnBUeXdzVW1fSzFieFdMNE40aTlBb1RmUXU1LVhzVjN2QkJvVnh6UjdwQUt4cXVPcTZZc25jOXZjY1MxcmFJVzNOaC16M0ZJYnBycDBzZWo3eGNDNmdabHFqNWw3dzFtLWdSdnMwaEYySGROT0llaTQ1TlVQUjV6eHpLRGNYMzk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-07-07-011",
+    "date": "2026-07-07",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Paper (IP) Could Be 4% Below Fair Value After Facility Closures - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUWcwUWZoU3BxMV9IYlRTTEtsNFRLNkRvNEZFYTVJaHE0eUQ2ZzUzT0pzVzBaVklzUW9mdXJMQUlIbDJNQXZnV3Nua0RFakQ0M0R1TE54TlZDdEdNWHhnQkRORU5pMV9RUi1zUUtjb2",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUWcwUWZoU3BxMV9IYlRTTEtsNFRLNkRvNEZFYTVJaHE0eUQ2ZzUzT0pzVzBaVklzUW9mdXJMQUlIbDJNQXZnV3Nua0RFakQ0M0R1TE54TlZDdEdNWHhnQkRORU5pMV9RUi1zUUtjb2sxVmdBRU1rZV95VHozQThhYnQ2UmRuOUxjZ0VrWGRaVl9nOXJRdTFGaURHX1hpeFZKR3ZZNG5LVUJVYUxSbm5IdUtxVU00b2l5ZFkxZmk1NlVBUlEwbHcyYlQ2Y09iZXdrUWZYNmdR0gHWAUFVX3lxTFBRZzBRZmhTcHExX0hiVFNMS2w0VEs2RG80RkVhNUlocTR5RDZnNTNPSnNXMFpWSXNRb2Z1ckxBSUhsMk1BdmdXc25rREVqRDQzRHVMTnhOVkN0R01YeGdCRE5FTmkxX1FSLXNRS2NvazFWZ0FFTWtlX3lUejNBOGFidDZSZG45TGNnRWtYZFpWX2c5clF1MUZpREdfWGl4VkpHdlk0bktVQlVhTFJubkh1S3FVTTRvaXlkWTFmaTU2VUFSUTBsdzJiVDZjT2Jld2tRZlg2Z1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amcor-2026-07-07-012",
+    "date": "2026-07-07",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [
+      "pet_food",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Amcor names new president of flexible packaging business - Pet Food Processing",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXluSEJvb1BKYUppMlc2djJRVTZabmVGZmZKeVduYWlpRUNTN0JDTmlXWlF6aVNzNWpwTnBDUzlWOUtoSkJGSmozUVNIdDdHWW5WamhzbjlRQlpqdm5sbDlmZ3pvYVJiT01pMWRIaV",
+    "sources": [
+      {
+        "name": "amcor",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXluSEJvb1BKYUppMlc2djJRVTZabmVGZmZKeVduYWlpRUNTN0JDTmlXWlF6aVNzNWpwTnBDUzlWOUtoSkJGSmozUVNIdDdHWW5WamhzbjlRQlpqdm5sbDlmZ3pvYVJiT01pMWRIaVlsa3N1WWtuT09sN0lpRHZxbV83NGdCZDFnZTN1d0pfWHJ0VXpHYmE3VDZuQ2VMcVdQN1BLX0RLN04?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amcor-2026-07-07-013",
+    "date": "2026-07-07",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Amcor joins forces with Kelpi to push bio-based barrier coatings for fiber packaging - Indian Pharma Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOeGc1akRfS0UyZW1TMW5DaG1sZ0k3dnRGcUVCQnV5N09jQkhrZ3FSSFRqLTlpNDRTNW55UlVJWlNYY2ZSS0hUQ3hTWHJVaDRZdktVZ0UxbVFSOG9udEFRcDQwYUFIeGtMZGo0RkFsbH",
+    "sources": [
+      {
+        "name": "amcor",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeGc1akRfS0UyZW1TMW5DaG1sZ0k3dnRGcUVCQnV5N09jQkhrZ3FSSFRqLTlpNDRTNW55UlVJWlNYY2ZSS0hUQ3hTWHJVaDRZdktVZ0UxbVFSOG9udEFRcDQwYUFIeGtMZGo0RkFsbHhoTzdpa05PSXR5Ty1JcWxwVVgwM25ySFRYODNwbHdEZ01lMlZOa2dJOTJTQ242QzFXS0FJYTRyWlFkXzA5a2Y3QUFFUmZ1cXlWRlhqdWR4dWJ3SmpxRGZiUDdEOXBKQdIB1AFBVV95cUxQdkZyaERpUjVJYjNDWGFxeVBnaXg2YkVueXBfdkp2SlBnNGRseW1adDU2TXZKTjdiaGN0Wm10dkxEYVQ0YWJKR1NZaXZFMk1kVFZfZE9fZjk1dHNKTXlmSzlvR0gwb3RlUjNYNjFQZmNLaWFNSEtCTWdTVV9UTjQyQkdHY256NjBtM2tjLVhkYUtHSXNUMk5oYWJDS1FMVnVncnpaaVE2VlVoajliNjBGU3FEb013N3BhbUhlOVpOWGtscDFpczVQODNRWUtQWmFIc3RKcQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sealed_air-2026-07-07-014",
+    "date": "2026-07-07",
+    "companies": [
+      "sealed_air"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cryovac Vacuum Shrink Bags from Sealed Air Corp. - B2B packaging workhorse for US food processors - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHg5aEhkTWt3RVBTNXZXdE1hZzVGQ1hFdHN0a1ViVTljX0JrNFk0c09sT2VablpScmhMcm9OcWFwLUtoMndIRDVGejRHSVkyN2N6ZEdPdVlLcXpyaTJTckYxdkk4RWdjUUUwM0xTc3",
+    "sources": [
+      {
+        "name": "sealed_air",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHg5aEhkTWt3RVBTNXZXdE1hZzVGQ1hFdHN0a1ViVTljX0JrNFk0c09sT2VablpScmhMcm9OcWFwLUtoMndIRDVGejRHSVkyN2N6ZEdPdVlLcXpyaTJTckYxdkk4RWdjUUUwM0xTc3dsbHZoRTlqTlE5aElvS09zR2ZBRXNkbmdtT2RsTi1vcU5XN21PQW5CMnB0YmtVWTZjQlpJNDh1eUUzVWhiR0F0ZTZMUF9xZFljdU1WdHdzaDJZdHBqNGFvaFlR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-07-07-015",
+    "date": "2026-07-07",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UBS reiterates Buy on Smurfit Westrock stock, $56 target maintained - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQkQ3d282VExDeVhBZnZnRXNJdE5pR1JCU2U1aDh5eWdWbE42dXZmLUFsTWltZWxQM3JaMWhOS3VUdVlmbjdvMWIteHJsUUFFWWhobTZPM0dzbHBFQm43M19Qb203OFNiblhZemtac1",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQkQ3d282VExDeVhBZnZnRXNJdE5pR1JCU2U1aDh5eWdWbE42dXZmLUFsTWltZWxQM3JaMWhOS3VUdVlmbjdvMWIteHJsUUFFWWhobTZPM0dzbHBFQm43M19Qb203OFNiblhZemtac1FZYXhHcVBrSHRJZnBDWUV5ZG9maGN2OE95M2t6NkRrOFdNQmVHX1k4VHp5VFdFRWpiNUhYWkZXUENTTkhENXMwdHlqd1RXN0ZuUU1Ha1c3S1puYnM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-07-07-016",
+    "date": "2026-07-07",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Smurfit Westrock Confirms Plans to Close SSK Paper Mill in the UK - Paper Industry News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQQzd2Wmp3UE40eGYtTnVZeDZhTTRseVRTaXpDTGM5TURUREpRbi1xZmFZT3h3MUhPWVVKb09SMVdsR0FIVlhLbmZZZ2xxejFpSFJ5M3VsLVVxdGhKMnhPWE1UTjk3N1I2UWJuQ3RVMV",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQzd2Wmp3UE40eGYtTnVZeDZhTTRseVRTaXpDTGM5TURUREpRbi1xZmFZT3h3MUhPWVVKb09SMVdsR0FIVlhLbmZZZ2xxejFpSFJ5M3VsLVVxdGhKMnhPWE1UTjk3N1I2UWJuQ3RVMVZhVjJaR1VjZ3lsN1BkeER2V3g3VE9rRlVvQnFNemp1YjJmc0lmNEZyLXRfUTlHemVYWWJhZ0Q1ZVBHTFJ6cjBIaE5wVWw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-07-07-017",
+    "date": "2026-07-07",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Smurfit Westrock partners with Coca-Cola on World Cup packaging to capture spike in consumer demand - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOczZVcXBRTFJOZy0zNTRMLUlRakdRd0ItOTVkOUFXdmFOZzVrMEZCVmhoS1J1aHNUSThWSVVramFxMk5IdjFTYV85VzV3em9kTWdEU09xUDZoNFE2VXUtZmhLM3dOTGJrM01HeWRSRz",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOczZVcXBRTFJOZy0zNTRMLUlRakdRd0ItOTVkOUFXdmFOZzVrMEZCVmhoS1J1aHNUSThWSVVramFxMk5IdjFTYV85VzV3em9kTWdEU09xUDZoNFE2VXUtZmhLM3dOTGJrM01HeWRSRzNJVGROdmJxYlVZY2gwWkdVeTREcXFlamY3U29vdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-07-07-018",
+    "date": "2026-07-07",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Smurfit Westrock partners with Coca-Cola on World Cup packaging to capture spike in consumer demand - The News-Gazette",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxPbk1Oa2NjcGlyTzl2OXhsSnF1SjQ1SU5YZnpBZ3FEVnVoNE1GRXhjem1GRDJyVkEtZ051UE55X0NKWlZSbWJ0TlpLZ3djTlVMUDZ0OGpQbXEwTjB5RDVubmVNTmktVV9tWnlxb0dCX1",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbk1Oa2NjcGlyTzl2OXhsSnF1SjQ1SU5YZnpBZ3FEVnVoNE1GRXhjem1GRDJyVkEtZ051UE55X0NKWlZSbWJ0TlpLZ3djTlVMUDZ0OGpQbXEwTjB5RDVubmVNTmktVV9tWnlxb0dCX1hQSXFXbTNkWDlqdlpIQy1RSDNQMDUtNHFBNWdiRk13X1NFT0xFNldQMGpmNy1NLVJ6QTFRSmxCaHc5a3ZkdHVna2VDZkVsZVdqOFVPRFp6ZE14MGwwSXpoM3JBX3QwUzNkdC1SN25Xby1RZF9nYTIxazJfUUpaWWk2d21oNE96MzA2NkhQWXhMbERSam0wNUI2?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-07-07-019",
+    "date": "2026-07-07",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Smurfit Westrock (SW) Partners with Coca-Cola for World Cup Pack - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxORTU5bVhRZ2tOZHZOdVp5cFVocEFYNExacHl2OGk3V0FBYk1vOGJYSFMyQWRlN182X3BQOWUxc0xTc3Q1T0V3WlhrQktHWkF0WWFuT04wT0JGeG5HNUFvc1lnbm8yUFo1MGZOY19zb0",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORTU5bVhRZ2tOZHZOdVp5cFVocEFYNExacHl2OGk3V0FBYk1vOGJYSFMyQWRlN182X3BQOWUxc0xTc3Q1T0V3WlhrQktHWkF0WWFuT04wT0JGeG5HNUFvc1lnbm8yUFo1MGZOY19zb0hCS1hHem44S096dXZjZUszdTJWUjRnTktzcWotRUd1eGxicUNYdjdqbEN5RkRQVHNFSXZFdV9PWWw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-07-07-020",
+    "date": "2026-07-07",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Smurfit Westrock to shut Birmingham paper mill on 27 July - EUWID Pulp and Paper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPblNuWkNVQUdSdmRrMGxmUTJEVDdtQnpFRUYyOE9oU1dxZ1dXa0pxRUU4bExpUG5Ud3VIWW1vd2tmRUFlVVc1VWYtckZzY2pncnloSVRNOGJ4b3RSSld6RFRxa0Jvand2RXh0eFhSeE",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblNuWkNVQUdSdmRrMGxmUTJEVDdtQnpFRUYyOE9oU1dxZ1dXa0pxRUU4bExpUG5Ud3VIWW1vd2tmRUFlVVc1VWYtckZzY2pncnloSVRNOGJ4b3RSSld6RFRxa0Jvand2RXh0eFhSeElTUVNTZUhNTTZDakh2cU4xbmdtY05qSDNlbDlvUXh1WkdpSVBXSUx4Skl6QlNUQ0IzVWRMV0VJcm1hMHFS?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-07-07-021",
+    "date": "2026-07-07",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Smurfit Westrock creates World Cup packaging for Coca-Cola China - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPdWtIbkpSMEtrLWdSTnFvakczbGlXNWI2b1dGeXVmQTVZSHoxVy1aTk94dkQ2cnpOYnc0TmtVRm1YSnJyR0JjSFFpX25RdnFFVHlCMjZkTDR5eDYtNG84dW9HSjFNRG9WV255LU4tcF",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdWtIbkpSMEtrLWdSTnFvakczbGlXNWI2b1dGeXVmQTVZSHoxVy1aTk94dkQ2cnpOYnc0TmtVRm1YSnJyR0JjSFFpX25RdnFFVHlCMjZkTDR5eDYtNG84dW9HSjFNRG9WV255LU4tcFJ2enBKYlNocURRaThaajNwUkdlY1hoRDNrbVkyU3huYWVUblAwTFF0RTM3YzBNNGdzSUZCalM0UFlyVHh4S21CbDRuanJHNnZNcklxNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-07-07-022",
+    "date": "2026-07-07",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Smurfit Westrock partners with Coca-Cola on World Cup packaging to capture spike in consumer demand - Eagle-Tribune",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOVlhqSEs0UWt4VDk4SEszYTBuZ3hsY1FRbzdrekx6clMwejRBTUFSdzhJenlXRkFwOTNDTkpqQVYzREhNdzJsNnZLTldTZkdXNDZKS3dNSkU4OG5LaHZGZnJSYmZCRzZXRTVNWXNCd0",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVlhqSEs0UWt4VDk4SEszYTBuZ3hsY1FRbzdrekx6clMwejRBTUFSdzhJenlXRkFwOTNDTkpqQVYzREhNdzJsNnZLTldTZkdXNDZKS3dNSkU4OG5LaHZGZnJSYmZCRzZXRTVNWXNCd0EtelJmbXBlUEZ1N05taTI2RENLU3NzVXZpN2pNOTRtVFpGTUJIVTZtNXJaUFFhaFVRbGdkOS1QRG5saHd3OENKa0wzTGlvMHNmbFJnSjE2LS1xWllUYW9NVW5QZ2YzVG5kc1lrdWtINnhMbXQ1SjlWOUVuSEFwRndWWUdFdURqS3RhM3c4RWRnZzhtLWNuME5Wa2tSeVBzN1dUUQ?oc=5",
         "type": "rss"
       }
     ]
@@ -317,6 +734,26 @@
     ]
   },
   {
+    "id": "smurfit-2026-07-06-010",
+    "date": "2026-07-06",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Smurfit Westrock mill under inspection by Washington state regulator (SW:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeEFIeE13SUhVRkJDZjRzdkVjd05GRF9OZ1c3YkVsYmYwUmIzb0xmVV92aVMzX0pvcmRyaEJCdGhVZFUyemVIaVA1eFFIMUhpZ01qWU4tNHJzb2FXdzVZbF8yQ2lSU3lVUmoxRy1SZF",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeEFIeE13SUhVRkJDZjRzdkVjd05GRF9OZ1c3YkVsYmYwUmIzb0xmVV92aVMzX0pvcmRyaEJCdGhVZFUyemVIaVA1eFFIMUhpZ01qWU4tNHJzb2FXdzVZbF8yQ2lSU3lVUmoxRy1SZFlld3otek9ES2JHanhlb29kb2ZUVEY5MVVUSmxld2plNW4wQnNVTndnQlBpNDlDazF2U3ppMzRfVlVPdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "amcor-2026-07-05-001",
     "date": "2026-07-05",
     "companies": [
@@ -429,6 +866,26 @@
       {
         "name": "crown",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa3ZqRXNXZFBFczlsYS01SlN2cnFsOUUtVGF1UlNSMnVuZ2N0MktFQmQ5NU1tSE9PSU9tWEFrMTEtQmg4a1dUMjhZLXhPc1R2eTNDYngtS3JoZU03WkJJTEplblNubml0VVFYbC1oYjVuTF9odnBKZUZrNi1sMzVwUktXUmNONDU2czE1SnllQ2NYYWlORlc4bGNCYWhGd3JwenZaMWFUMkt3dXhXOE9WSXpVblRBVU5xTmVJNVc3RTRNd2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "zoetis-2026-07-05-007",
+    "date": "2026-07-05",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Zoetis Q1 2026 slides: earnings miss amid companion animal headwinds By Investing.com - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNREpQcVprV0FlZGk4R20zNTlzYk5OWVhmS0YxMnRoSVYwX1VzbUpmaldHQUNkMHl1QzdsRTE3LVl0cW5xYVY3MEc3aVJ1UWsyTjdIczRuRUVDcHpudWZKMjZxRnQyLXdFS2x3akhZRl",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNREpQcVprV0FlZGk4R20zNTlzYk5OWVhmS0YxMnRoSVYwX1VzbUpmaldHQUNkMHl1QzdsRTE3LVl0cW5xYVY3MEc3aVJ1UWsyTjdIczRuRUVDcHpudWZKMjZxRnQyLXdFS2x3akhZRl8tYVVQY204QVNzN2QxbHdILTdkX0UxSW5RZzdmcG1abUVnZHlEbU5HRmJwZXVfQmFJY0tsRUZyZ20zYzFzMGFXZnNTclBKUzA3d3M0MXJNaGQ?oc=5",
         "type": "rss"
       }
     ]

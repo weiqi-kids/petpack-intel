@@ -1,0 +1,16 @@
+{
+  "total_raw": 327,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 125,
+  "gate1_fail": 13,
+  "gate2_fail": 17,
+  "passed": 23,
+  "gate2_samples": [
+    "India is one of Zoetis’ strongest markets in Asia for in-ovo vaccination - Express Pharma",
+    "Zoetis Stock: The 60% Decline Was Justified, But Shares Are Finally Buyable (NYSE:ZTS) - Seeking Alp",
+    "Here’s What Analysts Say About Petco Health and Wellness (WOOF) - Yahoo Finance",
+    "Here’s What Analysts Say About Petco Health and Wellness (WOOF) - Insider Monkey",
+    "Form 144 Petco Health & Wellness Company For: 7 July By Investing.com - Investing.com Nigeria"
+  ]
+}
