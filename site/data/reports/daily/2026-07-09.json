@@ -1,0 +1,219 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T10:52:38.943900Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "zoetis-2026-07-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zoetis (ZTS) Wins EU Vaccine Approval With Undervalued View Still In Focus - simplywall.st",
+      "companies": [
+        "zoetis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY0pwaERfN1lWYzRLZ0twZ1FIaDhIZklfS0RwczFpNnZCLUIwanMxZ2ZaenlFZ1YwRWM1RDdJVjdVWTVoclhNdzcxN2Fqc2VGaGQ1Y1JTcHA1MndIY0drRDBCRGJEMjBCQlR3LWNxaUFMVEZ1WURwR2R6VFdKc1VwaFhIdzVHYWE5ZXVHRHZkYl91clJzRzVSRXZmbzRPYmlYU1hrVk5wem1YQmJwdEd5MWNsUEt0NW5XV3RTcjlPN1BOeU8yOXBWMWhUY1Z0a3REaEtz0gHYAUFVX3lxTFBpLTY2S19PZTQzVHNIRnFQNUlwdlJ4TVNQek96ZEk5SzlLZE5zaHJUVVZEWmxlcGtzakpvdVA1a2M1UGY5TzlkRmVyaTJCdHBoSkRkaU1DUloyZkRpakd3WUU2Y3BLQndBUTdTU19wT3d5NUJrSDFhWHktVjdxb3JKOVRYVjVFZlF1bkdZM2NMak5IUVhnNWNJc2QwRDl5dHRXclBkT204cVNJaEdNTTZUbjM0SWF4S05tb21NYXhHTGdEZlFJSzhPeTBTNS1OcDlQWDZfX19Oeg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "idexx-2026-07-09-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "IDEXX Laboratories focuses on diagnostics growth. Investors watch demand trends - Ad-hoc-news.de",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "vet_spending",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMWVWcUt2M3NnRkt3QjhxczNhLUlYNTBXWjhQNzBFWmhjVFZidlF3SVdzTVVhbmlQTUlRR3ZFUWM0RDVVTC1fTV9DUDNaQkNILTUtOFpHZkZsU1pWVzlVQk5kQzJpN3R6V2RLVVNmUnUwSUtBOFRWX0pnOXdnRTVGdmZTOGN1cXk2eWNQY05GbUduYjhlNE9hakFERTBpdnFYWlNteDRxZHB1S2tHUWdLWnZyX29QZUIwV1Rub3NYQ2FyNkMxV05fbFlR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "amcor-2026-07-09-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Amcor Expands Packaging Facility In China - Mirage News",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSnJRQ3NrbU5rYnFvS1hMZ19scTV2ZlNxZzAyNXh6X0dlNzdBTHNwRjY5bDc4T3pvaTR2Si11TDd5cVJMNDNTTWlMVmhkQ2ttUWlUdm8wdzRIUHpES24xSTF4Mk1HZU5waHJZYUJiUUJ0RWxYeVNkVklXbEg5eW5WTXJJWQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "amcor-2026-07-09-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Amcor stock leans on packaging demand. Business scale stays central. - Ad-hoc-news.de",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTUlncjVXS01EcmdwU1V1OU5tQWhTaHE5R2F0enpxUjNDa2tpd2x3d05jWkVpMEMtTDF6b29DQUppVFhUdUo4Uld3S2NOZ3NjVnNTMm1oV2Q3Rzl4dVgyWjUxTWVaM2lwd1VqSnZvYkp6UGE3WGRVU0lKSEpkc09lNjB0LV9QdjFmQ19CRWZoR0ZEcUplNTFIdENPd0txMVJKMFI5MHJ1SEJ6c3FXNVpVWDNfZVA4dkM5UFg4cmtic1JDRzg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "smurfit-2026-07-09-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Coca-Cola and Smurfit Westrock packaging targets World Cup spending spikes - Packaging Europe",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNjFwSU4xQ3lLRTJjajNySzI1bGNpWGdySHdOZ29wNWdRa3U0RTRwQkl5RUtlWDJ2S2IxNGZVVkdwZVM5eS1qLVZDRDA0REp1OGxiRVNWd1J6S2N0X1R5V3BRT2lPbmpQYXVqblFDcTF6SE1RRFVjcDFKRVhOaC1vZkhubXNmX25MZzBpVFpEVkx2ZENUTzBPSXJzb2Z2RTBiLXNUUldEX251UGhwZk04bTNtMENNelBXeng4bGZB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "vet_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "amcor",
+        "count": 2
+      },
+      {
+        "id": "zoetis",
+        "count": 1
+      },
+      {
+        "id": "idexx",
+        "count": 1
+      },
+      {
+        "id": "smurfit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "vet_spending",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 326,
+    "dup_title": 149,
+    "too_old": 128,
+    "gate1_blocked": 12,
+    "gate2_blocked": 18,
+    "passed": 19,
+    "pass_rate": "10.7%",
+    "gate2_block_rate": "10.2%",
+    "gate2_samples": [
+      "Zoetis: The 60% Decline Was Justified, But Shares Are Finally Buyable - Seeking Alpha",
+      "India is one of Zoetis’ strongest markets in Asia for in-ovo vaccination - Express Pharma",
+      "Here’s What Analysts Say About Petco Health and Wellness (WOOF) - Yahoo Finance",
+      "Form 144 Petco Health & Wellness Company For: 8 July By Investing.com - Investing.com Canada",
+      "Petco Health & Wellness focuses on pet services as investors watch WOOF stock - Ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為安姆科、碩騰、愛德士相關動態：「Zoetis (ZTS) Wins EU Vaccine Approval With Undervalued Vi...」。主要關注主題為財報、獸醫支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Zoetis (ZTS) Wins EU Vaccine Approval With Undervalued View Still In Focus - ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "IDEXX Laboratories focuses on diagnostics growth. Investors watch demand tren...（獸醫支出、財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
