@@ -1,0 +1,16 @@
+{
+  "total_raw": 327,
+  "dup_title": 148,
+  "no_date": 0,
+  "too_old": 133,
+  "gate1_fail": 10,
+  "gate2_fail": 19,
+  "passed": 17,
+  "gate2_samples": [
+    "Zoetis: The 60% Decline Was Justified, But Shares Are Finally Buyable - Seeking Alpha",
+    "Isthmus Partners LLC Has $12.01 Million Stock Holdings in Zoetis Inc. $ZTS - MarketBeat",
+    "India is one of Zoetis’ strongest markets in Asia for in-ovo vaccination - Express Pharma",
+    "Ecommerce Trends: How Chewy is using AI - Digital Commerce 360",
+    "Petco Health & Wellness Company Insider Sold Shares Worth $637,500, According to a Recent SEC Filing"
+  ]
+}

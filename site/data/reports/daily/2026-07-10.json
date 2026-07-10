@@ -1,0 +1,167 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T10:49:38.125834Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intl_paper-2026-07-10-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Did Pine Hill’s Weather-Driven Shutdown Just Recast International Paper’s (IP) Operational Resilience Narrative? - simplywall.st",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZE9iTmt2U0xiM0NUVjJyZXBiWWxpMkhNV184eUg0bHZzTkhuZHZDUU9KWjBwMFI2ZmtqdG9Xb3lqN2oyM1BZbDJsbm1hS3dYVEszM21wSnZxWXVQcEJKQ3NLUzVvMC04ckJfYTVEanhkWm1QNnVDelNLaGpHVE92NmxkZ1NoajdGZEs1UUFpNmlFTXRWblpheHdGVUp0Y3B5bjg3dHJqeUpCZm1sc1FhSmp1N2ZWX1BHTWVSY1BwTzF5S3FxQWJCTllRRmJLb1BQ0gHWAUFVX3lxTE9xNDBoS3lFSGFjYWxBYjZVSHU2SzN3RTlXZDJ5eFZGX2Jqbl9FcnB3ZkhxX2pHVnI3bVRFTHJYMElpaWR6eG8yN2dKRHg0ampGdGs4dmY1cVRrc0FUVG0xSzNRa3FsaHlqRjlVU3NlaEJnWHRqNE1ndWRyMGVJdWlQczNUcDRBTTVnd0ItS1JKdWF4RklsZTZxRTBCclFnTldnRXVKMkttb3BBODFKaXdlRmh2LVp5UkluYi1hWno4cmlTUFpOR0wxRjFZT1pzVTFsYlNjc3c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intl_paper-2026-07-10-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper halts Pine Hill containerboard mill after roof damage - lesprom.com",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "paper_price",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWg4UlQwSU03WmVKRTVyNkRCZ1h0NkdvX1ZiVmRjTjFCVEwzY2FNZ0lWUHhyOF9UZ0lESnBMMEF6Q3pjWTRTcjk5RlFIMS03Q2xkVkVSMEl0WXZwaXBOQTZJNTVRbkh6ZlZia0RpazVXb3EyeW4yZm1aZXgyRGl3MDVoRFh2RGVMUVNnNmU0a1BQLXNlUk96RE1ZSUZHX3ZTcUY1UmdZU1VWbFVvU0hNdFdTdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "amcor-2026-07-10-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Amcor to expand Dongguan packaging site in China - Packaging Gateway",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQjVhTVBHSkpnR3VvT2w4NmlnZ0ItaW1XM2NvRFI4TUs5UlNsUTA5UmNrdlFVNzRELWdkQUhZcTFyVk0yekV5bHNJRUVmYzBTTEZSSjZuNlZURkFEcXlUZEJXT0lpb29pb3BfeDhSNGlpZmM4Q3d2SzZ5MHZaeUJ2WnZ3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "paper_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 2
+      },
+      {
+        "id": "amcor",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "paper_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 327,
+    "dup_title": 148,
+    "too_old": 133,
+    "gate1_blocked": 10,
+    "gate2_blocked": 19,
+    "passed": 17,
+    "pass_rate": "9.5%",
+    "gate2_block_rate": "10.6%",
+    "gate2_samples": [
+      "Zoetis: The 60% Decline Was Justified, But Shares Are Finally Buyable - Seeking Alpha",
+      "Isthmus Partners LLC Has $12.01 Million Stock Holdings in Zoetis Inc. $ZTS - MarketBeat",
+      "India is one of Zoetis’ strongest markets in Asia for in-ovo vaccination - Express Pharma",
+      "Ecommerce Trends: How Chewy is using AI - Digital Commerce 360",
+      "Petco Health & Wellness Company Insider Sold Shares Worth $637,500, According to a Recent SEC Filing"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為國際紙業、安姆科相關動態：「Did Pine Hill’s Weather-Driven Shutdown Just Recast Inter...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Did Pine Hill’s Weather-Driven Shutdown Just Recast International Paper’s (IP...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "International Paper halts Pine Hill containerboard mill after roof damage - l...（紙價、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "紙價話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

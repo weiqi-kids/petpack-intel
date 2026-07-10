@@ -1,5 +1,66 @@
 [
   {
+    "id": "intl_paper-2026-07-10-001",
+    "date": "2026-07-10",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Did Pine Hill’s Weather-Driven Shutdown Just Recast International Paper’s (IP) Operational Resilience Narrative? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZE9iTmt2U0xiM0NUVjJyZXBiWWxpMkhNV184eUg0bHZzTkhuZHZDUU9KWjBwMFI2ZmtqdG9Xb3lqN2oyM1BZbDJsbm1hS3dYVEszM21wSnZxWXVQcEJKQ3NLUzVvMC04ckJfYTVEan",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZE9iTmt2U0xiM0NUVjJyZXBiWWxpMkhNV184eUg0bHZzTkhuZHZDUU9KWjBwMFI2ZmtqdG9Xb3lqN2oyM1BZbDJsbm1hS3dYVEszM21wSnZxWXVQcEJKQ3NLUzVvMC04ckJfYTVEanhkWm1QNnVDelNLaGpHVE92NmxkZ1NoajdGZEs1UUFpNmlFTXRWblpheHdGVUp0Y3B5bjg3dHJqeUpCZm1sc1FhSmp1N2ZWX1BHTWVSY1BwTzF5S3FxQWJCTllRRmJLb1BQ0gHWAUFVX3lxTE9xNDBoS3lFSGFjYWxBYjZVSHU2SzN3RTlXZDJ5eFZGX2Jqbl9FcnB3ZkhxX2pHVnI3bVRFTHJYMElpaWR6eG8yN2dKRHg0ampGdGs4dmY1cVRrc0FUVG0xSzNRa3FsaHlqRjlVU3NlaEJnWHRqNE1ndWRyMGVJdWlQczNUcDRBTTVnd0ItS1JKdWF4RklsZTZxRTBCclFnTldnRXVKMkttb3BBODFKaXdlRmh2LVp5UkluYi1hWno4cmlTUFpOR0wxRjFZT1pzVTFsYlNjc3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-07-10-002",
+    "date": "2026-07-10",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "paper_price",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Paper halts Pine Hill containerboard mill after roof damage - lesprom.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWg4UlQwSU03WmVKRTVyNkRCZ1h0NkdvX1ZiVmRjTjFCVEwzY2FNZ0lWUHhyOF9UZ0lESnBMMEF6Q3pjWTRTcjk5RlFIMS03Q2xkVkVSMEl0WXZwaXBOQTZJNTVRbkh6ZlZia0Rpaz",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWg4UlQwSU03WmVKRTVyNkRCZ1h0NkdvX1ZiVmRjTjFCVEwzY2FNZ0lWUHhyOF9UZ0lESnBMMEF6Q3pjWTRTcjk5RlFIMS03Q2xkVkVSMEl0WXZwaXBOQTZJNTVRbkh6ZlZia0RpazVXb3EyeW4yZm1aZXgyRGl3MDVoRFh2RGVMUVNnNmU0a1BQLXNlUk96RE1ZSUZHX3ZTcUY1UmdZU1VWbFVvU0hNdFdTdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amcor-2026-07-10-003",
+    "date": "2026-07-10",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Amcor to expand Dongguan packaging site in China - Packaging Gateway",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOQjVhTVBHSkpnR3VvT2w4NmlnZ0ItaW1XM2NvRFI4TUs5UlNsUTA5UmNrdlFVNzRELWdkQUhZcTFyVk0yekV5bHNJRUVmYzBTTEZSSjZuNlZURkFEcXlUZEJXT0lpb29pb3BfeDhSNG",
+    "sources": [
+      {
+        "name": "amcor",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQjVhTVBHSkpnR3VvT2w4NmlnZ0ItaW1XM2NvRFI4TUs5UlNsUTA5UmNrdlFVNzRELWdkQUhZcTFyVk0yekV5bHNJRUVmYzBTTEZSSjZuNlZURkFEcXlUZEJXT0lpb29pb3BfeDhSNGlpZmM4Q3d2SzZ5MHZaeUJ2WnZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "zoetis-2026-07-09-001",
     "date": "2026-07-09",
     "companies": [
@@ -96,6 +157,203 @@
       {
         "name": "smurfit",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNjFwSU4xQ3lLRTJjajNySzI1bGNpWGdySHdOZ29wNWdRa3U0RTRwQkl5RUtlWDJ2S2IxNGZVVkdwZVM5eS1qLVZDRDA0REp1OGxiRVNWd1J6S2N0X1R5V3BRT2lPbmpQYXVqblFDcTF6SE1RRFVjcDFKRVhOaC1vZkhubXNmX25MZzBpVFpEVkx2ZENUTzBPSXJzb2Z2RTBiLXNUUldEX251UGhwZk04bTNtMENNelBXeng4bGZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "idexx-2026-07-09-006",
+    "date": "2026-07-09",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "vet_spending",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "IDEXX Laboratories focuses on diagnostics growth. Investors watch demand trends - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPMWVWcUt2M3NnRkt3QjhxczNhLUlYNTBXWjhQNzBFWmhjVFZidlF3SVdzTVVhbmlQTUlRR3ZFUWM0RDVVTC1fTV9DUDNaQkNILTUtOFpHZkZsU1pWVzlVQk5kQzJpN3R6V2RLVVNmUn",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMWVWcUt2M3NnRkt3QjhxczNhLUlYNTBXWjhQNzBFWmhjVFZidlF3SVdzTVVhbmlQTUlRR3ZFUWM0RDVVTC1fTV9DUDNaQkNILTUtOFpHZkZsU1pWVzlVQk5kQzJpN3R6V2RLVVNmUnUwSUtBOFRWX0pnOXdnRTVGdmZTOGN1cXk2eWNQY05GbUduYjhlNE9hakFERTBpdnFYWlNteDRxZHB1S2tHUWdLWnZyX29QZUIwV1Rub3NYQ2FyNkMxV05fbFlR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trupanion-2026-07-09-007",
+    "date": "2026-07-09",
+    "companies": [
+      "trupanion"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why Trupanion (TRUP) Stock Is Down Today - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPZDBGY04zeXZkVUZfcmtBOEs1ZlhJNkJFWHJLMjRuTDZxZV9Xcm9FR25jVEM0akxpemgyTDB2bDF0VWctSVVRYXhydU54bnNZbFAtWURuRjBvMEthaGs3QUY1N2JfTlo0cjhJVm1lT0",
+    "sources": [
+      {
+        "name": "trupanion",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZDBGY04zeXZkVUZfcmtBOEs1ZlhJNkJFWHJLMjRuTDZxZV9Xcm9FR25jVEM0akxpemgyTDB2bDF0VWctSVVRYXhydU54bnNZbFAtWURuRjBvMEthaGs3QUY1N2JfTlo0cjhJVm1lT0pheHZVSVFwbHl3ZGlVa0RWcmYxNURSb0pmdmVxM2VneksyUnNtYVNDS0VMaG45Q3lL?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "petco-2026-07-09-008",
+    "date": "2026-07-09",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Petco (WOOF) HR chief sells 250,000 shares around $2.55 in open market - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNQi1IQnBfcUtMeUF6c2tqWEFqRHFrQ18zb3VWVldfWkVUMkNCTEw1UmotVjF4dVBISFUxc0xadk9pb0hhQUMzM2ZrbWUwdnJNS0NWMzJBSGhRSmhYMVRzclE2aWRYLUxnWWVFZ2RYYU",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQi1IQnBfcUtMeUF6c2tqWEFqRHFrQ18zb3VWVldfWkVUMkNCTEw1UmotVjF4dVBISFUxc0xadk9pb0hhQUMzM2ZrbWUwdnJNS0NWMzJBSGhRSmhYMVRzclE2aWRYLUxnWWVFZ2RYYUlQcTlPNXR4UW55bFRadjdMYlVGZUVmNTF2WjJ5Zi14RWxZUkdWTWdvUHhFb0xzMFVjZUlEYTlJMXo5cXZUN0o4U01WRkxtLVoyTlYzLTJUOVU5cEVOZ3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-07-09-009",
+    "date": "2026-07-09",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Paper Temporarily Suspends Operations at its Pine Hill, Alabama, Mill - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUDV4SHM3ZGJyNi1lZkRibVJfN2c3bVNBLXVhMzM2M3VjNmg2WUl5M05Ub01YTmpWdVdSMnJnQXVpYW1yaTVoUEQ4SnRtTHI2bnJyZkladWNaTWJsVEZ0YTJfaHBadlY2RXhMNjl0Mm",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUDV4SHM3ZGJyNi1lZkRibVJfN2c3bVNBLXVhMzM2M3VjNmg2WUl5M05Ub01YTmpWdVdSMnJnQXVpYW1yaTVoUEQ4SnRtTHI2bnJyZkladWNaTWJsVEZ0YTJfaHBadlY2RXhMNjl0MmlVYjExblk4N0hFYlJqalNIWGxJZGJ5NVhWVGx3M29oeXRHQVJhOGRmSjNQUmtRaGF4c1d1SURfSkpEZk9RMnF6WFZEUGkyUzNsdElZaDhoNHVSTzRoRmoyQ1JkS1NXMDJYT1lr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-07-09-010",
+    "date": "2026-07-09",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Paper halts Pine Hill mill operat... - Pluang",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNWmUxTS1YVHk0RVA3YlU3cVUxcjlaVl90OWtSNmdGQ1pSbVNVZDUxLW9PN0ozNUw1QTd6QUVKNlRMZlowcU1kN052MElIdWxJUFlwTDQwdE5yajBJVzZFNTh2cDVRbTg2WmRIdlFwcF",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWmUxTS1YVHk0RVA3YlU3cVUxcjlaVl90OWtSNmdGQ1pSbVNVZDUxLW9PN0ozNUw1QTd6QUVKNlRMZlowcU1kN052MElIdWxJUFlwTDQwdE5yajBJVzZFNTh2cDVRbTg2WmRIdlFwcFV0UkNubFN5MFh4TWdrZ29MOEZPMngtLXZ1OTlyZzJLSkJ1OU9ta0FyXzNUMmFDXzd0Yl8xajln?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amcor-2026-07-09-011",
+    "date": "2026-07-09",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Amcor expands packaging facility in China - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNdFlHRHctbXJHelBiX0o5dE16cGRHY1BhUkFOZ1VuR2lNOTlEemowZGNWLUF4dU5Hb0QwRnN4SWNNblpWWllsYmlEZnpOcWpBdmsxdjU3cVNZX1N3eGtnZHluUExyMnQ3enUyWV8zMn",
+    "sources": [
+      {
+        "name": "amcor",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdFlHRHctbXJHelBiX0o5dE16cGRHY1BhUkFOZ1VuR2lNOTlEemowZGNWLUF4dU5Hb0QwRnN4SWNNblpWWllsYmlEZnpOcWpBdmsxdjU3cVNZX1N3eGtnZHluUExyMnQ3enUyWV8zMnVGYjlBSktZTXc5OEpVZGRucGJqYnlnZ0d4OTV3VjNiZkVsWkZ3OExEUExNNkRxUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amcor-2026-07-09-012",
+    "date": "2026-07-09",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Amcor is adding a 7,000-square-meter plant in China - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPamVGRjRVczZXdFgzcDN5OEw5UXRnTFJHNTBXNFVCXzZQME5PdUxHWk9ZQnk4VVhuUlhtUU8xbWdQWmNrcVFtTkFzUW1va0FpNE9aVXAzMFNxVnRmUmRKUUdRNGRrUGJzUmRTSUs2MU",
+    "sources": [
+      {
+        "name": "amcor",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPamVGRjRVczZXdFgzcDN5OEw5UXRnTFJHNTBXNFVCXzZQME5PdUxHWk9ZQnk4VVhuUlhtUU8xbWdQWmNrcVFtTkFzUW1va0FpNE9aVXAzMFNxVnRmUmRKUUdRNGRrUGJzUmRTSUs2MUZpVi0zUER6aG5vZEdHTXQ1YS1mNkp2bnllcDQwcjFJTmZiMHhE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amcor-2026-07-09-013",
+    "date": "2026-07-09",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Amcor Commences Expansion Project at Flexible Packaging Solutions Facility in Dongguan, China - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU1dmM3JNQVBEQ0hwZUc0cFFLS2V2OERmOWRDTndheTJhVV85emNjWU5DdEhsUUpaejFWZnRwX3RjU2JYRy0yTDh5YXZEQXNrS1VMemIzRU1OVVo3bGNZUTItdU5rdzBUUThuRXJCeV",
+    "sources": [
+      {
+        "name": "amcor",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU1dmM3JNQVBEQ0hwZUc0cFFLS2V2OERmOWRDTndheTJhVV85emNjWU5DdEhsUUpaejFWZnRwX3RjU2JYRy0yTDh5YXZEQXNrS1VMemIzRU1OVVo3bGNZUTItdU5rdzBUUThuRXJCeVctSnVmc2VXMFlSWFlGUmc2N2dFQUVRYkZ5dXlNY2lLUFFmWWtVRE9IVmgybXVzSXRUSW1yeFl1dmo5WnNYelpYOWhXXy1CZlBTcmNiSGpVeTlSeUozLUpFbWlHNzMzaXBYUnRsdkM2QWFGdEswVVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-07-09-014",
+    "date": "2026-07-09",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Wells Fargo Adjusts Price Target on Smurfit Westrock to $52 From $50 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOEZTYVRVRXY0Mkt4QkI3RHluc1NVNTRSSTF0bWpNejJIalN3Ym5MOUEyYTBCb2RyaGNRempjTWxXdjhaX29aU2JHbW15UUVBYWhyYlhtYkVHUm5FV01EZDNqRmIzU3g4UXVVaVI3dl",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOEZTYVRVRXY0Mkt4QkI3RHluc1NVNTRSSTF0bWpNejJIalN3Ym5MOUEyYTBCb2RyaGNRempjTWxXdjhaX29aU2JHbW15UUVBYWhyYlhtYkVHUm5FV01EZDNqRmIzU3g4UXVVaVI3dlBOd2M1MGhGOUdNTmdSOEpUdTQxMVkxdVZPcUVQQ3phcTBWRENEYVlGZU9sTzU0UU12aVBMZmpsTEwtdmh6MWZaV1ROaGZSaUpMZUgzeVpQQXBWb2lDU0NfQ1JZN0NQQWxJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "graphic_pkg-2026-07-09-015",
+    "date": "2026-07-09",
+    "companies": [
+      "graphic_pkg"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Federal court advances class-action lawsuit against GPI",
+    "summary": "<p>A federal judge approved the lead plaintiff in a securities lawsuit against Graphic Packaging International, paving the way for a class determination.</p>",
+    "sources": [
+      {
+        "name": "packaging_dive",
+        "url": "https://www.packagingdive.com/news/class-action-lawsuit-advances-lead-plaintiff-graphic-packaging-international/824775/",
         "type": "rss"
       }
     ]
@@ -415,6 +673,46 @@
       {
         "name": "packaging_dive",
         "url": "https://www.packagingdive.com/news/by-the-numbers-oregon-packaging-epr-circular-action-alliance-annual-report-2025/824646/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-07-08-017",
+    "date": "2026-07-08",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Paper's Quarterly Earnings Preview: What You Need to Know - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1NxU25pX0J0UVdMWmgtZGFWZjNZWGNaN2JjcnpRTFRpaHdpa3pDUXJVcmVRU1lQQ3I3SHo2c3dkYkdhWWsxdEZIRm9lcFRsSVB2ZGZTZ1F3bThqZjRhR2tNNXU3S0VJVTEwY2JfQm",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1NxU25pX0J0UVdMWmgtZGFWZjNZWGNaN2JjcnpRTFRpaHdpa3pDUXJVcmVRU1lQQ3I3SHo2c3dkYkdhWWsxdEZIRm9lcFRsSVB2ZGZTZ1F3bThqZjRhR2tNNXU3S0VJVTEwY2JfQm9FRy1YaDFWWUFSMF9yNVJnNENFQlJVcTV4QWdMMjRubFNySUdodXZtajdMdUNMTXJKalREaEFnSzNNbTR4VGU4QlpFd2g?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-07-08-018",
+    "date": "2026-07-08",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Smurfit Westrock and Coca-Cola China partner on World Cup packs - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPYTF5eEd2NWhiN2VUa2pOQ0dmZFh4RE40Tmg2ZWNTejBzTjlPRjJ4cU02RDRxWERPNjdqcGlLQ3RIMzBTanlVeEdZeFlzb1lXTFZqN1NmS1U4OERvZ1V0ZlBZeEc5N0ZXclJqeHRqMl",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYTF5eEd2NWhiN2VUa2pOQ0dmZFh4RE40Tmg2ZWNTejBzTjlPRjJ4cU02RDRxWERPNjdqcGlLQ3RIMzBTanlVeEdZeFlzb1lXTFZqN1NmS1U4OERvZ1V0ZlBZeEc5N0ZXclJqeHRqMlRsSjJ4b1hUdFB0WkhVemlad29HckRxVTUzc0ZKQjhzREJmZi1pb1pjNzlGd3RjS0N0eWc?oc=5",
         "type": "rss"
       }
     ]
@@ -893,6 +1191,44 @@
       {
         "name": "trupanion",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR0EweE5IMnVvUkVGdVhmNXJUY25RWllzU3lpZlA0cXpOTUZmRjVNcmVYVW05MVZpZVZEcm0yeS1OQ0o0LVBXNk9IRUp5WnBUeXdzVW1fSzFieFdMNE40aTlBb1RmUXU1LVhzVjN2QkJvVnh6UjdwQUt4cXVPcTZZc25jOXZjY1MxcmFJVzNOaC16M0ZJYnBycDBzZWo3eGNDNmdabHFqNWw3dzFtLWdSdnMwaEYySGROT0llaTQ1TlVQUjV6eHpLRGNYMzk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "zoetis-2026-07-07-025",
+    "date": "2026-07-07",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Zoetis Inc. (ZTS) Class Action Lawsuit Seeks Recovery for Investors; July 27, 2026, Deadline - Contact Kessler Topaz Meltzer & Check, LLP - Morningstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxQMW1rVXBCSEI2VUVmUUg1bFRsYTV3bjM0NEVUY3BzNVJ1YlpjOTRpX01CVGRNSFpqT3JJdHh4XzVNdkxjOHd3emtrV1RMRHJMaGNGMzQ0RWtiYXVUMXVpMW1wOEsxaEpDMk1uaHFnQn",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQMW1rVXBCSEI2VUVmUUg1bFRsYTV3bjM0NEVUY3BzNVJ1YlpjOTRpX01CVGRNSFpqT3JJdHh4XzVNdkxjOHd3emtrV1RMRHJMaGNGMzQ0RWtiYXVUMXVpMW1wOEsxaEpDMk1uaHFnQnJ2VWZzMU1tZnlBX1ZpS0ZjUnVLVjZTLVExOGk3ZHh2eDNhemdlTmhkUnZYSEEtekJzakdyaVVJNHRxdFNjSXBBQXM2RTNnd25qUFlCUktPVkU3cDNYck1qSmlnZkJTN3hleVI1X2xwa05UV3ItaERBS2k5SFdqQUctUVlramdIQ1pWekc4NHZQNF9mMXdVUkVWejF6UDFwUnpJZkNIbkc0MFN5dm9GUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-07-07-026",
+    "date": "2026-07-07",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Smurfit Westrock partners with Coca-Cola on World Cup packaging to capture spike in consumer demand - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMk80a1FVVkMwMXoyWm51cTJPcDBSWGt3bWdYTzQ5OXB1dXA4ZEZOLUJnUEt4R3JKQllubXBjY2ZZeldJNnZCVGxCWndNc3F1TXFHV2RpYkxGdmRSdS1wMGd2eWdqTEhzeXBMYWZJTG",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMk80a1FVVkMwMXoyWm51cTJPcDBSWGt3bWdYTzQ5OXB1dXA4ZEZOLUJnUEt4R3JKQllubXBjY2ZZeldJNnZCVGxCWndNc3F1TXFHV2RpYkxGdmRSdS1wMGd2eWdqTEhzeXBMYWZJTGNvS3hrMFNKeWV1X1ZIczFJSjBIMzBoRVNiNEZSeUFYT1RFZ3ZZT3lWdDJnY3BJUU11bHcyQ0EyVXl1cUtIdTd2U1MzNnJxRVlVOXNKY29CYjhuQWZHMjZUYWtiZWU0YWRqdDFKUTRFMjV0SmxyTHVMaXJwOWdaeUdOZWFVYQ?oc=5",
         "type": "rss"
       }
     ]
