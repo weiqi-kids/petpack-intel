@@ -1,0 +1,16 @@
+{
+  "total_raw": 327,
+  "dup_title": 152,
+  "no_date": 0,
+  "too_old": 125,
+  "gate1_fail": 14,
+  "gate2_fail": 17,
+  "passed": 19,
+  "gate2_samples": [
+    "Zoetis: The 60% Decline Was Justified, But Shares Are Finally Buyable - Seeking Alpha",
+    "Ecommerce Trends: How Chewy is using AI - Digital Commerce 360",
+    "Insider Sell: Holly May Sells 200,000 Shares of Petco Health and Wellness Co Inc (WOOF) - GuruFocus",
+    "Here’s What Analysts Say About Petco Health and Wellness (WOOF) - Yahoo Finance",
+    "Form 4 Petco Health and Wellness Company Inc For: 10 July By Investing.com - Investing.com India"
+  ]
+}
