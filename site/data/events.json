@@ -1,5 +1,25 @@
 [
   {
+    "id": "sealed_air-2026-07-12-001",
+    "date": "2026-07-12",
+    "companies": [
+      "sealed_air"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Sealed Air stock reflects packaging demand as investors weigh long-term growth - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNeXJVdUdQLTNDMGlZY0Q0djkwNGhabnY5Tzh2dVlubWVadWZQOFlodTctdzJZWWpvTmZQTk9FNE9vOEJZZ29zZVFaVUR6d0U1MUFMdFZ5aWxsbFl5ZTBfZmdYS2ZEWHQ1VktfZHdveU",
+    "sources": [
+      {
+        "name": "sealed_air",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeXJVdUdQLTNDMGlZY0Q0djkwNGhabnY5Tzh2dVlubWVadWZQOFlodTctdzJZWWpvTmZQTk9FNE9vOEJZZ29zZVFaVUR6d0U1MUFMdFZ5aWxsbFl5ZTBfZmdYS2ZEWHQ1VktfZHdveUhKZWJJVFVFV2dGMkd1cW5LWmdCR29wZHltWFZ0TFpQUVlWWmJhWndnS25oNTh1b1BWRDQwNnRpdlBaRktZTTlKYi03RzB5RlhQOUVxbWh2ZG5UaDRRLXZtMzlB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "zoetis-2026-07-11-001",
     "date": "2026-07-11",
     "companies": [
@@ -251,6 +271,25 @@
       {
         "name": "google_news_packaging",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcTduSWkxUWkzRnVfa2lGZjgwOGtCbkxJUkFDRUJSeW1VMVVoRHRnV0k4cEFaVEI2SWxQTWJnc1hmVDFPVWxMUmpPb1FybXh3MzVYME12Y0k3VDFiX19hUlltU1hpTnVRVWpXT29CakZDci1ENWkxZndDVzJxdVhpZmtmSWhPMlhzczdIRV9qZFIwTkxCNnVFWmZWUnhjUVNhWUdWTWJCc2Z4aWMzY1V5NFYtb2IyNnBHSTRKY2tB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-10-010",
+    "date": "2026-07-10",
+    "companies": [],
+    "topics": [
+      "vet_spending",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Phibro Animal Health (PAHC) Q1 2025 earnings summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOX3VxVklOaUoxdnMtcHYxU2RHeFIzM2lGckszM0haWFpHOHJWRV9PcEdXOElMVERYdHZIUm9TMVlZdXk3ZUMxc1BKZUw2QldLRUMtRG5xb052SnZUSDJ1azZuWUtBSUQ3WHVsMWpMVl",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX3VxVklOaUoxdnMtcHYxU2RHeFIzM2lGckszM0haWFpHOHJWRV9PcEdXOElMVERYdHZIUm9TMVlZdXk3ZUMxc1BKZUw2QldLRUMtRG5xb052SnZUSDJ1azZuWUtBSUQ3WHVsMWpMVllpRVhKZzg5RGJnMGVhQ1hfOExSU01DdDg?oc=5",
         "type": "rss"
       }
     ]
