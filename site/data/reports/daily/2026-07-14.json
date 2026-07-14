@@ -1,0 +1,203 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T09:53:35.418177Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "trupanion-2026-07-14-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "US pet insurance premiums hit record $1.53B in Q1, led by Trupanion. - Pluang",
+      "companies": [
+        "trupanion"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "pet_insurance",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS0pfTVZXa0RFRzlHYjZrdkVRcHlpWXNaQ1FhMVlHaGVfb0Z4OW9IZEtuVndXN0RyRjdCY2JscE9DN3FFZEJpNUNnM0w3ZzVaMklubDAtcjJjakxGYmtWTjFZbk1pcDl6Q1V0cTJ0M1YwdXMya2lrNU1URXVwdF9BczVZM1J5Yk5TMGdpVGxpOGFnUDFDS2c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "idexx-2026-07-14-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "IDEXX Laboratories stock holds steady as diagnostics demand supports long-term growth - Ad Hoc News",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "vet_spending",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdGJNUklta1gwWTZjcC1CWnhUR09ZOXI4aEhiWVRXc0JtTTRYS3pab1J4a3B2WGJqRWt5alhDc3lWeV80TmFJRTBBNFFRekpKMUR4VGZialA0blFpUjNHeVJia2Q1RFd6Q3VVZkVxc256Wk0xZE4zakl0ZWJmamdtYloycjBKTm5mbzR3ZllFNjg5azc2QWhhSklrek9jVk55ek9Eb05UYVRuOV9hUktIV2MxNUp4MmdfZy1DbnJ2MlpkTkhLekE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "crown-2026-07-14-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Crown Holdings (CCK) Could Be 12% Undervalued Following Its Climate Transition Plan - simplywall.st",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFo5V1FIM2pneWw3N240RGdER2h3NUJrbDhCMzdXWEpoU1BvMmV0NHpsd0RPS0xRXzZDZUQ1RlFMdVdMWDBwa0dhYWJMMHl6dThiMW5mNHBoeXBQMXgxZTAtVGVFekZyTUNwWjlWMWtiNHFnT3RxOWExT0t6MFR5WDhUZXJybEdCVTk5QWp0c1dBeVVRWkNJNkwxN2d0S3Z4aVdnaW42QzZWTmF4dFhwMmxISkZxMkg4OWFDck04dXVNb3dkR0JNUW55d9IB0AFBVV95cUxPSzJVR2ZBdG5wR09Bc0NrTUhMRmJ5MXRVU0FCVVgwQnVadktldnRzOFNnSlNwcGdkQ3lpR1NRdkdLMnRGTVpjaG9tMkVybUhFMy05V2pDMXZiR2Q4OUNQZ2QyM2ZTRV85ZEJIMlRHUkFydS0yZm1pSG81Q1BiODZkTDgtcUdYN1hFRVA2MzZUY1FlaG14d2Y4UmNjcG1oNWZmeHJKTWR2bWpLQWJMWk5oM2RpbkpvR3g0TnJlVFg5NUc5TnplekJOZmZERVdwT2VQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "crown-2026-07-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Crown’s Supply-Chain-Focused Climate Plan At Crown Holdings (CCK) Has Changed Its Investment Story - Yahoo Finance",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVTUxVUZ1OEs2c2FWYXF4RmdMeXpVRXVoVXZSZ1dDU1psdGRUYTR0MThocmZId2E5UXBvX2tldEZrTXl3bC1HcUg2WTZ5QVN0QzNWZ1FCSTRqdU1ONXF5dWMxMVNyeG9Db1B4bzFVb3pwY1dtWFgtb3pJZFhmdGJSaEcyeXUwZ3BuT1pFeDJjWXVEY2ZwaTBTcDdDYmJqNjNN?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "vet_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "pet_insurance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "crown",
+        "count": 2
+      },
+      {
+        "id": "idexx",
+        "count": 1
+      },
+      {
+        "id": "trupanion",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "vet_spending",
+        "count": 1
+      },
+      {
+        "id": "pet_insurance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 329,
+    "dup_title": 147,
+    "too_old": 131,
+    "gate1_blocked": 16,
+    "gate2_blocked": 16,
+    "passed": 19,
+    "pass_rate": "10.4%",
+    "gate2_block_rate": "8.8%",
+    "gate2_samples": [
+      "Zoetis (ZTS) Wins EU Vaccine Approval With Undervalued View Still In Focus - Sahm",
+      "Ecommerce Trends: How Chewy is using AI - Digital Commerce 360",
+      "Insider Sell: Holly May Sells 200,000 Shares of Petco Health and Wellness Co Inc (WOOF) - GuruFocus",
+      "Form 4 Petco Health and Wellness Company Inc For: 10 July - Investing.com Canada",
+      "Insider Sell: Holly May Sells 250,000 Shares of Petco Health and Wellness Co Inc (WOOF) - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為皇冠、愛德士、寵物保險相關動態：「US pet insurance premiums hit record $1.53B in Q1, led by...」。主要關注主題為財報、獸醫支出、寵物保險，市場情緒中性。",
+    "signals": [
+      {
+        "text": "US pet insurance premiums hit record $1.53B in Q1, led by Trupanion. - Pluang（寵物保險、財報）",
+        "level": "red"
+      },
+      {
+        "text": "IDEXX Laboratories stock holds steady as diagnostics demand supports long-ter...（獸醫支出、財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 329,
+  "dup_title": 147,
+  "no_date": 0,
+  "too_old": 131,
+  "gate1_fail": 16,
+  "gate2_fail": 16,
+  "passed": 19,
+  "gate2_samples": [
+    "Zoetis (ZTS) Wins EU Vaccine Approval With Undervalued View Still In Focus - Sahm",
+    "Ecommerce Trends: How Chewy is using AI - Digital Commerce 360",
+    "Insider Sell: Holly May Sells 200,000 Shares of Petco Health and Wellness Co Inc (WOOF) - GuruFocus",
+    "Form 4 Petco Health and Wellness Company Inc For: 10 July - Investing.com Canada",
+    "Insider Sell: Holly May Sells 250,000 Shares of Petco Health and Wellness Co Inc (WOOF) - GuruFocus"
+  ]
+}
