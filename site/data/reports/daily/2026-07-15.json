@@ -1,0 +1,96 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T09:57:26.393152Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "amcor-2026-07-15-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Amcor expands Dongguan flexible packaging facility - PKN Packaging News",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMzNNVV9XOTd1c01BZlI0SWlhZEFoZkl3UjZscmtDalo0Q3l5WlFZRFhUNG16VGFyUF9mbFFxaVJKeHpEWW1yS0lFemNobTRSTHExVFRLSTVLbGJrbnI1Q1ZqOEJwbFByRW5VZEFVU2RXVi11RUROblk4X01NRXJUV25JSS1ZOWV1OG1aRGdxZ2F1TlZGT3ZLbg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "amcor",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 329,
+    "dup_title": 142,
+    "too_old": 131,
+    "gate1_blocked": 13,
+    "gate2_blocked": 19,
+    "passed": 24,
+    "pass_rate": "12.8%",
+    "gate2_block_rate": "10.2%",
+    "gate2_samples": [
+      "Zoetis: Buy When There Is Blood In The Streets (NYSE:ZTS) - Seeking Alpha",
+      "Ecommerce Trends: How Chewy is using AI - Digital Commerce 360",
+      "Insider Sell: Holly May Sells 200,000 Shares of Petco Health and Wellness Co Inc (WOOF) - GuruFocus",
+      "Form 4 Petco Health and Wellness Company Inc For: 10 July - Investing.com Canada",
+      "Insider Sell: Holly May Sells 250,000 Shares of Petco Health and Wellness Co Inc (WOOF) - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為安姆科相關動態：「Amcor expands Dongguan flexible packaging facility - PKN ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Amcor expands Dongguan flexible packaging facility - PKN Packaging News（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "安姆科為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
