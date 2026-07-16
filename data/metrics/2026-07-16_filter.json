@@ -1,0 +1,16 @@
+{
+  "total_raw": 328,
+  "dup_title": 141,
+  "no_date": 0,
+  "too_old": 128,
+  "gate1_fail": 16,
+  "gate2_fail": 23,
+  "passed": 20,
+  "gate2_samples": [
+    "Zoetis: Buy When There Is Blood In The Streets (NYSE:ZTS) - Seeking Alpha",
+    "Zoetis exceeds $1 million for Beyond Blue, as 2026 campaign starts - Sheep Central",
+    "Ecommerce Trends: How Chewy is using AI - Digital Commerce 360",
+    "Insider Sell: Holly May Sells 200,000 Shares of Petco Health and Wellness Co Inc (WOOF) - GuruFocus",
+    "Form 4 Petco Health and Wellness Company Inc For: 10 July - Investing.com Canada"
+  ]
+}
