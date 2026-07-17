@@ -1,0 +1,29 @@
+{
+  "date": "2026-07-17",
+  "total_events": 3,
+  "by_company": {
+    "idexx": {
+      "count": 1,
+      "sentiment_avg": -0.75
+    },
+    "intl_paper": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "vet_spending": {
+      "count": 1,
+      "sentiment_avg": -0.75
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": -0.38
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

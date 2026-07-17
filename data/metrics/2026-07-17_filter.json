@@ -1,0 +1,16 @@
+{
+  "total_raw": 328,
+  "dup_title": 143,
+  "no_date": 0,
+  "too_old": 127,
+  "gate1_fail": 17,
+  "gate2_fail": 17,
+  "passed": 24,
+  "gate2_samples": [
+    "Zoetis to acquire vet teleradiology services firm VitalRads - pehub.com",
+    "Zoetis: Buy When There Is Blood In The Streets (NYSE:ZTS) - Seeking Alpha",
+    "Insider Sell: Holly May Sells 200,000 Shares of Petco Health and Wellness Co Inc (WOOF) - GuruFocus",
+    "International Paper shuts down Alabama mill to repair weather damage - AL.com",
+    "Is It Too Late to Buy International Paper Co (IP) After 3.1% Ral - GuruFocus"
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T09:53:11.270784Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "idexx-2026-07-17-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "IDEXX Laboratories stock trades near record levels as companion animal diagnostics drive growth - ad-hoc-news.de",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "vet_spending",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNEh3S1dTUHRhZ2lhRlBCZXBUcDZiSkszUW1yeXNXNFNiMDJuVGtSaXZNSnVWNFRubWZmQ1lEeW00UHYycFREWDhjOUN1THNLemxzWVVuamdCMmVLTllUU3dFUkpwTi0tVjNDaEhoc005RlNYS1lLR0NrSEhmYkp3VmtaRTVOeV81a2pFQ243ZWVsX2wxNUJESWN3UEU0VjBEc0RhQ1VvQ0h4Y184VzEyOXhuMVB4eHV2NDVGblo2NnhGbDFRcGFYTg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intl_paper-2026-07-17-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper to shut packaging site in Carrollton, Texas - Packaging Gateway",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeEJZNnJOYmFQWnBBLXVRc1dTNWdlMmNuTzhsLTB1TlJOVlgzY2lnT09pSWJOTVpEUEhjcXFzVVNGclZ5WEhkTWZ3UGJFOHlVYlYxeXFhdXE5MEEtcEdaTzZuc3RnQ3BZSEs4X2hXbVg1bXVGZExHMGt0ZGlBOVdNQ2ExeFdDNTJEYXhMM2dR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "intl_paper-2026-07-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "International Paper closes a plant in Texas, temporarily suspends operations at Alabama mill - Daily Memphian",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaTlsME9xc2N1bFZZaWVnZmpGQWlwOG5HTkRoS0kxbHlOMzdNemVaSVdGSGlmdVZWRnJkSl9FdUVHRUc0NXoxdnZnTTc3T091b2R2M2hSdkk4V2QzdkR6RnVGa0ZlVWRkbklhNUNmaXZoN0JHbGpQRlh3UGFhdEFXNzN1UUc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "vet_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.75,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.38,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 2
+      },
+      {
+        "id": "idexx",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "vet_spending",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 328,
+    "dup_title": 143,
+    "too_old": 127,
+    "gate1_blocked": 17,
+    "gate2_blocked": 17,
+    "passed": 24,
+    "pass_rate": "13.0%",
+    "gate2_block_rate": "9.2%",
+    "gate2_samples": [
+      "Zoetis to acquire vet teleradiology services firm VitalRads - pehub.com",
+      "Zoetis: Buy When There Is Blood In The Streets (NYSE:ZTS) - Seeking Alpha",
+      "Insider Sell: Holly May Sells 200,000 Shares of Petco Health and Wellness Co Inc (WOOF) - GuruFocus",
+      "International Paper shuts down Alabama mill to repair weather damage - AL.com",
+      "Is It Too Late to Buy International Paper Co (IP) After 3.1% Ral - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為國際紙業、愛德士相關動態：「IDEXX Laboratories stock trades near record levels as com...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "IDEXX Laboratories stock trades near record levels as companion animal diagno...（獸醫支出、財報）",
+        "level": "red"
+      },
+      {
+        "text": "International Paper to shut packaging site in Carrollton, Texas - Packaging G...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
