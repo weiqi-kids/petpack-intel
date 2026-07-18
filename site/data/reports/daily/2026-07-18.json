@@ -1,0 +1,204 @@
+{
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T09:20:21.816044Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-18-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Fat cat? Weight-loss drugs may be coming for your overweight pet - CNBC",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzS0RWQklHSlFEc1BwTC1Vbm5fOHZzUzlGUzJTcjJGNWNGN1FOWXlxZ243UEZjNGVuQV9EanFfUnRVUXREckVrQUsteEVyY3BiVTJqV3JBQXNQY3hURlV3MDV4Q2l6ZEVtaTc5R1ByWDlrWWx4d25yQWtWTVHSAYIBQVVfeXFMUG80QUhhTmcweGNtRHk1bjZMVlhvVmdpRklMaUljbm8wbXFLWFpWek5BVno2UVc3VDdXQ1MzaFdCcXFCWE92VVpoNXNSbEI3dGh0X1pLcFRiay1JUHd5clN5OVVQMU5qMkFLbHpidUttU3J0OGxIOXJKY0N3bG1EWkZUZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intl_paper-2026-07-18-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper (IP) To Close Texas Packaging Plant In Five Plant Restructure - Yahoo Finance",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUmFqeFFjaWthTXJlUVNsVmRuWUNsUjROb2VZaFlrT0l0OGY0UXVud3QzeGhjRXphUnpsQktvV1pwY2ZXZDdDdTlXSUFiSS1JTThKV2w2bzJqdzdaLWVzQmluaUYzM1FIMVRGTjRBaWVMQ3lSR1lEaktKRXg4RktodXlBUWdtSUhLSkcyZUFLOXBuYVBoY3hsNHBnQndGb25X?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "amcor-2026-07-18-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Amcor stock trades steadily as flexible packaging margins and cash flow underpin guidance - ad-hoc-news.de",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWmI3Zm93N0ZtSXBuWEthVkRsMGFJX2JYN28wUHJUaElQSVJfS3ptV3FIa0hFUUtIQjc3c0FWeDZqazVrXzBDZnlWOWc0SWZfYTlvZENlZjE4cnNCRDlOSHhTcC1TWjNhVFZhVElwd3FtMXNuVm00T04xQmg0RVhYQTBvWEVCajQ3WU1LbW4yU29uNmdMSVpaM3l0WEc4SHl5Mkh0VXhFTDRhWWNETVp4SGExRElPbkNlUkstN0p0a0k1LTF4eFJaNjBR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-18-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SEE5393002 Bond Profile — Key Metrics - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDUzJSQklFRUtXZWQ3amdSS2ZBa21QR01jOTl0OGwwQlBoeE5aSnExR2JSVldZM2FBZzRfR3dnemlnWUJPUzlHZnFxLXB5MWIxY2Uzd21VRElYeW83Z2RZUUhvZUpTaW50VmpwU1EwS1hWX2xCbzdPLU1B?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "intl_paper-2026-07-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is International Paper’s Footprint Shift and Governance Refresh Altering The Investment Case For IP? - Yahoo Finance",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlRoRkgxR09XcnhGVzUzUE93WWFGZDRfMUhObnBPbVZsMUdZa0JWd25DLWhaWnFIX01hSGJRcEhaRnFZRmw5aDBVMk1BdFpIZjVTNEhEalZaTlhUZ3kxSF9tYW5jV19HQzZ0NUNzTGQxWlZPNVZwUHpXMGptMUtQd2VsLUR5cHBHUVF2LWdmYmM3RGFfNWU5VUdwVkR3VzlXeVR4OXFkYk5EdFo2UXZrUg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 2
+      },
+      {
+        "id": "amcor",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 328,
+    "dup_title": 149,
+    "too_old": 128,
+    "gate1_blocked": 17,
+    "gate2_blocked": 19,
+    "passed": 15,
+    "pass_rate": "8.4%",
+    "gate2_block_rate": "10.6%",
+    "gate2_samples": [
+      "Zoetis: An Attractive Risk-Reward Opportunity - Seeking Alpha",
+      "Zoetis to acquire vet teleradiology services firm VitalRads - pehub.com",
+      "Zoetis: Buy When There Is Blood In The Streets (NYSE:ZTS) - Seeking Alpha",
+      "HR chief Holly May to exit Petco (NASDAQ: WOOF) after July 13 notice - Stock Titan",
+      "Insider Sell: Holly May Sells 200,000 Shares of Petco Health and Wellness Co Inc (WOOF) - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為國際紙業、安姆科相關動態：「Fat cat? Weight-loss drugs may be coming for your overwei...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Fat cat? Weight-loss drugs may be coming for your overweight pet - CNBC（財報）",
+        "level": "red"
+      },
+      {
+        "text": "International Paper (IP) To Close Texas Packaging Plant In Five Plant Restruc...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

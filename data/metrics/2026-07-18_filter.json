@@ -1,0 +1,16 @@
+{
+  "total_raw": 328,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 128,
+  "gate1_fail": 17,
+  "gate2_fail": 19,
+  "passed": 15,
+  "gate2_samples": [
+    "Zoetis: An Attractive Risk-Reward Opportunity - Seeking Alpha",
+    "Zoetis to acquire vet teleradiology services firm VitalRads - pehub.com",
+    "Zoetis: Buy When There Is Blood In The Streets (NYSE:ZTS) - Seeking Alpha",
+    "HR chief Holly May to exit Petco (NASDAQ: WOOF) after July 13 notice - Stock Titan",
+    "Insider Sell: Holly May Sells 200,000 Shares of Petco Health and Wellness Co Inc (WOOF) - GuruFocus"
+  ]
+}
