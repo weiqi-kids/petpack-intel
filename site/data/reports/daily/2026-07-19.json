@@ -1,0 +1,164 @@
+{
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T09:49:02.909863Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "idexx-2026-07-19-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "IDEXX Laboratories stock trades near record levels as veterinary diagnostics growth supports valuati - ad-hoc-news.de",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "vet_spending",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzRYMmpCcHByTnRDc2xrS0hPWmlILU11NHZsZjhlbEVaeGRtV1d1RFNUcDNuMVJvXzVZRFpzQ2c2NVcxblU4WWM2WTBtd240d0ZRTVYyckliMFdWczBadk5Ya2dXcG5PLUEtTWV2T2thSlItQ3JTVFR6N2o0eEpRNUdvbUl1d3VTeDZKR29kaW04MFlIRjRka1ZPZVhZSGxrY1hZcGV2blhOR1psaWxZZV92dFV0UEpncF9ZbGhmWU8?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "crown-2026-07-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Earnings To Watch: Crown Holdings (CCK) Reports Q2 Results Tomorrow - Yahoo Finance",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQkkzZmtvLTBhRGZIc0FVaTlWbkNWd2hQRFFfMkViRkdreFNTMU12SlVPNmxZUUtrWUtxSHNlRXNLaDNSbnB0d2RkdHgwQ3pPZEdJcDEwTmFScjZZWkUxX1hYMVlJNXI3WlFPQ29Ed0l6VE80cEdJS3hYWjh5TlpIRTF2azd0ZE15R1gzXzBYZFZ1NHhyd0twWG5QR2dMeFE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "crown-2026-07-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Earnings to watch: Crown Holdings (CCK) reports Q2 results tomorrow - MSN",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWlNYTmxWSFBnVWRCbjVwYTFPNHdlQW9wSlFueXhXMEg2M29NUzVpTno3WTFTU18xbURaZFlKUnBROEE4V0kwQVpqU0JfNndRUm94OXhlTDlYOS1HVmVmdmRld2J4QUgtS2ViQ19mLWZkb0lGRWVUVGhrU0tEbzhqR3hqd2l5a2JNSTNFdEp0OXdVNW0xbW9QS0FMS2NEVGRwY3JXUzZRMVRzX3hTa0hZNEcwbjF2bFhaSFJucnlxTExvb2tscEc5eDRLZ19uSlJiMk01dl90X1QtZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "vet_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.75,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "crown",
+        "count": 2
+      },
+      {
+        "id": "idexx",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "vet_spending",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 329,
+    "dup_title": 152,
+    "too_old": 131,
+    "gate1_blocked": 17,
+    "gate2_blocked": 20,
+    "passed": 9,
+    "pass_rate": "5.1%",
+    "gate2_block_rate": "11.3%",
+    "gate2_samples": [
+      "Zoetis: An Attractive Risk-Reward Opportunity - Seeking Alpha",
+      "Zoetis to acquire vet teleradiology services firm VitalRads - pehub.com",
+      "Zoetis: Buy When There Is Blood In The Streets (NYSE:ZTS) - Seeking Alpha",
+      "Is Trupanion (TRUP) Undervalued Or Has Its Recent Rebound Already Priced In? - Yahoo Finance",
+      "HR chief Holly May to exit Petco (NASDAQ: WOOF) after July 13 notice - Stock Titan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為皇冠、愛德士相關動態：「IDEXX Laboratories stock trades near record levels as vet...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "IDEXX Laboratories stock trades near record levels as veterinary diagnostics ...（獸醫支出、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Earnings To Watch: Crown Holdings (CCK) Reports Q2 Results Tomorrow - Yahoo F...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

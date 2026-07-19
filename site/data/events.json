@@ -1,5 +1,66 @@
 [
   {
+    "id": "idexx-2026-07-19-001",
+    "date": "2026-07-19",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "vet_spending",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "IDEXX Laboratories stock trades near record levels as veterinary diagnostics growth supports valuati - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzRYMmpCcHByTnRDc2xrS0hPWmlILU11NHZsZjhlbEVaeGRtV1d1RFNUcDNuMVJvXzVZRFpzQ2c2NVcxblU4WWM2WTBtd240d0ZRTVYyckliMFdWczBadk5Ya2dXcG5PLUEtTWV2T2",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzRYMmpCcHByTnRDc2xrS0hPWmlILU11NHZsZjhlbEVaeGRtV1d1RFNUcDNuMVJvXzVZRFpzQ2c2NVcxblU4WWM2WTBtd240d0ZRTVYyckliMFdWczBadk5Ya2dXcG5PLUEtTWV2T2thSlItQ3JTVFR6N2o0eEpRNUdvbUl1d3VTeDZKR29kaW04MFlIRjRka1ZPZVhZSGxrY1hZcGV2blhOR1psaWxZZV92dFV0UEpncF9ZbGhmWU8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "crown-2026-07-19-002",
+    "date": "2026-07-19",
+    "companies": [
+      "crown"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings To Watch: Crown Holdings (CCK) Reports Q2 Results Tomorrow - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQQkkzZmtvLTBhRGZIc0FVaTlWbkNWd2hQRFFfMkViRkdreFNTMU12SlVPNmxZUUtrWUtxSHNlRXNLaDNSbnB0d2RkdHgwQ3pPZEdJcDEwTmFScjZZWkUxX1hYMVlJNXI3WlFPQ29Ed0",
+    "sources": [
+      {
+        "name": "crown",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQkkzZmtvLTBhRGZIc0FVaTlWbkNWd2hQRFFfMkViRkdreFNTMU12SlVPNmxZUUtrWUtxSHNlRXNLaDNSbnB0d2RkdHgwQ3pPZEdJcDEwTmFScjZZWkUxX1hYMVlJNXI3WlFPQ29Ed0l6VE80cEdJS3hYWjh5TlpIRTF2azd0ZE15R1gzXzBYZFZ1NHhyd0twWG5QR2dMeFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "crown-2026-07-19-003",
+    "date": "2026-07-19",
+    "companies": [
+      "crown"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings to watch: Crown Holdings (CCK) reports Q2 results tomorrow - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWlNYTmxWSFBnVWRCbjVwYTFPNHdlQW9wSlFueXhXMEg2M29NUzVpTno3WTFTU18xbURaZFlKUnBROEE4V0kwQVpqU0JfNndRUm94OXhlTDlYOS1HVmVmdmRld2J4QUgtS2ViQ19mLW",
+    "sources": [
+      {
+        "name": "crown",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWlNYTmxWSFBnVWRCbjVwYTFPNHdlQW9wSlFueXhXMEg2M29NUzVpTno3WTFTU18xbURaZFlKUnBROEE4V0kwQVpqU0JfNndRUm94OXhlTDlYOS1HVmVmdmRld2J4QUgtS2ViQ19mLWZkb0lGRWVUVGhrU0tEbzhqR3hqd2l5a2JNSTNFdEp0OXdVNW0xbW9QS0FMS2NEVGRwY3JXUzZRMVRzX3hTa0hZNEcwbjF2bFhaSFJucnlxTExvb2tscEc5eDRLZ19uSlJiMk01dl90X1QtZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "intl_paper-2026-07-18-001",
     "date": "2026-07-18",
     "companies": [
@@ -90,6 +151,85 @@
       {
         "name": "google_news_pet",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzS0RWQklHSlFEc1BwTC1Vbm5fOHZzUzlGUzJTcjJGNWNGN1FOWXlxZ243UEZjNGVuQV9EanFfUnRVUXREckVrQUsteEVyY3BiVTJqV3JBQXNQY3hURlV3MDV4Q2l6ZEVtaTc5R1ByWDlrWWx4d25yQWtWTVHSAYIBQVVfeXFMUG80QUhhTmcweGNtRHk1bjZMVlhvVmdpRklMaUljbm8wbXFLWFpWek5BVno2UVc3VDdXQ1MzaFdCcXFCWE92VVpoNXNSbEI3dGh0X1pLcFRiay1JUHd5clN5OVVQMU5qMkFLbHpidUttU3J0OGxIOXJKY0N3bG1EWkZUZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "idexx-2026-07-18-006",
+    "date": "2026-07-18",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "vet_spending",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "IDEXX Laboratories stock trades near record levels as diagnostics growth supports valuation - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOWXNOaC1kbEx2d2tYZExhZzVMRjI2enhaQVpvMGZuWHRVQ25iSnBkZktrLU9OSFYyNFp3bUVIN19LMGRRUGh0MHlndDJYVTZjOTJLWVNfeGluLWlCcVZOVUtRdl9FaE5ibklZQTQxMm",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWXNOaC1kbEx2d2tYZExhZzVMRjI2enhaQVpvMGZuWHRVQ25iSnBkZktrLU9OSFYyNFp3bUVIN19LMGRRUGh0MHlndDJYVTZjOTJLWVNfeGluLWlCcVZOVUtRdl9FaE5ibklZQTQxMmlGQVctOHhKOFk4YWpaTFJNRXVtWDZqemtKa25vVWFHRE05djJmcDdkSVBtNnRlWlZSb2tyb2FIYjhWWHRzTTFVSU5SMjNvUms0Y3dxUzhjOU04R0psZTBjeWY5VQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "petco-2026-07-18-007",
+    "date": "2026-07-18",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Petco Health & Wellness (WOOF) 8-K Filing: Director and Officer Changes Announced – July 2026 - Minichart",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQbGFGOWVjWjNXTEJQOENhS1RUTUpHeW9STHNxcm9ieHNpdXhMU19iQnNxeVV5VzdqS3RMZ1lHTkoxVFlacXRMVHh3R2ZBQ2NEdV9xUlhhNDhwSWhQalRyaUhYblhBM0V2ZTdtbjFHcF",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbGFGOWVjWjNXTEJQOENhS1RUTUpHeW9STHNxcm9ieHNpdXhMU19iQnNxeVV5VzdqS3RMZ1lHTkoxVFlacXRMVHh3R2ZBQ2NEdV9xUlhhNDhwSWhQalRyaUhYblhBM0V2ZTdtbjFHcFdiM1gwU2pvaUZpaWtjTm5HUmhXbFRILW9GcDYtS2hsRGJGdmhoVllmLWYzaC1CR3JqNGlIbzRGYS13bkJPYm5fV0tpaGNrV1JYUkhWc3JIVGJNZ0V2Umc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-07-18-008",
+    "date": "2026-07-18",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "International Paper (IP) Could Be 5% Undervalued After Texas Plant Closure - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVHAyMHBWa0JINW1pYi1TTzROYzdScGpOd1IyRWstejJFNVJLTmZGUmt3WTN2VEVVeGNIb3RPX3JzMUt2XzVhLWptaTN3NmI4T08wVnJNMVNkRlZDbFJuN3RkTURjMlZhSXVSeXhpWX",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVHAyMHBWa0JINW1pYi1TTzROYzdScGpOd1IyRWstejJFNVJLTmZGUmt3WTN2VEVVeGNIb3RPX3JzMUt2XzVhLWptaTN3NmI4T08wVnJNMVNkRlZDbFJuN3RkTURjMlZhSXVSeXhpWXhXWW42OWp3Y1FpLU5mUW5hUEVIMkZfWncyQkdZNDJEWGdJa3k5aC12cFVBZHc3UFZEcG1uSm1qZm10ZkgycFhoUHJqcU9nZl85Y1oyMFBjSEh4a0t3TmIyLWkzRmt6dkNo0gHWAUFVX3lxTE9TM0hpNnlCeGtrMjhlSU9LUGp3NkxTTUxKYnJUWDdMOUF2a1Y5WVV4NHpGcktCcXNiajR2SjgwLXZwRjk2alBnLWVrUFFJRmVmNUthU0lsZXVQYU92V2RzdUJUTmxRWVFnaDJHcE5qU3ZGRXptNWtnUTY0UXZybE5fbjF3ajFFclA3cVo4SzFRMlBHZzk4VWE0ZnhZMF9qY051djR0MW9Mci1LMUdPcW1oX0l3Y1RlTHJBczZCZTM4MXpKX3ZMQjZ2bXV4Y0FGaHJJV2VxOUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amcor-2026-07-18-009",
+    "date": "2026-07-18",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Amcor (AMCR) After China Expansion And Mondelez Packaging Push, Fair Value Stays In Focus - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1h4R3NRcVpJQ2otRGVzaXpYU24yNkY0Rnlpc0VtTS1pbGs5el9kaEV0UlRLbmI0c0EyRGtJaTYxeDVyQUV2YlBONWM1bXVobjl2UV9VbHdtRjA4ZEFBZjFqUDllMFBEOWFwSkp6VT",
+    "sources": [
+      {
+        "name": "amcor",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1h4R3NRcVpJQ2otRGVzaXpYU24yNkY0Rnlpc0VtTS1pbGs5el9kaEV0UlRLbmI0c0EyRGtJaTYxeDVyQUV2YlBONWM1bXVobjl2UV9VbHdtRjA4ZEFBZjFqUDllMFBEOWFwSkp6VTFzNG0xdnNyRWdIWGszRmtsYXNyRWxNNm1lVFBDMUc0dVNkckcyYk1OWTBPLUdMR3pzZWxDYnNoNUdaVXJydmw2QXQ0R2tIaVBnbnNod1ptLTPSAcYBQVVfeXFMTUotYzZkbVBVZHp3b1VEYWZBY1htc05mZUdnSElvMVlteU8xMEM5bE1fcEVURjJPdWxFSHVpT2pPTzVEdVNqQnJhUVdSdWlzcHNYSHFLcFNQM3Vka05ER3JBT184QUs4TEJpQjl5bnpwYXZoZVZ3NDdPN0s1QjN4Uzl0NEFZOFpOeWR5VFJjRUZFT3c1dUVYZmJIX1M2Z2g2emNFRy03TXF3R2tOYWo4dV90WlVSVzMzMEtMQVJKcWczcVAwVDlR?oc=5",
         "type": "rss"
       }
     ]
@@ -327,6 +467,44 @@
       {
         "name": "crown",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRMEY1RUUycW1JNWYya1M0YVpOemMtT1gySWJ0TC1ZTEF6WEdZTzR1QXBBakpVZmlXeDFYa21NXzJHbjR2V0ozTjVKeGVCVXJReUd3alZKdDVjcXdmdXg0NWhrNNIBY0FVX3lxTFBRMEY1RUUycW1JNWYya1M0YVpOemMtT1gySWJ0TC1ZTEF6WEdZTzR1QXBBakpVZmlXeDFYa21NXzJHbjR2V0ozTjVKeGVCVXJReUd3alZKdDVjcXdmdXg0NWhrNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "petco-2026-07-17-013",
+    "date": "2026-07-17",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Petco Health & Wellness Company, Inc. Announces Resignation of Holly May as Chief Human Resources Officer - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM0h2bUFJU3NNN1hKUGlDc09pd1VMZUgtT1EtcExPMWlUeW9DUjRObVBMUUFBenJ6YTNsUWxESzhXZXlaWmZVNlpIYnBVV191Nktfc1RrQ1hmLVlmQUdfeXZWWEFBdTR6eDhlbHdDZk",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM0h2bUFJU3NNN1hKUGlDc09pd1VMZUgtT1EtcExPMWlUeW9DUjRObVBMUUFBenJ6YTNsUWxESzhXZXlaWmZVNlpIYnBVV191Nktfc1RrQ1hmLVlmQUdfeXZWWEFBdTR6eDhlbHdDZklheFVFd1paV29ld1BxWVRVMVlraDg4akE5VlV2dTh5c3FkVW5NbWN6eUdudWVzZDlUSW1PXzEzYWtHeFJfc0RublU2NDA5clo4ZGxSWGJ6WXpoRGhiSFZqVmdCeC1Vd3B3TFZRdWlrZjh3enZIOEIzaTY5QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-07-17-014",
+    "date": "2026-07-17",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "International Paper Announces Changes to Its Board of Directors - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ3BzM1dSamV3SWVyYWttQWJMa2JUanY5bDdFUE9oakpmTXNfMWJ3WUFyTTVPQkJ5dmJsUkhkRVRJNEM3VmtzUzlwZDZvSE9yZ1lEUk95TGczU3hhQkUzTk1hVG5rVmU4NWNTeVpKeW",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ3BzM1dSamV3SWVyYWttQWJMa2JUanY5bDdFUE9oakpmTXNfMWJ3WUFyTTVPQkJ5dmJsUkhkRVRJNEM3VmtzUzlwZDZvSE9yZ1lEUk95TGczU3hhQkUzTk1hVG5rVmU4NWNTeVpKeWJpZS01aV9IT1J6RDQ5MmlCV19JdkFCckdXRzEyaGJFXzdKVEdxVmo0N0s1SFI5ck5YMklOMUJpY1ZyMnBidmJTcE9DNE9NUEdTZFBr?oc=5",
         "type": "rss"
       }
     ]

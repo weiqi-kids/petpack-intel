@@ -12,14 +12,14 @@
     "history_complete": true
   },
   "idexx": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "central_pet": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "elanco": {
     "earliest": "2018-09-20",
@@ -46,14 +46,14 @@
     "history_complete": true
   },
   "intl_paper": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "ball": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "amcor": {
     "earliest": "2012-05-15",
@@ -74,33 +74,33 @@
     "history_complete": true
   },
   "pkg": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "cheng_loong": {
-    "earliest": "2000-10-30",
+    "earliest": "2000-08-01",
     "latest": "2026-07-17",
-    "count": 6384
+    "count": 6448
   },
   "rong_cheng": {
-    "earliest": "2000-10-30",
+    "earliest": "2000-08-01",
     "latest": "2026-07-17",
-    "count": 6384
+    "count": 6448
   },
   "crown": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "graphic_pkg": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "sonoco": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   }
 }
