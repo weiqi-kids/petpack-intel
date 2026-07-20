@@ -1,5 +1,85 @@
 [
   {
+    "id": "intl_paper-2026-07-20-001",
+    "date": "2026-07-20",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "International Paper expands board with two new appointments - Packaging Gateway",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1abVd0OTQ2SG1KUUtpSGZjcXNlT0d0NW01YUk3QjV1aEtnRVJOU3ViM1g4NUtCODFzU3AyQUR1Q3pST3NiMHZ5UXY0ak9SZm5rYjVybjJ2R2tMOXV0Vk9aXzEyNDlJYlpIN285d1NwRE",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1abVd0OTQ2SG1KUUtpSGZjcXNlT0d0NW01YUk3QjV1aEtnRVJOU3ViM1g4NUtCODFzU3AyQUR1Q3pST3NiMHZ5UXY0ak9SZm5rYjVybjJ2R2tMOXV0Vk9aXzEyNDlJYlpIN285d1NwREJSTnBiZlg5bnBONl90Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amcor-2026-07-20-002",
+    "date": "2026-07-20",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Amcor expands Chinese flexible packaging plant - Labels & Labeling",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXZva3RkTi1QRElIWExMUTZ3MV9hODNZSGJ1WE1QYnFWQ21CdmxNUEQwM3o2SDMwZVVDNEFTWEpIMzBHS3BTUU9PX3dpc1gyWW5xN2Q2ZlA1c0NCcFhwbFU1ZzZGNkpIZTRxdEYyaU",
+    "sources": [
+      {
+        "name": "amcor",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXZva3RkTi1QRElIWExMUTZ3MV9hODNZSGJ1WE1QYnFWQ21CdmxNUEQwM3o2SDMwZVVDNEFTWEpIMzBHS3BTUU9PX3dpc1gyWW5xN2Q2ZlA1c0NCcFhwbFU1ZzZGNkpIZTRxdEYyaUhQNTdoeWRBX3lfZ1lxTmxqdGM2RG96NTBzYVBodk82REszbUdIcWtiV3RZV2E2QmtPRDFad2hhTjBiUDBOOGF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amcor-2026-07-20-003",
+    "date": "2026-07-20",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Amcor gains RecyClass approval for pallet wrapping films - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1U4dVA3NDRieDlPWkJhTVdZYWVOVEZZNDVOLTNXT0JsSW5Cb25aZUE4eDBHc2VrUkRMQ241X0NyeHRkOUlDaVZDdEFQZzlwQ041VjZSeDU3NGVYNmtrbFRtNklIVmZrZk1rWnhRRT",
+    "sources": [
+      {
+        "name": "amcor",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1U4dVA3NDRieDlPWkJhTVdZYWVOVEZZNDVOLTNXT0JsSW5Cb25aZUE4eDBHc2VrUkRMQ241X0NyeHRkOUlDaVZDdEFQZzlwQ041VjZSeDU3NGVYNmtrbFRtNklIVmZrZk1rWnhRRTF4azh0S2E3UVlob1FIRnlTQk9JQ0hnR0UtbzNwLTNpcVZlYU56bXMwWS1tWEF2UlU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amcor-2026-07-20-004",
+    "date": "2026-07-20",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Amcor stock trades steadily as packaging group highlights cash flow and dividend support - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPZktaMUFLUEZWTkhzTE5RS2drYThHSVNwMm40dk5pUVloRENrMmtsY0xqRnhwYzFYaHlsTUJ1OHNCS1hRd1pRcFdzMXF4LVNkUTczWmhtdXBxV0xxeVFVQm93ZjJXUEZtRThkSkZ1WW",
+    "sources": [
+      {
+        "name": "amcor",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZktaMUFLUEZWTkhzTE5RS2drYThHSVNwMm40dk5pUVloRENrMmtsY0xqRnhwYzFYaHlsTUJ1OHNCS1hRd1pRcFdzMXF4LVNkUTczWmhtdXBxV0xxeVFVQm93ZjJXUEZtRThkSkZ1WWxIWTBfRWxReHFvU042bTNabVdTei1USEJjQ0RRWFBTclpyWGc4VGp1eS04Qk5SbE1wR3YwaDhpelhYZ2ZsSWJLRHJPX2lJbVdCQ19SckppT0IzSHNPNUVaWll3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "idexx-2026-07-19-001",
     "date": "2026-07-19",
     "companies": [
@@ -56,6 +136,66 @@
       {
         "name": "crown",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWlNYTmxWSFBnVWRCbjVwYTFPNHdlQW9wSlFueXhXMEg2M29NUzVpTno3WTFTU18xbURaZFlKUnBROEE4V0kwQVpqU0JfNndRUm94OXhlTDlYOS1HVmVmdmRld2J4QUgtS2ViQ19mLWZkb0lGRWVUVGhrU0tEbzhqR3hqd2l5a2JNSTNFdEp0OXdVNW0xbW9QS0FMS2NEVGRwY3JXUzZRMVRzX3hTa0hZNEcwbjF2bFhaSFJucnlxTExvb2tscEc5eDRLZ19uSlJiMk01dl90X1QtZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "crown-2026-07-19-004",
+    "date": "2026-07-19",
+    "companies": [
+      "crown"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Crown Holdings (CCK) Prepares for Q2 Earnings Release with Stron - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxORFFEbS1aT25yYmFoX2Q5MDNWVzQ3WHpUSTVzS3RxNkxRWjdEbFREQkF2MGI4NGhKczlzNXl6SlB0c2tsYUE2NEdCRlQtQkdici1YcWgxcm85R3VXcWFfQU9IWkVJX05sVUozRmpYQl",
+    "sources": [
+      {
+        "name": "crown",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORFFEbS1aT25yYmFoX2Q5MDNWVzQ3WHpUSTVzS3RxNkxRWjdEbFREQkF2MGI4NGhKczlzNXl6SlB0c2tsYUE2NEdCRlQtQkdici1YcWgxcm85R3VXcWFfQU9IWkVJX05sVUozRmpYQlhNeG1OTmJzVUZGQXpENUVzbk9GUkZpZUROeXhLQ0dsbUdnOE0zclg2YlkyUjhqWi1meXZGLXZucFUySmx2VkY0Ym5n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "crown-2026-07-19-005",
+    "date": "2026-07-19",
+    "companies": [
+      "crown"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Crown Holdings Q2 2026 earnings preview - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUHRGaVV6N1RXTUd5VTJDS2RHMmVhb0FaYlViRzlaOVg2U3d4Ql9KNVR5UnVLcDhDYlY4dm56bTY0bkVsOUwtLWs3NF9QQWhURnpDM2JwZ2ZiRjFJeVpCR09uOXpOUklxcEVTRFFyaW",
+    "sources": [
+      {
+        "name": "crown",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUHRGaVV6N1RXTUd5VTJDS2RHMmVhb0FaYlViRzlaOVg2U3d4Ql9KNVR5UnVLcDhDYlY4dm56bTY0bkVsOUwtLWs3NF9QQWhURnpDM2JwZ2ZiRjFJeVpCR09uOXpOUklxcEVTRFFyaWNsckx4SmlOLVdEdWxBRzRqbnQwM3BUSEVkdkxLSWRVOUpCRm5jWEppeXpuU1FWZjc1UXowMUl3Yy1feEM5QmpQLWxydWkteHcz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "berry-2026-07-19-006",
+    "date": "2026-07-19",
+    "companies": [
+      "berry"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Berry Global stock trades steady as investors weigh valuation and cash generation - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVy1uVW5DMFZWUDdxUGtHSkxNeTFqUll5a3loTnNzQnprYmFuRF9RbXVZVnY4cUdicXdwSzFxTTJmQ3pkTG9iaTV3M0JjSkJpLXQwbk9LY1R6Wk5FcWVpM0hFdEh4bl9WTUo2Ymg3cX",
+    "sources": [
+      {
+        "name": "berry",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVy1uVW5DMFZWUDdxUGtHSkxNeTFqUll5a3loTnNzQnprYmFuRF9RbXVZVnY4cUdicXdwSzFxTTJmQ3pkTG9iaTV3M0JjSkJpLXQwbk9LY1R6Wk5FcWVpM0hFdEh4bl9WTUo2Ymg3cXNaNkgwUjJDbjJ0MDBpUjA1YnJoRFVFeHNjUDJCejk5UmdvcXVuc0RhQ2tPeF9mQ01RTEUteW5wM1FaYXY2VzR0aXdkUDZHYXp0T1JvNG9oeXRqNk9PeGtleA?oc=5",
         "type": "rss"
       }
     ]
@@ -843,6 +983,26 @@
     ]
   },
   {
+    "id": "zoetis-2026-07-16-018",
+    "date": "2026-07-16",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Zoetis Earnings Preview: What to Expect - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQREpBLTRER0RyVWFhVWhTZTU3VkxxWTFZWDNiZk9lMFEtdGtIeVhuWl9KeFZkWmlyQ042SVRITnJfMGFnY0RVbG5CRFYzWklCeGQ3Z3BSNTh1ZFN3SkUwcWFfWkRyMmVKOEE3b1NmbF",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQREpBLTRER0RyVWFhVWhTZTU3VkxxWTFZWDNiZk9lMFEtdGtIeVhuWl9KeFZkWmlyQ042SVRITnJfMGFnY0RVbG5CRFYzWklCeGQ3Z3BSNTh1ZFN3SkUwcWFfWkRyMmVKOEE3b1NmbFNEekp6UDdySkZiUDJkaTVKcVZZM1N0eUlqWVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "amcor-2026-07-15-001",
     "date": "2026-07-15",
     "companies": [
@@ -1153,6 +1313,46 @@
       {
         "name": "zoetis",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWlZBNXJhY0FEV3phZEY4WmhGOHNVdTRLY2xTVHE0aExLeW1YV05OZTFscC1vbjVteTFhUVp6SzltUU9MOEREbGpvcHVkY19ad240c0lMb3kxN0FXY1NNbEMzd1ZySzlYemlQY2tLNTl3ejB0ajk5c2V0Y1JjTVMxUTQydUItX0FROHNXMWMySGZ6YzVpY21YOHBnVi1rMTVsWXBQMGRoWDk1OW5kZEt5a3duaHphLUlleXJIT0FR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-07-15-017",
+    "date": "2026-07-15",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Smurfit Westrock Sets July 29 Webcast for Q2 Results - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObTh0R09FakZXYncxVmxxNF9wMXlHR3ZXVU42WE1vTG9NQzE4SG80alZRNEwyVTlpOV9sMjh4TzhKSDRKOGdQeVp0WlNCbTNLR3R0YjI1eHdRWXZhV3Jnajl3YkR4OWhxaVVwUWVNVH",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObTh0R09FakZXYncxVmxxNF9wMXlHR3ZXVU42WE1vTG9NQzE4SG80alZRNEwyVTlpOV9sMjh4TzhKSDRKOGdQeVp0WlNCbTNLR3R0YjI1eHdRWXZhV3Jnajl3YkR4OWhxaVVwUWVNVHJoNVRWU1lDU1M4UnBhNlFfcFZTUUpBRlhJdmxxQ21zOXNGREtQVGFPQ0dXd3dIMHJuNWVTUEp6SEgzYllXVjNZNU5wSC1JSUFKN2ZQUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "crown-2026-07-15-018",
+    "date": "2026-07-15",
+    "companies": [
+      "crown"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Crown Holdings | 144: Notice of proposed sale of securities pursuant to Rule 144 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQRjhjdkdYQ1VxWGhrUHVDUHZHVG56VGtsMjVybXpfMGljS2hUVXpKS0JjVXJ4TzlwVXNmTGRCaHVkX3RUclZid0x4VG50SW1rczNFYlhLc05CU2JsOTF1TUpGNWhMZGhpMVJ6WEs4UU",
+    "sources": [
+      {
+        "name": "crown",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRjhjdkdYQ1VxWGhrUHVDUHZHVG56VGtsMjVybXpfMGljS2hUVXpKS0JjVXJ4TzlwVXNmTGRCaHVkX3RUclZid0x4VG50SW1rczNFYlhLc05CU2JsOTF1TUpGNWhMZGhpMVJ6WEs4UUJCa192SVk0elBLU3FCN2d6UTg5Mi02UTI5R29nYkhVbDJFRVpXMm1FMFNxb21NV0duSk1OVk40bmk3S0NVT2xJ?oc=5",
         "type": "rss"
       }
     ]
