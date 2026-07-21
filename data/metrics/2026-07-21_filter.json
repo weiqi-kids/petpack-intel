@@ -1,0 +1,16 @@
+{
+  "total_raw": 328,
+  "dup_title": 135,
+  "no_date": 0,
+  "too_old": 129,
+  "gate1_fail": 18,
+  "gate2_fail": 16,
+  "passed": 30,
+  "gate2_samples": [
+    "Zoetis: An Attractive Risk-Reward Opportunity - Seeking Alpha",
+    "Zoetis to acquire vet teleradiology services firm VitalRads - pehub.com",
+    "Is Trupanion (TRUP) Undervalued Or Has Its Recent Rebound Already Priced In? - Yahoo Finance",
+    "HR chief Holly May to exit Petco (NASDAQ: WOOF) after July 13 notice - Stock Titan",
+    "International Paper shuts down Alabama mill to repair weather damage - AL.com"
+  ]
+}

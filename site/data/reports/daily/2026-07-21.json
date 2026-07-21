@@ -1,0 +1,148 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T10:22:06.101985Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "amcor-2026-07-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Amcor’s China Expansion and Recycled Mondelez Packaging Collaboration At Amcor (AMCR) Has Changed Its Investment Story - simplywall.st",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVXhPUVp5LUNmYmYzaFBXR09wLUJIWEg4TnJGbE5URjRvWWVSc0JPa1Q1dXVuTXNCZWFqQkZqNFhnRXNiUjVJVWpxTjFka3lVbGdabGdKSlZ6U2cwSGs4X0Y3czNYeTdoZUt0NmpDTUZYb0xoTnRnZFVROG9peDFEWE41dzNuQlZaZEtVYnhMSjdMM1NoT3hTQTdDTzlfOWhGM0pYY2dCSUxPczd1RXhuR1V5NWVPVHRtTEhndTFFYTDSAcYBQVVfeXFMT1hNQlIzelNDaDZ3Rjk3TXVjaEtPWGRGbmdVTUE5WjZXblFCcUc4M21uU2xnQlVNREQ0ODBKM0Q1SkMtdFZlNnJwT25WTzdZQlFHVzJaU2I5WHgteEtlX0N4bkp5MWdna2FWd3FNZnhzaHJPbG5tS0RCMm1IUjVhOFZNRktCMWVKLWcyN0d4RmtWUE5EZlJsXzIxMnJ6NWxjRnU3R251aHVtNDlKTlFuYzkwX2FBV3piYk9FcnZCRkE2NTJBVjNR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "crown-2026-07-21-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why Crown Holdings Shares Are Trading Higher; Here Are 20 Stocks Moving Premarket - Benzinga",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSDZGLUV5T0JZVi1CaFFLVnR0UDQ3VTJGOVNPTGtqZWd6eXVFUnpJMHNJLVRvbEs0c2ZRVHJmb2JDV3hKa0VqSEFINWlackdLSFJpMUFNRW1xWF9JY0paa3FVdl85YWFVQ1BkdWdiMzd1OVNWZmpkTS1KUkUzZFotNG1SOWtZRU0wSi1FRTB1X2Y0WG4tbkdMNDlOWWRJUU5KWDI0bDlNZ2tLUk9vLW1IRkN2Y1gzLU5DSDZGVkk5QTc2NUU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "smurfit-2026-07-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Smurfit Westrock partners with Coca-Cola on World Cup packaging to capture spike in consumer demand - The Lufkin Daily News",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQUEMzR3pISEZKdV9pUzRvcFNXVWkxa0pjbXk2bU1pd092LXhrSHQxZnlDTUE1Q09ySkhkS0paTVpCcV8xUmFzS2lZUWNBb2NoZFpCVFpBRjd6dU9walN1SzNacE56VVV1X1JnUWdmTjBicFUzQk1pT2NsM2szS1FRVVhqMnlxZkJHRmtrZ1gxV25fU3oxcTZjRUplV1RyUXFqMF9jcTh3aFk3ZXMwYWluUTZWOVNKMWRqdDhZeEphZ0JieDlQNkozZmxZY0VBNEdhSzh3bHVUUDdWRHFIQVpwU2hKaGtnbWhqZllsbWNGbkFYVGloZ1ZiOEJCd1pMZm9JR2Zwc0pR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "amcor",
+        "count": 1
+      },
+      {
+        "id": "smurfit",
+        "count": 1
+      },
+      {
+        "id": "crown",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 328,
+    "dup_title": 135,
+    "too_old": 129,
+    "gate1_blocked": 18,
+    "gate2_blocked": 16,
+    "passed": 30,
+    "pass_rate": "15.5%",
+    "gate2_block_rate": "8.3%",
+    "gate2_samples": [
+      "Zoetis: An Attractive Risk-Reward Opportunity - Seeking Alpha",
+      "Zoetis to acquire vet teleradiology services firm VitalRads - pehub.com",
+      "Is Trupanion (TRUP) Undervalued Or Has Its Recent Rebound Already Priced In? - Yahoo Finance",
+      "HR chief Holly May to exit Petco (NASDAQ: WOOF) after July 13 notice - Stock Titan",
+      "International Paper shuts down Alabama mill to repair weather damage - AL.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為安姆科、斯莫菲特、皇冠相關動態：「How Amcor’s China Expansion and Recycled Mondelez Packagi...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "How Amcor’s China Expansion and Recycled Mondelez Packaging Collaboration At ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Why Crown Holdings Shares Are Trading Higher; Here Are 20 Stocks Moving Prema...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
