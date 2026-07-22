@@ -1,0 +1,16 @@
+{
+  "total_raw": 328,
+  "dup_title": 154,
+  "no_date": 0,
+  "too_old": 130,
+  "gate1_fail": 18,
+  "gate2_fail": 13,
+  "passed": 13,
+  "gate2_samples": [
+    "Zoetis: An Attractive Risk-Reward Opportunity - Seeking Alpha",
+    "Zoetis to acquire vet teleradiology services firm VitalRads - pehub.com",
+    "International Paper shuts down Alabama mill to repair weather damage - AL.com",
+    "International Paper (IP) Stock Looks Below Fair Value While Sales Stay Weak - Yahoo Finance",
+    "Amcor secures RecyClass certification for PCR pallet stretch films - Packaging Insights"
+  ]
+}
