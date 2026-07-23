@@ -1,0 +1,16 @@
+{
+  "total_raw": 328,
+  "dup_title": 147,
+  "no_date": 0,
+  "too_old": 130,
+  "gate1_fail": 16,
+  "gate2_fail": 14,
+  "passed": 21,
+  "gate2_samples": [
+    "Zoetis: An Attractive Risk-Reward Opportunity - Seeking Alpha",
+    "Zoetis to acquire vet teleradiology services firm VitalRads - pehub.com",
+    "International Paper (IP) Stock Looks Below Fair Value While Sales Stay Weak - Yahoo Finance",
+    "Amcor secures RecyClass certification for PCR pallet stretch films - Packaging Insights",
+    "Amcor expands packaging facility in China - Dairy Business Middle East & Africa"
+  ]
+}
