@@ -1,0 +1,16 @@
+{
+  "total_raw": 328,
+  "dup_title": 153,
+  "no_date": 0,
+  "too_old": 130,
+  "gate1_fail": 18,
+  "gate2_fail": 11,
+  "passed": 16,
+  "gate2_samples": [
+    "Zoetis: An Attractive Risk-Reward Opportunity - Seeking Alpha",
+    "International Paper (IP) Stock Looks Below Fair Value While Sales Stay Weak - Yahoo Finance",
+    "REG - International Paper - IPC Files Current Report on Form 8-K - TradingView",
+    "Amcor secures RecyClass certification for PCR pallet stretch films - Packaging Insights",
+    "Amcor expands packaging facility in China - Dairy Business Middle East & Africa"
+  ]
+}

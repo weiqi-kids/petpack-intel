@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T10:12:57.702320Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 328,
+    "dup_title": 153,
+    "too_old": 130,
+    "gate1_blocked": 18,
+    "gate2_blocked": 11,
+    "passed": 16,
+    "pass_rate": "9.1%",
+    "gate2_block_rate": "6.3%",
+    "gate2_samples": [
+      "Zoetis: An Attractive Risk-Reward Opportunity - Seeking Alpha",
+      "International Paper (IP) Stock Looks Below Fair Value While Sales Stay Weak - Yahoo Finance",
+      "REG - International Paper - IPC Files Current Report on Form 8-K - TradingView",
+      "Amcor secures RecyClass certification for PCR pallet stretch films - Packaging Insights",
+      "Amcor expands packaging facility in China - Dairy Business Middle East & Africa"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-07-24 無寵物經濟 + 包裝產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
