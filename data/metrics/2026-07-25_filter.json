@@ -1,0 +1,16 @@
+{
+  "total_raw": 327,
+  "dup_title": 144,
+  "no_date": 0,
+  "too_old": 131,
+  "gate1_fail": 14,
+  "gate2_fail": 13,
+  "passed": 25,
+  "gate2_samples": [
+    "Chewy vs. Petco Health and Wellness: E-commerce Growth vs. Omnichannel Stability - The Motley Fool",
+    "Chewy vs. Petco Health and Wellness: E-commerce Growth vs. Omnichannel Stability - The Globe and Mai",
+    "WOOF|Petco Health and Wellness Company Inc|Price:2.610|Chg%:+0.070 - TradingKey",
+    "International Paper (IP) Stock Looks Below Fair Value While Sales Stay Weak - Yahoo Finance",
+    "Amcor secures RecyClass certification for PCR pallet stretch films - Packaging Insights"
+  ]
+}

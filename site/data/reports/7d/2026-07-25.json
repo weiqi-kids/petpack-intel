@@ -1,0 +1,124 @@
+{
+  "date": "2026-07-25",
+  "date_range": {
+    "start": "2026-07-19",
+    "end": "2026-07-25"
+  },
+  "generated_at": "2026-07-25T09:42:45.869435Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "petco-2026-07-23-006",
+      "date": "2026-07-23",
+      "title": "Chewy vs. Petco Health and Wellness: E-commerce Growth vs. Omnichannel Stability - Yahoo Finance",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "vet_spending": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": -0.75
+    },
+    "earnings": {
+      "this_week": 16,
+      "last_week": 14,
+      "week_over_week_change": "+14%",
+      "sentiment_this_week": 0.05
+    }
+  },
+  "company_7d_summary": {
+    "idexx": {
+      "event_count": 2,
+      "sentiment_avg": -0.38,
+      "rank": 3
+    },
+    "crown": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "intl_paper": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 4
+    },
+    "amcor": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 2
+    },
+    "smurfit": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 112,
+        "last": 108,
+        "change_pct": 3.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-19",
+      "event_count": 11,
+      "sentiment_avg": -0.2
+    },
+    {
+      "date": "2026-07-20",
+      "event_count": 29,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-21",
+      "event_count": 15,
+      "sentiment_avg": 0.2
+    },
+    {
+      "date": "2026-07-22",
+      "event_count": 20,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-07-23",
+      "event_count": 24,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-24",
+      "event_count": 11,
+      "sentiment_avg": -0.14
+    },
+    {
+      "date": "2026-07-25",
+      "event_count": 2,
+      "sentiment_avg": 0.25
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-19 ~ 2026-07-25）共 112 則事件，重點為「Chewy vs. Petco Health and Wellness: E-commerce...」。愛德士情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "愛德士",
+        "reason": "本週情緒偏負面（-0.4），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "皇冠",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "安姆科",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
