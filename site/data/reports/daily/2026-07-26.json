@@ -1,0 +1,96 @@
+{
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T09:55:45.787835Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "amcor-2026-07-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Amcor stock trades steadily as packaging group highlights resilient margins and cash generation - AD HOC NEWS",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQUpQVjhmVGVoVDJlUXM0Ulk3dlppYWdEdEN5YTlqMWVaN3FNNldNZXU5VEZHYWViWmh0b2UtQXJ6blhzeVNHYkZrLU5JenY2ZzdIaFRwWE16a2RoMVpEX2tZcDJPX2lZUk5mT1VmTGlPa0VhaVFVU3l2MDJ1Z2ZYaTUtald1ODI3SDF6TDNCWTRjVmtVdzlSUHJwWmQ3Zjh4dllQbmtRNEt6cHY3bHlULVhYNWdrN0RiNTNhVDJZakFkM29h?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "amcor",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 328,
+    "dup_title": 156,
+    "too_old": 132,
+    "gate1_blocked": 16,
+    "gate2_blocked": 14,
+    "passed": 10,
+    "pass_rate": "5.8%",
+    "gate2_block_rate": "8.1%",
+    "gate2_samples": [
+      "Chewy vs. Petco Health and Wellness: E-commerce Growth vs. Omnichannel Stability - The Motley Fool",
+      "Chewy vs. Petco Health and Wellness: E-commerce Growth vs. Omnichannel Stability - The Globe and Mai",
+      "WOOF|Petco Health and Wellness Company Inc|Price:2.610|Chg%:+0.070 - TradingKey",
+      "Petco Health and Wellness Company Inc - TradingKey",
+      "Amcor secures RecyClass certification for PCR pallet stretch films - Packaging Insights"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為安姆科相關動態：「Amcor stock trades steadily as packaging group highlights...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Amcor stock trades steadily as packaging group highlights resilient margins a...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "安姆科為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
