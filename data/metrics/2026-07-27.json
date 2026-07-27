@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-27",
+  "total_events": 5,
+  "by_company": {
+    "zoetis": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "petco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "amcor": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sealed_air": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "crown": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
