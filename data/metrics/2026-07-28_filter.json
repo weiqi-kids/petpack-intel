@@ -1,0 +1,16 @@
+{
+  "total_raw": 326,
+  "dup_title": 142,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 10,
+  "gate2_fail": 14,
+  "passed": 21,
+  "gate2_samples": [
+    "Chewy vs. Petco Health and Wellness: E-commerce Growth vs. Omnichannel Stability - The Motley Fool",
+    "Chewy vs. Petco Health and Wellness: E-commerce Growth vs. Omnichannel Stability - The Globe and Mai",
+    "WOOF|Petco Health and Wellness Company Inc|Price:2.610|Chg%:+0.070 - TradingKey",
+    "JPMorgan upgrades International Paper stock rating on upside potential - Investing.com",
+    "Amcor strengthens UK Plastic Packaging Tax readiness with RecyClass certification for pallet protect"
+  ]
+}
