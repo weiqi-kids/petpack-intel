@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T10:31:01.913062Z",
+  "updated_at": "2026-07-29T10:34:16.068152Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -228,17 +228,17 @@
       "name": "榮成",
       "ticker": "1909.TW",
       "currency": "TWD",
-      "ar": 5896972000,
-      "ar_prev": 5504048000,
-      "ar_qoq": "+7%",
+      "ar": 5451492000,
+      "ar_prev": 5896972000,
+      "ar_qoq": "-8%",
       "ar_period": "QoQ",
-      "inventory": 3945696000,
-      "inv_prev": 3118540000,
-      "inv_qoq": "+27%",
+      "inventory": 3857796000,
+      "inv_prev": 3945696000,
+      "inv_qoq": "-2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "alert": false,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "smurfit",

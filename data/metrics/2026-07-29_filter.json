@@ -1,0 +1,16 @@
+{
+  "total_raw": 325,
+  "dup_title": 141,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 10,
+  "gate2_fail": 18,
+  "passed": 18,
+  "gate2_samples": [
+    "Chewy vs. Petco Health and Wellness: E-commerce Growth vs. Omnichannel Stability - The Motley Fool",
+    "Chewy vs. Petco Health and Wellness: E-commerce Growth vs. Omnichannel Stability - The Globe and Mai",
+    "WOOF|Petco Health and Wellness Company Inc|Price:2.610|Chg%:+0.070 - TradingKey",
+    "Why Is International Paper (IP) Stock Soaring Today - Yahoo Finance UK",
+    "International Paper Pops for 2 Very Good Reasons - Barron's"
+  ]
+}
