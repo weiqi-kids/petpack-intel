@@ -1,0 +1,96 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T10:19:10.287796Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "petco-2026-07-30-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Petco Health and Wellness Company Inc (WOOF) Financial Health: Profitability & Balance Sheet Analysis - TradingKey",
+      "companies": [
+        "petco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OYV9jbXZmc1NPQ2JQVUM3Z2laSFNmRlZab29fLU9OSDV1eFk5TmU2SUVPWkI2QV9nNzRKT1NNbFJZVkd4b2FOM1Z1VDI0X1JlQkRZUlIzWDJHLTFOdldoNEw5V2h5UkM1NmE0RG0tLS0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "petco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 326,
+    "dup_title": 125,
+    "too_old": 147,
+    "gate1_blocked": 11,
+    "gate2_blocked": 12,
+    "passed": 31,
+    "pass_rate": "15.4%",
+    "gate2_block_rate": "6.0%",
+    "gate2_samples": [
+      "Chewy vs. Petco Health and Wellness: E-commerce Growth vs. Omnichannel Stability - The Motley Fool",
+      "Chewy vs. Petco Health and Wellness: E-commerce Growth vs. Omnichannel Stability - The Globe and Mai",
+      "International Paper (IP) Stock Looks Undervalued On Fair Value But Richer On Sales - simplywall.st",
+      "International Paper Pops for 2 Very Good Reasons - barrons.com",
+      "Why Is International Paper (IP) Stock Soaring Today - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為WOOF相關動態：「Petco Health and Wellness Company Inc (WOOF) Financial He...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Petco Health and Wellness Company Inc (WOOF) Financial Health: Profitability ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "WOOF為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

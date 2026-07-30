@@ -1,0 +1,129 @@
+{
+  "date": "2026-07-30",
+  "date_range": {
+    "start": "2026-07-24",
+    "end": "2026-07-30"
+  },
+  "generated_at": "2026-07-30T10:19:10.417688Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "smurfit-2026-07-29-018",
+      "date": "2026-07-29",
+      "title": "Smurfit Westrock and International Paper announce new containerboard price increases in North America - Tissue Online North America",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 14,
+      "last_week": 20,
+      "week_over_week_change": "-30%",
+      "sentiment_this_week": 0.11
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "intl_paper": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 1
+    },
+    "amcor": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "zoetis": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 4
+    },
+    "petco": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "sealed_air": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "crown": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 102,
+        "last": 127,
+        "change_pct": -19.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-24",
+      "event_count": 15,
+      "sentiment_avg": -0.13
+    },
+    {
+      "date": "2026-07-25",
+      "event_count": 9,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-26",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-27",
+      "event_count": 25,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-28",
+      "event_count": 19,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-29",
+      "event_count": 29,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-07-30",
+      "event_count": 1,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-24 ~ 2026-07-30）共 102 則事件，重點為「Smurfit Westrock and International Paper announ...」。碩騰表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "國際紙業",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "安姆科",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "WOOF",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
