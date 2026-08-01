@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T10:32:38.557819Z",
+  "updated_at": "2026-08-01T09:53:45.530523Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -92,17 +92,17 @@
       "name": "皇冠",
       "ticker": "CCK",
       "currency": "USD",
-      "ar": 1097000000,
-      "ar_prev": 1023000000,
-      "ar_qoq": "+7%",
+      "ar": 1129000000,
+      "ar_prev": 1097000000,
+      "ar_qoq": "+3%",
       "ar_period": "QoQ",
-      "inventory": 1701000000,
-      "inv_prev": 1577000000,
-      "inv_qoq": "+8%",
+      "inventory": 1795000000,
+      "inv_prev": 1701000000,
+      "inv_qoq": "+6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "elanco",
@@ -245,17 +245,17 @@
       "name": "斯莫菲特",
       "ticker": "SW",
       "currency": "USD",
-      "ar": 4644000000,
-      "ar_prev": 4268000000,
-      "ar_qoq": "+9%",
+      "ar": 4922000000,
+      "ar_prev": 4644000000,
+      "ar_qoq": "+6%",
       "ar_period": "QoQ",
-      "inventory": 3583000000,
-      "inv_prev": 3693000000,
-      "inv_qoq": "-3%",
+      "inventory": 3612000000,
+      "inv_prev": 3583000000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "sonoco",

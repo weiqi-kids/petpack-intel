@@ -1,0 +1,16 @@
+{
+  "total_raw": 326,
+  "dup_title": 137,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 14,
+  "gate2_fail": 10,
+  "passed": 20,
+  "gate2_samples": [
+    "Why International Paper (IP) Stock Is Down Today - Quiver Quantitative",
+    "Here Are Friday’s Top Wall Street Analyst Research Calls: Blackstone Mortgage, Boston Scientific, Ed",
+    "International Paper Company Stock 12‑Month Price Target Raised to $48.3, Implies 12% Upside - Tradin",
+    "News | International Paper's prime industrial site on Savannah River hits the market - CoStar",
+    "Smurfit Westrock files quarterly report with U.S. SEC - Stock Titan"
+  ]
+}

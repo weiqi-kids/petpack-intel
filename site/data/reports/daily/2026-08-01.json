@@ -1,0 +1,96 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T09:53:48.866422Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intl_paper-2026-08-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper (IP) Stock Falls As Cash Burn Deepens Dividend Fears - simplywall.st",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUjNrajVkanV6a3o0XzdaRlM0a2x0M1dEc0FZSVBqYkttLWlMZmtiNUN1VjExNDk4cmV4Q1JGTlk3Zmx5WUh3NzVOcERidjZwaWxEc3N0Sk9ST2s4VzZwWjEzMnhmNGt2RXFzYUpEc0JDai1sdjd5M2x1cHRWQnZudHpnWE96d18yNzk5MlZvd2JyX0ZJUUFaX0RPNnBSa2UtWjExWHpaQ3ZZUmRMb0RTUUFnX2VSeTYxNUpsdG1rdE0yU3Q0alJBTmlCM2VaYnR40gHWAUFVX3lxTE9fdFEwbmFoYUNzeEs2Q1BVOXVCSlBzQ09wTWlaZ1k4bV9xWEVwVjlXcjlucHpUUU1Ib2xOdktTWFFaZjNBdWJKSVdsQmtSaGZuRFJ2U21iN0xDTkRXeHA4eTZDOE1HTHROZkNYSXoycjN0V0oxdk5YMWNNa3RlaGMwdVdfQlk0Wmg1R1JFLWl1dE10aER1R19MN01XNTVlUF9GWTlWdWRfcG8wdURUSEV1clZZcnFVMFlhRHA3WnlOamRWZnJZbVpXbXIzdXI4SWRpcVladXc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 326,
+    "dup_title": 137,
+    "too_old": 145,
+    "gate1_blocked": 14,
+    "gate2_blocked": 10,
+    "passed": 20,
+    "pass_rate": "10.6%",
+    "gate2_block_rate": "5.3%",
+    "gate2_samples": [
+      "Why International Paper (IP) Stock Is Down Today - Quiver Quantitative",
+      "Here Are Friday’s Top Wall Street Analyst Research Calls: Blackstone Mortgage, Boston Scientific, Ed",
+      "International Paper Company Stock 12‑Month Price Target Raised to $48.3, Implies 12% Upside - Tradin",
+      "News | International Paper's prime industrial site on Savannah River hits the market - CoStar",
+      "Smurfit Westrock files quarterly report with U.S. SEC - Stock Titan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為國際紙業相關動態：「International Paper (IP) Stock Falls As Cash Burn Deepens...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "International Paper (IP) Stock Falls As Cash Burn Deepens Dividend Fears - si...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "國際紙業為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
