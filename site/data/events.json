@@ -272,6 +272,46 @@
     ]
   },
   {
+    "id": "intl_paper-2026-07-31-014",
+    "date": "2026-07-31",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "International Paper reports loss in Q2 2026 - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOVW5TYU5IOUkwN1lzOVdNb1ZuZHpxZ1ZlbG9tZXBUcGFPTkJVelg5OUx3WUd3TzhCdENXSWsxS0hDdjBHMkhiSEdkMldvSkF2aUplWGdBSmhFdU1pX1doNUJBVENwUWxHMHhxRmh0Uj",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVW5TYU5IOUkwN1lzOVdNb1ZuZHpxZ1ZlbG9tZXBUcGFPTkJVelg5OUx3WUd3TzhCdENXSWsxS0hDdjBHMkhiSEdkMldvSkF2aUplWGdBSmhFdU1pX1doNUJBVENwUWxHMHhxRmh0UjZTdFBHR0VtQzl4dGdZN3g1T2pLYzlIcUp3NWNaTkRpd2VkRmtRcUlPSmxrcHY4TU5IWlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-07-31-015",
+    "date": "2026-07-31",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Paper Q2 Earnings Call Highlights - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNaHhIWGU5UWJuUHBrbVZfWnhvbmpicG5sMXVvSEFiMkFaREZWcERZUGV6SXZPZFl3c1k5Wk03MXVTampzWGhKd3dKRmJMVUpKYXZHeFhVOVpIbXV3YXJnZkFaNmQzdklYZjZldkdMUW",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaHhIWGU5UWJuUHBrbVZfWnhvbmpicG5sMXVvSEFiMkFaREZWcERZUGV6SXZPZFl3c1k5Wk03MXVTampzWGhKd3dKRmJMVUpKYXZHeFhVOVpIbXV3YXJnZkFaNmQzdklYZjZldkdMUWNOYTFmeERiNExCS1RVYkJ0MVhSTWJ4T2V0RHBlYXNaLWVYTUh2X0tmNTJ6enZDOTBGT1VN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "petco-2026-07-30-001",
     "date": "2026-07-30",
     "companies": [
@@ -819,6 +859,104 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/waste-recycling-earnings-results-q2-2026/826621/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-029",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "pet_insurance",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Figo vs. Spot Pet Insurance 2026 | U.S. News - U.S. News & World Report",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE0wNXFBUF9CXzhIdllTeTBaVExCeU5OVC0tS2ZISk9uZGRPTU05MWhjNkRlWTItY2lNQTdNcnpLTGVsZ1ZYMS13ZmVjWUotak5kNWh3dlRpYmZ5MkxYWFltaldqQ2FpTXE1T05J?oc=5\"",
+    "sources": [
+      {
+        "name": "trupanion",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wNXFBUF9CXzhIdllTeTBaVExCeU5OVC0tS2ZISk9uZGRPTU05MWhjNkRlWTItY2lNQTdNcnpLTGVsZ1ZYMS13ZmVjWUotak5kNWh3dlRpYmZ5MkxYWFltaldqQ2FpTXE1T05J?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "petco-2026-07-30-030",
+    "date": "2026-07-30",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "WOOF|Petco Health and Wellness Company Inc|Price:2.790|Chg%:+0.010 - tradingkey.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1QWF9pRnluRmQ1a1l2SkxwMWFEUnFudEhOSnBNZU1XQnB3a004dlFDdzRpaXVoX0pzbXRLd21aNUxYZko1VU95dlI4MHdCLVdRSjFUdmhydV90cXVYUk1UYjRCQm5QSENYeXlkdW1R?o",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QWF9pRnluRmQ1a1l2SkxwMWFEUnFudEhOSnBNZU1XQnB3a004dlFDdzRpaXVoX0pzbXRLd21aNUxYZko1VU95dlI4MHdCLVdRSjFUdmhydV90cXVYUk1UYjRCQm5QSENYeXlkdW1R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "petco-2026-07-30-031",
+    "date": "2026-07-30",
+    "companies": [
+      "petco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Petco Health and Wellness Company Inc (WOOF) Valuation: PE, PB & Fair Value Analysis - tradingkey.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBZT0FFaE5qTWg4cFFoNkFWblFFdV9DN19SZzB5bW9oVTZuMm5Ub25rOFlGczlnTmhqVlBaNFo1MUt0VDdaazYtVFN3NlZjTUpReV9YTHoyTDFQWkJ4WnNibzZZVkpLZFBrTEwxYmJTM0",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZT0FFaE5qTWg4cFFoNkFWblFFdV9DN19SZzB5bW9oVTZuMm5Ub25rOFlGczlnTmhqVlBaNFo1MUt0VDdaazYtVFN3NlZjTUpReV9YTHoyTDFQWkJ4WnNibzZZVkpLZFBrTEwxYmJTM0YyQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-07-30-032",
+    "date": "2026-07-30",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "paper_price",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Paper (IP) Stock Fair Value Rises After Split Analyst Calls On Containerboard Pricing - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOYzZXSU1yS2xyVzNLVjlSUFlTZ0NHUmd5blZveWpxVlVpaWhQSmZuV3IwZkg0ZUx4QktxdzJrUGZNLUI2RGtWMkhxVE5KVXc1QU90NzFmRjVvZ0FTb2lBODJLUm9vZlVTc1g1UGZiVn",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYzZXSU1yS2xyVzNLVjlSUFlTZ0NHUmd5blZveWpxVlVpaWhQSmZuV3IwZkg0ZUx4QktxdzJrUGZNLUI2RGtWMkhxVE5KVXc1QU90NzFmRjVvZ0FTb2lBODJLUm9vZlVTc1g1UGZiVnduZTNLbkwtVERUUmxrZWtnaGk1aE04TkttZ2Q3dk5DZHl3OEhyVU1MSjZPNk5CTlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-07-30-033",
+    "date": "2026-07-30",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Paper Tops Earnings Estimates Despite Revenue Shortfall - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQM0dFMnQ1cHY5RkpqcVpodzJWSnU4am4tcm13ZU5yS2tCajcyaWludmVsRExoVGJMSEhxWkktZzhEWXR1bnZSUFd6eHZid09mUVQ2dWotR1pwVGpzMXVYVDFNamY5X3VaRF9ULXBYVF",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM0dFMnQ1cHY5RkpqcVpodzJWSnU4am4tcm13ZU5yS2tCajcyaWludmVsRExoVGJMSEhxWkktZzhEWXR1bnZSUFd6eHZid09mUVQ2dWotR1pwVGpzMXVYVDFNamY5X3VaRF9ULXBYVFFOVHlXaUJOVnhMVjhvaHVJdkJMN0lmaUlwaERQVHh6V0ZtQUVOWGtUMm0wOWp0ZkdHdmdPMmRaTnZYQVdE?oc=5",
         "type": "rss"
       }
     ]
@@ -2533,6 +2671,26 @@
       {
         "name": "smurfit",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVG9qVU92MmN4aVZ5NEpnLXlSaDhoaGZiaEl5QWcydGx4T05oNzk3dnc5ZWZVOVRYSDJvTlkyTVNaR2h0U1ZHamw2ak9hT2haZ0VYWlg4LV9TbkhXbnZMX09EZzdnV2FCU20tMjJuMXd6WUYzaTBpd2F0N2JOejVDMFpwdTByenBmYXNpTzk5Vmwxc2E1eFJ4Uy1LLV9oOFRyTVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "petco-2026-07-27-028",
+    "date": "2026-07-27",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "WOOF|Petco Health and Wellness Company Inc|Price:2.805|Chg%:-0.035 - tradingkey.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pdzAtRWNHWkI1cjNITXZqTWktTGhYc0RjVE5LNGg0ZnVnLVE2M0NzY3FTT2dIVUs4SW1NS2RuZzJBOXdsaUoyQ1Y3M1VNNGRvOV96R0dXcVRCOHVqSWY4TEZzNC0?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pdzAtRWNHWkI1cjNITXZqTWktTGhYc0RjVE5LNGg0ZnVnLVE2M0NzY3FTT2dIVUs4SW1NS2RuZzJBOXdsaUoyQ1Y3M1VNNGRvOV96R0dXcVRCOHVqSWY4TEZzNC0?oc=5",
         "type": "rss"
       }
     ]

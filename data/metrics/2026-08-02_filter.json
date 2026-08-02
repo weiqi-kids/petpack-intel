@@ -1,0 +1,16 @@
+{
+  "total_raw": 326,
+  "dup_title": 150,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 14,
+  "gate2_fail": 8,
+  "passed": 8,
+  "gate2_samples": [
+    "News | International Paper's prime industrial site on Savannah River hits the market - CoStar",
+    "International Paper Pops for 2 Very Good Reasons - Barron's",
+    "Smurfit Westrock files quarterly report with U.S. SEC - Stock Titan",
+    "Smurfit Westrock Price Target Cut to $68.00/Share From $71.00 by JP Morgan - Moomoo",
+    "Should Value Investors Buy Crown Holdings (CCK) Stock? - Yahoo Finance"
+  ]
+}
