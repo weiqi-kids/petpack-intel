@@ -1,0 +1,96 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T11:16:53.835262Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intl_paper-2026-08-03-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is International Paper (IP) A Bargain Following Mixed Q2 Earnings? - simplywall.st",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNVdyMEUxUGVpMEpoX0NpNUJxaFQ3SXZRamw3dkpDbXFfREJ5QnBPUmQ5cUY0Mmk2dTQ5dFV5WFU3ZnU5U0tyT2VvVkZ0MW51MGJUR2RUeE05LUNWbGZfeWlWWjROZ1BnaEk0VmQ4Qnh3bWIydVMyRVBrNTN2a01qY0JnZGxVQTZCb05DSFkzeG1pOE1BTTRPNWFkVnZUTTZOLURGV2VlQWtZRHVtTnZrMFNIX284RzdYc0kyTDZIaklMem8yRlhlcHZVREpodHJ10gHWAUFVX3lxTFAteDk0S0JfSGdvVm5TWm82SlJJTGRPZ2c3bEFpRDdnVmEzWXFYQXU1cGtGNWRlMFRiZ25oT0lyaWdaVFBWZW1UT0N3SmNkZ3k1YlkwS1RpUFoyVjhmYkpJNDU4QzNwQzd1QnBBa2FfQnB0SWxXU3ViQTh0ejhOdlBiN2hkVmpsdHRnU1pleGRsRmtoSnM5bU9YWGtlQkhhTnlzUU1MZmRTX0ZXeFhEZjIwT2dKeVMwSUJXN1lHT2YtVkFCMVJpak5WMF9qTDNnYVJaOU94blE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 326,
+    "dup_title": 155,
+    "too_old": 142,
+    "gate1_blocked": 14,
+    "gate2_blocked": 7,
+    "passed": 8,
+    "pass_rate": "4.7%",
+    "gate2_block_rate": "4.1%",
+    "gate2_samples": [
+      "News | International Paper's prime industrial site on Savannah River hits the market - CoStar",
+      "Smurfit Westrock files quarterly report with U.S. SEC - Stock Titan",
+      "Smurfit Westrock Price Target Cut to $68.00/Share From $71.00 by JP Morgan - Moomoo",
+      "Should Value Investors Buy Crown Holdings (CCK) Stock? - Yahoo Finance",
+      "Why Berry’s court victory matters beyond one packaging company - Plastics News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為國際紙業相關動態：「Is International Paper (IP) A Bargain Following Mixed Q2 ...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Is International Paper (IP) A Bargain Following Mixed Q2 Earnings? - simplywa...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "國際紙業為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
