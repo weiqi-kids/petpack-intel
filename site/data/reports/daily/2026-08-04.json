@@ -1,0 +1,124 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T10:31:45.954506Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "zoetis-2026-08-04-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ACCC to apply closer scrutiny to Zoetis’ acquisition of Neogen Genomics - Beef Central",
+      "companies": [
+        "zoetis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY3hHbDRSQjJKa3hsZzZzNnlXNDhxTzhKVlMxcTktQmVweUhEbFdPTGI4NDB4ZTNHZnNYcGo2VGhjRDRtYlp5Z0k1c2RHMS1yLTU4bWwwd043Um1La1JTWklyaTNQS3E1a0Rla0ZCcDNYa05Kam9jTU1zUHpPVjBvRHY4OXRLRmJ3WnNPT1hIblpicDNEZ0FWeXBjMkZUQVAyQThzdDZ2Q3lUMGtt?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "trupanion-2026-08-04-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Trupanion (TRUP) Reports Q2: Everything You Need To Know Ahead Of Earnings - The Chronicle-Journal",
+      "companies": [
+        "trupanion"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORldmbjI0OF83WUYwdk9fR1E5eUlHR21LR0o1cjVmSW1PRTZhNW1US0NEMEoxenc0dmFBbzBKVndmcXBsU1d0S096bnpCV3FNRDBpNEJpdFBsWkQ4M01PNlRHeEVmYjlqR1M0VDc1ZVRQVl9xUXl5TUhoblMxWFdrQU5PTTlzUkIxdEpVY1pxRXBTa1YweTdrQmxVT0FiV05KcUR1S2NXOC1jNkdqbHV4TWdvOU84Z0EwUm82RldfaF9rbDJwMGJkdkRHSHBPTWVxdkNLdzFkYWFNNFhrdHVwUHZKWkR0MEE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "zoetis",
+        "count": 1
+      },
+      {
+        "id": "trupanion",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 326,
+    "dup_title": 140,
+    "too_old": 153,
+    "gate1_blocked": 14,
+    "gate2_blocked": 9,
+    "passed": 10,
+    "pass_rate": "5.4%",
+    "gate2_block_rate": "4.8%",
+    "gate2_samples": [
+      "News | International Paper's prime industrial site on Savannah River hits the market - CoStar",
+      "Are Wall Street Analysts Bullish on International Paper Stock? - Yahoo Finance",
+      "Smurfit Westrock PLC stock underperforms Monday when compared to competitors despite daily gains - M",
+      "Smurfit Westrock files quarterly report with U.S. SEC - Stock Titan",
+      "Smurfit Westrock Price Target Cut to $68.00/Share From $71.00 by JP Morgan - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為碩騰、寵物保險相關動態：「ACCC to apply closer scrutiny to Zoetis’ acquisition of N...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "ACCC to apply closer scrutiny to Zoetis’ acquisition of Neogen Genomics - Bee...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Trupanion (TRUP) Reports Q2: Everything You Need To Know Ahead Of Earnings - ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

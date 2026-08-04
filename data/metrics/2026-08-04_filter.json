@@ -1,0 +1,16 @@
+{
+  "total_raw": 326,
+  "dup_title": 140,
+  "no_date": 0,
+  "too_old": 153,
+  "gate1_fail": 14,
+  "gate2_fail": 9,
+  "passed": 10,
+  "gate2_samples": [
+    "News | International Paper's prime industrial site on Savannah River hits the market - CoStar",
+    "Are Wall Street Analysts Bullish on International Paper Stock? - Yahoo Finance",
+    "Smurfit Westrock PLC stock underperforms Monday when compared to competitors despite daily gains - M",
+    "Smurfit Westrock files quarterly report with U.S. SEC - Stock Titan",
+    "Smurfit Westrock Price Target Cut to $68.00/Share From $71.00 by JP Morgan - Moomoo"
+  ]
+}
