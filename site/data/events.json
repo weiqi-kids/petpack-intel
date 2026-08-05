@@ -1,5 +1,85 @@
 [
   {
+    "id": "intl_paper-2026-08-05-001",
+    "date": "2026-08-05",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "IP reports loss in Q2 2026 - Recycling Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNb1pVQW9aWGU2a0I5NDlYaHV6b25XZUttdFdtc0taUEptWVljeVNQbXVaaWU2anU0U3FWYnV6S2lfd2pXMDBQNUlIa3pDUjlJck0zNzNWT0NYeHpRNUFBNkxjRWlhM2NrY2VLUkpTc3",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb1pVQW9aWGU2a0I5NDlYaHV6b25XZUttdFdtc0taUEptWVljeVNQbXVaaWU2anU0U3FWYnV6S2lfd2pXMDBQNUlIa3pDUjlJck0zNzNWT0NYeHpRNUFBNkxjRWlhM2NrY2VLUkpTc3R2UUw5SFMtNkkySUozQ1lTd3ppQkhENl96N2k1a0w3VlBPdjdTMXRkbUJjWmlQMVByVEpwZDJOOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sealed_air-2026-08-05-002",
+    "date": "2026-08-05",
+    "companies": [
+      "sealed_air"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Coveris and Sealed Air: Cutting carbon with lightweight, recycled packaging materials - Packaging Insights",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxONHRaQ3QwbWFLckhYQkNGb0ktSVpvSWhUWjRHYlhMOC1HcFRYZnBxYnJjTWtsbzViVU51cldyLUZscjRnVHpvcy1QREN4M1hiZk5KaTJFM2h0TUtqQ3dsdUNESnE3Z1htM05lSmRSVl",
+    "sources": [
+      {
+        "name": "sealed_air",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONHRaQ3QwbWFLckhYQkNGb0ktSVpvSWhUWjRHYlhMOC1HcFRYZnBxYnJjTWtsbzViVU51cldyLUZscjRnVHpvcy1QREN4M1hiZk5KaTJFM2h0TUtqQ3dsdUNESnE3Z1htM05lSmRSVlUtSms4UTFYSm4yS2FrNTVtZHpJWFpVbjFCeW5nS095eUtQazJ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sealed_air-2026-08-05-003",
+    "date": "2026-08-05",
+    "companies": [
+      "sealed_air"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Price to earnings forward of Sealed Air Corporation – MUN:SDA - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOdjhLT3BxQ0I2bTNmRHhLdW05eGtwc3F2RzNONHFxbXUwUDZ1d0UzWWs5ODdwMG81NFJZSGUzY1JqTldJYVBmaE9iNHRQWVdDSEtkV3hsUHVDaUFnVW9sRXdZb3BXOHlUNnE1WHFrMW",
+    "sources": [
+      {
+        "name": "sealed_air",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdjhLT3BxQ0I2bTNmRHhLdW05eGtwc3F2RzNONHFxbXUwUDZ1d0UzWWs5ODdwMG81NFJZSGUzY1JqTldJYVBmaE9iNHRQWVdDSEtkV3hsUHVDaUFnVW9sRXdZb3BXOHlUNnE1WHFrMWU4UHRQSS1fZDVVNWhnZ3NKRkFuT0xhNkUxVWJXdm5hcFk5Q1RLdGhLNWxVSlY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-08-05-004",
+    "date": "2026-08-05",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Should Smurfit Westrock’s (SW) Q2 Profit Return and Latin America Pivot Require Action From Investors? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQNkxuUE9TeUQzOWJNRFZtczNoc1FYSzMxMU1jcWpmNVltaXBQU3BxWE1Rc2lEV3lSSkllbVNjVm5EOTQzSVNoRGZ6VWpEUEU5STgwQlp6NzBuOTRMcFNzdzZGaWNDdHJlNHVvMkpEUj",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNkxuUE9TeUQzOWJNRFZtczNoc1FYSzMxMU1jcWpmNVltaXBQU3BxWE1Rc2lEV3lSSkllbVNjVm5EOTQzSVNoRGZ6VWpEUEU5STgwQlp6NzBuOTRMcFNzdzZGaWNDdHJlNHVvMkpEUjhtZjhiWFYxWXo2M01kY0pyNk4tYkFIcXZCNVEwZF84LVNZb01FdTM4My1LQkp4VW1Qc2xzelNvcko1YmR6dlpwM2poZDdtMUpTOS1rbTNGd2RHQnM2dEtYcU1IUUbSAdIBQVVfeXFMT19WQk02LXJubHJfS3VCNnFCdHFNdUFIRDNoaFdselMzREk0OV9xaFNaNDhBMHJBMVZaWDRqN1pqNVJQVWZER3BNbjVnSm5nNmxMSXJQM0xGeGpSMUJnMGhmbzlRWlJEUVplZUV0dGNjeXRWZk5tdEpsbEN0T3M2Z1E3QWhWS1Z2aGg3NHhqc3lURkFCRmVVNEo2ejNKSWlXVmJ2OWpiWDdjXzluWlY3TjNOMTFENWp6NXFTTUQtZjdXc0Rsbk5EX1RHOXVQRmdiR3VB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "zoetis-2026-08-04-001",
     "date": "2026-08-04",
     "companies": [
@@ -35,6 +115,244 @@
       {
         "name": "trupanion",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORldmbjI0OF83WUYwdk9fR1E5eUlHR21LR0o1cjVmSW1PRTZhNW1US0NEMEoxenc0dmFBbzBKVndmcXBsU1d0S096bnpCV3FNRDBpNEJpdFBsWkQ4M01PNlRHeEVmYjlqR1M0VDc1ZVRQVl9xUXl5TUhoblMxWFdrQU5PTTlzUkIxdEpVY1pxRXBTa1YweTdrQmxVT0FiV05KcUR1S2NXOC1jNkdqbHV4TWdvOU84Z0EwUm82RldfaF9rbDJwMGJkdkRHSHBPTWVxdkNLdzFkYWFNNFhrdHVwUHZKWkR0MEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "idexx-2026-08-04-003",
+    "date": "2026-08-04",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "IDEXX Q2 earnings jump 18%, beating expectations - Mainebiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQczhSRy13RmVpU0ZVTTRTZEZQTHFvNkpFbWw3RExlVmo4NUNQNF9uRmV2bjh6cWd4NUZXMEhZRFVUckF1c0M2VjRzZFVFcUxvX25RSDVjV0NhTk5JejVKOV9YUVFER0NNa2ZSTEJXbF",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQczhSRy13RmVpU0ZVTTRTZEZQTHFvNkpFbWw3RExlVmo4NUNQNF9uRmV2bjh6cWd4NUZXMEhZRFVUckF1c0M2VjRzZFVFcUxvX25RSDVjV0NhTk5JejVKOV9YUVFER0NNa2ZSTEJXbFZ2OEl1VXdoVTZWU3d4QnREdEtn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "idexx-2026-08-04-004",
+    "date": "2026-08-04",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "IDEXX Laboratories Shares Climb After Earnings Beat and Improved Full-Year Outlook - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQaW1rWnprdkp1bzBCbFZvS2YwZEpNYU45eHI1WnlIQUJFLTFqOGJOZ1JxTVZhMXlSOFJPWFlnd0p3RENUSGdFZHFENEZQSWVEc1dva1JER1VUQkV3RlZEWFNUV1B3NnBGNlFEU2NURm",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaW1rWnprdkp1bzBCbFZvS2YwZEpNYU45eHI1WnlIQUJFLTFqOGJOZ1JxTVZhMXlSOFJPWFlnd0p3RENUSGdFZHFENEZQSWVEc1dva1JER1VUQkV3RlZEWFNUV1B3NnBGNlFEU2NURmJlbzREMWJ2ZFNra1lPdXNndjhPakV3b0RlUzZ0VzZuWHhlOE4xMVkzSTVVaFRVNFlrenFR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "idexx-2026-08-04-005",
+    "date": "2026-08-04",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why Is IDEXX Laboratories Stock Gaining Tuesday? - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOSjBIZXY2cnB3Zm1qcmdEalJWbkpINlBUQXRiVllZeG1WcjBKNDBZNVZwREluSzBLX3c4ODREc042UWZYMTVoNDNhZldHdmRWdnZuOGNKa1c0U3ZyWGRnMVh0R050Rl8xZUsyREZEWl",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSjBIZXY2cnB3Zm1qcmdEalJWbkpINlBUQXRiVllZeG1WcjBKNDBZNVZwREluSzBLX3c4ODREc042UWZYMTVoNDNhZldHdmRWdnZuOGNKa1c0U3ZyWGRnMVh0R050Rl8xZUsyREZEWlFCYVdqOFdTZ3BvcWl4cl9iZ0hEMjBtTkFfQlNmZklIaF9EdzNyVldMU2tOMnpMMlVlM3FiYTBXZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "idexx-2026-08-04-006",
+    "date": "2026-08-04",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "IDEXX Lifted Its Profit Outlook As Vet Testing Volumes Grew - Finimize",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQUHZfRFRhRHVOd0wtejNOQmlXX3dUM0RWbUdoTjRxeW4xaFc0NjMyZE5feVM5UmxVd2xMTzQ5TndHc0diN1NKQ3JuZlhhbEdjbTN4bXpmTTJld0NLRlNNZXF5YWYxaXNIdy0ySF8yZC",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUHZfRFRhRHVOd0wtejNOQmlXX3dUM0RWbUdoTjRxeW4xaFc0NjMyZE5feVM5UmxVd2xMTzQ5TndHc0diN1NKQ3JuZlhhbEdjbTN4bXpmTTJld0NLRlNNZXF5YWYxaXNIdy0ySF8yZC1mWjNXTy1yTkk4Tk1ldUpIaWwyZjd5WGJ5UHlHN29VYXVGZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "idexx-2026-08-04-007",
+    "date": "2026-08-04",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "vet_spending",
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Veterinary diagnostics maker IDEXX raises annual profit forecast on pet healthcare testing demand - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxONUZNeXdkM0JVa2ZZSHFDcHkyT1ZKTkQ1M2F6NmpmMHVLRE1VQ1FrSGdvNHRXYTVxbm8tUVVJSUhPQm9wTWlZSUgyWnJJcHU3TDE4aDlDOVVUOU5IQkl1RTVGdUlnVWlZZ0Q1ZmYzd1",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONUZNeXdkM0JVa2ZZSHFDcHkyT1ZKTkQ1M2F6NmpmMHVLRE1VQ1FrSGdvNHRXYTVxbm8tUVVJSUhPQm9wTWlZSUgyWnJJcHU3TDE4aDlDOVVUOU5IQkl1RTVGdUlnVWlZZ0Q1ZmYzd1oybC1Hb0loc2piSFVLbjhJME5MQ3ZQN0V4MHNtbzFPeW5aaXpteUZSVlFZR0NmZ3V1V09kbUJDblZSWHRJOWNraFZQMXhjcGk0aE1PbmMtTGtZVGw3SnBQOVYwaTcwcUE5VUpDVTBkeG9nVFIxS0FMZ0cyVmk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-008",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "pet_insurance",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Pet care checkout gains one-click claims inside clinic software - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxObFJucjVXQ1dmV0R6NVRIZXRWa2JTRy1HejhuSDlyUXBWLXJGUGJVZmNsUUl5VWhqOXJmZ3RNQlJVUFFnaUZkUUVyekYtc3lvU0ptRGVFSjBfSE9RclZTMHlVLS01ZmZMTFBLWW1pNE",
+    "sources": [
+      {
+        "name": "trupanion",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObFJucjVXQ1dmV0R6NVRIZXRWa2JTRy1HejhuSDlyUXBWLXJGUGJVZmNsUUl5VWhqOXJmZ3RNQlJVUFFnaUZkUUVyekYtc3lvU0ptRGVFSjBfSE9RclZTMHlVLS01ZmZMTFBLWW1pNEs3SDE4Nk1jcUw5SFVGeW5KdHlHZThSRFFkTWtPRlljNmhBYWRvQk5weTR6emt0ejNRcUMzOTd4aGRtcGNwSW9uWHNMRWFHalpFYkZn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trupanion-2026-08-04-009",
+    "date": "2026-08-04",
+    "companies": [
+      "trupanion"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Less Paperwork. More Pets. The Long-Awaited Trupanion and Digitail Integration Is Here - The Manila Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR0QybTVYQmxTSlBJaVZVX2ZRTUNUaTJycW4wcThLN2hRcnZZX0w0bDQxbUtCT29SYzJXXzF4QzhtMS0xRHpvRjhKbkc5ZUVkX0dwa1Q1WnpxLUtYMTEwdjJCMVF1aXpTTF9XY1lLRj",
+    "sources": [
+      {
+        "name": "trupanion",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR0QybTVYQmxTSlBJaVZVX2ZRTUNUaTJycW4wcThLN2hRcnZZX0w0bDQxbUtCT29SYzJXXzF4QzhtMS0xRHpvRjhKbkc5ZUVkX0dwa1Q1WnpxLUtYMTEwdjJCMVF1aXpTTF9XY1lLRjBNLUhtZS03dDZZbWQwNjBZTkNxaGpLaU1tMUtIWXRVU3BLSXlRdFIxekltY0Z0OVk2Rm40VFp6Y3dEV3JSNVUzYXFOMTZib1pDT21NQTVmTnFVaFlOY0QxMldJcktMMldKLUpDamE2QUNGWnUyeTB0akVYU1EzTVpVd3NPdG41b9IB9AFBVV95cUxNZU9LWHJuT19HZEZOblZXOFppQjVhSFJYbVZQZHEzOGlJSFg2SEx6YUZqTTRfOXpxVkNuRzdJZlJ2dTdMT0VmY08xZEtUclBLaW84eWt0blBJQnUxVkFpTTVGVXFfWE5KVms4djFQMWUxb20yaG5wRUlUeGcxRzRaZDA1M091cmRFQ21QQkk4Wk1FdHBMT0p3dlVkZzJZd2o2MEo5QUVwLWhYWXFGY3ItMGllQ1FOS004WW5VS0dXVGRUc1ZwUUxLa0hWUzhsMFpjTjNsVzVkQmtfa2VUem8zSXZkM1ltX3dRQmlHR2JSQ3FJREd3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-08-04-010",
+    "date": "2026-08-04",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Smurfit Westrock Leads Paper & Packaging Sector, Morgan Stanley Says - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxONEkyVGsyZVRtV1o4NVU3OFBMSGRVTjF5X3dlQ1Fxc3B0dHhqd01GbHZjWW1NamRKaXlJU2F0MlBQUThUbzBiMFN6MVQ5elpiZ1h5cTFHMWxTc011dzJ2YS1CVHdqclNUOXgxdUVlTm",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONEkyVGsyZVRtV1o4NVU3OFBMSGRVTjF5X3dlQ1Fxc3B0dHhqd01GbHZjWW1NamRKaXlJU2F0MlBQUThUbzBiMFN6MVQ5elpiZ1h5cTFHMWxTc011dzJ2YS1CVHdqclNUOXgxdUVlTmYyUHhNR182MW1KdXVHaDA0Y2VXcTNLZG5WdmNpeDBLTDNXU0t3dHNiOFY1NGR4QUhuNFBtRTVyOE1tRlJkd1htN0VyWTU4X1RtWXpDb2RUMEhCeHk2Z1RaVFZ2enVadzA4TGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-08-04-011",
+    "date": "2026-08-04",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Smurfit Westrock Downgrades Full-Year Profit Guidance On Freight Costs - ESM Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNaVpweVhreGhLNkJPTklDNVhOMkpvMFZwM0pLUTRELURHZEZyY05OTno5QnhEX0RWeVdnRWM0M1YzUXBMTUZtc3Rzd2thRzhFbFljLXFNQWJpZGhYZTBxY3RCTjRyU2dOZXZEaTg3el",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaVpweVhreGhLNkJPTklDNVhOMkpvMFZwM0pLUTRELURHZEZyY05OTno5QnhEX0RWeVdnRWM0M1YzUXBMTUZtc3Rzd2thRzhFbFljLXFNQWJpZGhYZTBxY3RCTjRyU2dOZXZEaTg3elF6ZHFXMEtQeEpOQUIxMWQtX3B2XzhLQURrSWJsVUxaNjVOajlqOWM0RmVhWDVrSkJnb0tlU1pqRVpxU3NJazc2SE53?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-08-04-012",
+    "date": "2026-08-04",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Barclays Adjusts Price Target on Smurfit Westrock to $56 From $52, Maintains Overweight Rating - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbXN4dW9EYTRiejZ1SXp1NVRrbV9PSjItdGdVTWVBcUVZaFctdXJvTWJ4VmppY0Z4eTV2c2hqdkhYbmQyWFZGbmhzd1pwWlVaRkpXNHJEd2JYcmgtM1B1eC1PUkZIWmtqbmZnYnFUMW",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbXN4dW9EYTRiejZ1SXp1NVRrbV9PSjItdGdVTWVBcUVZaFctdXJvTWJ4VmppY0Z4eTV2c2hqdkhYbmQyWFZGbmhzd1pwWlVaRkpXNHJEd2JYcmgtM1B1eC1PUkZIWmtqbmZnYnFUMWdOV195UkppZTBlNUllOGNrZjNkUE9DX1AyaFl3MzZoQlpsTU5CU1ppd3EwaHk5dWpCNEprNm51UEdHeXFaUG5BYTNuX2xDMTFUWVVZVUFfWGxQWlN0ZlNUUDlKZDJDeTB1Q09sUDFnWVBWQ25j?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-013",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "GPI lowers guidance, aims for $85M in 2026 cost cuts",
+    "summary": "<p>Price increases and additional headcount reductions are among the strategies to recoup inflation costs, executives said. They also described what&rsquo;s behind the decision to re-enter the&nbsp;UR",
+    "sources": [
+      {
+        "name": "packaging_dive",
+        "url": "https://www.packagingdive.com/news/graphic-packaging-international-q2-2026-earnings/826914/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ball-2026-08-04-014",
+    "date": "2026-08-04",
+    "companies": [
+      "ball"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Ball starting cans production at new Oregon facility",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/jFxUhxbeSBFUO2LwdzNbfG_bmb2WefCzfkkdt6mR27Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDIyNTkwODUzLmpwZw==",
+    "sources": [
+      {
+        "name": "packaging_dive",
+        "url": "https://www.packagingdive.com/news/ball-corp-q2-2026-packaging-earnings/826916/",
         "type": "rss"
       }
     ]
@@ -170,6 +488,26 @@
       {
         "name": "packaging_dive",
         "url": "https://www.packagingdive.com/news/afpa-american-forest-paper-q2-2026-data-containerboard-production-demand/826795/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "petco-2026-08-03-008",
+    "date": "2026-08-03",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Petco Health & Wellness Company, Inc. Announces Appointment of Jeffrey Naylor to Board of Directors and as Audit Committee Chair, Effective August 1, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLTQ2ZGFKd3llWGQ0aVVmMW1zV1BsUlFGSFp4cmZmQkZDNkRFTEVYdzRVTWhDci1NRER2ZVpoZUtBUE0wNE9XUF9RV0M5MUNPTGcxekx6Y0dVd1MtS3NZeHIzVHMzWTVZbDFSZTBHZG",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLTQ2ZGFKd3llWGQ0aVVmMW1zV1BsUlFGSFp4cmZmQkZDNkRFTEVYdzRVTWhDci1NRER2ZVpoZUtBUE0wNE9XUF9RV0M5MUNPTGcxekx6Y0dVd1MtS3NZeHIzVHMzWTVZbDFSZTBHZGhZXzZ4dENyeExEUzd2WUs3VUwxb0psSGZ6R1BqS3FPNGVfYlc1d3o0N05SdjJaUGZyeERvNWY1bHJXQUhBOUpBOE0xYmU0c1BkUHNFYXRQZzl1MzVRa3NNd3VSeWE2dUR5LVM1V0E3ZEFYaXhDNnFBckRn?oc=5",
         "type": "rss"
       }
     ]
@@ -1271,6 +1609,24 @@
       {
         "name": "intl_paper",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc1lZdmQxN2NxTjVzOE1xT1laMDJZNlBxMS02MmFwNWJzVFh3dVVXNURSYkg5Nzhvc2VnVW4wQVhWTGVQbjNHTVFuMVNjYVprQmdFWmoxWHVaZXMzWmd3MURyRFR3VUJNMVNRWUpWcnVXaU1maW5pS2lUM1NvLXpYNTR5cTktbDBxdE5Ua1hyYTNjZDN1WmluNHVBLXU3cTVoV2RnMDlmcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-036",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "pet_insurance"
+    ],
+    "impact": "neutral",
+    "title": "Fetch vs. Spot Pet Insurance 2026 | U.S. News - U.S. News & World Report",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9VdjV3V0xvbTdTMFNSZnJvZkN4QkMyek1lS29wQVcxaExmYWlXWUNZYk5KakRuZjk0YlBzVWRkVnEtVGJYT0cyMjQyOFRFUkxoY2dsNDZ6SnM5ZWlIdVl5YjBnLWd4cjU3d202RQ?oc=",
+    "sources": [
+      {
+        "name": "trupanion",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VdjV3V0xvbTdTMFNSZnJvZkN4QkMyek1lS29wQVcxaExmYWlXWUNZYk5KakRuZjk0YlBzVWRkVnEtVGJYT0cyMjQyOFRFUkxoY2dsNDZ6SnM5ZWlIdVl5YjBnLWd4cjU3d202RQ?oc=5",
         "type": "rss"
       }
     ]

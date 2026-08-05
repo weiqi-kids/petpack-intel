@@ -1,0 +1,16 @@
+{
+  "total_raw": 326,
+  "dup_title": 136,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 15,
+  "gate2_fail": 12,
+  "passed": 18,
+  "gate2_samples": [
+    "Petco Appoints Jeffrey Naylor to Board, Audit Chair - The Globe and Mail",
+    "International Paper completes $250 million conversion at Selma mill - Black Belt News Network",
+    "Are Wall Street Analysts Bullish on International Paper Stock? - Yahoo Finance",
+    "International Paper Co. stock underperforms Tuesday when compared to competitors despite daily gains",
+    "News | International Paper's prime industrial site on Savannah River hits the market - CoStar"
+  ]
+}
