@@ -1,0 +1,16 @@
+{
+  "total_raw": 326,
+  "dup_title": 141,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 13,
+  "gate2_fail": 11,
+  "passed": 16,
+  "gate2_samples": [
+    "Petco Appoints Jeffrey Naylor to Board, Audit Chair - The Globe and Mail",
+    "News | International Paper's prime industrial site on Savannah River hits the market - CoStar",
+    "International Paper completes $250 million conversion at Selma mill - blackbeltnewsnetwork.com",
+    "International Paper Co. stock underperforms Tuesday when compared to competitors despite daily gains",
+    "Smurfit Westrock PLC stock underperforms Monday when compared to competitors despite daily gains - M"
+  ]
+}

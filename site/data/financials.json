@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T10:29:49.591201Z",
+  "updated_at": "2026-08-06T10:33:51.406540Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -143,17 +143,17 @@
       "name": "Graphic Packaging Holding",
       "ticker": "GPK",
       "currency": "USD",
-      "ar": 861000000,
-      "ar_prev": 590000000,
-      "ar_qoq": "+46%",
+      "ar": 888000000,
+      "ar_prev": 861000000,
+      "ar_qoq": "+3%",
       "ar_period": "QoQ",
-      "inventory": 1718000000,
-      "inv_prev": 1766000000,
-      "inv_qoq": "-3%",
+      "inventory": 1691000000,
+      "inv_prev": 1718000000,
+      "inv_qoq": "-2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-03-31"
+      "alert": false,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "idexx",

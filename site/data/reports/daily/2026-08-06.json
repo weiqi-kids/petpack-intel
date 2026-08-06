@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T10:33:55.406197Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 326,
+    "dup_title": 141,
+    "too_old": 145,
+    "gate1_blocked": 13,
+    "gate2_blocked": 11,
+    "passed": 16,
+    "pass_rate": "8.6%",
+    "gate2_block_rate": "5.9%",
+    "gate2_samples": [
+      "Petco Appoints Jeffrey Naylor to Board, Audit Chair - The Globe and Mail",
+      "News | International Paper's prime industrial site on Savannah River hits the market - CoStar",
+      "International Paper completes $250 million conversion at Selma mill - blackbeltnewsnetwork.com",
+      "International Paper Co. stock underperforms Tuesday when compared to competitors despite daily gains",
+      "Smurfit Westrock PLC stock underperforms Monday when compared to competitors despite daily gains - M"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-08-06 無寵物經濟 + 包裝產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
