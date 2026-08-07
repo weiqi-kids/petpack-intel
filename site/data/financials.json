@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-06T10:33:51.406540Z",
-  "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
+  "updated_at": "2026-08-07T08:51:41.389552Z",
+  "quarter": "2026-03-31, 2026-04-30, 2026-06-30",
   "companies": [
     {
       "id": "amcor",
@@ -58,17 +58,17 @@
       "name": "正隆紙業",
       "ticker": "1904.TW",
       "currency": "TWD",
-      "ar": 6850389000,
-      "ar_prev": 6520426000,
-      "ar_qoq": "+5%",
+      "ar": 6592779000,
+      "ar_prev": 6850389000,
+      "ar_qoq": "-4%",
       "ar_period": "QoQ",
-      "inventory": 7951119000,
-      "inv_prev": 7757032000,
-      "inv_qoq": "+3%",
+      "inventory": 8403443000,
+      "inv_prev": 7951119000,
+      "inv_qoq": "+6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "chewy",

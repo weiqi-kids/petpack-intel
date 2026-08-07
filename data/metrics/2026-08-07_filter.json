@@ -1,0 +1,16 @@
+{
+  "total_raw": 326,
+  "dup_title": 125,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 17,
+  "gate2_fail": 13,
+  "passed": 29,
+  "gate2_samples": [
+    "Zoetis Appoints Jay Saccaro to Newly Created CFO and COO Leadership Role - citybiz",
+    "Why Is IDEXX Laboratories Stock Gaining Tuesday? - Sahm",
+    "Petco Health and Wellness Company, Inc. $WOOF Shares Bought by Dimensional Fund Advisors LP - Market",
+    "Petco Appoints Jeffrey Naylor to Board, Audit Chair - The Globe and Mail",
+    "International Paper completes $250 million conversion at Selma mill - Black Belt News Network"
+  ]
+}

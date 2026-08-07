@@ -1,0 +1,76 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T08:51:45.499974Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intl_paper-2026-08-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bank of America Corp DE Sells 353,391 Shares of International Paper Company $IP - MarketBeat",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeHNvdFYtamhlTTJKWjFVOEsxT0xBVmdqSk96end5bVhBU0NyVnlsczVLcm5teWliQ0ZaekcxSWRpQkpMTS02bmdzWmowRUpVaUlVTlk0YU9udjVJV1pkanR6YmVXeFFpRHduVEdfZm5uQm1hYjRhUHBpLTdMSVo5eTlXZG1nQXpBMm52RHdBVTIybFpMcERvQmtvSnNTZnp5Vmd4ZkNvT2tPN0dzU1JldkxKSXhYaU1vNE9YM3VBMFpWY3lPUjFfOGhIcTlvZXNXVmVLQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 326,
+    "dup_title": 125,
+    "too_old": 142,
+    "gate1_blocked": 17,
+    "gate2_blocked": 13,
+    "passed": 29,
+    "pass_rate": "14.4%",
+    "gate2_block_rate": "6.5%",
+    "gate2_samples": [
+      "Zoetis Appoints Jay Saccaro to Newly Created CFO and COO Leadership Role - citybiz",
+      "Why Is IDEXX Laboratories Stock Gaining Tuesday? - Sahm",
+      "Petco Health and Wellness Company, Inc. $WOOF Shares Bought by Dimensional Fund Advisors LP - Market",
+      "Petco Appoints Jeffrey Naylor to Board, Audit Chair - The Globe and Mail",
+      "International Paper completes $250 million conversion at Selma mill - Black Belt News Network"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為國際紙業相關動態：「Bank of America Corp DE Sells 353,391 Shares of Internati...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Bank of America Corp DE Sells 353,391 Shares of International Paper Company $...",
+        "level": "green"
+      },
+      {
+        "text": "國際紙業為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
