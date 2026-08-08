@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T08:51:41.389552Z",
+  "updated_at": "2026-08-08T08:33:23.789238Z",
   "quarter": "2026-03-31, 2026-04-30, 2026-06-30",
   "companies": [
     {
@@ -109,34 +109,34 @@
       "name": "禮來動保",
       "ticker": "ELAN",
       "currency": "USD",
-      "ar": 1084000000,
-      "ar_prev": 873000000,
-      "ar_qoq": "+24%",
+      "ar": 1077000000,
+      "ar_prev": 1084000000,
+      "ar_qoq": "-1%",
       "ar_period": "QoQ",
-      "inventory": 1717000000,
-      "inv_prev": 1737000000,
-      "inv_qoq": "-1%",
+      "inventory": 1769000000,
+      "inv_prev": 1717000000,
+      "inv_qoq": "+3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-03-31"
+      "alert": false,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "freshpet",
       "name": "鮮寵",
       "ticker": "FRPT",
       "currency": "USD",
-      "ar": 65370000,
-      "ar_prev": 63762000,
-      "ar_qoq": "+3%",
+      "ar": 65383000,
+      "ar_prev": 65370000,
+      "ar_qoq": "+0%",
       "ar_period": "QoQ",
-      "inventory": 80588000,
-      "inv_prev": 76766000,
-      "inv_qoq": "+5%",
+      "inventory": 86734000,
+      "inv_prev": 80588000,
+      "inv_qoq": "+8%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "graphic_pkg",
@@ -279,9 +279,9 @@
       "name": "寵物保險",
       "ticker": "TRUP",
       "currency": "USD",
-      "ar": 304796000,
-      "ar_prev": 301945000,
-      "ar_qoq": "+1%",
+      "ar": 302191000,
+      "ar_prev": 304796000,
+      "ar_qoq": "-1%",
       "ar_period": "QoQ",
       "inventory": null,
       "inv_prev": null,
@@ -289,24 +289,24 @@
       "inv_period": "QoQ",
       "inventory_applicable": false,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "zoetis",
       "name": "碩騰",
       "ticker": "ZTS",
       "currency": "USD",
-      "ar": 1506000000,
-      "ar_prev": 1590000000,
-      "ar_qoq": "-5%",
+      "ar": 1571000000,
+      "ar_prev": 1506000000,
+      "ar_qoq": "+4%",
       "ar_period": "QoQ",
-      "inventory": 2550000000,
-      "inv_prev": 2430000000,
-      "inv_qoq": "+5%",
+      "inventory": 2574000000,
+      "inv_prev": 2550000000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     }
   ]
 }

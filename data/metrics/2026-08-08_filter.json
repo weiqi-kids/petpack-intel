@@ -1,0 +1,16 @@
+{
+  "total_raw": 325,
+  "dup_title": 124,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 13,
+  "gate2_fail": 15,
+  "passed": 27,
+  "gate2_samples": [
+    "Zoetis Names Jay Saccaro to Combined Finance and Operations Role - Parsippany Focus",
+    "Zoetis Drops 5.4% After William Blair Downgrades to Market Perform - AlphaStreet",
+    "Zoetis names Saccaro CFO, chief operating officer - NJBIZ",
+    "Zoetis Appoints Jay Saccaro to Newly Created CFO and COO Leadership Role - citybiz",
+    "Trupanion: Pets Best is winding down, Chewy remains small - Coverager"
+  ]
+}

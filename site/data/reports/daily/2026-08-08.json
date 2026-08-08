@@ -1,0 +1,187 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T08:33:29.447046Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "smurfit-2026-08-08-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Smurfit Westrock (SW) Q2 2026 Earnings Call Transcript - The Globe and Mail",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU0p5N0RLX2hPYWdSMFVRYmRMcUI3MXdWeVBYM285ZllfclByYWJhVXJ3a3NuQzhuYlhyNDAxXzNISThRUWc1S1h6eUJIa3pIeDNvM2ZPNTM3WWxHcXhpWTFjSDJJMmpMUG94VGpncEtkSktsR3pZbmVQU3k1ZkRKR3dwMWI0MHNXMG5Lb1VIcm50clQ5bjNlMWVzYzBQQWFyUl9zZlppai04UHVzQnNxQlM4eEYzMklNdU9FM0VrSks2cE94c2NseVBSTE5xNExySmRV?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "smurfit-2026-08-08-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Smurfit Westrock (SW) Q2 2026 Earnings Call Transcript - AOL.com",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Pb043enVReEZmSFVPTGRVWFkyM2VEcHJfWm5QeHYtbkRqQ3o0STM3OUkwTmRVUkdKMFRvbnRERHNQV29SczhqSHJ2c2s5UHd6T1d4TWdNVjJqQnBDeEdNTVNmT3I5UjNWcnNCY3BfYzJJajUySUdRaFhNWQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "crown-2026-08-08-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Enterprise value to EBIT forward of Crown Holdings, Inc. – LSE:0I4X - tradingview.com",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONXk1bTA5cExORWR6NU9BZ1J6UUFoTWFoMDNrOXNkWG9YOXY5ZXR4SDBpZTJZUjFBNl9FaGhtb2xuMFJ0bnBNelp3ZlEzOUt5SWhzaXZENEd1bWQ2OENPSE9VZGZrN1BxaHl4eF9NWWRVS3R4UWpXazd3andDRDc2REhPM0xVWUFtcVdvbHFxcUxoa0kyUkQ1WmFES0dDQ1NrNUc3VElqYw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "crown-2026-08-08-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Crown Holdings Inc (CCK) Earnings Forecast: Future EPS & Revenue Growth Estimates - TradingKey",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EcXc3aXBGeDN2bkF2LTBJZ1Y1X2E1Yy1Wa2xQbzFFZVpoamxqVWFWU1NZUHI3OTAyczZuTzE2dmo4SmczMG5pZDFZOTNIUmV3QzZrODc1RjlNcGlzaWRWVUhjMmQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "smurfit",
+        "count": 2
+      },
+      {
+        "id": "crown",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 325,
+    "dup_title": 124,
+    "too_old": 146,
+    "gate1_blocked": 13,
+    "gate2_blocked": 15,
+    "passed": 27,
+    "pass_rate": "13.4%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "Zoetis Names Jay Saccaro to Combined Finance and Operations Role - Parsippany Focus",
+      "Zoetis Drops 5.4% After William Blair Downgrades to Market Perform - AlphaStreet",
+      "Zoetis names Saccaro CFO, chief operating officer - NJBIZ",
+      "Zoetis Appoints Jay Saccaro to Newly Created CFO and COO Leadership Role - citybiz",
+      "Trupanion: Pets Best is winding down, Chewy remains small - Coverager"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為斯莫菲特、皇冠相關動態：「Smurfit Westrock (SW) Q2 2026 Earnings Call Transcript - ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Smurfit Westrock (SW) Q2 2026 Earnings Call Transcript - The Globe and Mail（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Smurfit Westrock (SW) Q2 2026 Earnings Call Transcript - AOL.com（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
