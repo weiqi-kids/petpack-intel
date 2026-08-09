@@ -1,0 +1,148 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T08:35:39.429407Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intl_paper-2026-08-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper (NYSE:IP) Downgraded by Wall Street Zen to \"Sell\" - MarketBeat",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRlNib2I3a3FTdnNma2Q3dzVjcWdxWDJUWnMxa3luaEJRck9mS25fVnhiNWgweGNvYmN0MTlBVUNWN3BidldtalMtYmk1ejJfWEZWRF8xOVJSWWZ5RHkwems3Q2F3WF81UmlJUkx2XzZISHJ6amluSjhlN0lYWFZ2T281YTJhZUxONlQ4MUt6TDBWS210b2h3ZVVWaFVnNEdmbFAtY3IzT1BTOHVnNXIwMFZaU0xpLXVoX0E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "smurfit-2026-08-09-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Smurfit Westrock (SW) Could Be 10% Undervalued As Q2 Earnings Back Margin Recovery - simplywall.st",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZFI2OEthblhXZlVWNXdBLUdCYUFsVU1BOEM4XzdMbk15VVllOG5LNlFGc3QwYVRtRENZdldJenU0cTJFUVlWTTg3SHJhMmNlSW9UclppUTVPYkJNWnNvdmRFb2V3Z09FZHZXMjRkTzZocFc3MEpTamg2YXZtZlFldVI4WHh4NjVTcXFUeDFxX3N2cWVvLUhxSnJwb205enVFNXdSUnJ0TjhReWk2eEhMTzBEaEVzVUVIa0VOODdUa3BSN1hpNnc3MWViWWfSAdIBQVVfeXFMT1paMGQ5ZkNDNTE1dVJzQU1aVjNhOHMtZDRGcTBUMF9NeTJNc0Q3b1Q4cXNtZjY3V2plcVJLejZ1MHdid3lqb2RDcmU3WUwtd3ZOX09fbS1zSDI2TWd4ZzVveTgzdERMVF9TZ1V2bVdqVVdSR2VkNW1iZWkyLV9idFRFVnJFZ0haQlpLZ0o4cndpa0s5T3g2UTd5MndqT2U1SzdBdDNHbnVERFRCSmZ5aEVjWXhvM3pnUzZnT0xRWlNsX2tpYVJHYWVaamdENm5iOVFR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "crown-2026-08-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bank of America Corp DE Has $86.94 Million Position in Crown Holdings, Inc. $CCK - MarketBeat",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQWFMR1l0VlN5ODhNNl9ONkJ2YnBWSlJiaDdxNWpmcy1lZ3lTX1FfaDNQUFRXRFJvYldPd2ktNlUzR2F0VEhWLVNIYmpCZDlscWdKVGFZekNPWW54MkpNSG94QkFQQTdXQ0FxWDN1Mm1lZHA5YXplOG1ISHlRR3Zva2lXbkhfUDY3bE41bDNSOEozOWh5ZE80NDVCMkVlY1NLWHZfanlZNjljQzdLdlhucGxHU0M1Um40VzYyTldTbEZCYUFSZlpoVmdvU19KdXFQLUE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 1
+      },
+      {
+        "id": "smurfit",
+        "count": 1
+      },
+      {
+        "id": "crown",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 326,
+    "dup_title": 136,
+    "too_old": 147,
+    "gate1_blocked": 13,
+    "gate2_blocked": 13,
+    "passed": 17,
+    "pass_rate": "8.9%",
+    "gate2_block_rate": "6.8%",
+    "gate2_samples": [
+      "Zoetis names Saccaro CFO, chief operating officer - NJBIZ",
+      "Zoetis Names Jay Saccaro to Combined Finance and Operations Role - Parsippany Focus",
+      "Zoetis Appoints Jay Saccaro to Newly Created CFO and COO Leadership Role - citybiz",
+      "Trupanion: Pets Best is winding down, Chewy remains small - Coverager",
+      "Petco Health and Wellness Company, Inc. $WOOF Shares Bought by Dimensional Fund Advisors LP - Market"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為國際紙業、斯莫菲特、皇冠相關動態：「International Paper (NYSE:IP) Downgraded by Wall Street Z...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "International Paper (NYSE:IP) Downgraded by Wall Street Zen to \"Sell\" - Marke...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Smurfit Westrock (SW) Could Be 10% Undervalued As Q2 Earnings Back Margin Rec...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

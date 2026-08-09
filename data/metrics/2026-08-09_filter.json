@@ -1,0 +1,16 @@
+{
+  "total_raw": 326,
+  "dup_title": 136,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 13,
+  "gate2_fail": 13,
+  "passed": 17,
+  "gate2_samples": [
+    "Zoetis names Saccaro CFO, chief operating officer - NJBIZ",
+    "Zoetis Names Jay Saccaro to Combined Finance and Operations Role - Parsippany Focus",
+    "Zoetis Appoints Jay Saccaro to Newly Created CFO and COO Leadership Role - citybiz",
+    "Trupanion: Pets Best is winding down, Chewy remains small - Coverager",
+    "Petco Health and Wellness Company, Inc. $WOOF Shares Bought by Dimensional Fund Advisors LP - Market"
+  ]
+}
