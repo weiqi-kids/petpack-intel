@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T08:35:35.111689Z",
+  "updated_at": "2026-08-10T09:14:23.221266Z",
   "quarter": "2026-03-31, 2026-04-30, 2026-06-30",
   "companies": [
     {
@@ -177,17 +177,17 @@
       "name": "國際紙業",
       "ticker": "IP",
       "currency": "USD",
-      "ar": 3519000000,
-      "ar_prev": 3791000000,
-      "ar_qoq": "-7%",
+      "ar": 3773000000,
+      "ar_prev": 3519000000,
+      "ar_qoq": "+7%",
       "ar_period": "QoQ",
-      "inventory": 1902000000,
-      "inv_prev": 2012000000,
-      "inv_qoq": "-5%",
+      "inventory": 1961000000,
+      "inv_prev": 1902000000,
+      "inv_qoq": "+3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "petco",
