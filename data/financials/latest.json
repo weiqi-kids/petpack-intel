@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T09:14:23.221266Z",
+  "updated_at": "2026-08-11T08:47:52.168268Z",
   "quarter": "2026-03-31, 2026-04-30, 2026-06-30",
   "companies": [
     {
@@ -211,17 +211,17 @@
       "name": "美國包裝",
       "ticker": "PKG",
       "currency": "USD",
-      "ar": 1335900000,
-      "ar_prev": 1255800000,
-      "ar_qoq": "+6%",
+      "ar": 1432800000,
+      "ar_prev": 1335900000,
+      "ar_qoq": "+7%",
       "ar_period": "QoQ",
-      "inventory": 1258400000,
-      "inv_prev": 1243200000,
-      "inv_qoq": "+1%",
+      "inventory": 1262400000,
+      "inv_prev": 1258400000,
+      "inv_qoq": "+0%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "rong_cheng",

@@ -1,0 +1,16 @@
+{
+  "total_raw": 327,
+  "dup_title": 137,
+  "no_date": 0,
+  "too_old": 154,
+  "gate1_fail": 13,
+  "gate2_fail": 12,
+  "passed": 11,
+  "gate2_samples": [
+    "Zoetis Just Confirmed What Every Front Desk Already Knows - Vet Candy",
+    "Zoetis Names Jay Saccaro to Combined Finance and Operations Role - Parsippany Focus",
+    "Trupanion: Pets Best is winding down, Chewy remains small - Coverager",
+    "Petco Health and Wellness Company, Inc. $WOOF Shares Bought by Dimensional Fund Advisors LP - Market",
+    "William Thomas Hamic Sells 24,500 Shares of International Paper (NYSE:IP) Stock - MarketBeat"
+  ]
+}
