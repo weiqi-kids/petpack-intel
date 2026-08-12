@@ -1,0 +1,16 @@
+{
+  "total_raw": 328,
+  "dup_title": 140,
+  "no_date": 0,
+  "too_old": 154,
+  "gate1_fail": 15,
+  "gate2_fail": 10,
+  "passed": 9,
+  "gate2_samples": [
+    "Zoetis Just Confirmed What Every Front Desk Already Knows - Vet Candy",
+    "Zoetis Names Jay Saccaro to Combined Finance and Operations Role - parsippanyfocus.com",
+    "Trupanion: Pets Best is winding down, Chewy remains small - coverager.com",
+    "Petco Health and Wellness Company, Inc. $WOOF Shares Bought by Dimensional Fund Advisors LP - Market",
+    "Is International Paper (IP) Undervalued As Quarterly Sales Fell And It Posted A Loss? - simplywall.s"
+  ]
+}

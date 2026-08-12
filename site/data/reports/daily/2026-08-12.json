@@ -1,0 +1,140 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T09:06:36.323266Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "idexx-2026-08-12-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "IDEXX Laboratories (IDXX) Unveils First Dual Species Cardiac Test For Dogs And Cats - simplywall.st",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdWQzOGp1cWIwNFBuMVdYQldDMi00X0FDUWFRS2NmY25zcDZlWF9kQXpVTGF3U3ZHUUhoM1Vqa0pDUS1wa1hYSnVncEpEUjlkajhEWVhJb2k5cV9UNkZMTU9LV2VzTDFxRHFEenI1b0d1SnBlNzlZN3JFQURoT1dCWVlvcjg0T0l0WFNRZUhCMnNqTFlOb0FuSVUxT19wZWZnSkNUMmduamhnUG5DTmRZREc0U3drNUh0OXFXSEtSSVRrWG5HaDU4R01SWUFoUEp3LVlFQ2ZmZkZQcWfSAdsBQVVfeXFMUHVkMzhqdXFiMDRQbjFXWEJXQzItNF9BQ1FhUUtjZmNuc3A2ZVhfZEF6VUxhd1N2R1FIaDNVamtKQ1EtcGtYWEp1Z3BKRFI5ZGo4RFlYSW9pOXFfVDZGTE1PS1dlc0wxcURxRHpyNW9HdUpwZTc5WTdyRUFEaE9XQllZb3I4NE9JdFhTUWVIQjJzakxZTm9BbklVMU9fcGVmZ0pDVDJnbmpoZ1BuQ05kWURHNFN3azVIdDlxV0hLUklUa1huR2g1OEdNUllBaFBKdy1ZRUNmZmZGUHFn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "crown-2026-08-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Crown Holdings (CCK) Margin Improvement Narrative Keeps Fair Value In Focus - Yahoo Finance",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMS1Vb3RJdWt5by0tMlNPdVBhaWVFMVJ5bzNqWmUyMVo1WUxGU1BWS3VBenEyS3RYMURqNVdjV09GaTZDSTZJU1dXblBwSFNlN3FKVTAyUmFIRjlSN0NYdEItVzFqdkd6andSYWJQWWx5VGhrYzRQa0pHYXBfUnVWTVE5aTFsMXJRcnFjZFN2LWcwdU1QZk5DSGZRMHpRRWp3aU11ZA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "crown-2026-08-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FMR LLC Trims Crown Holdings Inc (CCK) Stake -- Shares Trade 11% Above GF Value - GuruFocus",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV0N1UXF3OHI1cDRPN1B4eGpQc1pfb1UzWkxPZjE3NHpuRVZZdUhDV2MzdGdLeDduWEItUG53UVJqODJ6UjR1WlNPREx2Q0pIWmZIcGE0eGNLTTZxQjUyeHBwc3dqcExib2gxNHdPemlhdlNtUEswa0QtbTNIV0JiTnBxVkg4MVJMSEFVbHpCQTJabTl4Y3Z5ZGhSUHJRRTYtakVGaV8yZVRSVVFiR1dFY2hn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "crown",
+        "count": 2
+      },
+      {
+        "id": "idexx",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 328,
+    "dup_title": 140,
+    "too_old": 154,
+    "gate1_blocked": 15,
+    "gate2_blocked": 10,
+    "passed": 9,
+    "pass_rate": "4.8%",
+    "gate2_block_rate": "5.3%",
+    "gate2_samples": [
+      "Zoetis Just Confirmed What Every Front Desk Already Knows - Vet Candy",
+      "Zoetis Names Jay Saccaro to Combined Finance and Operations Role - parsippanyfocus.com",
+      "Trupanion: Pets Best is winding down, Chewy remains small - coverager.com",
+      "Petco Health and Wellness Company, Inc. $WOOF Shares Bought by Dimensional Fund Advisors LP - Market",
+      "Is International Paper (IP) Undervalued As Quarterly Sales Fell And It Posted A Loss? - simplywall.s"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為皇冠、愛德士相關動態：「IDEXX Laboratories (IDXX) Unveils First Dual Species Card...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "IDEXX Laboratories (IDXX) Unveils First Dual Species Cardiac Test For Dogs An...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Crown Holdings (CCK) Margin Improvement Narrative Keeps Fair Value In Focus -...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
