@@ -1,0 +1,16 @@
+{
+  "total_raw": 329,
+  "dup_title": 142,
+  "no_date": 0,
+  "too_old": 144,
+  "gate1_fail": 17,
+  "gate2_fail": 13,
+  "passed": 13,
+  "gate2_samples": [
+    "Zoetis Just Confirmed What Every Front Desk Already Knows - Vet Candy",
+    "Zoetis Names Jay Saccaro to Combined Finance and Operations Role - Parsippany Focus",
+    "Trupanion: Pets Best is winding down, Chewy remains small - Coverager",
+    "Renaissance Technologies LLC Acquires Shares of 523,495 Petco Health and Wellness Company, Inc. $WOO",
+    "Petco Health and Wellness Company, Inc. $WOOF Shares Bought by Dimensional Fund Advisors LP - Market"
+  ]
+}
