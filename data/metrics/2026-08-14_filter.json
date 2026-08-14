@@ -1,0 +1,16 @@
+{
+  "total_raw": 328,
+  "dup_title": 123,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 14,
+  "gate2_fail": 10,
+  "passed": 16,
+  "gate2_samples": [
+    "Zoetis gets US FDA emergency use nod for treatment for screwworm in dogs - Reuters",
+    "Zoetis Receives Emergency Use Authorization for Simparica Trio® (sarolaner, moxidectin, and pyrantel",
+    "Zoetis Just Confirmed What Every Front Desk Already Knows - Vet Candy",
+    "Renaissance Technologies LLC Acquires Shares of 523,495 Petco Health and Wellness Company, Inc. $WOO",
+    "William Thomas Hamic Sells 24,500 Shares of International Paper (NYSE:IP) Stock - MarketBeat"
+  ]
+}
