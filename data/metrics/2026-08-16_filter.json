@@ -1,0 +1,16 @@
+{
+  "total_raw": 327,
+  "dup_title": 139,
+  "no_date": 0,
+  "too_old": 156,
+  "gate1_fail": 11,
+  "gate2_fail": 12,
+  "passed": 9,
+  "gate2_samples": [
+    "Zoetis gets US FDA emergency use nod for treatment for screwworm in dogs - Reuters",
+    "Zoetis receives Emergency Use Authorization for Simparica Trio to battle New World screwworm - ROI-N",
+    "Zoetis Just Confirmed What Every Front Desk Already Knows - Vet Candy",
+    "People on the Move: Jay Saccaro Joins Zoetis as EVP, Chief Financial Officer and Chief Operating Off",
+    "Zoetis Receives Emergency Use Authorization for Simparica Trio® (sarolaner, moxidectin, and pyrantel"
+  ]
+}

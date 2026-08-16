@@ -1,5 +1,25 @@
 [
   {
+    "id": "zoetis-2026-08-15-001",
+    "date": "2026-08-15",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Zoetis Stock (ZTS) Opinions on Michael Burry's Investment - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQdFVHSG85OEhCTVBOeG5NaEwtQnpCWXBKb0hPZUpZUC1RM1BmZ2VkUVJfXzEwQjhvQnFiQ0lrWmlwTFQtYllCVG8wa2xnWWdjeGpZU0dKNnUza0RIaWpaWjdJQ3pqLV9nb051MjQ3RH",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdFVHSG85OEhCTVBOeG5NaEwtQnpCWXBKb0hPZUpZUC1RM1BmZ2VkUVJfXzEwQjhvQnFiQ0lrWmlwTFQtYllCVG8wa2xnWWdjeGpZU0dKNnUza0RIaWpaWjdJQ3pqLV9nb051MjQ3RHFZZ1RSdVFUMFJUTktLTHJrNmxNaGh1cTZJeG1WUzhZV28walFJTEVJQTEwVEk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "sealed_air-2026-08-14-001",
     "date": "2026-08-14",
     "companies": [
@@ -168,6 +188,104 @@
       {
         "name": "packaging_dive",
         "url": "https://www.packagingdive.com/news/pepsico-packaging-plastic-reduction-recycling-report/827852/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "zoetis-2026-08-14-010",
+    "date": "2026-08-14",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Zoetis: The Growth Story Has Broken, But The Valuation Finally Makes Sense (NYSE:ZTS) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbjdXeDNPaElCMXl0emdSVHpYZVFEQjJqNm9iTS1fdWJPWnJKM1R4anV4cFlhUXhEeU56LTQ0a0ZQRDd3cWx3MVNIeGlHa1loMl9WMEpVQ3M1eUNtR1BGVHZ1T0I3T0NEZkdqN21FUV",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbjdXeDNPaElCMXl0emdSVHpYZVFEQjJqNm9iTS1fdWJPWnJKM1R4anV4cFlhUXhEeU56LTQ0a0ZQRDd3cWx3MVNIeGlHa1loMl9WMEpVQ3M1eUNtR1BGVHZ1T0I3T0NEZkdqN21FUVVVM19adjFVYkNuME5jMXFuMDJvRURwVmxPRVlxQjV2SVBQamtfS1AxYjhpVzhZZTFFd2tpdE50VVk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "idexx-2026-08-14-011",
+    "date": "2026-08-14",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "vet_spending"
+    ],
+    "impact": "neutral",
+    "title": "IDEXX Laboratories Targets $45B Pet Diagnostics Opportunity With AI, Cancer Tests - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWmpTUGJxWURMMzFERUU2YkhWNncxV0JvWk1xVlZuU21GVDFtVjc0eTZGOU5YYjJIVFV1RmE3NXV5NlFGdmJtWlRXUmNZcjlPZXJnWDRFMDRjWlBuY2JadEhMaklqcnhSWTMwOWJsNl",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWmpTUGJxWURMMzFERUU2YkhWNncxV0JvWk1xVlZuU21GVDFtVjc0eTZGOU5YYjJIVFV1RmE3NXV5NlFGdmJtWlRXUmNZcjlPZXJnWDRFMDRjWlBuY2JadEhMaklqcnhSWTMwOWJsNlk2SUlkSk43dU9oc0t5R2NLRC1QMHdOam91ZVMtb09IWkk5emcxaXNlM05paXk5OVFpZWlfam5EMTItUi10dlFFRGRQclhFVE4yTGtwdlZYTV92Wm4wQkZGdkFNVGdxVnJVMmxiMHhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trupanion-2026-08-14-012",
+    "date": "2026-08-14",
+    "companies": [
+      "trupanion"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Trupanion: Profitable At Last, But Still Too Expensive To Buy (Upgrade) (NASDAQ:TRUP) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ25YY0ZxSjgtNjZycm5aQVpmaFdMUl95aHFSVEVhOFdLcFMyTEpiSmwxMGpyVnFYWGFqVS1pRU1YdFlEcTdFcVdaN3FYQ2VyNTZOMUpFZjNxd0lCbmVCRGNhWDBpYUxtalB1blZFWD",
+    "sources": [
+      {
+        "name": "trupanion",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ25YY0ZxSjgtNjZycm5aQVpmaFdMUl95aHFSVEVhOFdLcFMyTEpiSmwxMGpyVnFYWGFqVS1pRU1YdFlEcTdFcVdaN3FYQ2VyNTZOMUpFZjNxd0lCbmVCRGNhWDBpYUxtalB1blZFWDVib015ZXM2bGRhdUYxWTdpeUVvR19MQU9kYTNNci1LbnJaOHZHRDNWVHBIT2YyV3E4Nmlwb0JMbnRSUlM2?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amcor-2026-08-14-013",
+    "date": "2026-08-14",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Amcor achieves RecyClass Recycled Plastics Traceability Certification - Interplas Insights",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOWdMbEdzM1BZUFpUQjlHVHlFYjQyb3RUc00wLVMySTU2UHp5VFNQVzRxaGdzQmlBb3ZBRkJsQ2hobEFJS0lKQ1p3RGJaZS1VM0d1eXVJcmhqOTJvTEZ0cEJ5aThkR0drYXB0MmRXdk",
+    "sources": [
+      {
+        "name": "amcor",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOWdMbEdzM1BZUFpUQjlHVHlFYjQyb3RUc00wLVMySTU2UHp5VFNQVzRxaGdzQmlBb3ZBRkJsQ2hobEFJS0lKQ1p3RGJaZS1VM0d1eXVJcmhqOTJvTEZ0cEJ5aThkR0drYXB0MmRXdkNBZFl5c05Ta2YxMnpZVm9NMVBHbm1YeVhyY1ZtQlBDNm1VUS1EMGFYcEdYQTRUbkJuN2ZXc2dEZUJSR2tKLUk5NFpLTjlWMG9IWGRTaUZSMzJ4OXdSS3g2YUloVHVOM2ZwZVBPNzBJRjVXV1VfZ0oxakV6LUxpQXpT?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amcor-2026-08-14-014",
+    "date": "2026-08-14",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Amcor Garners Two AmeriStar Awards - The National Tribune",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1JV3pZaWRaNGZjWmp3RHBJOTNyQzFScjctX3JQWnByVUpmUzlyX01MZURWLTU5X0FIUDNydFVPdUhDamtISDVCcG41UTNXck1ySWV4eHlYLWo5bjdoWTNBQTd5V0xfQnowSDFxc3JrX1",
+    "sources": [
+      {
+        "name": "amcor",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JV3pZaWRaNGZjWmp3RHBJOTNyQzFScjctX3JQWnByVUpmUzlyX01MZURWLTU5X0FIUDNydFVPdUhDamtISDVCcG41UTNXck1ySWV4eHlYLWo5bjdoWTNBQTd5V0xfQnowSDFxc3JrX1FISk85bDExanJR?oc=5",
         "type": "rss"
       }
     ]
@@ -419,6 +537,44 @@
       {
         "name": "packaging_dive",
         "url": "https://www.packagingdive.com/news/ardagh-holdings-potential-sale-ardagh-metal-packaging-restructuring/827765/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-014",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "pet_insurance"
+    ],
+    "impact": "neutral",
+    "title": "Spot vs. Lemonade Pet Insurance - U.S. News & World Report",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5leUhSV0M2M0s2MGxjV0poWTRiSHU1NUNpWVdzNGw1WlF0TzUyZHJKY3p3NEVfZHlNeEhKaWxuWlVuTHUzc2hQUGdleG9tYUttMXlteW5nYlN6QXRrYjJyb211SW5BWGY1RHFhZXp3X1",
+    "sources": [
+      {
+        "name": "trupanion",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5leUhSV0M2M0s2MGxjV0poWTRiSHU1NUNpWVdzNGw1WlF0TzUyZHJKY3p3NEVfZHlNeEhKaWxuWlVuTHUzc2hQUGdleG9tYUttMXlteW5nYlN6QXRrYjJyb211SW5BWGY1RHFhZXp3X1I?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-08-13-015",
+    "date": "2026-08-13",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Are Wall Street Analysts Bullish on Smurfit Westrock Stock? - barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNMDhueWlZT1Z1N0FTSlRJT1NLY0dFZDQ2aldPcVV1TkQzZDM2eS1EUXMwbHVlc09ZT3JHZFI4UVJCNmU4aDRVMHlaYkVnME5kT3gyZlhURnBHeW9ZemQyWUtrNXpVeTZRamFHUlhwaU",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMDhueWlZT1Z1N0FTSlRJT1NLY0dFZDQ2aldPcVV1TkQzZDM2eS1EUXMwbHVlc09ZT3JHZFI4UVJCNmU4aDRVMHlaYkVnME5kT3gyZlhURnBHeW9ZemQyWUtrNXpVeTZRamFHUlhwaUJ6cVdRejUzTmVOdU1fNDBMNHVrcDdTYmlQRUVmeUpYc3dvUnZydjVQQTRGeFJCT1RzQ0RRNw?oc=5",
         "type": "rss"
       }
     ]
@@ -724,6 +880,24 @@
       {
         "name": "trupanion",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02RTB5aF9GbURuaENEVUJyaWZqYVRUMm9pSE5USGRlV0x1VnM0ZExzTVZFcFRTTlVjTERORnh3dXF1OWNpWlJYUGZDTXo4bHFMekl6UGR2Rjd5QU1yUHlNNw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "idexx-2026-08-12-017",
+    "date": "2026-08-12",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "IDEXX Laboratories (IDXX) Unveils First Dual Species Cardiac Test For Dogs And Cats - webull.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CeUs3TVJ6Y1M2bXJTM1NXT1FwY3p5QVFuekg3OTVUa2ZfZWI4Nkd0dDhnTVFlUVltaTE1ZmdpZERKRUlhemN0TzFHUGJUb2VpTFRNWE9hWnU?oc=5\" target=\"_blank\">IDEXX La",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CeUs3TVJ6Y1M2bXJTM1NXT1FwY3p5QVFuekg3OTVUa2ZfZWI4Nkd0dDhnTVFlUVltaTE1ZmdpZERKRUlhemN0TzFHUGJUb2VpTFRNWE9hWnU?oc=5",
         "type": "rss"
       }
     ]
