@@ -1,0 +1,16 @@
+{
+  "total_raw": 327,
+  "dup_title": 154,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 11,
+  "gate2_fail": 12,
+  "passed": 4,
+  "gate2_samples": [
+    "Zoetis Stock: Another Bad Quarter, Some Value Trap Risk But Shares Still Cheap (NYSE:ZTS) - Seeking ",
+    "Zoetis receives Emergency Use Authorization for Simparica Trio to battle New World screwworm - ROI-N",
+    "People on the Move: Jay Saccaro Joins Zoetis as EVP, Chief Financial Officer and Chief Operating Off",
+    "Zoetis Receives Emergency Use Authorization for Simparica Trio® (sarolaner, moxidectin, and pyrantel",
+    "Zoetis Just Confirmed What Every Front Desk Already Knows - myvetcandy.com"
+  ]
+}

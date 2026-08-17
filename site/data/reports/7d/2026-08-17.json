@@ -1,0 +1,122 @@
+{
+  "date": "2026-08-17",
+  "date_range": {
+    "start": "2026-08-11",
+    "end": "2026-08-17"
+  },
+  "generated_at": "2026-08-17T08:36:32.140566Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "intl_paper-2026-08-11-005",
+      "date": "2026-08-11",
+      "title": "Is International Paper (IP) Undervalued As Quarterly Sales Fell And It Posted A Loss? - simplywall.st",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 3,
+      "last_week": 12,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "paper_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "idexx": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "crown": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 1
+    },
+    "amcor": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "sealed_air": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "smurfit": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 56,
+        "last": 116,
+        "change_pct": -51.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-11",
+      "event_count": 5,
+      "sentiment_avg": -0.2
+    },
+    {
+      "date": "2026-08-12",
+      "event_count": 17,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-13",
+      "event_count": 18,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-14",
+      "event_count": 15,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-08-15",
+      "event_count": 1,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-16",
+      "event_count": 0,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-17",
+      "event_count": 0,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-11 ~ 2026-08-17）共 56 則事件，重點為「Is International Paper (IP) Undervalued As Quar...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "愛德士",
+        "reason": "紙價趨勢值得關注，可能影響供應鏈佈局。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
