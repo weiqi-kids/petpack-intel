@@ -1,0 +1,96 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T08:29:50.395689Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intl_paper-2026-08-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Capital International Investors Reduces International Paper Co (IP) Stake -- Shares Remain Fairly Valued on GF Value - GuruFocus",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSS1hcVZRa2diWVFRa3hwMExSWlFPS2Nvemc3LXAtQ1Vob3hDbkd3eFN1Y1Vaa0RxcUx4Q29tbFBqS0RpWTJYb3I1Z2dfXzdaajg5bXRGOHl1WkdCZE1kaWFZbUlVUDlwbUdSMS01ejBERktJcHRsRzY1M3VPdk41amU2WVNnNUVsalluSzZFOWowSHpMbzNwNXVSb014SkZHN2NEUzg1VVFxcXRhaDRDSlg2LU54LXEzdGtTZm5SUDVKcHRDQ2pMOXlYNGk2T0xFYTVLbmlRZkhDdHFwek9Od3ZOTzk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 326,
+    "dup_title": 132,
+    "too_old": 142,
+    "gate1_blocked": 14,
+    "gate2_blocked": 15,
+    "passed": 23,
+    "pass_rate": "11.9%",
+    "gate2_block_rate": "7.7%",
+    "gate2_samples": [
+      "Zoetis receives Emergency Use Authorization for Simparica Trio to battle New World screwworm - ROI-N",
+      "People on the Move: Jay Saccaro Joins Zoetis as EVP, Chief Financial Officer and Chief Operating Off",
+      "Zoetis Receives Emergency Use Authorization for Simparica Trio® (sarolaner, moxidectin, and pyrantel",
+      "Zoetis gets US FDA emergency use nod for treatment for screwworm in dogs - Reuters",
+      "Zoetis: Another Bad Quarter, Some Value Trap Risk But Shares Still Cheap - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為國際紙業相關動態：「Capital International Investors Reduces International Pap...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Capital International Investors Reduces International Paper Co (IP) Stake -- ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "國際紙業為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
