@@ -1,5 +1,45 @@
 [
   {
+    "id": "petco-2026-08-20-001",
+    "date": "2026-08-20",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Petco Health and Wellness (WOOF) Projected to Post Quarterly Earnings on Thursday - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPM1VJeWVPM21ZX0UwU1IwVmxWNFdyQXpHNXFsNjFRZkJRZC00aEZ3TjF6T2FxMGdmckU3MUtPZUowdXpIM0JxLUZLVDVxN09FNk1icExYbV9QRi05YjEzbG1KbmpzMlNIaXJtSkI5Wn",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM1VJeWVPM21ZX0UwU1IwVmxWNFdyQXpHNXFsNjFRZkJRZC00aEZ3TjF6T2FxMGdmckU3MUtPZUowdXpIM0JxLUZLVDVxN09FNk1icExYbV9QRi05YjEzbG1KbmpzMlNIaXJtSkI5WnlEUE01Vjl5cFFtcnBtQjh5V1dXZC1tVDZmM2ZwNlZkcEtjbldPS2RQaW1GNFVTU0VrU2NRR0hEXzNYMDZuOVJHTl9XX0hHWUlUTVlYaFl4cUNCeUJfNnk3cWJJTjVSUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amcor-2026-08-20-002",
+    "date": "2026-08-20",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "What Is Behind Amcor (NYSE:AMCR) and Its S&P 500 Packaging Scale? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWhaSk5rbzdBS1dXVnVRd3QwN2lUaFAxQ3VZc3FxWjNLUy1XaGN0RmkwaVlqWEFPdkN3VV9JM1JMSEwzNVBUcHYzeEI5VkU3el9pS3JEMzBkbFdiTzVXZXB5X1JyWkRNMzJBaWNOdG",
+    "sources": [
+      {
+        "name": "amcor",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWhaSk5rbzdBS1dXVnVRd3QwN2lUaFAxQ3VZc3FxWjNLUy1XaGN0RmkwaVlqWEFPdkN3VV9JM1JMSEwzNVBUcHYzeEI5VkU3el9pS3JEMzBkbFdiTzVXZXB5X1JyWkRNMzJBaWNOdGE5NlhhU1JQaS1XZjhXRkJFUFRZZjRGSHFVSTdRV24yWm5WdGRmNXFvVjFXMXpjSUhZTWJaWkdJZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "intl_paper-2026-08-19-001",
     "date": "2026-08-19",
     "companies": [
@@ -15,6 +55,66 @@
       {
         "name": "intl_paper",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSS1hcVZRa2diWVFRa3hwMExSWlFPS2Nvemc3LXAtQ1Vob3hDbkd3eFN1Y1Vaa0RxcUx4Q29tbFBqS0RpWTJYb3I1Z2dfXzdaajg5bXRGOHl1WkdCZE1kaWFZbUlVUDlwbUdSMS01ejBERktJcHRsRzY1M3VPdk41amU2WVNnNUVsalluSzZFOWowSHpMbzNwNXVSb014SkZHN2NEUzg1VVFxcXRhaDRDSlg2LU54LXEzdGtTZm5SUDVKcHRDQ2pMOXlYNGk2T0xFYTVLbmlRZkhDdHFwek9Od3ZOTzk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "idexx-2026-08-19-002",
+    "date": "2026-08-19",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "pet_insurance"
+    ],
+    "impact": "neutral",
+    "title": "Resilient IDEXX Laboratories stock trades in the mid-$550s as investors weigh premium valuation and - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQMDVzUkRXazJ1eXk1WDlWenM3dUUzNklyRUpWTVVKcEVMVU1WV0JRZy1Zc253MGl5dFZkVHZ1bDF2X3JNdkNMYzN0dUZiWmw4bERJMnpaVTc5ek1IM0pWeVI5QWVxOXdQWHlVQU9PLW",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMDVzUkRXazJ1eXk1WDlWenM3dUUzNklyRUpWTVVKcEVMVU1WV0JRZy1Zc253MGl5dFZkVHZ1bDF2X3JNdkNMYzN0dUZiWmw4bERJMnpaVTc5ek1IM0pWeVI5QWVxOXdQWHlVQU9PLWgzWl95M2tmWlpCQVZycU1rYVJOMjlNbXhBRk1NQjkxRWZNSXhpUmZBckN3YVQyRjAxNS0tT2FzaVpLYUZFX1FLR1hBWjhnXy12bk5UQjFEeWZKUzFqSTdBSV9wOFVTZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-08-19-003",
+    "date": "2026-08-19",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Paper (IP) Rides A Profit Turnaround Narrative, Is The Stock Trading At A Discount? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWks5eDJ5Tk9NRVZjLXhUY3VqMzZqMndwNEtLaHN3WHd0MFNtX0RCM21JR3VGa08wTjZ4V1EtaDRieWwzLXlTdnNzVDltUzcwcWQwcnZEazlyLWFreFdfQUw3NC1pU0FteG1MTUpsdF",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWks5eDJ5Tk9NRVZjLXhUY3VqMzZqMndwNEtLaHN3WHd0MFNtX0RCM21JR3VGa08wTjZ4V1EtaDRieWwzLXlTdnNzVDltUzcwcWQwcnZEazlyLWFreFdfQUw3NC1pU0FteG1MTUpsdFlCbUFQRHI2amhRNXlVdjNYNzd2YVNGZjUzVjNHdkpYSWdCaGV0akNYdmM5YlRsTlZ6LXIzSzBmaDJ6Y3dUQWVCMmVMWGE0YmduemdZUUQ3ZWd5LWg1RUdyal9SWjRZZ3Bh0gHWAUFVX3lxTE5OSy1wcGUwNHNxTTE2MnBxMzlZcUxrVEpZY004NnI4TkF6ZXZUR0VpdUVkWjNNNjRqT0QzRzdCOG1oZ09IR3YxTkItNjBGazV6a2VMVmNOWEtSeUJJSjVUTGNmb0R6c0hreDVzbjVCRVVudm04SXo5WnJSaGlGNERfWUFibXV3WUlEZE02a3BRR0Yxa0FGdXQxaEhnRndKeHRMVjlhTzJtQzZpUWtQN2J0ZHE2SEkzUDhQajNkTHJhQ19ldnJwdVU5VVM1T1RJZ24yZG5RcVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sealed_air-2026-08-19-004",
+    "date": "2026-08-19",
+    "companies": [
+      "sealed_air"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sealed Air stock holds steady as investors await next earnings update. - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQREhVZFV5eEcya3k2dG5JdWwzVXItNW1ULU9wVl9iR3otVy1XbHpxbHNVZFl4YTAzeF94WDVoVG95Zk1rNncydllHa0R5aUZFWnlOWEpOclJJY25ib0NLNnBjVlpJWll1eWhDMTRfdW",
+    "sources": [
+      {
+        "name": "sealed_air",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQREhVZFV5eEcya3k2dG5JdWwzVXItNW1ULU9wVl9iR3otVy1XbHpxbHNVZFl4YTAzeF94WDVoVG95Zk1rNncydllHa0R5aUZFWnlOWEpOclJJY25ib0NLNnBjVlpJWll1eWhDMTRfdWMzUE9vRGxYX2Z2eEpNQ2EwZGZ2d0RlYmYwbFdsX1dmbkd1MkJibUQxS3dfeF81M3NkRzZhTkNOaG9ZeFVHT1hLcER6ZEUzZDZxLVJCdzRPWnlRcWdJM3pCZGpGZ1k?oc=5",
         "type": "rss"
       }
     ]
@@ -334,6 +434,26 @@
     ]
   },
   {
+    "id": "idexx-2026-08-18-017",
+    "date": "2026-08-18",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "IDEXX Laboratories stock holds above the mid-$540s as valuation stays demanding - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPZFdoZlNKWXdBeVdhcFU4QTJQanRLNWczOTVfZnJ3VGNubVRrdGFVam9nS3A4WkktWS0tN2JyOEJuU0JFT0x6ZVpNQjZRQ1BDSlVMYlNWR0tUdDRVYmRGeE9RQnpiaU5qUHZFWHoxZz",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZFdoZlNKWXdBeVdhcFU4QTJQanRLNWczOTVfZnJ3VGNubVRrdGFVam9nS3A4WkktWS0tN2JyOEJuU0JFT0x6ZVpNQjZRQ1BDSlVMYlNWR0tUdDRVYmRGeE9RQnpiaU5qUHZFWHoxZzVRbUVzd3BUUU85cUNvanVaR3h3cG8waXFlVUhHQkdTRjExTS1MQUQzWDJxT2pFUnRTQW1qcC0yZWptdkY1MElHQ2VxWjQ4alVUOWJRcnc1MEVXbXd3SEItMWctaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "zoetis-2026-08-17-001",
     "date": "2026-08-17",
     "companies": [
@@ -425,6 +545,46 @@
       {
         "name": "trupanion",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ1lMTFJuSGxDOW1Rdk5MSjkzYXU0RFZlVk94VGEzNWR1NjVaSmJfbTk2Y2VwNkR0OW9sZTZ3T3pJTWN0Z0w4RFpQVUV1ZTFmc2NQemRqdUJDVWJWMGN2UzdLSEJuUkh1NHRpX0wtM1dVQlZkRWE1ZWtCVGhLQ2NMTEl6YmJQclhrMEUwd2NLakpWUldOc1lVbjZUOVRZVXFNdkdYQ04xRlc5MkMtS0xacXEzaDVqX0FnSl96UkkxYkZkY3FoVkpfSmdUYmRZUUEwRnM4Tm1aWlc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amcor-2026-08-17-006",
+    "date": "2026-08-17",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Amcor AmPrima wins two AmeriStar awards - PKN Packaging News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzB2elNoUG5oUmdGTFBoYmdISThoSW5qN3ZCbUhDZFFpNElaOHRYVTZiZnFSVlV1SnctSTFBQ2l5WXViX0JGbG9Eb0RiY0dCcE5VNDVtbGplWElPRHlHdllFelNoS0g4S2ZQVG40cl",
+    "sources": [
+      {
+        "name": "amcor",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzB2elNoUG5oUmdGTFBoYmdISThoSW5qN3ZCbUhDZFFpNElaOHRYVTZiZnFSVlV1SnctSTFBQ2l5WXViX0JGbG9Eb0RiY0dCcE5VNDVtbGplWElPRHlHdllFelNoS0g4S2ZQVG40cl8zZDExc2FQZWE1ai1OWWRGRmxOWkE2NFZyUE9DVF81T1c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ball-2026-08-16-001",
+    "date": "2026-08-16",
+    "companies": [
+      "ball"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ball Corporation (BALL) Holds at $61.82 as Consolidation Persists - Intraday Trade Ideas - Vinanet",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQMnBtcTNnVFlnVkxQcld1MmJCUlhFX0loY2w1Y2Z2Z0RUd0E1NnBTR192TE9qdWtMT3FXVlhRaU05WXFRZ1U0dkN2NGxTUVVfTGZKSDFvdlJxRVpYWmUxQ2s2STI0T2R5TEU5R0dhVE",
+    "sources": [
+      {
+        "name": "ball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMnBtcTNnVFlnVkxQcld1MmJCUlhFX0loY2w1Y2Z2Z0RUd0E1NnBTR192TE9qdWtMT3FXVlhRaU05WXFRZ1U0dkN2NGxTUVVfTGZKSDFvdlJxRVpYWmUxQ2s2STI0T2R5TEU5R0dhVEl2NWc1VjhtbXZ6clBpb204V2puQ2puX3Z6MTVEU1o2RFU5LU5FVzFkX1dGX0x4UnZwZ1NIVWNn?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,16 @@
+{
+  "total_raw": 326,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 140,
+  "gate1_fail": 16,
+  "gate2_fail": 13,
+  "passed": 8,
+  "gate2_samples": [
+    "People on the Move: Jay Saccaro Joins Zoetis as EVP, Chief Financial Officer and Chief Operating Off",
+    "Zoetis: Another Bad Quarter, Some Value Trap Risk But Shares Still Cheap - Seeking Alpha",
+    "Zoetis gets US FDA emergency use nod for treatment for screwworm in dogs - Reuters",
+    "Zoetis receives Emergency Use Authorization for Simparica Trio to battle New World screwworm - ROI-N",
+    "Trupanion Partners with Home To Home® to Help More Pets Transition Directly from One Loving Home to "
+  ]
+}
