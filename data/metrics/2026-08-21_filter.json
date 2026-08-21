@@ -1,0 +1,16 @@
+{
+  "total_raw": 327,
+  "dup_title": 150,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 15,
+  "gate2_fail": 11,
+  "passed": 9,
+  "gate2_samples": [
+    "Zoetis: Another Bad Quarter, Some Value Trap Risk But Shares Still Cheap - Seeking Alpha",
+    "Zoetis receives Emergency Use Authorization for Simparica Trio to battle New World screwworm - ROI-N",
+    "Stifel raises Trupanion stock price target on Pets Best exit - Investing.com",
+    "International Paper (IP) Could Be 8% Undervalued On Its Margin Recovery Narrative - Yahoo Finance",
+    "Amcor, Ocean Potion partner for kids’ mineral sunscreen packaging - Packaging Strategies"
+  ]
+}
