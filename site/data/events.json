@@ -38,6 +38,86 @@
     ]
   },
   {
+    "id": "idexx-2026-08-21-003",
+    "date": "2026-08-21",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "IDEXX Laboratories stock holds high valuation as earnings outlook firms - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNb3cxVWxHblRabGZ6eUVDR29sQTU5bW1rSUpCZEVzSzJ2bUtNX1hZZWE5LTJlY2w0S08yYURvQ1RObW9DdGNBRUtlWmFRdWh6MWtmSjhKMTJLWnNWazhqSUtOanJpT1I1bnYwbFVWU2",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb3cxVWxHblRabGZ6eUVDR29sQTU5bW1rSUpCZEVzSzJ2bUtNX1hZZWE5LTJlY2w0S08yYURvQ1RObW9DdGNBRUtlWmFRdWh6MWtmSjhKMTJLWnNWazhqSUtOanJpT1I1bnYwbFVWU2pqemttbG5XM2ctOTRKekNENjMyRFBpeFR0U250UVQzXzRWekk0ZGhMbzQzTUpOTzJKUW0ybjFCOWprZV9FVTRkdThvaHBtd1c0VFBjdHZ3X1hVbTJXOXVnVHVlakJLQVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-004",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "After eastern groundwater report detailed aquifer concerns, Va. lawmakers consider policy shifts - Virginia Mercury",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPLVlGVjRlWWdGN28xOTdGdHFPdkVwNWRoQ2xiU0VlMkZCdlBEUnMyUmtIckZ0NkQwMEFLQ2RmbFRNUjlHSGtPdUJLekJLN3QxeTBtQjFZU19MZVNnVUpZOHVES0M5aGVsYXh0UjJ6WF",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLVlGVjRlWWdGN28xOTdGdHFPdkVwNWRoQ2xiU0VlMkZCdlBEUnMyUmtIckZ0NkQwMEFLQ2RmbFRNUjlHSGtPdUJLekJLN3QxeTBtQjFZU19MZVNnVUpZOHVES0M5aGVsYXh0UjJ6WFlBbktsTHI5WE1XY1dRdVllQmlrNU9XekktdlRPSDUxXzdNOXFSOUIxUkpQemY4elZlcFA4MkpfVkl1cjVWLW1Ud0ZxYWZ5LWliNWJJQTR0ZnJkN3pibmJDUVVnd0EtSkU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cheng_loong-2026-08-21-005",
+    "date": "2026-08-21",
+    "companies": [
+      "cheng_loong"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cheng Loong's Vietnam Plant Utilization Surges, H2 Profit Momentum Looks Strong - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBKU25TYnY0ZWdFOVlPRS1GcnZRQUJLdjQxel9OY1pmSHR5MGxqY3VPZVgwcHRhdzNyRm9GNXNsdnFXeThyeUdpWnBlZ1ZSUXBtM3ZEWC12dFRfcnd0YmlvLS1nMHByTy1aS2Q4MVFydD",
+    "sources": [
+      {
+        "name": "cheng_loong",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKU25TYnY0ZWdFOVlPRS1GcnZRQUJLdjQxel9OY1pmSHR5MGxqY3VPZVgwcHRhdzNyRm9GNXNsdnFXeThyeUdpWnBlZ1ZSUXBtM3ZEWC12dFRfcnd0YmlvLS1nMHByTy1aS2Q4MVFydDlJamdlX2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cheng_loong-2026-08-21-006",
+    "date": "2026-08-21",
+    "companies": [
+      "cheng_loong"
+    ],
+    "topics": [
+      "paper_price",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "【Cheng Loong FY2026 Q2 Earnings Call】First-Half EPS of NT$1.45 Surges 47-Fold; Vietnam Containerboard Utilization Hits 136% Overcapacity; Binh Duong Phase III Achieves Full Production, Full Sales - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JVXJZR1BaMUlRUndnNjY1Uko3R0Y2bjV1bTdEaGhGNU9GNHNBMXRxVTBjeHFEaDJ0X0VIRGVUT0xRdDhvaHlsQXlOa1MtWEFvbmNGRnlOQVN2T0p6N0t4bEdn?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "cheng_loong",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JVXJZR1BaMUlRUndnNjY1Uko3R0Y2bjV1bTdEaGhGNU9GNHNBMXRxVTBjeHFEaDJ0X0VIRGVUT0xRdDhvaHlsQXlOa1MtWEFvbmNGRnlOQVN2T0p6N0t4bEdn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "petco-2026-08-20-001",
     "date": "2026-08-20",
     "companies": [
@@ -169,6 +249,24 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/toast-sued-under-colorado-electronics-repair-law-acme-revival/828379/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sealed_air-2026-08-20-008",
+    "date": "2026-08-20",
+    "companies": [
+      "sealed_air"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Sealed Air Expands Paper Cushioning Portfolio with New ProPad Mini System From: Sealed Air Corporation (SEE) - Packaging World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNM3BSb0l1cGFpX1pNaDVadlpFMVJIejNnd0R1cS1pUTR1bjVQMnBQYW9kSFl4OVZ5Z0gtUncyMVg0NXdiM250b0tJWVVGUVY4TWpOZzlwMlhSX1p3ZXRCR1BqT0JHcWtuUURORkxPcF",
+    "sources": [
+      {
+        "name": "sealed_air",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNM3BSb0l1cGFpX1pNaDVadlpFMVJIejNnd0R1cS1pUTR1bjVQMnBQYW9kSFl4OVZ5Z0gtUncyMVg0NXdiM250b0tJWVVGUVY4TWpOZzlwMlhSX1p3ZXRCR1BqT0JHcWtuUURORkxPcFdBT2E2eFhZZFRiVzRaeHFteGVkS3FLSEN3Y3dscHFjS3ZsTnRUNTdvM3hoU1V0VkNyaFYtRDg0cVR3R2pDcWJDbkg5R3JKa1duRm5OempRZ3F6MEJRb0xjMTEwaDZaTExIeGNwcHVzMUFFOUIzdnZnbVJ2d1Nsb3puY1lWRUJtdXhBejVzTTR3dDNrZzh2aVB6ZUE3SA?oc=5",
         "type": "rss"
       }
     ]

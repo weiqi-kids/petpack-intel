@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T08:21:38.769862Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 156,
+    "too_old": 143,
+    "gate1_blocked": 17,
+    "gate2_blocked": 9,
+    "passed": 5,
+    "pass_rate": "2.9%",
+    "gate2_block_rate": "5.2%",
+    "gate2_samples": [
+      "Zoetis: Another Bad Quarter, Some Value Trap Risk But Shares Still Cheap - Seeking Alpha",
+      "Stifel raises Trupanion stock price target on Pets Best exit - Investing.com",
+      "International Paper (IP) Could Be 8% Undervalued On Its Margin Recovery Narrative - Yahoo Finance",
+      "Smurfit Westrock (NYSE: SW) exec now holds 241,565 shares - Stock Titan",
+      "Smurfit Westrock (NYSE: SW) LATAM chief now holds 72,836 shares - Stock Titan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-08-22 無寵物經濟 + 包裝產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
