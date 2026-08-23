@@ -1,0 +1,96 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T08:22:32.690127Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intl_paper-2026-08-23-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper Stock And Two More Picks For Domestic Manufacturing Shifts - simplywall.st",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdWhGZzB1STdzUVRCd2xfdDJ3UlQ5cmVsNzJYR3U1Y21aRUFVQ2VnSzYtbkhXa2FvbE5ZOGVsYXB3QkJEeGZ0bmZFeGNPUkRXNWhFVE91MnQ1T2RGLUE0LXZBbHMtcUJmSVY3VXFUdmk5dENzbnFXcU01ck43ZUJnWHRqTk9YMkJFNHpMVTMyRVZBMFVFZ3BLVlA4T1RkWWNxTHJnaEdWSHp3Mm90Wm56SGVWTWxVcXJxSW5QSXhZUmRWcnB4TkdPOGUwbEtNR0w3N2E3VEhoWGswTWZfQlN5ZkpR0gHnAUFVX3lxTE9ZZ2NMWDVLNHR3bmwzbnJrZGkwa2JLVmI5ZTBBWlVaT2tXMUpwOGtVNGptTXRhVE15QktERTBSOW1JM1RmVkVRMzhzd0lUMUJrYWllbzdhVXRjY2xBZkdCMUdnUmtjXzU2Vy1BR0RRVEdDZWo1ekVaSXZWaVlCazh1UzlWdjltd0xCZTF3MTBzaWZESzZJTHF3bXVsU0lSWkR1NGdJb2lKajlxbWFfRkEzT3N2Yk1VVnRUamgwS2ZQZUEzVmY3ckNhT0ZfN0Fjamp6X2tnRk5IbGlpSjdYMW52TVNZUHd6RQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 323,
+    "dup_title": 155,
+    "too_old": 138,
+    "gate1_blocked": 17,
+    "gate2_blocked": 8,
+    "passed": 5,
+    "pass_rate": "3.0%",
+    "gate2_block_rate": "4.8%",
+    "gate2_samples": [
+      "Stifel raises Trupanion stock price target on Pets Best exit - Investing.com",
+      "International Paper (IP) Could Be 8% Undervalued On Its Margin Recovery Narrative - Yahoo Finance",
+      "Smurfit Westrock (NYSE: SW) LATAM chief now holds 72,836 shares - Stock Titan",
+      "Smurfit Westrock (NYSE: SW) exec now holds 241,565 shares - Stock Titan",
+      "Smurfit Westrock (NYSE: SW) accounting chief now holds 62,764 shares - Stock Titan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為國際紙業相關動態：「International Paper Stock And Two More Picks For Domestic...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "International Paper Stock And Two More Picks For Domestic Manufacturing Shift...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "國際紙業為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 323,
+  "dup_title": 155,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 17,
+  "gate2_fail": 8,
+  "passed": 5,
+  "gate2_samples": [
+    "Stifel raises Trupanion stock price target on Pets Best exit - Investing.com",
+    "International Paper (IP) Could Be 8% Undervalued On Its Margin Recovery Narrative - Yahoo Finance",
+    "Smurfit Westrock (NYSE: SW) LATAM chief now holds 72,836 shares - Stock Titan",
+    "Smurfit Westrock (NYSE: SW) exec now holds 241,565 shares - Stock Titan",
+    "Smurfit Westrock (NYSE: SW) accounting chief now holds 62,764 shares - Stock Titan"
+  ]
+}
