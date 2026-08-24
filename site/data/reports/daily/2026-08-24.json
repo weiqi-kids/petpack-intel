@@ -1,0 +1,96 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T08:41:00.002071Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sealed_air-2026-08-24-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sealed Air stock holds steady as investors await next earnings update - Ad-hoc-news.de",
+      "companies": [
+        "sealed_air"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcDBRcmZIbmdwNzZIRk56THVxVUR1NG82MU9iWWhMTUxwS3lhWnhOZG94N0FNdkxEV2NCWExWYkI0aDJnbGdNYkI3a0pJTVU1bkRRZ0I0cHBGeVljY0Y4VEw2dFF0aVRNYi1vTHdCVHAtTnlLQ09Da2dIeHNELUhmRE5wRHdhU0k1djZSNi10RndabXZSLUZfVkM0LTZTY2xNRTBpY1BaclZpMC1oUlFqQlg1M3JsNHNuZVZPVW5xbTR4b0ItN21oNGJMVy0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "sealed_air",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 331,
+    "dup_title": 156,
+    "too_old": 149,
+    "gate1_blocked": 17,
+    "gate2_blocked": 7,
+    "passed": 2,
+    "pass_rate": "1.1%",
+    "gate2_block_rate": "4.0%",
+    "gate2_samples": [
+      "International Paper (IP) Could Be 8% Undervalued On Its Margin Recovery Narrative - Yahoo Finance",
+      "Smurfit Westrock (NYSE: SW) LATAM chief now holds 72,836 shares - Stock Titan",
+      "Smurfit Westrock (NYSE: SW) exec now holds 241,565 shares - Stock Titan",
+      "Smurfit Westrock (NYSE: SW) accounting chief now holds 62,764 shares - Stock Titan",
+      "Smurfit Westrock (NYSE: SW) officer now holds 138,875 shares - Stock Titan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為希悅爾相關動態：「Sealed Air stock holds steady as investors await next ear...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Sealed Air stock holds steady as investors await next earnings update - Ad-ho...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "希悅爾為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

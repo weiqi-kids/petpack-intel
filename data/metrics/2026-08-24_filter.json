@@ -1,0 +1,16 @@
+{
+  "total_raw": 331,
+  "dup_title": 156,
+  "no_date": 0,
+  "too_old": 149,
+  "gate1_fail": 17,
+  "gate2_fail": 7,
+  "passed": 2,
+  "gate2_samples": [
+    "International Paper (IP) Could Be 8% Undervalued On Its Margin Recovery Narrative - Yahoo Finance",
+    "Smurfit Westrock (NYSE: SW) LATAM chief now holds 72,836 shares - Stock Titan",
+    "Smurfit Westrock (NYSE: SW) exec now holds 241,565 shares - Stock Titan",
+    "Smurfit Westrock (NYSE: SW) accounting chief now holds 62,764 shares - Stock Titan",
+    "Smurfit Westrock (NYSE: SW) officer now holds 138,875 shares - Stock Titan"
+  ]
+}
