@@ -1,0 +1,16 @@
+{
+  "total_raw": 331,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 151,
+  "gate1_fail": 15,
+  "gate2_fail": 7,
+  "passed": 9,
+  "gate2_samples": [
+    "Petco Health and Wellness (NASDAQ:WOOF) Trading Up 4.4% - Still a Buy? - MarketBeat",
+    "International Paper (IP) Could Be 8% Undervalued On Its Margin Recovery Narrative - Yahoo Finance",
+    "Smurfit Westrock (NYSE: SW) LATAM chief now holds 72,836 shares - Stock Titan",
+    "Smurfit Westrock (NYSE: SW) exec now holds 241,565 shares - Stock Titan",
+    "Smurfit Westrock (NYSE: SW) accounting chief now holds 62,764 shares - Stock Titan"
+  ]
+}
