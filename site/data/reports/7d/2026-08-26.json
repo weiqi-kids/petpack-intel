@@ -1,0 +1,119 @@
+{
+  "date": "2026-08-26",
+  "date_range": {
+    "start": "2026-08-20",
+    "end": "2026-08-26"
+  },
+  "generated_at": "2026-08-26T08:36:33.746627Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "cheng_loong-2026-08-21-006",
+      "date": "2026-08-21",
+      "title": "【Cheng Loong FY2026 Q2 Earnings Call】First-Half EPS of NT$1.45 Surges 47-Fold; Vietnam Containerboard Utilization Hits 136% Overcapacity; Binh Duong Phase III Achieves Full Production, Full Sales - finance.biggo.com",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 6,
+      "last_week": 4,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "petco": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "amcor": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "sealed_air": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "smurfit": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "intl_paper": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "idexx": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 35,
+        "last": 70,
+        "change_pct": -50.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-20",
+      "event_count": 10,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-21",
+      "event_count": 6,
+      "sentiment_avg": -0.25
+    },
+    {
+      "date": "2026-08-22",
+      "event_count": 1,
+      "sentiment_avg": -0.5
+    },
+    {
+      "date": "2026-08-23",
+      "event_count": 2,
+      "sentiment_avg": 0.25
+    },
+    {
+      "date": "2026-08-24",
+      "event_count": 9,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-25",
+      "event_count": 6,
+      "sentiment_avg": 0.14
+    },
+    {
+      "date": "2026-08-26",
+      "event_count": 1,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-20 ~ 2026-08-26）共 35 則事件，重點為「【Cheng Loong FY2026 Q2 Earnings Call】First-Half...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "WOOF",
+        "reason": "本週有 1 則相關事件，建議持續追蹤動態。"
+      },
+      {
+        "company": "安姆科",
+        "reason": "本週有 1 則相關事件，建議持續追蹤動態。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

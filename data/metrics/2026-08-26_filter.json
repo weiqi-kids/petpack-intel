@@ -1,0 +1,16 @@
+{
+  "total_raw": 331,
+  "dup_title": 154,
+  "no_date": 0,
+  "too_old": 149,
+  "gate1_fail": 16,
+  "gate2_fail": 5,
+  "passed": 7,
+  "gate2_samples": [
+    "Trupanion (TRUP) Expands With Home To Home, Is The Stock Still A Bargain? - simplywall.st",
+    "Petco Health and Wellness (NASDAQ:WOOF) Trading Up 4.4% - Still a Buy? - MarketBeat",
+    "Is Amcor (ASX:AMC) Still a Defensive Income Name? - Kalkine Media",
+    "Packaging companies look to renewables, energy efficiency to reduce costs",
+    "Nearly 60 members of Congress call for aluminum pricing investigation"
+  ]
+}

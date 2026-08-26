@@ -1,0 +1,96 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T08:36:33.608659Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "idexx-2026-08-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "IDEXX Laboratories stock holds below highs as investors weigh earnings momentum - Ad-hoc-news.de",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRkNBQm1IazRUV01aUDFxM0ttX09feldXc3NaT1N1S01zbmtXYlFxRHg3WnRsN201WnhRTU9sUUtxdHJXdHVFQ3hFdncwczdsSHdVUk40U2V3emhsSkJPaXVTYXdJTmtiaHZqelNkU3kxTkRwZzNpMHRabzBMYmdidnoybDkteHoyZlZScWg4eGRsNEJlck9yVFJzZWJmcTV2cUtac2tlN19pYUdTQW1sOU1TWTRJd2I4ZFRSQWpmQVlqOWd6aTBqTzlXZnM1Zw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "idexx",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 331,
+    "dup_title": 154,
+    "too_old": 149,
+    "gate1_blocked": 16,
+    "gate2_blocked": 5,
+    "passed": 7,
+    "pass_rate": "4.0%",
+    "gate2_block_rate": "2.8%",
+    "gate2_samples": [
+      "Trupanion (TRUP) Expands With Home To Home, Is The Stock Still A Bargain? - simplywall.st",
+      "Petco Health and Wellness (NASDAQ:WOOF) Trading Up 4.4% - Still a Buy? - MarketBeat",
+      "Is Amcor (ASX:AMC) Still a Defensive Income Name? - Kalkine Media",
+      "Packaging companies look to renewables, energy efficiency to reduce costs",
+      "Nearly 60 members of Congress call for aluminum pricing investigation"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為愛德士相關動態：「IDEXX Laboratories stock holds below highs as investors w...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "IDEXX Laboratories stock holds below highs as investors weigh earnings moment...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "愛德士為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
