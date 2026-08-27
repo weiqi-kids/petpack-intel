@@ -1,5 +1,43 @@
 [
   {
+    "id": "intl_paper-2026-08-27-001",
+    "date": "2026-08-27",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Paper stock trades in the low $40s as investors weigh valuation and dividend - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdXEwWHQ1dUNUOUdDak5vdlFpdjljWGkzSXhYU2VmSUN1MEFkOWJFNXlpek4wbGF3QWJiZFpleUtYckdibEY5S2ZhUmZXTXM2eFEtOGxWREVTRUJxZklNVUMxZWFZb1Q4R0U2VmVqMW",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdXEwWHQ1dUNUOUdDak5vdlFpdjljWGkzSXhYU2VmSUN1MEFkOWJFNXlpek4wbGF3QWJiZFpleUtYckdibEY5S2ZhUmZXTXM2eFEtOGxWREVTRUJxZklNVUMxZWFZb1Q4R0U2VmVqMWdOREtpTlZTOFZma3A2Wm4zbkluTDFGYlU3OTg2emp6NF9fQXRYSHhVUVFPcXQ0c2FITlhSdVh2T1VkOThFbnRhYndLX2VlT2lMakFGc1U3UElsTmV0S1RXQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-002",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "pet_insurance"
+    ],
+    "impact": "neutral",
+    "title": "MIT offshoot Emvolon inks landfill-to-methanol deal with Freepoint",
+    "summary": "<p>Emvolon&rsquo;s technology&nbsp;transforms refined landfill gas from smaller sites into methanol, a premium fuel. The company is capitalizing on growing demand for alternative fuels.&nbsp;</p>",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/emvolon-freepoint-offtake-agreement-landfill-gas-methanol/828940/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "idexx-2026-08-26-001",
     "date": "2026-08-26",
     "companies": [
@@ -15,6 +53,64 @@
       {
         "name": "idexx",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRkNBQm1IazRUV01aUDFxM0ttX09feldXc3NaT1N1S01zbmtXYlFxRHg3WnRsN201WnhRTU9sUUtxdHJXdHVFQ3hFdncwczdsSHdVUk40U2V3emhsSkJPaXVTYXdJTmtiaHZqelNkU3kxTkRwZzNpMHRabzBMYmdidnoybDkteHoyZlZScWg4eGRsNEJlck9yVFJzZWJmcTV2cUtac2tlN19pYUdTQW1sOU1TWTRJd2I4ZFRSQWpmQVlqOWd6aTBqTzlXZnM1Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trupanion-2026-08-26-002",
+    "date": "2026-08-26",
+    "companies": [
+      "trupanion"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why Trupanion (TRUP) Shares Are Sliding Today - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMjE3RDh1bHNBVTljOFhNQ0JLWXdfb2N3MVliVE5XZF9ianZ5UjNESWhpT1hkUGo2QnUtQUoyUkJvRncwOHNpU3BWRkp6d19PQnMxaEJWeF9TdlRJTi1VcUVMTHVIemV4c1VnRjRBeX",
+    "sources": [
+      {
+        "name": "trupanion",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMjE3RDh1bHNBVTljOFhNQ0JLWXdfb2N3MVliVE5XZF9ianZ5UjNESWhpT1hkUGo2QnUtQUoyUkJvRncwOHNpU3BWRkp6d19PQnMxaEJWeF9TdlRJTi1VcUVMTHVIemV4c1VnRjRBeXJ3MHBHUk05SlNuZ2ZkdEhFblBTUi1JUE01WEdpMjE2dklsMHFiMS1XT3hWVlJuUWhjbERVLVA3ei0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sealed_air-2026-08-26-003",
+    "date": "2026-08-26",
+    "companies": [
+      "sealed_air"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Sealed Air expands fiber-based cushioning portfolio with compact ProPad Mini - Packaging Insights",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYkxwcEVTOWpvX2hrODF0M204ZW9rMmJCdUp0V0VsVWpsOE5YSG0xQ1E0MGhMekdtcFFMY0JiTGFJNGRzZTRPaVkxUHBDMjJWeUk1QzgyVEtXUkxPRFBXbi1wVkZrRzJfMTZ4NUJzQT",
+    "sources": [
+      {
+        "name": "sealed_air",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYkxwcEVTOWpvX2hrODF0M204ZW9rMmJCdUp0V0VsVWpsOE5YSG0xQ1E0MGhMekdtcFFMY0JiTGFJNGRzZTRPaVkxUHBDMjJWeUk1QzgyVEtXUkxPRFBXbi1wVkZrRzJfMTZ4NUJzQTVnTk95RGVnckFrSjFwd3pzZndqbDljbmRPbG1B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-08-26-004",
+    "date": "2026-08-26",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Morgan Stanley Adjusts Price Target on Smurfit Westrock to $58 From $57 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPa2FmQ3hpc05Jb3puVWQ5WlA5VHdNRTVKU3h2ZG90NS1pc0FQT2FMazlDdGh1amkxQVU1X3lEUmpWVk9LcXFqcGx6WDU1WDYwX2JoRXMxb1ZZbXJCeUxIZXRwd3NVdjZzMlVKRGdENE",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa2FmQ3hpc05Jb3puVWQ5WlA5VHdNRTVKU3h2ZG90NS1pc0FQT2FMazlDdGh1amkxQVU1X3lEUmpWVk9LcXFqcGx6WDU1WDYwX2JoRXMxb1ZZbXJCeUxIZXRwd3NVdjZzMlVKRGdENE51R3c0bDlkdXJ6eGJJUWtGQ0VHakI5T0RSRnI5ZFE2OW16MzBQbWQ1MzBTOGZFQVAwejJ5RTRRZXdNdlctOVNnUkZiUTNyTGlkUU44ZzVwTQ?oc=5",
         "type": "rss"
       }
     ]
@@ -483,6 +579,42 @@
       {
         "name": "cheng_loong",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JVXJZR1BaMUlRUndnNjY1Uko3R0Y2bjV1bTdEaGhGNU9GNHNBMXRxVTBjeHFEaDJ0X0VIRGVUT0xRdDhvaHlsQXlOa1MtWEFvbmNGRnlOQVN2T0p6N0t4bEdn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-007",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "pet_insurance"
+    ],
+    "impact": "neutral",
+    "title": "Best Pet Insurance in Colorado for 2026 - U.S. News & World Report",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhR0dwM3ZVQVBLT0t2T0xVRlozVjBlbC1TUE9fcjF4UElOeWlNX1MxdnJJb0lDRkwwX05kaF9BVi1aNGRPc0paZ2VZY005Y01BbmRuV2hzOWF2bUhMeHRWcktkWUNMdw?oc=5\" targe",
+    "sources": [
+      {
+        "name": "trupanion",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhR0dwM3ZVQVBLT0t2T0xVRlozVjBlbC1TUE9fcjF4UElOeWlNX1MxdnJJb0lDRkwwX05kaF9BVi1aNGRPc0paZ2VZY005Y01BbmRuV2hzOWF2bUhMeHRWcktkWUNMdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-008",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "pet_insurance"
+    ],
+    "impact": "neutral",
+    "title": "Best Pet Insurance in Illinois for 2026 - U.S. News & World Report",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzWlgzZFpaYjBZcWxra3VPSVF0SnBpRkxhal9GanNxYk5zQTEtX2ZiUnBYWHhtdG91UUZucGE3MDhFM0lETm13ajZpWUJMb0RQRDBSenlQMmZ6ZmZrNDFIbTQ0aHJWQQ?oc=5\" targe",
+    "sources": [
+      {
+        "name": "trupanion",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzWlgzZFpaYjBZcWxra3VPSVF0SnBpRkxhal9GanNxYk5zQTEtX2ZiUnBYWHhtdG91UUZucGE3MDhFM0lETm13ajZpWUJMb0RQRDBSenlQMmZ6ZmZrNDFIbTQ0aHJWQQ?oc=5",
         "type": "rss"
       }
     ]

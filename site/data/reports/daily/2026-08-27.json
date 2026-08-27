@@ -1,0 +1,130 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T18:44:08.150188Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intl_paper-2026-08-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper stock trades in the low $40s as investors weigh valuation and dividend - Ad-hoc-news.de",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdXEwWHQ1dUNUOUdDak5vdlFpdjljWGkzSXhYU2VmSUN1MEFkOWJFNXlpek4wbGF3QWJiZFpleUtYckdibEY5S2ZhUmZXTXM2eFEtOGxWREVTRUJxZklNVUMxZWFZb1Q4R0U2VmVqMWdOREtpTlZTOFZma3A2Wm4zbkluTDFGYlU3OTg2emp6NF9fQXRYSHhVUVFPcXQ0c2FITlhSdVh2T1VkOThFbnRhYndLX2VlT2lMakFGc1U3UElsTmV0S1RXQw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "MIT offshoot Emvolon inks landfill-to-methanol deal with Freepoint",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "pet_insurance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.wastedive.com/news/emvolon-freepoint-offtake-agreement-landfill-gas-methanol/828940/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "pet_insurance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "pet_insurance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 328,
+    "dup_title": 147,
+    "too_old": 152,
+    "gate1_blocked": 16,
+    "gate2_blocked": 6,
+    "passed": 7,
+    "pass_rate": "3.9%",
+    "gate2_block_rate": "3.3%",
+    "gate2_samples": [
+      "Trupanion (TRUP) Expands With Home To Home, Is The Stock Still A Bargain? - simplywall.st",
+      "Piper Sandler cuts Trupanion stock rating on macro headwinds - Investing.com",
+      "Petco Health and Wellness (NASDAQ:WOOF) Trading Up 4.4% - Still a Buy? - MarketBeat",
+      "Amcor readies Tiptree for UK plastic packaging tax changes with PCR films - Packaging Insights",
+      "Sealed Air stock holds steady as analysts keep a $151.90 target - Ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為國際紙業相關動態：「International Paper stock trades in the low $40s as inves...」。主要關注主題為財報、寵物保險，市場情緒中性。",
+    "signals": [
+      {
+        "text": "International Paper stock trades in the low $40s as investors weigh valuation...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "MIT offshoot Emvolon inks landfill-to-methanol deal with Freepoint（寵物保險）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
