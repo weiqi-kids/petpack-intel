@@ -1,0 +1,96 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T19:51:05.448849Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "amcor-2026-08-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Resilient Amcor stock steadies after Q3 FY26 earnings beat and new packaging moves - Ad-hoc-news.de",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTC1GV2VpX25qQzBEWC1TX2pwdU1VT3hFTUF1alU1a3FRM2M4bUxxN0NBcld3YnV4UEdjX01PYnktanFLeUFUOWdKUUFwclpBZHhDb2FMZUhqR3RHNHRNeXo5UnVxa3dwbXV2Y3UyLXBKQm92bVM1cWRGWHo1T0ZGOGlYU0Fzd2dLNmFjcXZ6LTVSYlVGa0o5SkRjNUdLMVBlVU9tSERLanNfRktDc2JCWDZZNmtoR0NIWVYweDBlVDJWaENhT0VfOQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "amcor",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 327,
+    "dup_title": 156,
+    "too_old": 143,
+    "gate1_blocked": 14,
+    "gate2_blocked": 12,
+    "passed": 2,
+    "pass_rate": "1.2%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "Trupanion (TRUP) Expands With Home To Home, Is The Stock Still A Bargain? - simplywall.st",
+      "Piper Sandler cuts Trupanion stock rating on macro headwinds - Investing.com",
+      "Petco Health and Wellness (NASDAQ:WOOF) Trading Up 4.4% - Still a Buy? - MarketBeat",
+      "Amcor to supply recycled-content films to UK-based brand - Recycling Today",
+      "Amcor readies Tiptree for UK plastic packaging tax changes with PCR films - Packaging Insights"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為安姆科相關動態：「Resilient Amcor stock steadies after Q3 FY26 earnings bea...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Resilient Amcor stock steadies after Q3 FY26 earnings beat and new packaging ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "安姆科為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
