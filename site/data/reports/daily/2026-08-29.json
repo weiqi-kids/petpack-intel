@@ -1,0 +1,111 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T13:32:56.360174Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "idexx-2026-08-29-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "IDEXX Laboratories stock steadies after Q2 2026 beat and fresh guidance - Ad-hoc-news.de",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQa2JwRHhTYU51aWdTQlViU3lvTVl1VjRNY0xvMl9uUkthN2lvQXl1cVpoSnVTWHhQNjZYNl9ldUZ4SEUxNURpYURTM1ZIcUVib3BhNVFXTlNldW91NUw4WGhqU0xwcXhWSEhQQ1hMMTh4S2xlR1VsaVMxdmVEcTYzRURZX1FleEMxTDJ2X3VCLWFnMzdvX1ptZHRZc1lpQ0FFb0RzY0xZU1EwN1d2Nk9fbDh1M1NubHNTWEN5ZFNTNGVfcW1neXI2UDU0d3FhZjA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "idexx",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 327,
+    "dup_title": 149,
+    "too_old": 148,
+    "gate1_blocked": 13,
+    "gate2_blocked": 11,
+    "passed": 6,
+    "pass_rate": "3.4%",
+    "gate2_block_rate": "6.2%",
+    "gate2_samples": [
+      "Trupanion (TRUP) Expands With Home To Home, Is The Stock Still A Bargain? - simplywall.st",
+      "Petco Health and Wellness (NASDAQ:WOOF) Trading Up 4.4% - Still a Buy? - MarketBeat",
+      "Amcor to supply recycled-content films to UK-based brand - Recycling Today",
+      "Amcor readies Tiptree for UK plastic packaging tax changes with PCR films - Packaging Insights",
+      "Crown Holdings (CCK) Draws Value Attention As Margin Gains Shape The Narrative - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為愛德士相關動態：「IDEXX Laboratories stock steadies after Q2 2026 beat and ...」。主要關注主題為財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "IDEXX Laboratories stock steadies after Q2 2026 beat and fresh guidance - Ad-...（財報、展望）",
+        "level": "yellow"
+      },
+      {
+        "text": "愛德士為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
