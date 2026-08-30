@@ -1,0 +1,132 @@
+{
+  "date": "2026-08-30",
+  "date_range": {
+    "start": "2026-08-24",
+    "end": "2026-08-30"
+  },
+  "generated_at": "2026-08-30T13:28:57.633053Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "sealed_air-2026-08-24-001",
+      "date": "2026-08-24",
+      "title": "Sealed Air stock holds steady as investors await next earnings update - Ad-hoc-news.de",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 5,
+      "last_week": 6,
+      "week_over_week_change": "-17%",
+      "sentiment_this_week": 0.0
+    },
+    "pet_insurance": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "vet_spending": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "sealed_air": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "idexx": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "intl_paper": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "amcor": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "zoetis": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 36,
+        "last": 52,
+        "change_pct": -30.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-24",
+      "event_count": 9,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-25",
+      "event_count": 7,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-08-26",
+      "event_count": 6,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-27",
+      "event_count": 2,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-28",
+      "event_count": 7,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-08-29",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-30",
+      "event_count": 1,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-24 ~ 2026-08-30）共 36 則事件，重點為「Sealed Air stock holds steady as investors awai...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "希悅爾",
+        "reason": "本週有 1 則相關事件，建議持續追蹤動態。"
+      },
+      {
+        "company": "愛德士",
+        "reason": "本週有 2 則相關事件，建議持續追蹤動態。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
