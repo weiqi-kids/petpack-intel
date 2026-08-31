@@ -1,0 +1,153 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T15:45:50.774681Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "crown-2026-08-31-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Is Crown Holdings (CCK) Outperforming Other Industrial Products Stocks This Year? - Yahoo Finance",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcURyTHhlMWFhb3hmQ0VWSVA1a1dXR3J2cEFCdTd1UE0tMl9xV2syVjlqR2hnYWpOd0ZiZ3BWTDVUaEZOdHJCVEsxNzFfdExwLXBSOGttQ2FpUW9aV0w2cDA3WjBTNkZieHRSTFd6c2M4ZzZqcWVhcUdaVENsaEJST3hrVDYzOE1ZMWdjYjE5ZHZub3podjdUa2ZaVGp0Zm0xWnFoQnJB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "zoetis-2026-08-31-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Q&A: What Zoetis' new JAVMA study reveals about Librela and a rare condition in dogs - DVM360",
+      "companies": [
+        "zoetis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRDk0Ui13TW8zODkzZmlDU2hFWktObFgzRkJ1RDhSZy1kVldkLWd3Y1piVlFrdm9NaDlFSmJxMlpvbWZEVVU0QmJOWjNMZEtET1U0ZUI2Q2ZzRld1ZlVGa3hCQndxMjl0ZERtcV9kUlBxUEFseml6T2t3LUdVc1p5S2l6ME9FbGhkazdoOWZSb3VnNEpfX0hwa2N1LUFXdDBSZUtUdkU0T0l1dmtCd1BB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "intl_paper-2026-08-31-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper (IP), What Is Driving The Latest Attention? - simplywall.st",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQamRhRHBhMjNkaFQ2dXh3eVIyQzNCcVVoQXBiR1p4SWFGZC00b21sYmtqbFBjNlIwVVYxNTVDUzVYdTViTlNMMVNaMy1yS2MtVTRqVFk4dGowcTgtMTl6ZV9GQ2Frbk50am8tYk5JX2Jta1VlME95OTg3QlQ2WXlNUXBuZlUxNUZGUG84RzBQTWRlMFIzbnRYUmpqdmtLUU1wb3I0RHFzdEVhMDhPOW1nbTJjVDhBU1g4cGNOY3lYQXlFbmZycGtoNmVoVW1KR2JTbUNTWtIB1AFBVV95cUxQamRhRHBhMjNkaFQ2dXh3eVIyQzNCcVVoQXBiR1p4SWFGZC00b21sYmtqbFBjNlIwVVYxNTVDUzVYdTViTlNMMVNaMy1yS2MtVTRqVFk4dGowcTgtMTl6ZV9GQ2Frbk50am8tYk5JX2Jta1VlME95OTg3QlQ2WXlNUXBuZlUxNUZGUG84RzBQTWRlMFIzbnRYUmpqdmtLUU1wb3I0RHFzdEVhMDhPOW1nbTJjVDhBU1g4cGNOY3lYQXlFbmZycGtoNmVoVW1KR2JTbUNTWg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "zoetis",
+        "count": 1
+      },
+      {
+        "id": "intl_paper",
+        "count": 1
+      },
+      {
+        "id": "crown",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 319,
+    "dup_title": 149,
+    "too_old": 141,
+    "gate1_blocked": 14,
+    "gate2_blocked": 12,
+    "passed": 3,
+    "pass_rate": "1.8%",
+    "gate2_block_rate": "7.1%",
+    "gate2_samples": [
+      "Trupanion (TRUP) Expands With Home To Home, Is The Stock Still A Bargain? - simplywall.st",
+      "Petco Health and Wellness (NASDAQ:WOOF) Trading Up 4.4% - Still a Buy? - MarketBeat",
+      "Amcor to supply recycled-content films to UK-based brand - Recycling Today",
+      "Amcor readies Tiptree for UK plastic packaging tax changes with PCR films - Packaging Insights",
+      "Morgan Stanley Maintains Smurfit WestRock(SW.US) With Buy Rating, Raises Target Price to $58 - Moomo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為碩騰、國際紙業、皇冠相關動態：「Is Crown Holdings (CCK) Outperforming Other Industrial Pr...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Is Crown Holdings (CCK) Outperforming Other Industrial Products Stocks This Y...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Q&A: What Zoetis' new JAVMA study reveals about Librela and a rare condition ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

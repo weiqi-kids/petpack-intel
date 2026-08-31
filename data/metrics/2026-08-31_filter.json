@@ -1,0 +1,16 @@
+{
+  "total_raw": 319,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 141,
+  "gate1_fail": 14,
+  "gate2_fail": 12,
+  "passed": 3,
+  "gate2_samples": [
+    "Trupanion (TRUP) Expands With Home To Home, Is The Stock Still A Bargain? - simplywall.st",
+    "Petco Health and Wellness (NASDAQ:WOOF) Trading Up 4.4% - Still a Buy? - MarketBeat",
+    "Amcor to supply recycled-content films to UK-based brand - Recycling Today",
+    "Amcor readies Tiptree for UK plastic packaging tax changes with PCR films - Packaging Insights",
+    "Morgan Stanley Maintains Smurfit WestRock(SW.US) With Buy Rating, Raises Target Price to $58 - Moomo"
+  ]
+}
