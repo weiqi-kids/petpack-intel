@@ -1,0 +1,140 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T12:58:11.794960Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "idexx-2026-09-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Resilient IDEXX Laboratories stock holds above $550 as earnings beat supports guidance - AD HOC NEWS",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMG9TR0IzbFpRRUFFSW5VN1N4aDFnMFNvM0FaSmlJZXI1bTdTbTFncWhOelNNSk1FaFp5cjJkQlNVeDJrTkJiQTBMSFhpcm5yWlJ3Xy1SRkRxUWhmM2IzTDdiTWlqand5UmllX1pob2o1OGVBOEc4ZWRaT0NQekk5WXhZNzJURnM1SE5MZk9MZk9XMExZMk1zRlBSZGVyNVdHaUFjd3BZSUtCbDllV0NOQnQwNU1sSzZqcUM0V1RMcTJ1WDRLa3NoMmZ3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intl_paper-2026-09-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper stock slips after thin Q2 earnings and cautious outlook - AD HOC NEWS",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZkpFeFlPN2NONzQ2QVprY0M4WGd2bkJMVEJabF9UN2diQjJlYnowUmZocURUV0Npd2RoWml2V2o5a3dsaEIzRWozSjlRYnIxYk5qbUtvRE55R0l4NGEwZWdZcWRfUVpwdXhCXzZiaXBVd0pkUEFkUTBNVTZwTEJLY0ZrZXhMRUFja1JFdHhTVWhvYkhLRm9uNXRYZXN1VWwyZWFGMThCX2JJa1VLbWNQb1dZQ0JVd014bVVrR29mbkxCN2FVU3JSVDhR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "idexx",
+        "count": 1
+      },
+      {
+        "id": "intl_paper",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 312,
+    "dup_title": 116,
+    "too_old": 159,
+    "gate1_blocked": 16,
+    "gate2_blocked": 10,
+    "passed": 11,
+    "pass_rate": "5.6%",
+    "gate2_block_rate": "5.1%",
+    "gate2_samples": [
+      "Zoetis (NYSE:ZTS) Offers Value and Quality in One Attractive Package - ChartMill",
+      "Trupanion (TRUP) Expands With Home To Home, Is The Stock Still A Bargain? - simplywall.st",
+      "Barrington explores cannabis zoning to fill closing International Paper facility - MMJDaily",
+      "Amcor readies Tiptree for UK plastic packaging tax changes with PCR films - Packaging Insights",
+      "Morgan Stanley Maintains Smurfit WestRock(SW.US) With Buy Rating, Raises Target Price to $58 - Moomo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為愛德士、國際紙業相關動態：「Resilient IDEXX Laboratories stock holds above $550 as ea...」。主要關注主題為財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Resilient IDEXX Laboratories stock holds above $550 as earnings beat supports...（財報、展望）",
+        "level": "yellow"
+      },
+      {
+        "text": "International Paper stock slips after thin Q2 earnings and cautious outlook -...（財報、展望）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

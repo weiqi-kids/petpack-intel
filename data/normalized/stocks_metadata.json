@@ -85,14 +85,14 @@
   },
   "cheng_loong": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-31",
-    "count": 6629,
+    "latest": "2026-09-01",
+    "count": 6630,
     "history_complete": true
   },
   "rong_cheng": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-31",
-    "count": 6629,
+    "latest": "2026-09-01",
+    "count": 6630,
     "history_complete": true
   },
   "crown": {

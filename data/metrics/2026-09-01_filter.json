@@ -1,0 +1,16 @@
+{
+  "total_raw": 312,
+  "dup_title": 116,
+  "no_date": 0,
+  "too_old": 159,
+  "gate1_fail": 16,
+  "gate2_fail": 10,
+  "passed": 11,
+  "gate2_samples": [
+    "Zoetis (NYSE:ZTS) Offers Value and Quality in One Attractive Package - ChartMill",
+    "Trupanion (TRUP) Expands With Home To Home, Is The Stock Still A Bargain? - simplywall.st",
+    "Barrington explores cannabis zoning to fill closing International Paper facility - MMJDaily",
+    "Amcor readies Tiptree for UK plastic packaging tax changes with PCR films - Packaging Insights",
+    "Morgan Stanley Maintains Smurfit WestRock(SW.US) With Buy Rating, Raises Target Price to $58 - Moomo"
+  ]
+}
