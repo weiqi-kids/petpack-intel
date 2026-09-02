@@ -1,0 +1,152 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T12:27:55.517336Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "petco-2026-09-02-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "FIVE, WOOF Stocks Rise Premarket: Five Below And Petco Get Fresh Wall Street Price Target Boosts Ahead Of Earnings - TradingView",
+      "companies": [
+        "petco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOaTlYY2xSa3FjYUpqaDBrcDBORVJ4VXlVNWxjMWlNX1NldnV4ZnVRYjZGbnc4OWptNEhKcXNEcnJWWDJRZ1p1Y0NlQU5NMXZBaDhxN045SmhucWFHNkZhLWpaWTVRWVlQYXRCSlpjVTExREZRemRIb3ZFRERobWFsZEhuNGZ5azVQaEtiN0ktNkFpaGdWZWREZzhfSzJFcnZJTlRGRWRaOUs2RDNPTm9yYjlPNFNYaVhadU94bFFCcEkyVURVSVpEckVFa0JmcmZCLWNGUllKY3h5d3pkMjBRUkNoU1ZOZzFLZVZNWjZENHhNMlpaVlZDaE54RlU4Q0pqTXZv?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intl_paper-2026-09-02-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper stock steadies after thin Q2 2026 earnings - AD HOC NEWS",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZDBFeGF4bm5JLTRZREhEeTBDSFY5NVBCRnFXbmR3Q0t3RkhRZ1J6Y295bGRJdkJteDk5OS1Ta2k1TWlEWG91VUZnSWdLYjV2dTlCdGRoZmJwM0o5eHFydlJvQ0c5TkxpRlBWTHk5RTNxYURWTlJ1NFpKSXdnYlJnNlU3WVVEZENFWTBoMVhuTU16M3F3UVVjdUxxSWFXU3FNWUVjTTE5QVpRUkFmXzRKNkRBaloySVItWDdweFlISDVRckk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sealed_air-2026-09-02-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sealed Air stock holds steady as investors look to recent earnings - AD HOC NEWS",
+      "companies": [
+        "sealed_air"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZmNRaEhBY2QxdnVNS1NtX0I2bndTQnJsOGcySDRKWHRvYVd5UUZ5eHdKZzBQQUI4c2FvMjllcjBRX1dOTjZNeWlZOFhiSXNZdzk4MVB6Yk4zaUo3U1hyVWxKcjVWd21jQmlKS3pfNW4tZUh0SWhDaExQM3RGa3VEN0lLa0xFQV8xbm9rWkZlb3lTRFE2VVhFZFlDRVVvTmU4SVgzeXVwUXl3bERUWVJBWFNDcHRKb0F1cnVlS0ZTdUNldFFZMTdhRw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "petco",
+        "count": 1
+      },
+      {
+        "id": "intl_paper",
+        "count": 1
+      },
+      {
+        "id": "sealed_air",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 297,
+    "dup_title": 107,
+    "too_old": 164,
+    "gate1_blocked": 15,
+    "gate2_blocked": 5,
+    "passed": 6,
+    "pass_rate": "3.2%",
+    "gate2_block_rate": "2.6%",
+    "gate2_samples": [
+      "Zoetis to Participate in the Morgan Stanley 24th Annual Global Healthcare Conference - Business Wire",
+      "Zoetis (NYSE:ZTS) Offers Value and Quality in One Attractive Package - ChartMill",
+      "Morgan Stanley Maintains Smurfit WestRock(SW.US) With Buy Rating, Raises Target Price to $58 - Moomo",
+      "Oregon EPR law doesn’t violate Constitution, judge rules",
+      "Oregon EPR law doesn’t violate Constitution, judge rules"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為WOOF、國際紙業、希悅爾相關動態：「FIVE, WOOF Stocks Rise Premarket: Five Below And Petco Ge...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "FIVE, WOOF Stocks Rise Premarket: Five Below And Petco Get Fresh Wall Street ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "International Paper stock steadies after thin Q2 2026 earnings - AD HOC NEWS（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

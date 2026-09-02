@@ -1,0 +1,29 @@
+{
+  "date": "2026-09-02",
+  "total_events": 3,
+  "by_company": {
+    "petco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "intl_paper": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sealed_air": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

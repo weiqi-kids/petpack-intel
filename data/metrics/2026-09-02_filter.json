@@ -1,0 +1,16 @@
+{
+  "total_raw": 297,
+  "dup_title": 107,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 15,
+  "gate2_fail": 5,
+  "passed": 6,
+  "gate2_samples": [
+    "Zoetis to Participate in the Morgan Stanley 24th Annual Global Healthcare Conference - Business Wire",
+    "Zoetis (NYSE:ZTS) Offers Value and Quality in One Attractive Package - ChartMill",
+    "Morgan Stanley Maintains Smurfit WestRock(SW.US) With Buy Rating, Raises Target Price to $58 - Moomo",
+    "Oregon EPR law doesn’t violate Constitution, judge rules",
+    "Oregon EPR law doesn’t violate Constitution, judge rules"
+  ]
+}
