@@ -1,0 +1,13 @@
+{
+  "total_raw": 30,
+  "dup_title": 2,
+  "no_date": 0,
+  "too_old": 10,
+  "gate1_fail": 15,
+  "gate2_fail": 2,
+  "passed": 1,
+  "gate2_samples": [
+    "Oregon EPR law doesn’t violate Constitution, judge rules",
+    "Oregon EPR law doesn’t violate Constitution, judge rules"
+  ]
+}

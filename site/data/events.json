@@ -60,6 +60,24 @@
     ]
   },
   {
+    "id": "unknown-2026-09-02-004",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "EPA draft guidance on PFAS in biosolids draws mixed reviews",
+    "summary": "<p>The agency&rsquo;s draft guidance is careful not to endorse any action taken on contamination to date. In a recent listening session, some industry voices supported the more limited approach, but e",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/epa-draft-guidance-pfas-in-biosolids-reactions-listening-session/829431/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "idexx-2026-09-01-001",
     "date": "2026-09-01",
     "companies": [
