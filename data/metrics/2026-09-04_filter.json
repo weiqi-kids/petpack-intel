@@ -1,0 +1,16 @@
+{
+  "total_raw": 317,
+  "dup_title": 108,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 17,
+  "gate2_fail": 10,
+  "passed": 34,
+  "gate2_samples": [
+    "Zoetis (NYSE:ZTS) Offers Value and Quality in One Attractive Package - ChartMill",
+    "The Market Is Finally Starting To Come Around To Petco Health and Wellness Company - Seeking Alpha",
+    "UBS Trims Price Target on Petco Health & Wellness to $3.50 From $4, Maintains Neutral Rating - marke",
+    "International Paper Company (di) (IPC) Share Price, Stock Value, News & Analysis $IPC - MarketBeat",
+    "International Paper Co (IP) Stock Down 3.5% -- Now Undervalued? GF Score: 69/100 - GuruFocus"
+  ]
+}

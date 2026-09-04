@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-04",
+  "total_events": 6,
+  "by_company": {
+    "idexx": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "petco": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "intl_paper": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sealed_air": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "crown": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pet_food": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

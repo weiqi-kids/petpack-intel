@@ -1,0 +1,238 @@
+{
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T12:26:41.192042Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "idexx-2026-09-04-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "IDEXX Laboratories stock steadies after strong Q2 2026 results and raised outlook - AD HOC NEWS",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQkR2UHBmVTFtYldtelA0cFVUZWRwX01ObUdjcmNqb05yWkFhZU5leUhQWXZYQk5hVUxRdTBBNm9PRlFYZ0ZLWVk1SWM5UG5BUEtBMUJkajZ5UEt1NTBacUloU3kzOHhyVHJRaFNJZ2dpQW9Eb0prMHhwQldBcFl3ZmktczFJTXVXOXBPRUZCTGl3SlFWLXA4QW9BSC03YkJkMDhEdmxGRGhPRGNMdU11Nkx0S0tlUXZCS0NBcThpVkhDLVJBLUE1d2JITE95djcxcGc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "petco-2026-09-04-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Petco (WOOF) Stock Faces Profit Recovery And Tight Interest Pressure - simplywall.st",
+      "companies": [
+        "petco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY1RQelV2dnBob3I0UXpCcndmZkNTSWVlMk9ucFFuemg0T2hTZ2hYY0x6X0tvV19zbEFvZU9rVzBWdFIxUGtkaWxzNXZrbnRhR1EyQlJPaUFYUklYMkJCeF9VanRCWU5IQ3RkRE1zY0hYVXBnU3AxVjF3MG1DS19vaFdqcDFDajRLaXlvcmtuRmVTTkNxZmRZWkFKNldPZVoxWmIyR0ljZjZNZnNUcmU0SWpWV2hHTEZ1ZjViOWV0bTNOd3ZQRVVoc3pBUzJsVDZISGVRVU9lc3k2UdIB3wFBVV95cUxNUjRqNUFuVHUzaDNmQ1B6cXJ6VExtNjVHZW54UzNmZmd0cklrVlRCWDZrMVlVemQ3MFE2TVlWRW4zZnc4akRMcXh6aDZlVnl5QUZwSzMxak90VU82eERLV2VsaDRUc3BmVlgtODhkOVdaVVk4aHhTSlJxSjV3MHpfdi1QTFVpbW5GWGEtSWZFZGtldVZBVFpaal81ZEh3T2ZjZFBzNS12aTFZWHlXVUJ0azJBdy1MakNfbzlTYk5vSkxvb2F6NWVYVVhlemZQQUdEbjhsVWlKM0FrdjREcnhF?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "petco-2026-09-04-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cat, fresh/frozen nutrition lift Petco in Q2 - Pet Food Processing",
+      "companies": [
+        "petco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "pet_food",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb2R5a3ZlX1pUTkx5S21aZTE1NkFfSkJDc1lJWjRBMng2OExmUjZGTUJpdEFyN3czMENBQXg3Y3Itc2tZdXBoVWZXVktpMG02MDlmMThYbHlkY1dyX3VJN1Vsc3BoZGdkSzhBdDBWVGE0YWFTWVpoVzBmNmZDU2xNSVcwcGZfTVlYSDNwTjBpTDdnUFVHTDh3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "intl_paper-2026-09-04-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper stock holds steady as investors focus on earnings trajectory - AD HOC NEWS",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMGtDcWROZ3V4TldMOWRHV2hlMzh0elZ0dEoyN2NQMVFQbnloZ0c1ZnlJT24xaDZuLUEtLW5CYXZlQzl5cEVQUEFEM2Znc2lLRmJsN3VxZjNneUM5VWNpeVkwazdnaEpsZm52S0dCdm9sZVNlMENyQTZNN3VPamJzZm9PV2pUbU9BTEhtYmh1X2gxWm5mTHF1LUtiMUhvMTBzZk80aDJQOXZpQkZ2XzFnbTJ4d2dwRWJNVlFJTEZmQXZRVjh5aHh5RktVLU4?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "sealed_air-2026-09-04-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sealed Air stock reflects cash merger terms as investors eye payout - AD HOC NEWS",
+      "companies": [
+        "sealed_air"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVm16ZEprVlBLSzlCSkRQcmFSTFBvU3FGQjFWMDF3S0taUnFETFhRUGxqOVl4UWV3OVBiUXR0OU9VU2tCWHYyd19VbGg1V2xhTWludHpmVXhfVGM4cmk4aE8zMkFoQXktVENocmRUZ1JiNlQ3X19qbW1oWDFCZnpXQUJiMjFQRVVfNUZfeTE3NTEtWTRvM3JFSW11ekxGX2dLYjU1N0lySEdYVTVFeWtJeWIwaUpEY3gyLWsxUkxPWEw5MlZNLVNBV0RB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "pet_food": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "petco",
+        "count": 2
+      },
+      {
+        "id": "idexx",
+        "count": 1
+      },
+      {
+        "id": "intl_paper",
+        "count": 1
+      },
+      {
+        "id": "sealed_air",
+        "count": 1
+      },
+      {
+        "id": "crown",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "pet_food",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 317,
+    "dup_title": 108,
+    "too_old": 148,
+    "gate1_blocked": 17,
+    "gate2_blocked": 10,
+    "passed": 34,
+    "pass_rate": "16.3%",
+    "gate2_block_rate": "4.8%",
+    "gate2_samples": [
+      "Zoetis (NYSE:ZTS) Offers Value and Quality in One Attractive Package - ChartMill",
+      "The Market Is Finally Starting To Come Around To Petco Health and Wellness Company - Seeking Alpha",
+      "UBS Trims Price Target on Petco Health & Wellness to $3.50 From $4, Maintains Neutral Rating - marke",
+      "International Paper Company (di) (IPC) Share Price, Stock Value, News & Analysis $IPC - MarketBeat",
+      "International Paper Co (IP) Stock Down 3.5% -- Now Undervalued? GF Score: 69/100 - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為WOOF、愛德士、國際紙業相關動態：「IDEXX Laboratories stock steadies after strong Q2 2026 re...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "IDEXX Laboratories stock steadies after strong Q2 2026 results and raised out...（財報、展望）",
+        "level": "yellow"
+      },
+      {
+        "text": "Petco (WOOF) Stock Faces Profit Recovery And Tight Interest Pressure - simply...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
