@@ -1,0 +1,120 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T11:32:53.644333Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "petco-2026-09-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Petco Health and Wellness (NASDAQ:WOOF) Lowered to \"Hold\" Rating by Wall Street Zen - MarketBeat",
+      "companies": [
+        "petco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObUpaNE8wUHR2aHBqSVpycVgyZWJNa0VXLU9HbVdJSUlwN1JqaGRwSlM4cU9GMGx6NTQ4RWw2MWpNSHNySDBWV0R6X2FvenFPSDZZcjJqVzFaV25MUTFxN2ZrU2JTUHJXenFES29zcXlOZlR6aXNZekVUMlo1Wm9mNXBfcDhBd0ZIYzBxdk5LcVlOR0RnTVZIcnY3MU5rSUVRUTh0alliZU8zZ0ZPQ1VTbDRDeTVXR3llOVBuSGJzZ0I3RzNETE5SZVdIU0dUbDJ0MnNraHFtN1M?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sealed_air-2026-09-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sealed Air stock holds steady as investors eye latest packaging demand trends - AD HOC NEWS",
+      "companies": [
+        "sealed_air"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaEpXVVk0RzZkd1YyTzd2QjhPcHpHdWFfTkk2Z3YwdDBVRnNad0YzLVpvT3A5eHpzdzJZSFkyeV82OFhlX2k1MlA1QUROUDVHNWJNSjBNTzUwZWJqZWwwRTNka1dTZ2g5UFhhM3NTd242NUMwWmVEc25odXRkY2tWcmhWNUladmN5dFZ2N2EwRVJIeGp2aElFZnhxQVI2NEhtcXFrM2VseHdBUjVwOF94TWpKOGhvcFcwMmhGcXZTYmVOaFVHXzRKMQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "petco",
+        "count": 1
+      },
+      {
+        "id": "sealed_air",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 316,
+    "dup_title": 132,
+    "too_old": 147,
+    "gate1_blocked": 17,
+    "gate2_blocked": 7,
+    "passed": 13,
+    "pass_rate": "7.1%",
+    "gate2_block_rate": "3.8%",
+    "gate2_samples": [
+      "The Market Is Finally Starting To Come Around To Petco Health and Wellness Company - Seeking Alpha",
+      "Barrington explores cannabis zoning to fill closing International Paper facility - MMJDaily",
+      "International Paper Co (IP) Stock Down 3.5% -- Now Undervalued? GF Score: 69/100 - GuruFocus",
+      "Sealed Air Cp (SEE) Free Cash Flow 2025: $458.5M, down 9.7% - Stock Titan",
+      "Smurfit Westrock : New European study finds consumers are actively separating Bag-in-Box packaging f"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為WOOF、希悅爾相關動態：「Petco Health and Wellness (NASDAQ:WOOF) Lowered to \"Hold\"...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Petco Health and Wellness (NASDAQ:WOOF) Lowered to \"Hold\" Rating by Wall Stre...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Sealed Air stock holds steady as investors eye latest packaging demand trends...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

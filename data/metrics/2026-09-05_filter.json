@@ -1,0 +1,16 @@
+{
+  "total_raw": 316,
+  "dup_title": 132,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 17,
+  "gate2_fail": 7,
+  "passed": 13,
+  "gate2_samples": [
+    "The Market Is Finally Starting To Come Around To Petco Health and Wellness Company - Seeking Alpha",
+    "Barrington explores cannabis zoning to fill closing International Paper facility - MMJDaily",
+    "International Paper Co (IP) Stock Down 3.5% -- Now Undervalued? GF Score: 69/100 - GuruFocus",
+    "Sealed Air Cp (SEE) Free Cash Flow 2025: $458.5M, down 9.7% - Stock Titan",
+    "Smurfit Westrock : New European study finds consumers are actively separating Bag-in-Box packaging f"
+  ]
+}
