@@ -1,0 +1,139 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T11:53:28.311444Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "idexx-2026-09-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "IDEXX Laboratories stock gains after strong Q2 results and raised 2026 outlook - AD HOC NEWS",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYVdrbzBUV2pNUGxNUVRadVJId3NNQ2U3NkJsWlFCeUd1Wjk4dWhkU0FUd1pNenR0b1FtWlpFTmFBbnZZZGx2aDktbmRrT3ZHbFpOc09BOUhETTF5X2lVUkRZU3MzR2E1UnBtNzZUZ2NuSGNHeEhLSU1aNkZtTkh0XzdwUjU1Skk0ZlZqSFk1R2hEc3ZFUnhuZi1hamlZVWY2WHdPbk5abTVSRzZoOUZNM3pmQThLWHZtUFRwMnNwWXc5QVdhOFVRNVFkM1BIQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "petco-2026-09-06-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Petco Health and Wellness Company, Inc. (NASDAQ:WOOF) Given Consensus Rating of \"Reduce\" by Brokerages - MarketBeat",
+      "companies": [
+        "petco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdW5qUWxwQ0ZZaVdsR0t2Q0JLRGV0ckFBenZYcVFqNTJzZjNJVnEyV195Z1VhU0dEYUNfNEVXTklEeEh2NmtYMmlNNDJJQnkwSy1YVU4xT2Q0eUx2eWx6OHpscFVCZmZZcDBjSDM3RkhwSDNCbWJSQVlpMUs2MlBsb3U2U3VhS0lnTG9rNmRJZE14X196enNibzhrZjZRVmNEQkRBZU9sR3dXR2NHVE95ZW1URDlpSHczOVJCdVRlaTlXLXpsMUZ6ZHVHQnc3eFJEblFnZjVydG43OEp0b21CTVdJQ2NGRWlCbEJveFFiN2pJZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "idexx",
+        "count": 1
+      },
+      {
+        "id": "petco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 317,
+    "dup_title": 146,
+    "too_old": 142,
+    "gate1_blocked": 17,
+    "gate2_blocked": 7,
+    "passed": 5,
+    "pass_rate": "2.9%",
+    "gate2_block_rate": "4.1%",
+    "gate2_samples": [
+      "Zoetis (NYSE:ZTS) Offers Value and Quality in One Attractive Package - ChartMill",
+      "The Market Is Finally Starting To Come Around To Petco Health and Wellness Company - Seeking Alpha",
+      "WOOF|Petco Health and Wellness Company Inc|Price:2.700|Chg%:+0.180 - TradingKey",
+      "Barrington explores cannabis zoning to fill closing International Paper facility - MMJDaily",
+      "Sealed Air Cp (SEE) Free Cash Flow 2025: $458.5M, down 9.7% - Stock Titan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為愛德士、WOOF相關動態：「IDEXX Laboratories stock gains after strong Q2 results an...」。主要關注主題為財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "IDEXX Laboratories stock gains after strong Q2 results and raised 2026 outloo...（財報、展望）",
+        "level": "yellow"
+      },
+      {
+        "text": "Petco Health and Wellness Company, Inc. (NASDAQ:WOOF) Given Consensus Rating ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

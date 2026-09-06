@@ -1,0 +1,16 @@
+{
+  "total_raw": 317,
+  "dup_title": 146,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 17,
+  "gate2_fail": 7,
+  "passed": 5,
+  "gate2_samples": [
+    "Zoetis (NYSE:ZTS) Offers Value and Quality in One Attractive Package - ChartMill",
+    "The Market Is Finally Starting To Come Around To Petco Health and Wellness Company - Seeking Alpha",
+    "WOOF|Petco Health and Wellness Company Inc|Price:2.700|Chg%:+0.180 - TradingKey",
+    "Barrington explores cannabis zoning to fill closing International Paper facility - MMJDaily",
+    "Sealed Air Cp (SEE) Free Cash Flow 2025: $458.5M, down 9.7% - Stock Titan"
+  ]
+}
