@@ -1,0 +1,16 @@
+{
+  "total_raw": 318,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 17,
+  "gate2_fail": 6,
+  "passed": 8,
+  "gate2_samples": [
+    "The Market Is Finally Starting To Come Around To Petco Health and Wellness Company - Seeking Alpha",
+    "Barrington explores cannabis zoning to fill closing International Paper facility - MMJDaily",
+    "Sealed Air Cp (SEE) Free Cash Flow 2025: $458.5M, down 9.7% - Stock Titan",
+    "Smurfit Westrock : New European study finds consumers are actively separating Bag-in-Box packaging f",
+    "Here's Why Crown Holdings (CCK) is a Strong Value Stock - Eastern Progress"
+  ]
+}

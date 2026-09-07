@@ -1,5 +1,66 @@
 [
   {
+    "id": "idexx-2026-09-07-001",
+    "date": "2026-09-07",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "vet_spending",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "IDEXX Laboratories stock holds near recent highs as diagnostics demand supports growth - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQSWRPVTR6YW96VjQ5TFVjWnB4RWJNR1RBZXV0SjZNdGlad0tSQmFNUUZEOFlpUWRnVDlHcTIzNWVia01JSlkzemRHZUVoSDlWT3BqczBrLVdNeDg0bFJFb05LZnRPanRJNmVGWEotcl",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSWRPVTR6YW96VjQ5TFVjWnB4RWJNR1RBZXV0SjZNdGlad0tSQmFNUUZEOFlpUWRnVDlHcTIzNWVia01JSlkzemRHZUVoSDlWT3BqczBrLVdNeDg0bFJFb05LZnRPanRJNmVGWEotclo2SzZKc2lJcUE4MVBuWUZRSDhMbWdWWTF3NmtBdFphd1lwWld2S1hTVzR2MEh2cVR3NXV3NjRXSkpIbHQ4Z0ZITGw3SFJjNkUzZ0VtZVU3TWRQNUtwQ1ZBMFpTOG5vZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "petco-2026-09-07-002",
+    "date": "2026-09-07",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Petco: Some Signs Of A Turnaround, But Far From Changing My Mind (Q2 Review) (NASDAQ:WOOF) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYS00SDZOMG1aa2ZOXzZrb2NhNHNoTlFNWEMteVZ1MHBFT2ltOG9WV1d3a0RfX0s0elo1T04wdzd3WTA5RUJEbG1xODFKQl9Sdm9tSWktbzJ6SkpmUXZ0Q3E0eGhrUjR6cmozNW1weX",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYS00SDZOMG1aa2ZOXzZrb2NhNHNoTlFNWEMteVZ1MHBFT2ltOG9WV1d3a0RfX0s0elo1T04wdzd3WTA5RUJEbG1xODFKQl9Sdm9tSWktbzJ6SkpmUXZ0Q3E0eGhrUjR6cmozNW1weXBON1hhM2hpaE52TlBBejdnekR1bUlMXzA0b0xzWjdqZkkxcXg5OVZqeHQ4YWxMQjE0OURtWEhhSUh3S2IzalZJRlJKREtMSVV3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-09-07-003",
+    "date": "2026-09-07",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Paper stock holds steady after recent quarterly results - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPanZlX2Yzei1oVDN5SUptQXhFY051Vjh1THZ6Y2NkeXh1Rl9OR0liV2JHTFlGMG1Wa0JhZTFCVWNSbG9GU0MyTEFmQUhwRk9RUjJQUEZaeU4zYkNhZEg2NDhhaHlZU3RPS3dXS3pCM2",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPanZlX2Yzei1oVDN5SUptQXhFY051Vjh1THZ6Y2NkeXh1Rl9OR0liV2JHTFlGMG1Wa0JhZTFCVWNSbG9GU0MyTEFmQUhwRk9RUjJQUEZaeU4zYkNhZEg2NDhhaHlZU3RPS3dXS3pCM2NvLXViQWJHQVhWMERvWVJqczNVU1FRakhVZHVzVEwwV3EybEZyV25YcS1oc2dPVUxkSDgtcnRXTVJ1YXhwZVlyTDNuSWkwWWlnbzF0dWxrd0JtMFp4SGNGMm40czk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "idexx-2026-09-06-001",
     "date": "2026-09-06",
     "companies": [
@@ -36,6 +97,44 @@
       {
         "name": "petco",
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdW5qUWxwQ0ZZaVdsR0t2Q0JLRGV0ckFBenZYcVFqNTJzZjNJVnEyV195Z1VhU0dEYUNfNEVXTklEeEh2NmtYMmlNNDJJQnkwSy1YVU4xT2Q0eUx2eWx6OHpscFVCZmZZcDBjSDM3RkhwSDNCbWJSQVlpMUs2MlBsb3U2U3VhS0lnTG9rNmRJZE14X196enNibzhrZjZRVmNEQkRBZU9sR3dXR2NHVE95ZW1URDlpSHczOVJCdVRlaTlXLXpsMUZ6ZHVHQnc3eFJEblFnZjVydG43OEp0b21CTVdJQ2NGRWlCbEJveFFiN2pJZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amcor-2026-09-06-003",
+    "date": "2026-09-06",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Amcor plc stock holds steady on resilient packaging demand - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWM3ZTUzY0VzdFhmYVVzUE1mMUFaWjJpbDhycTFTVHRYMl9IZEY0LWJXZUNGeHltN0FDa19JTHlVRWl6TUNnZ3puUjhVZlFwU1k1cXBFNG5Fd1dfN3lEZmFzZzN4bk90QVpVQm9OcD",
+    "sources": [
+      {
+        "name": "amcor",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWM3ZTUzY0VzdFhmYVVzUE1mMUFaWjJpbDhycTFTVHRYMl9IZEY0LWJXZUNGeHltN0FDa19JTHlVRWl6TUNnZ3puUjhVZlFwU1k1cXBFNG5Fd1dfN3lEZmFzZzN4bk90QVpVQm9OcDc0RjllalhRTFNjUXIzT1pNSndpLTVhbnM4Tlg5SGZGcG1RQjRvYk0tV1pIdS11dFNPRGV5OURZc3BpOXdpbm1XVUpxVDZZX3U0RGtJb21R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sealed_air-2026-09-06-004",
+    "date": "2026-09-06",
+    "companies": [
+      "sealed_air"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sealed Air stock holds steady as investors watch balance sheet trends - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQejZSUlktS1VBUVo2ZnlMOG9wTS1aSlRyYnVhTFdPY0MwT0NMWDZvaDNBekpWaFU4bFZyYXNfQnVHa1M3eDFsOU8wS3Z3RWxTQ3oxUl9QY3NrM3dTbm9nNVRuZjNwc0x1YXBtYzIzTz",
+    "sources": [
+      {
+        "name": "sealed_air",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQejZSUlktS1VBUVo2ZnlMOG9wTS1aSlRyYnVhTFdPY0MwT0NMWDZvaDNBekpWaFU4bFZyYXNfQnVHa1M3eDFsOU8wS3Z3RWxTQ3oxUl9QY3NrM3dTbm9nNVRuZjNwc0x1YXBtYzIzTzk4Q1RRTGZERlp0WEQwR1dQMWptY1J4TU95SkM5U0E2NHd6ZHZCazRUa0ZILS1SYjVHZE9tNGdpSjFQTkZLbmk3X2ZReFdlZVlWTjNyMjdKbjVBZ2t4S1Nrd013RXM?oc=5",
         "type": "rss"
       }
     ]
@@ -332,6 +431,64 @@
       {
         "name": "packaging_dive",
         "url": "https://www.packagingdive.com/news/packaging-dealmaking-august-2026-pregis-harperlove-applied-adhesives-jones-healthcare/829458/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-04-014",
+    "date": "2026-09-04",
+    "companies": [],
+    "topics": [
+      "pet_insurance",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is Pet Insurance Worth It? - U.S. News & World Report",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5tUlZxdTFySkIxN09lQ3lBQ3JsVngydHFZV1NiQVlYZ1lqR2xzVE9XdUJMVnVaUWE5NHB5blNTWkZSUFFicUVocG5tZG4tcTRDT2VkdGNaaUZIeEltdkFrVU9meERnMG9CTW1sUl9FM2",
+    "sources": [
+      {
+        "name": "trupanion",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tUlZxdTFySkIxN09lQ3lBQ3JsVngydHFZV1NiQVlYZ1lqR2xzVE9XdUJMVnVaUWE5NHB5blNTWkZSUFFicUVocG5tZG4tcTRDT2VkdGNaaUZIeEltdkFrVU9meERnMG9CTW1sUl9FM2xpaXJQWWdRc2NuQjM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-04-015",
+    "date": "2026-09-04",
+    "companies": [],
+    "topics": [
+      "pet_insurance"
+    ],
+    "impact": "neutral",
+    "title": "Best Pet Insurance in California for 2026 - U.S. News & World Report",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KSWNQQkprUW9ndlVwY1hvMFdlTWN6bTMzVnNWSVRkYmdGek9WSnlkUi1Hakk4RWFpVGpZWnUtaF9XT0hmYnhHc2xSbXJNSVZOV1V3QTBib05sTHNNQVc2Y09ReUNNbUxu?oc=5\" tar",
+    "sources": [
+      {
+        "name": "trupanion",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KSWNQQkprUW9ndlVwY1hvMFdlTWN6bTMzVnNWSVRkYmdGek9WSnlkUi1Hakk4RWFpVGpZWnUtaF9XT0hmYnhHc2xSbXJNSVZOV1V3QTBib05sTHNNQVc2Y09ReUNNbUxu?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "petco-2026-09-04-016",
+    "date": "2026-09-04",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "A Quick Look at Today's Ratings for Petco Health and Wellness(WOOF.US), With a Forecast Between $3.5 to $4.3 - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPVDhEU041cEQtY3JIeURQdUcyaU9nbVBvcWRyTUVJMHhDS3ZhclNnTHNsV1FKakRXdmxheVJTQTJkM2haVGdrQTA2OGQyRmYwc0g5V05zOFQ2cW5QRWUxOVlDV194UmVWcGhBV3pQUX",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVDhEU041cEQtY3JIeURQdUcyaU9nbVBvcWRyTUVJMHhDS3ZhclNnTHNsV1FKakRXdmxheVJTQTJkM2haVGdrQTA2OGQyRmYwc0g5V05zOFQ2cW5QRWUxOVlDV194UmVWcGhBV3pQUXBvUDN6UDFrQmxEMjRTbVZtWVJQVW5FZV9sZW83NFNLcmN6MFNM?oc=5",
         "type": "rss"
       }
     ]

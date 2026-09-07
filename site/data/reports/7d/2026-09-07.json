@@ -1,0 +1,136 @@
+{
+  "date": "2026-09-07",
+  "date_range": {
+    "start": "2026-09-01",
+    "end": "2026-09-07"
+  },
+  "generated_at": "2026-09-07T13:53:05.215369Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "petco-2026-09-02-008",
+      "date": "2026-09-02",
+      "title": "Petco Health & Wellness (WOOF) Surpasses Q2 Earnings Estimates - Yahoo Finance",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 17,
+      "last_week": 7,
+      "week_over_week_change": "+143%",
+      "sentiment_this_week": -0.0
+    },
+    "guidance": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.0
+    },
+    "pet_food": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "vet_spending": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    }
+  },
+  "company_7d_summary": {
+    "idexx": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 2
+    },
+    "intl_paper": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "petco": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 1
+    },
+    "sealed_air": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "crown": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 64,
+        "last": 44,
+        "change_pct": 45.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-01",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-02",
+      "event_count": 16,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-09-03",
+      "event_count": 17,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-04",
+      "event_count": 16,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-05",
+      "event_count": 2,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-06",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-07",
+      "event_count": 3,
+      "sentiment_avg": -0.17
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-01 ~ 2026-09-07）共 64 則事件，重點為「Petco Health & Wellness (WOOF) Surpasses Q2 Ear...」。財報、展望、寵物食品為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "愛德士",
+        "reason": "本週出現 4 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "國際紙業",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "WOOF",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

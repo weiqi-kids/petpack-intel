@@ -1,0 +1,167 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T13:53:05.063067Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "idexx-2026-09-07-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "IDEXX Laboratories stock holds near recent highs as diagnostics demand supports growth - AD HOC NEWS",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "vet_spending",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSWRPVTR6YW96VjQ5TFVjWnB4RWJNR1RBZXV0SjZNdGlad0tSQmFNUUZEOFlpUWRnVDlHcTIzNWVia01JSlkzemRHZUVoSDlWT3BqczBrLVdNeDg0bFJFb05LZnRPanRJNmVGWEotclo2SzZKc2lJcUE4MVBuWUZRSDhMbWdWWTF3NmtBdFphd1lwWld2S1hTVzR2MEh2cVR3NXV3NjRXSkpIbHQ4Z0ZITGw3SFJjNkUzZ0VtZVU3TWRQNUtwQ1ZBMFpTOG5vZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "petco-2026-09-07-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Petco: Some Signs Of A Turnaround, But Far From Changing My Mind (Q2 Review) (NASDAQ:WOOF) - Seeking Alpha",
+      "companies": [
+        "petco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYS00SDZOMG1aa2ZOXzZrb2NhNHNoTlFNWEMteVZ1MHBFT2ltOG9WV1d3a0RfX0s0elo1T04wdzd3WTA5RUJEbG1xODFKQl9Sdm9tSWktbzJ6SkpmUXZ0Q3E0eGhrUjR6cmozNW1weXBON1hhM2hpaE52TlBBejdnekR1bUlMXzA0b0xzWjdqZkkxcXg5OVZqeHQ4YWxMQjE0OURtWEhhSUh3S2IzalZJRlJKREtMSVV3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "intl_paper-2026-09-07-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper stock holds steady after recent quarterly results - AD HOC NEWS",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPanZlX2Yzei1oVDN5SUptQXhFY051Vjh1THZ6Y2NkeXh1Rl9OR0liV2JHTFlGMG1Wa0JhZTFCVWNSbG9GU0MyTEFmQUhwRk9RUjJQUEZaeU4zYkNhZEg2NDhhaHlZU3RPS3dXS3pCM2NvLXViQWJHQVhWMERvWVJqczNVU1FRakhVZHVzVEwwV3EybEZyV25YcS1oc2dPVUxkSDgtcnRXTVJ1YXhwZVlyTDNuSWkwWWlnbzF0dWxrd0JtMFp4SGNGMm40czk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "vet_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "idexx",
+        "count": 1
+      },
+      {
+        "id": "petco",
+        "count": 1
+      },
+      {
+        "id": "intl_paper",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "vet_spending",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 318,
+    "dup_title": 149,
+    "too_old": 138,
+    "gate1_blocked": 17,
+    "gate2_blocked": 6,
+    "passed": 8,
+    "pass_rate": "4.7%",
+    "gate2_block_rate": "3.6%",
+    "gate2_samples": [
+      "The Market Is Finally Starting To Come Around To Petco Health and Wellness Company - Seeking Alpha",
+      "Barrington explores cannabis zoning to fill closing International Paper facility - MMJDaily",
+      "Sealed Air Cp (SEE) Free Cash Flow 2025: $458.5M, down 9.7% - Stock Titan",
+      "Smurfit Westrock : New European study finds consumers are actively separating Bag-in-Box packaging f",
+      "Here's Why Crown Holdings (CCK) is a Strong Value Stock - Eastern Progress"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為愛德士、WOOF、國際紙業相關動態：「IDEXX Laboratories stock holds near recent highs as diagn...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "IDEXX Laboratories stock holds near recent highs as diagnostics demand suppor...（獸醫支出、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Petco: Some Signs Of A Turnaround, But Far From Changing My Mind (Q2 Review) ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
