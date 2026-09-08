@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T13:53:04.216234+00:00",
+  "updated_at": "2026-09-08T12:30:37.579824+00:00",
   "companies": {
     "freshpet": {
       "name": "Freshpet",
@@ -478,56 +478,56 @@
         {
           "holder": "CVC Management Holdings II Ltd.",
           "shares": 145924140,
-          "pct_held": 58.89,
+          "pct_held": 58.69,
           "value": 393995184
         },
         {
           "holder": "Canada Pension Plan Investment Board",
           "shares": 59765368,
-          "pct_held": 24.12,
+          "pct_held": 24.04,
           "value": 161366496
         },
         {
           "holder": "Dimensional Fund Advisors LP",
           "shares": 11072709,
-          "pct_held": 4.47,
+          "pct_held": 4.45,
           "value": 29896314
         },
         {
           "holder": "Long Focus Capital Management, LLC",
           "shares": 8371050,
-          "pct_held": 3.38,
+          "pct_held": 3.37,
           "value": 22601835
         },
         {
           "holder": "Blackrock Inc.",
           "shares": 8082129,
-          "pct_held": 3.26,
+          "pct_held": 3.25,
           "value": 21821748
         },
         {
           "holder": "Two Sigma Investments, LP",
           "shares": 5577176,
-          "pct_held": 2.25,
+          "pct_held": 2.24,
           "value": 15058375
         },
         {
           "holder": "Holocene Advisors, LP",
           "shares": 4904000,
-          "pct_held": 1.98,
+          "pct_held": 1.97,
           "value": 13240800
-        },
-        {
-          "holder": "Cresset Asset Management, LLC",
-          "shares": 3865368,
-          "pct_held": 1.56,
-          "value": 10436493
         },
         {
           "holder": "Vanguard Capital Management LLC",
           "shares": 3842365,
           "pct_held": 1.55,
           "value": 10374385
+        },
+        {
+          "holder": "Cresset Asset Management, LLC",
+          "shares": 3865368,
+          "pct_held": 1.55,
+          "value": 10436493
         },
         {
           "holder": "FMR, LLC",

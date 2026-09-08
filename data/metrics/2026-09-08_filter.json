@@ -1,0 +1,16 @@
+{
+  "total_raw": 319,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 14,
+  "gate2_fail": 5,
+  "passed": 13,
+  "gate2_samples": [
+    "The Market Is Finally Starting To Come Around To Petco Health and Wellness Company - Seeking Alpha",
+    "Amcor and Tiptree prepare for 2027 Plastic Packaging Tax with certified films - Packaging News",
+    "Smurfit Westrock : New European study finds consumers are actively separating Bag-in-Box packaging f",
+    "Here's Why Crown Holdings (CCK) is a Strong Value Stock - Eastern Progress",
+    "Packaging innovations: PBR creates fear with beer"
+  ]
+}
