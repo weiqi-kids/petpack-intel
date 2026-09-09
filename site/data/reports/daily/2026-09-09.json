@@ -1,0 +1,163 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T12:38:46.463474Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "petco-2026-09-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Petco (WOOF) Reported Adjusted EBITDA Growth but a $6.8M Tariff Refund Helped the Quarter. Is the Turnaround Self-Funding? - Yahoo Finance",
+      "companies": [
+        "petco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOUpJTmZSVnd0RVNWWEZ0YzhkNTdkS01JYkRTT3pQbGFIRF90dW03M0NRdlJCQmhQX2NrRVVtd0F2endMNjU3ZWtGYkhEVFZlMFpUeE9ld2NMQ2xYVzFySmlDNmw4X2RhTWdhajJaYTRLaXhkZWRFZkIxUlB0OGJCX1JubHpZN2xMeTF2ZzNKbHFONmYtWGd5czd3RVczZEpCcFE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sealed_air-2026-09-09-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sealed Air stock trades in the mid-double digits as investors weigh recent earnings and guidance - AD HOC NEWS",
+      "companies": [
+        "sealed_air"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRkxBMk56OVJieWxMYnkzVzVzb0lJY3VNZEhPRUJZZkxPRmpsSXJRaWVaa29EcDB0TzhEOC1JUzhlWXVtRTZCLWZyZmR0Ynp6SS1IX2VTRHVNMFpPajByajZ3UUJkMW9mQ29IY3V4UXU0V1pFcmhvRVJCcE5uZDRNdzNicnFUMUpTN0haUXNXbkR5T3dTbFBBWjFUUi1WZk1ZODJBb0hJbGZpaEpERUY0a09FQ1labkx2b3l6Y0N0ZWVqS1FiWEJYS0pZSTdzeldSYWlj?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "smurfit-2026-09-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Goldman Sachs Adjusts Price Target on Smurfit Westrock to $53 From $51, Maintains Buy Rating - Moomoo",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHVnMEtyNi1XRU9pWjI1aWJEQ0FoelZsclBwSTVHa2FudzNOSWxZUFYzZ0xFV0pzdjhraVVodDR1d3ZGN3RGNVRJdGhMV2pod3pLN3VYQVp4TTI5Vkl3Unk2ZlFraHo2WjVvcmlXMVVid0NtdHZ2QVBNNnNWcFFkX2pURTBITlNucEhiel9QVk43QTMwMTAwTWlEUldYVlFweW82WA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "petco",
+        "count": 1
+      },
+      {
+        "id": "sealed_air",
+        "count": 1
+      },
+      {
+        "id": "smurfit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 321,
+    "dup_title": 150,
+    "too_old": 138,
+    "gate1_blocked": 12,
+    "gate2_blocked": 7,
+    "passed": 14,
+    "pass_rate": "8.2%",
+    "gate2_block_rate": "4.1%",
+    "gate2_samples": [
+      "The Market Is Finally Starting To Come Around To Petco Health and Wellness Company - Seeking Alpha",
+      "Güeñes gears up for its 66th International Paper Dress Contest on September 12 - diarioeuskadi.eus",
+      "Amcor and Tiptree prepare for 2027 Plastic Packaging Tax with certified films - Packaging News",
+      "Smurfit WestRock PLC (SW) Stock Down 3.4% -- Now Undervalued? GF Score: 81/100 - GuruFocus",
+      "Crown Holdings (NYSE: CCK) general counsel retirement set for 2026 - Stock Titan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為WOOF、希悅爾、斯莫菲特相關動態：「Petco (WOOF) Reported Adjusted EBITDA Growth but a $6.8M ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Petco (WOOF) Reported Adjusted EBITDA Growth but a $6.8M Tariff Refund Helped...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Sealed Air stock trades in the mid-double digits as investors weigh recent ea...（財報、展望）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

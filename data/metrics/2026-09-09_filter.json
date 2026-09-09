@@ -1,0 +1,16 @@
+{
+  "total_raw": 321,
+  "dup_title": 150,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 12,
+  "gate2_fail": 7,
+  "passed": 14,
+  "gate2_samples": [
+    "The Market Is Finally Starting To Come Around To Petco Health and Wellness Company - Seeking Alpha",
+    "Güeñes gears up for its 66th International Paper Dress Contest on September 12 - diarioeuskadi.eus",
+    "Amcor and Tiptree prepare for 2027 Plastic Packaging Tax with certified films - Packaging News",
+    "Smurfit WestRock PLC (SW) Stock Down 3.4% -- Now Undervalued? GF Score: 81/100 - GuruFocus",
+    "Crown Holdings (NYSE: CCK) general counsel retirement set for 2026 - Stock Titan"
+  ]
+}

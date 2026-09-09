@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-08T12:30:34.405768Z",
-  "quarter": "2026-04-30, 2026-06-30",
+  "updated_at": "2026-09-09T12:38:42.058684Z",
+  "quarter": "2026-04-30, 2026-06-30, 2026-07-31",
   "companies": [
     {
       "id": "amcor",
@@ -194,17 +194,17 @@
       "name": "Petco Health and Wellness",
       "ticker": "WOOF",
       "currency": "USD",
-      "ar": 36928000,
-      "ar_prev": 45812000,
-      "ar_qoq": "-19%",
+      "ar": 38386000,
+      "ar_prev": 36928000,
+      "ar_qoq": "+4%",
       "ar_period": "QoQ",
-      "inventory": 632912000,
-      "inv_prev": 590210000,
-      "inv_qoq": "+7%",
+      "inventory": 601591000,
+      "inv_prev": 632912000,
+      "inv_qoq": "-5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-04-30"
+      "quarter_date": "2026-07-31"
     },
     {
       "id": "pkg",
