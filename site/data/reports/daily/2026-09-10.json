@@ -1,0 +1,120 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T12:36:53.189253Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intl_paper-2026-09-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "International Paper at Jefferies Global Industrials Conference 2026: focus tightens - Investing.com UK",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNU0VsT29SLTZCZmYtZHY3aWQ5bEFRdFNLRk1zT1BBWDF6Vk1jVDI1QldSam5GSlo2Uy12UnMxQV91b2NFcWhFV1Jra0pkWm1qT0NvMHhoTURtdU1LZzkzMFF6a0ZtbU9mbXBRRTUyRnRhX3VvYlNZZl9DTnBXTFJTczBxRG52VDR2a2hDbXVpUWF3WTNjT0ctYzFoZTFpRGc4MGJvZ1VBVG0weFdmTWNFOTREVC01b3Jfa2otTjVpUmNkMFRxaUNKYVIzbmtTZ3lXRUwtc0E0S0phZkE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intl_paper-2026-09-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "International Paper stock falls 5.1 percent ahead of the open - ad-hoc-news.de",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbWZuVzVJSnF5NWl4LXJRU0VrM1E4eHNXa3hXZWxDZjZoektLNTNCbHYycWNUaGZYeG13X2pGOGhCSzN0dThiWUg1bi1xcTlpRjVmWi1sVVJxb3R6NWwtemZJOEtzcXkxWVdTUDVuOW5JQk9QTmR0aVc3MzZUdG0xN2dpM1F5SlREdFlPMEQweE52alZaZFY4b2pxeHRXU2JHXy1lZ3A1M1ZRdU82LUY0ekpiUThmYmswbFphSVM1Y2pZUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "amcor-2026-09-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Amcor Unveils Skincare Packaging at London 2026 - Mirage News",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVEEzME1EdVRoY0JCZ0g5VjY2TXYwd3FMZFV2R0JlY1JWa1c5QVhvbUkzNHFJMmJnZjV2MVB0ME5GaUNPNktyVHdTVWxqcDgzTDB3NkJnSmZDX3VUazhBY1R0b1JucmRDRzdCM1ZrN3dnN3YzV0lHRFBuMXRZV25FLVRvNjVHQVc3ZE5v?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 2
+      },
+      {
+        "id": "amcor",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 322,
+    "dup_title": 150,
+    "too_old": 137,
+    "gate1_blocked": 12,
+    "gate2_blocked": 8,
+    "passed": 15,
+    "pass_rate": "8.7%",
+    "gate2_block_rate": "4.7%",
+    "gate2_samples": [
+      "The Market Is Finally Starting To Come Around To Petco Health and Wellness Company - Seeking Alpha",
+      "Amcor expands rigid and flexible refill range for personal care products - Packaging Insights",
+      "Amcor and Tiptree prepare for 2027 Plastic Packaging Tax with certified films - Packaging News",
+      "Sealed Air stock heads into the open after a modest loss - ad-hoc-news.de",
+      "A Look at Smurfit WestRock PLC (SW) After 4.7% Decline -- GF Val - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為國際紙業、安姆科相關動態：「International Paper at Jefferies Global Industrials Confe...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "International Paper at Jefferies Global Industrials Conference 2026: focus ti...",
+        "level": "green"
+      },
+      {
+        "text": "International Paper stock falls 5.1 percent ahead of the open - ad-hoc-news.de",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

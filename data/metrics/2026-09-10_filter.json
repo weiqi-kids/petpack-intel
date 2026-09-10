@@ -1,0 +1,16 @@
+{
+  "total_raw": 322,
+  "dup_title": 150,
+  "no_date": 0,
+  "too_old": 137,
+  "gate1_fail": 12,
+  "gate2_fail": 8,
+  "passed": 15,
+  "gate2_samples": [
+    "The Market Is Finally Starting To Come Around To Petco Health and Wellness Company - Seeking Alpha",
+    "Amcor expands rigid and flexible refill range for personal care products - Packaging Insights",
+    "Amcor and Tiptree prepare for 2027 Plastic Packaging Tax with certified films - Packaging News",
+    "Sealed Air stock heads into the open after a modest loss - ad-hoc-news.de",
+    "A Look at Smurfit WestRock PLC (SW) After 4.7% Decline -- GF Val - GuruFocus"
+  ]
+}
