@@ -1,0 +1,16 @@
+{
+  "total_raw": 320,
+  "dup_title": 147,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 9,
+  "gate2_fail": 12,
+  "passed": 13,
+  "gate2_samples": [
+    "Ten pets will become Trupanion’s faces in 2027. Members have 10 days to enter. - stocktitan.net",
+    "Petco Health & Wellness (WOOF) CLO stock withheld for RSU taxes - stocktitan.net",
+    "Petco Health & Wellness (WOOF) exec now holds 1.1M shares - stocktitan.net",
+    "International Paper (IP) Stock Looks Below Fair Value Even As Sales Stay Weak - simplywall.st",
+    "International Paper at Jefferies Global Industrials Conference 2026: focus tightens - Investing.com"
+  ]
+}

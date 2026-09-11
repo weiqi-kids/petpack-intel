@@ -1,0 +1,213 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T12:31:37.086669Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intl_paper-2026-09-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "BofA upgrades International Paper stock rating on higher containerboard prices - Investing.com",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "packaging_price",
+        "paper_price",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOUppLWlTZ0Zrd0lSMDlxNnVFbk8zckVZOGNSbkpldFNzNVZ3c0JaaWxzN0UtWlBvZW9sbGluMkZab2ZEZU9mS29GTjREeEwyX0FQaXNvb3N2dUxTZkEwOElpbU1FVWxndXJQTXM1aUdWaV9fcTJOSEtvRjQyREVReTRFcGdzcHFyMEVhQ2F2QS1hOHN3VkFzMVg3RGpKNTloQ0dUb3lxemNNQjhnN2ZhY29nU3dsYTJUX1lrQnpFM1BqVGpQQ2ZQS1ZMdzlTVGVjT3dLNw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intl_paper-2026-09-11-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper stock heads into the open after a 1.01 percent drop - ad-hoc-news.de",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcVhOUm1oalppOHlSN3d6YVViZ3R1amZfbXhXT1RJbjN5UVpoVmRaQjZuMHhvUzB4djNMMkZkdHMtNzBTTlJ0cm9DcEpQdHdlQ2xzZ0tKbWd5RXh5cWdGdzg3YzhxZG4xRGZsWFpFNUJmY2JEbXMxbjJGbEs4ZHZlMGk2X2J3VnZoTXpzQkxWeE1uWjJRbXBkX1FMWHduZHlCUGJEM00yZDkzb3o5LXpjUE5fNldNcTAzc1JtYkRlMjZfbmVka3pMdnA0Z3Q1dGs?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sealed_air-2026-09-11-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sealed Air stock heads into the open after a 0.2 percent dip - ad-hoc-news.de",
+      "companies": [
+        "sealed_air"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaTA0U2ppb2ZpMVR4U2pzY0tRcFN5M0pBbUVZRnJEMEw2cExaOXZGRnJuWjhBeExvOWNPYzFUZGJqa0JoZGt5SGxtSnRyZWt5dzdIcDQ3cXhnSkxhRGNpM1N6b3FpcXFRTHVacHpoTkVYXzNiaFltLUFVTk5WVnBoVVMySVh6anRRdWo4TlU2cmFXdXd6UlhISEJKeTI3MF9BbjBIemNONTRicl83X0ZpaUdFaGFiR2ZrQUFkaGNwNXM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ball-2026-09-11-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Ball Corporation and Crown Holdings plan aluminium can plants in India - Packaging Gateway",
+      "companies": [
+        "ball",
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbG0wYlZXZGxnWV9jTHhfMXY4Mk9LMkZvbURUYVlXWjNoVk5aU2RBTzVSbnVqeFpHS2p1WTNDYnNiZHctX013MElycEQxdy1iQUN4SUJISHJNQmRmU2d4SGRPQlFPVDl0eUVaWUxEMEdYM2k3cFNDOTIzQUtkdXdYOFh0Tmcyb0RDUlZhLTNyZTdsQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "packaging_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "paper_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 2
+      },
+      {
+        "id": "sealed_air",
+        "count": 1
+      },
+      {
+        "id": "ball",
+        "count": 1
+      },
+      {
+        "id": "crown",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "packaging_price",
+        "count": 1
+      },
+      {
+        "id": "paper_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 320,
+    "dup_title": 147,
+    "too_old": 139,
+    "gate1_blocked": 9,
+    "gate2_blocked": 12,
+    "passed": 13,
+    "pass_rate": "7.5%",
+    "gate2_block_rate": "6.9%",
+    "gate2_samples": [
+      "Ten pets will become Trupanion’s faces in 2027. Members have 10 days to enter. - stocktitan.net",
+      "Petco Health & Wellness (WOOF) CLO stock withheld for RSU taxes - stocktitan.net",
+      "Petco Health & Wellness (WOOF) exec now holds 1.1M shares - stocktitan.net",
+      "International Paper (IP) Stock Looks Below Fair Value Even As Sales Stay Weak - simplywall.st",
+      "International Paper at Jefferies Global Industrials Conference 2026: focus tightens - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為國際紙業、希悅爾、波爾相關動態：「BofA upgrades International Paper stock rating on higher ...」。主要關注主題為財報、包裝價格、紙價，市場情緒中性。",
+    "signals": [
+      {
+        "text": "BofA upgrades International Paper stock rating on higher containerboard price...（包裝價格、紙價、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "International Paper stock heads into the open after a 1.01 percent drop - ad-...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "包裝價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

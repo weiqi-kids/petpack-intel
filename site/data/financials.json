@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10T12:36:49.031288Z",
-  "quarter": "2026-04-30, 2026-06-30, 2026-07-31",
+  "updated_at": "2026-09-11T12:31:31.656390Z",
+  "quarter": "2026-06-30, 2026-07-31",
   "companies": [
     {
       "id": "amcor",
@@ -75,17 +75,17 @@
       "name": "寵物電商",
       "ticker": "CHWY",
       "currency": "USD",
-      "ar": 231400000,
-      "ar_prev": 222200000,
-      "ar_qoq": "+4%",
+      "ar": 232100000,
+      "ar_prev": 231400000,
+      "ar_qoq": "+0%",
       "ar_period": "QoQ",
-      "inventory": 1007900000,
-      "inv_prev": 864800000,
-      "inv_qoq": "+17%",
+      "inventory": 924700000,
+      "inv_prev": 1007900000,
+      "inv_qoq": "-8%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-04-30"
+      "quarter_date": "2026-07-31"
     },
     {
       "id": "crown",

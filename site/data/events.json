@@ -1,5 +1,86 @@
 [
   {
+    "id": "intl_paper-2026-09-11-001",
+    "date": "2026-09-11",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "packaging_price",
+      "paper_price",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BofA upgrades International Paper stock rating on higher containerboard prices - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOUppLWlTZ0Zrd0lSMDlxNnVFbk8zckVZOGNSbkpldFNzNVZ3c0JaaWxzN0UtWlBvZW9sbGluMkZab2ZEZU9mS29GTjREeEwyX0FQaXNvb3N2dUxTZkEwOElpbU1FVWxndXJQTXM1aU",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOUppLWlTZ0Zrd0lSMDlxNnVFbk8zckVZOGNSbkpldFNzNVZ3c0JaaWxzN0UtWlBvZW9sbGluMkZab2ZEZU9mS29GTjREeEwyX0FQaXNvb3N2dUxTZkEwOElpbU1FVWxndXJQTXM1aUdWaV9fcTJOSEtvRjQyREVReTRFcGdzcHFyMEVhQ2F2QS1hOHN3VkFzMVg3RGpKNTloQ0dUb3lxemNNQjhnN2ZhY29nU3dsYTJUX1lrQnpFM1BqVGpQQ2ZQS1ZMdzlTVGVjT3dLNw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-09-11-002",
+    "date": "2026-09-11",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Paper stock heads into the open after a 1.01 percent drop - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOcVhOUm1oalppOHlSN3d6YVViZ3R1amZfbXhXT1RJbjN5UVpoVmRaQjZuMHhvUzB4djNMMkZkdHMtNzBTTlJ0cm9DcEpQdHdlQ2xzZ0tKbWd5RXh5cWdGdzg3YzhxZG4xRGZsWFpFNU",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcVhOUm1oalppOHlSN3d6YVViZ3R1amZfbXhXT1RJbjN5UVpoVmRaQjZuMHhvUzB4djNMMkZkdHMtNzBTTlJ0cm9DcEpQdHdlQ2xzZ0tKbWd5RXh5cWdGdzg3YzhxZG4xRGZsWFpFNUJmY2JEbXMxbjJGbEs4ZHZlMGk2X2J3VnZoTXpzQkxWeE1uWjJRbXBkX1FMWHduZHlCUGJEM00yZDkzb3o5LXpjUE5fNldNcTAzc1JtYkRlMjZfbmVka3pMdnA0Z3Q1dGs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sealed_air-2026-09-11-003",
+    "date": "2026-09-11",
+    "companies": [
+      "sealed_air"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sealed Air stock heads into the open after a 0.2 percent dip - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaTA0U2ppb2ZpMVR4U2pzY0tRcFN5M0pBbUVZRnJEMEw2cExaOXZGRnJuWjhBeExvOWNPYzFUZGJqa0JoZGt5SGxtSnRyZWt5dzdIcDQ3cXhnSkxhRGNpM1N6b3FpcXFRTHVacHpoTk",
+    "sources": [
+      {
+        "name": "sealed_air",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaTA0U2ppb2ZpMVR4U2pzY0tRcFN5M0pBbUVZRnJEMEw2cExaOXZGRnJuWjhBeExvOWNPYzFUZGJqa0JoZGt5SGxtSnRyZWt5dzdIcDQ3cXhnSkxhRGNpM1N6b3FpcXFRTHVacHpoTkVYXzNiaFltLUFVTk5WVnBoVVMySVh6anRRdWo4TlU2cmFXdXd6UlhISEJKeTI3MF9BbjBIemNONTRicl83X0ZpaUdFaGFiR2ZrQUFkaGNwNXM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ball-2026-09-11-004",
+    "date": "2026-09-11",
+    "companies": [
+      "ball",
+      "crown"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Ball Corporation and Crown Holdings plan aluminium can plants in India - Packaging Gateway",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQbG0wYlZXZGxnWV9jTHhfMXY4Mk9LMkZvbURUYVlXWjNoVk5aU2RBTzVSbnVqeFpHS2p1WTNDYnNiZHctX013MElycEQxdy1iQUN4SUJISHJNQmRmU2d4SGRPQlFPVDl0eUVaWUxEME",
+    "sources": [
+      {
+        "name": "crown",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbG0wYlZXZGxnWV9jTHhfMXY4Mk9LMkZvbURUYVlXWjNoVk5aU2RBTzVSbnVqeFpHS2p1WTNDYnNiZHctX013MElycEQxdy1iQUN4SUJISHJNQmRmU2d4SGRPQlFPVDl0eUVaWUxEMEdYM2k3cFNDOTIzQUtkdXdYOFh0Tmcyb0RDUlZhLTNyZTdsQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "intl_paper-2026-09-10-001",
     "date": "2026-09-10",
     "companies": [
@@ -49,6 +130,141 @@
       {
         "name": "amcor",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVEEzME1EdVRoY0JCZ0g5VjY2TXYwd3FMZFV2R0JlY1JWa1c5QVhvbUkzNHFJMmJnZjV2MVB0ME5GaUNPNktyVHdTVWxqcDgzTDB3NkJnSmZDX3VUazhBY1R0b1JucmRDRzdCM1ZrN3dnN3YzV0lHRFBuMXRZV25FLVRvNjVHQVc3ZE5v?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-10-004",
+    "date": "2026-09-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "New functionality added to AI-powered haematology analyser - vettimes.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ0syQ2lJNEdtRGFVcG1BM0hwTEI4Ny1taURIY3lnUGhyZkJxYnh6OUN4WEUtMDMySlFQODYzcWNVdy1tZElOTXlFdDJFbTdIRTlhdFdKek8tc1g4UldyY2JlYm5mRHk2LXJXRXUwSX",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ0syQ2lJNEdtRGFVcG1BM0hwTEI4Ny1taURIY3lnUGhyZkJxYnh6OUN4WEUtMDMySlFQODYzcWNVdy1tZElOTXlFdDJFbTdIRTlhdFdKek8tc1g4UldyY2JlYm5mRHk2LXJXRXUwSXlaRWlYdnJlcDBBRm5PdUE2aEZPQnhSc2FYSnVmdFhPRkpBTlZKVW4tT3l3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "idexx-2026-09-10-005",
+    "date": "2026-09-10",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is IDEXX Laboratories Stock Underperforming the Dow? - inkl",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPYjVUTklSMUk1MU1laFpkMEQwTzhfWG0yMHFwMkNaaXRHN2puX3ZTeG5kenBwZXM5TnA1emp5ZEx5MEo5bGQ1UGxxY01VYlU2ZUt5eXF2UHJvbTNVa0w4NVJMTjRtMzBVWURzWTZfaE",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYjVUTklSMUk1MU1laFpkMEQwTzhfWG0yMHFwMkNaaXRHN2puX3ZTeG5kenBwZXM5TnA1emp5ZEx5MEo5bGQ1UGxxY01VYlU2ZUt5eXF2UHJvbTNVa0w4NVJMTjRtMzBVWURzWTZfaExvbW13VGo5bVNoN2Y4VXdHdzNfRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trupanion-2026-09-10-006",
+    "date": "2026-09-10",
+    "companies": [
+      "trupanion"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Trupanion Searches for this Year’s 'It Pets” With Return of Annual truFame Contest - The Manila Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV1dJYzJ4TDhYZlBMd1RzWjNBMXAwdXFfcnhHZ2hRVVV6SUtXeUVteFVvZTJ1eGhhdUtIaXFDSnc4WkE2S1I1bkpXU3EtZDJFa2J3TW9helJuQ2h2VDUtTXZqc3RIYU1yZmwtYmpEaV",
+    "sources": [
+      {
+        "name": "trupanion",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV1dJYzJ4TDhYZlBMd1RzWjNBMXAwdXFfcnhHZ2hRVVV6SUtXeUVteFVvZTJ1eGhhdUtIaXFDSnc4WkE2S1I1bkpXU3EtZDJFa2J3TW9helJuQ2h2VDUtTXZqc3RIYU1yZmwtYmpEaV9PZ2lvZ3RqSDBvdzJ5eFpING9jT09jaGtYc08tSUkwd2N4Y0lyb0NEcFl3cUxWLVdkblMwVjJoU3NzX3hkOEQzWXdCci1kMjA3WERKNFktOTRHZzNPUEZ2OWE1TVAxMlZhUjVWYlhOVXBmMHFKY09JRER2eWtIUXY20gHuAUFVX3lxTE1fbmtaeGU5TkV6ek9YN0NXYXk3elhrR0R0MHh5TEc2aHR4WGlqbUM2cTBPczZtelhva1B5elF3UkdrYWVXcGk0VzkyUF9kZXJyZ0J0UXVGLTQySkdqRWJVbXd4MXEzdzd1X21oMGEtOENnbFd0NU85V2VyNmVfdVh4dUc5QWdQZEZVTml2WGw1QUt2b3J2YXlQOEJWZ2RpS01sQUVzSWsyZV9uSmQtcGtUWG5yZ295T1loRW9TM3VMNVp1bnZSNGxkRHJ6Sk0tM1NXUUhNclozUTFmRWNYNTdZMEt3elNreDdpRVFoaWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sealed_air-2026-09-10-007",
+    "date": "2026-09-10",
+    "companies": [
+      "sealed_air"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sealed Air stock holds as analysts and results stay in view - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNRjJueGp5Q1JuOTJ1QlFtT05DSjloUVZqN2lPOHYzdmJxcDB5bVRxN05PV1MtVGNVdkloSE04dUlwNk12VHY0RnRrZjl1dE5IcHhOR1JkOWY5TkxsMkRlMThGdnNYd3pUeGFZWnY0Nn",
+    "sources": [
+      {
+        "name": "sealed_air",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRjJueGp5Q1JuOTJ1QlFtT05DSjloUVZqN2lPOHYzdmJxcDB5bVRxN05PV1MtVGNVdkloSE04dUlwNk12VHY0RnRrZjl1dE5IcHhOR1JkOWY5TkxsMkRlMThGdnNYd3pUeGFZWnY0NnI3VG9sekpyYmhhdUVULVA3cDBJcF9fTGNKRF9ZYmNKYUFXRkk2UmVVczRQeGlvdGZTZGxLcHlpOUNoWjRENmZLWVIxbUtYR0ZQemwwM1h6QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-09-10-008",
+    "date": "2026-09-10",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Smurfit Westrock, Pratt seek investigation into ‘unfairly traded’ pizza box imports - Packaging Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWXc2ekRoLUZ1bG1KVHpFb3V1aDI0ZklpVTlTWWFmd0pkNDdnOE5FNFRHWENtNjc0SlZpVHFTbWRPck8wUmNrQVJWQWV6eUVhZzc1WWdua2dDekcya2dUbzAxOHJRclM2dkRhM3YwUk",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWXc2ekRoLUZ1bG1KVHpFb3V1aDI0ZklpVTlTWWFmd0pkNDdnOE5FNFRHWENtNjc0SlZpVHFTbWRPck8wUmNrQVJWQWV6eUVhZzc1WWdua2dDekcya2dUbzAxOHJRclM2dkRhM3YwUkhpSVpLVnQzVmZqUHU3bG5rbDdxS0h2WWhBQXBfTjhNZmJzZm8wbjNkSEgzR1l5UHRJZ2xCalNwaTlEcllrSUVkRk93aVVWOWpWOHFoUTVCa1Y?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ball-2026-09-10-009",
+    "date": "2026-09-10",
+    "companies": [
+      "ball",
+      "crown"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ball Corporation, Crown Holdings delegations meet CM Yogi as global can makers advance UP investment plans - The Statesman",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPd3pIVjhtSG5hNlIydlhWMW1tQ293YU1RM1RQaGlVeDdOa3hMQkU0c183X2ZXSk8xNy0xZm95NEN2NnFkM0hBUm9YLXYybzRMbU5UbXZNQmtKbWJtcjVFMkhoUG9GUXp2SXhET3JKYl",
+    "sources": [
+      {
+        "name": "crown",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPd3pIVjhtSG5hNlIydlhWMW1tQ293YU1RM1RQaGlVeDdOa3hMQkU0c183X2ZXSk8xNy0xZm95NEN2NnFkM0hBUm9YLXYybzRMbU5UbXZNQmtKbWJtcjVFMkhoUG9GUXp2SXhET3JKYlFvWTVwRzZMdmZpbV83aEJtNXkwc1NPRU1zdk5YenJ2QzJQdDlxRXJQV0x6Y3ZMUHhxQXpwU19KSFpkMVdVc21GdVpaTTEzdkNQM09ZcVJneTQ5VXlqVFFrSUpfWVFWVE4xT3lWMXhaR2VCR05KWjc2dGVIRnpOblNPVjU1Y0dmMUJTdTBudkJUbNIB_gFBVV95cUxOVXFPcy14UU1iLVZmOHFEYUFsZ0VVWUFHM1BfVklCb051ZWc3bXdYNDFXT2VTZGJsSTVNN3dBTzVYQTlhV0hwTUMxQjQ2MEFtbV9oVXdfMzJLbUNfR0k3aU44YkNEaXNnU1hTS3FCYWVFTTd0emRlT3VOSjRxY2h0QXNWTjVicFBOZmEtb3lsTDRVamVCdjg3ejlCUHVmb3BpQ1FFXzlKS1N0aXZlQUhGOEtVMWVmQktsQUlVUzQ2YkxiUk1tTzNEaXkxdndkQlZlNVdxWFFPd2d3RnRaR2xJX1JCTFNRZGxMcUpza0hfa2dHcG8td3VhTlh0MUdFdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-09-10-010",
+    "date": "2026-09-10",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Smurfit Westrock, Pratt seek investigation into ‘unfairly traded’ pizza box imports",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/8QdiHKBwJf1C1PPWn-fWMe0FgVYYTyTWxrDF1JJ3qCE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TV19waXp6YV9ib3hlc19jb3B5LmpwZw==.web",
+    "sources": [
+      {
+        "name": "packaging_dive",
+        "url": "https://www.packagingdive.com/news/usitc-commerce-pizza-boxes-unfair-trade-duties-smurfit-westrock-pratt-industries/829983/",
         "type": "rss"
       }
     ]
@@ -269,6 +485,46 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/irs-45z-clean-fuel-production-credit-guidance-biogas-rng/829908/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "petco-2026-09-09-012",
+    "date": "2026-09-09",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "FIVE, WOOF Stocks Rise Premarket: Five Below And Petco Get Fresh Wall Street Price Target Boosts Ahead Of Earnings - Stocktwits",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPd1dxNElkMlpNdFgxWG1qUExEQmNTTkFiQ1oyeUlkMnJkQlR3RGI0V2h1OFRodElMT3c3bG1FUDNqRlllTkZ3UlhUeTRXUnBmQ2VJUllBU0xjSktMLUUzNUF6MW82WE5jdEh6WmJzZD",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPd1dxNElkMlpNdFgxWG1qUExEQmNTTkFiQ1oyeUlkMnJkQlR3RGI0V2h1OFRodElMT3c3bG1FUDNqRlllTkZ3UlhUeTRXUnBmQ2VJUllBU0xjSktMLUUzNUF6MW82WE5jdEh6WmJzZDdpS0wySTNXWjNnUDhVeWd5SlNiZUhRSGlZTnY2ZlVtYUdnZ1ZHc1U1cmZXQS1lZEFrNm0ySVZfdndKTk5Hei0zUndyX282ZDdqdmRUeDNvaTZpUjVxVWpzb0hhU1YtdWpzaFp5Wi11UlJNc0k4RzJ1STZDUmtyc0V3WWdIQ2pKZGF2T1huSDQzMG5jM2RzLW9HeUtZV2FaNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "petco-2026-09-09-013",
+    "date": "2026-09-09",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Petco (NASDAQ: WOOF) revenue chief now holds 357,764 shares after tax withholding - stocktitan.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNZGx4eWhSWF94a092Q2xLaXJ4WkFqaWZscWVOM3UzdzhLSjVBZnVwa21jVDROTU1hNGZnNWVPMmt3a1BMUHgzV3lVRG92eFo1emFtUGZqd05HWEduTmVpeGkwUWlRSE1UaTZJZlBQOX",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZGx4eWhSWF94a092Q2xLaXJ4WkFqaWZscWVOM3UzdzhLSjVBZnVwa21jVDROTU1hNGZnNWVPMmt3a1BMUHgzV3lVRG92eFo1emFtUGZqd05HWEduTmVpeGkwUWlRSE1UaTZJZlBQOXhWSWdaVmNzR09GZUxPWmVaUDR1a0dyMUxsdWF0QjJ1a0JFYXo2SV9IX1VPX3F1dk9hWEtlNTJxNkhQVXRPT3pYbmZjZ1J0V1pMZnQ0ekVlV09zQ1VxVFE?oc=5",
         "type": "rss"
       }
     ]
