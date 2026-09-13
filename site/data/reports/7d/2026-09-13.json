@@ -1,0 +1,164 @@
+{
+  "date": "2026-09-13",
+  "date_range": {
+    "start": "2026-09-07",
+    "end": "2026-09-13"
+  },
+  "generated_at": "2026-09-13T13:03:45.195498Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "chewy-2026-09-09-006",
+      "date": "2026-09-09",
+      "title": "Chewy Sinks 11% as Free Cash Flow Miss Overshadows Raised Outlook; Petco Falls 6%, Freshpet Ticks Up - 24/7 Wall St.",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "ball",
+      "company_b": "crown",
+      "co_mention_count": 5,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "vet_spending": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "earnings": {
+      "this_week": 13,
+      "last_week": 17,
+      "week_over_week_change": "-24%",
+      "sentiment_this_week": 0.04
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    },
+    "packaging_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "paper_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "idexx": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 7
+    },
+    "petco": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 2
+    },
+    "intl_paper": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "amcor": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "smurfit": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "crown": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "sealed_air": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "ball": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 71,
+        "last": 84,
+        "change_pct": -15.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-07",
+      "event_count": 10,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-09-08",
+      "event_count": 12,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-09",
+      "event_count": 17,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-09-10",
+      "event_count": 13,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-11",
+      "event_count": 15,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-12",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-13",
+      "event_count": 1,
+      "sentiment_avg": 0.5
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-07 ~ 2026-09-13）共 71 則事件，重點為「Chewy Sinks 11% as Free Cash Flow Miss Overshad...」。愛德士情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "愛德士",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "WOOF",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "國際紙業",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

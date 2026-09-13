@@ -1,5 +1,25 @@
 [
   {
+    "id": "petco-2026-09-13-001",
+    "date": "2026-09-13",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Petco Health and Wellness (NASDAQ:WOOF) Rating Increased to Buy at Wall Street Zen - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRGNRV0pjaUdrbnpsVG5zajFRWWhaRFQ0bU40dmdvemdaUHZFak5LUUsyWFNMUEZVOFB2MFFJVjJSSlU1V3NINzNsZVlVV3BhVmdiWDBybld3aDVvUm9pYnY0V0FISy0xNlZ1NkdLQX",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRGNRV0pjaUdrbnpsVG5zajFRWWhaRFQ0bU40dmdvemdaUHZFak5LUUsyWFNMUEZVOFB2MFFJVjJSSlU1V3NINzNsZVlVV3BhVmdiWDBybld3aDVvUm9pYnY0V0FISy0xNlZ1NkdLQXhkQ3ZOallqdUFhM3FFU0ZLWGpkSXB3NFBrQ1k0cTcxTnk1X2MzZ1Rkc1p2dWpVRVBaZVM0Mnh2Z3NqQkgyOE1jYWtOc3drVFVQUVRJbUVTc0lTeU5VZ094eTZaWEhYZ1V3OVl0djZQdWI4QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "smurfit-2026-09-12-001",
     "date": "2026-09-12",
     "companies": [
@@ -15,6 +35,44 @@
       {
         "name": "smurfit",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQREFLRWE3bHV5UWtEbjdWNHdRcnNEWGhpcjQwd1FJd1UzazlTeUZJZnpCXzdrRk13U0F1aS1LczFXdnBsNG5URXcyS2JVRG5TRDM5aHIxVFp3TWp4djZSTHRReWczLU5jTjQ3bWJ5RWgxaUVNajFtR2RrR2tseV9nZFEwbHEtZmNaS1AxS3JEQzdHQnR2WEczdVhBTnFtS1p6QjBuSEc5ZTI2eWNIMDdoQ1dtR3VwRU45NHNKUXZENmEyS2JVZlB1T1ZsZlLSAdIBQVVfeXFMTzNtVll1enNlekVKeUxtQldHclFPbVBQbmJXRUhKWmw0dDVyOUtiMWk1TXdfZDlmLUZLQkppSWFpOGJKU0RCYmo5OFE3NE5oY2UtaGFMYXRZSnVaVWZEWF9Bd1paWGNfUDBUM2tOZDVqMXUzNk9VWTFRZ1Q1bk00NGhIbHJRTFdNRldkOEFPRUNYSW83N1FZZFMtOGxiUkNWLXpYbXJSbE0xaVhPNWlvckJmOTQzakR0by1YREozMTVldDQ4R0tRLUhFRXhRMXE5Rl9B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "chewy-2026-09-12-002",
+    "date": "2026-09-12",
+    "companies": [
+      "chewy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Chewy vs. MercadoLibre: Which E-Commerce Stock Is a Better Buy in 2026? - fool.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNRDc1RGd6NVRhaWtvX25mc283Nmd6dnIzRHF5SUlEYjl0US13OXg3YWVOdTItbWJVX1luY0RVZjh5el8zU2p1QXIzRWViYnhaZWNROS1rTUFkNXlQZDdYNElWeEVKZkZtRHpZdGV4NT",
+    "sources": [
+      {
+        "name": "chewy",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRDc1RGd6NVRhaWtvX25mc283Nmd6dnIzRHF5SUlEYjl0US13OXg3YWVOdTItbWJVX1luY0RVZjh5el8zU2p1QXIzRWViYnhaZWNROS1rTUFkNXlQZDdYNElWeEVKZkZtRHpZdGV4NTlWLWl3blJTTFh5T1FpV1NuRlM1YWRuLW9tSUl3N0pRd3l6c052dXg4dTlFRU5kVFlOWkF4RDNrOUVyalhxRlVIZExIWXlOUi1Scjlxa2VB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "crown-2026-09-12-003",
+    "date": "2026-09-12",
+    "companies": [
+      "crown"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Crown Holdings Share Price - CCK, RNS News, Articles, Quotes, & Charts (NYSE:CCK) - Proactive financial news",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1FUW5OZk9OZTN3dkFiTkIycEVJMlRwLWMwOWl1VW1lZXM3RlozaEVGQ3hqQXZibmxnalhnUFlhbG11aHUzUDJiNkxLUUVieGNURFI1YTQxNVdLMnFJb19MNHA5d2JyMW16NlJDdzRza0",
+    "sources": [
+      {
+        "name": "crown",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FUW5OZk9OZTN3dkFiTkIycEVJMlRwLWMwOWl1VW1lZXM3RlozaEVGQ3hqQXZibmxnalhnUFlhbG11aHUzUDJiNkxLUUVieGNURFI1YTQxNVdLMnFJb19MNHA5d2JyMW16NlJDdzRza0E2UQ?oc=5",
         "type": "rss"
       }
     ]
@@ -276,6 +334,48 @@
       {
         "name": "packaging_dive",
         "url": "https://www.packagingdive.com/news/jefferies-industrials-international-paper-pca-graphic-packaging/830107/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amcor-2026-09-11-014",
+    "date": "2026-09-11",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [
+      "pet_insurance",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Amcor expands refill packaging portfolio for beauty and personal care - Premium Beauty News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBuRG15Tkh1MUZCcWdrRUZqYUxXRkM4NzF5bV9EZVRRdGlJY2FwaWpLSV90andJRXhMSDY2VEdHNTNEd3dUZ3F6VnVDdHhodlZ1cU1HYTQ1cktCcjNJZE43N01GTWlmbXB6QTlDbFdUeG",
+    "sources": [
+      {
+        "name": "amcor",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuRG15Tkh1MUZCcWdrRUZqYUxXRkM4NzF5bV9EZVRRdGlJY2FwaWpLSV90andJRXhMSDY2VEdHNTNEd3dUZ3F6VnVDdHhodlZ1cU1HYTQ1cktCcjNJZE43N01GTWlmbXB6QTlDbFdUeG5HSkRNa3pKQ3RUemVXQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "crown-2026-09-11-015",
+    "date": "2026-09-11",
+    "companies": [
+      "crown",
+      "ball"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ball Corporation and Crown Holdings plan aluminium can plants in India - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQLWxLbDVrWEdiWk5TaWZtSlJzdHlBM2hRUTBFS0MyR3RoN2oyY1lrXzdNbkJWa21wTTdyMXk3aDlBVFBYV2ZaSWROZjVuU2djeFlyNy1hdG03ZHpKX0Vyak5LeF9aVzBQRlFFSzV2RG",
+    "sources": [
+      {
+        "name": "crown",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLWxLbDVrWEdiWk5TaWZtSlJzdHlBM2hRUTBFS0MyR3RoN2oyY1lrXzdNbkJWa21wTTdyMXk3aDlBVFBYV2ZaSWROZjVuU2djeFlyNy1hdG03ZHpKX0Vyak5LeF9aVzBQRlFFSzV2RGVQT0ZfT2tFeGRPeDYxekk5RGpHcEtfR040Mzk0VzBKczg2RUVwMUd3SkNycUQ3eHRFTHAw?oc=5",
         "type": "rss"
       }
     ]
@@ -846,6 +946,26 @@
     ]
   },
   {
+    "id": "chewy-2026-09-09-017",
+    "date": "2026-09-09",
+    "companies": [
+      "chewy"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Chewy launches AI assistants, benefits from acquisitions in Q2 - Digital Commerce 360",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9hb29rQVFhdEc5bUc1S25BVEJtOXcybk1ZVUxfTXM0bFJSTnpzS3lGQTI3VnppcjJvS1o4c21BdGZjVXBEMmU0dUlabFRmbDRzWC1rZTl5b2hja09MY2FEdzZzMzEwUnVWRnpDMGh6N0",
+    "sources": [
+      {
+        "name": "chewy",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hb29rQVFhdEc5bUc1S25BVEJtOXcybk1ZVUxfTXM0bFJSTnpzS3lGQTI3VnppcjJvS1o4c21BdGZjVXBEMmU0dUlabFRmbDRzWC1rZTl5b2hja09MY2FEdzZzMzEwUnVWRnpDMGh6N0hfOVnSAXhBVV95cUxObVBja0xROVJIUjFxVXl0dGl3OE9GVGd1X1lHZEcteVFXbXE3Y1FnMXNnalBaWXpVN2hmQS1lMk5FWkFJdkh5NFlUelIxOWc4UjZRb3pPc2dqM2paLVY3SWN1M3o5aTFLS1k0bWVFWGl2dmdlVFJwbHY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "intl_paper-2026-09-08-001",
     "date": "2026-09-08",
     "companies": [
@@ -1036,6 +1156,47 @@
       {
         "name": "packaging_dive",
         "url": "https://www.packagingdive.com/news/containerboard-price-fixing-lawsuit-proceed-motion-dismiss-denied/829767/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "zoetis-2026-09-08-011",
+    "date": "2026-09-08",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "vet_spending",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Paws and profits: Zoetis appoints global diagnostics president, NVA names chief medical officer, and more updates - dvm360.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWUV2WnVaNDJzYlBZUkNCRGNveFI5NzdGSEJ1c3pEaG9JOGpkRkttN3NFSHFjamlrTi1DM3U4ZTdURE1EOU5SVnNJdXRpeG45OHVNc0lma29ZSWpaTkM2bzE5bks3VVBIaUhjbDRNY1",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWUV2WnVaNDJzYlBZUkNCRGNveFI5NzdGSEJ1c3pEaG9JOGpkRkttN3NFSHFjamlrTi1DM3U4ZTdURE1EOU5SVnNJdXRpeG45OHVNc0lma29ZSWpaTkM2bzE5bks3VVBIaUhjbDRNY1ZWYTg0cFI2VmQ2X1FSY0M3ZU1XZFpESUsxQVlibDU3YlE2WF9CWGphc2tlSExQM01LR2RvS0dpYUttRjZsamJ2Z0NBOER5cVkwZVpUaEtNZ1RFYkN0VEhnSm40X0V3RDBkb29GMg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "crown-2026-09-08-012",
+    "date": "2026-09-08",
+    "companies": [
+      "crown"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Top Lawyer at Packaging Giant Crown Holdings to Retire - law.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNT08xTmRBVkN4YmJLWVhOVGlfTzJCc28xLXROWTBOOXZHZ2FHeUNETzZJVE5iaDU4UTMzSkJvVFkxNm5ybG9pMXU5akpCejhxM1d3VktvajMzcDF1bFRJQXRJWld3RGMtY0EwT3ptdD",
+    "sources": [
+      {
+        "name": "crown",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT08xTmRBVkN4YmJLWVhOVGlfTzJCc28xLXROWTBOOXZHZ2FHeUNETzZJVE5iaDU4UTMzSkJvVFkxNm5ybG9pMXU5akpCejhxM1d3VktvajMzcDF1bFRJQXRJWld3RGMtY0EwT3ptdDE4VXdaQ2dOVmt3TVNEaWFNcXJHSEloaXg4aVdHZng5V3NMYkNmTGRja2JGVWJDams?oc=5",
         "type": "rss"
       }
     ]

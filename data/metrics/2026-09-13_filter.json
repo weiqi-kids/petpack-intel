@@ -1,0 +1,16 @@
+{
+  "total_raw": 321,
+  "dup_title": 146,
+  "no_date": 0,
+  "too_old": 143,
+  "gate1_fail": 12,
+  "gate2_fail": 12,
+  "passed": 8,
+  "gate2_samples": [
+    "What Is Drawing Fresh Attention To Zoetis (ZTS)? - simplywall.st",
+    "Ten pets will become Trupanion’s faces in 2027. Members have 10 days to enter. - Stock Titan",
+    "Petco Health & Wellness (WOOF) exec now holds 1.1M shares - Stock Titan",
+    "Petco Health & Wellness (WOOF) CLO stock withheld for RSU taxes - Stock Titan",
+    "International Paper (IP) Stock Looks Below Fair Value Even As Sales Stay Weak - simplywall.st"
+  ]
+}
