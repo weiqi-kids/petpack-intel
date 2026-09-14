@@ -1,0 +1,242 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T14:39:05.860539Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "idexx-2026-09-14-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "IDEXX Laboratories stock holds near 52-week low after strong Q2 growth - ad-hoc-news.de",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOUVndm9DZm53dERBby1iLW9DcUttaWx4S3dRWXJLdjRvaThjZEIxWGhBZkdGblVvQzZqQmg3ZHV3dVVENm1BMG5ENFlJRVlOb0RmN19hMnZFUW5kMDZ3WWs5SFNJRjZjYzlCWHdkMVVwc1JIRnliX3BLQjR0NXZXRFZ3bUZvMkc5c2R1NHRiUjNkNkh5X1VZbktmUGtoM0dfU2JWR1UzWDllS0VVS3d4by1XZVVFWjZFeHB6UmRLei04U3hDeVBlN3pCQWJEdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intl_paper-2026-09-14-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper stock gains on BofA Securities upgrade and higher containerboard expectations - ad-hoc-news.de",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "paper_price",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdDFEb2VuWjNwMUJPcWRFQ3YzMUNEUjFnV19iM25yRFdiTzFlRDZMOHdLTGowQ1VRMzY3VUVwbHFYcjNVUW9zZlJTdWV2S0NGLXFxZy1uUWVfd0NOandKWWlQREE1X1lPaTNPeU96Y0h4dnZLSEVWbWJDcEtSVS1nRURxU2VUajJVWjZSSlowRjhwLUc4eEVlNkJIWHJwUm0zaVJRTGpUVEVnVUk4em9ObFllbDI4UThtLVJReHhxTTFuUV9udDR6T0pJUUc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "amcor-2026-09-14-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Amcor, Ge Wu Unveil Inverted Pet Food Cup in China - miragenews.com",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "pet_food",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdmFfUFJHRzRVZGlqMjRHVVJjQXpXUGZlN0k4V1FfdEExMGFIak5iOU1ncXctTU5OQzlhMl9wSmZsM0dGNG5QcjJqd21YSHFOMF9OR2RGTmZXVGJ3TDRWV3hyeTRZbzlkWXdfX0xyRGthQVVPOHQ1cmMwRDBtN3Z5ZzgxYTZ4Zw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sealed_air-2026-09-14-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sealed Air stock steadies as investors weigh recent earnings and valuation - ad-hoc-news.de",
+      "companies": [
+        "sealed_air"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTmQ5UkNaczl0SU8wMXpmWmtWUDlpeGgzYTRZUEloSGN3STI1N2kwRU5Cd1laMm05T1oxd090UlVkT2Z6c0xpQ2FCTEZ0RlZ6cXlXWHVPbXVWRENSdFRRMnk4TDRJRnh2WVVRMVYyQ3ZPZHlhVjJUMDE1SUdHRlFuSlhGUkhVNkpUemRCY0xzZWxxWEdrNmF4a3U2NXhUYmhGaW1rZmRKQ0wxZFFCVm5teldmWjA4dXdldTFVTW5FWVQtOUF6OVMwbkF0Sm1ad2I3bVdF?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "smurfit-2026-09-14-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Smurfit Westrock Named Among TIME’s World’s Best Companies - Ink World Magazine",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2w4T2l1QWZLSW9FNjNKSC1JR0F0bUdwTzNUTV9aOXU5ekxCaFI5Y20tZFhnSW5QMDlVWTV0dGlRZXpoZ1NyRlNYX3duNmlSbmlkV0xZeVFCM29WTXc5NklyNEUwSW5uTjVqMW5oQVc1UkJxdzVvb21IOXFwU2pEbDNBTlNIczktczJFeFlvSlk2RVFlZjA4aXgzTENuQmdqN21pQ3huYw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "paper_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "pet_food": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 2
+      },
+      {
+        "id": "idexx",
+        "count": 1
+      },
+      {
+        "id": "amcor",
+        "count": 1
+      },
+      {
+        "id": "sealed_air",
+        "count": 1
+      },
+      {
+        "id": "smurfit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "paper_price",
+        "count": 1
+      },
+      {
+        "id": "pet_food",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 320,
+    "dup_title": 152,
+    "too_old": 133,
+    "gate1_blocked": 12,
+    "gate2_blocked": 13,
+    "passed": 10,
+    "pass_rate": "6.0%",
+    "gate2_block_rate": "7.7%",
+    "gate2_samples": [
+      "What Is Drawing Fresh Attention To Zoetis (ZTS)? - simplywall.st",
+      "About IDEXX Laboratories Inc rStock - Coinbase",
+      "Ten pets will become Trupanion’s faces in 2027. Members have 10 days to enter. - Stock Titan",
+      "About International Paper Company rStock - Coinbase",
+      "International Paper (IP) Stock Looks Below Fair Value Even As Sales Stay Weak - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為國際紙業、愛德士、安姆科相關動態：「IDEXX Laboratories stock holds near 52-week low after str...」。主要關注主題為財報、紙價、寵物食品，市場情緒中性。",
+    "signals": [
+      {
+        "text": "IDEXX Laboratories stock holds near 52-week low after strong Q2 growth - ad-h...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "International Paper stock gains on BofA Securities upgrade and higher contain...（紙價、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "紙價話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

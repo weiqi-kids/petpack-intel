@@ -1,5 +1,145 @@
 [
   {
+    "id": "idexx-2026-09-14-001",
+    "date": "2026-09-14",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "IDEXX Laboratories stock holds near 52-week low after strong Q2 growth - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOOUVndm9DZm53dERBby1iLW9DcUttaWx4S3dRWXJLdjRvaThjZEIxWGhBZkdGblVvQzZqQmg3ZHV3dVVENm1BMG5ENFlJRVlOb0RmN19hMnZFUW5kMDZ3WWs5SFNJRjZjYzlCWHdkMV",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOUVndm9DZm53dERBby1iLW9DcUttaWx4S3dRWXJLdjRvaThjZEIxWGhBZkdGblVvQzZqQmg3ZHV3dVVENm1BMG5ENFlJRVlOb0RmN19hMnZFUW5kMDZ3WWs5SFNJRjZjYzlCWHdkMVVwc1JIRnliX3BLQjR0NXZXRFZ3bUZvMkc5c2R1NHRiUjNkNkh5X1VZbktmUGtoM0dfU2JWR1UzWDllS0VVS3d4by1XZVVFWjZFeHB6UmRLei04U3hDeVBlN3pCQWJEdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-09-14-002",
+    "date": "2026-09-14",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "paper_price",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "International Paper stock gains on BofA Securities upgrade and higher containerboard expectations - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQdDFEb2VuWjNwMUJPcWRFQ3YzMUNEUjFnV19iM25yRFdiTzFlRDZMOHdLTGowQ1VRMzY3VUVwbHFYcjNVUW9zZlJTdWV2S0NGLXFxZy1uUWVfd0NOandKWWlQREE1X1lPaTNPeU96Y0",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdDFEb2VuWjNwMUJPcWRFQ3YzMUNEUjFnV19iM25yRFdiTzFlRDZMOHdLTGowQ1VRMzY3VUVwbHFYcjNVUW9zZlJTdWV2S0NGLXFxZy1uUWVfd0NOandKWWlQREE1X1lPaTNPeU96Y0h4dnZLSEVWbWJDcEtSVS1nRURxU2VUajJVWjZSSlowRjhwLUc4eEVlNkJIWHJwUm0zaVJRTGpUVEVnVUk4em9ObFllbDI4UThtLVJReHhxTTFuUV9udDR6T0pJUUc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-09-14-003",
+    "date": "2026-09-14",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "International Paper stock heads into the open after analyst upgrade boost - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX3NTMUlEd2dXZlBCdi10RGJFdi1nVE5lLUFVeTlZOW5MN0VSX1FWRFpEZXY5YlVEUGtWNk13bFBTdlhVVnNxVzdFRmN2U0oxQlF2dHVJUFNUX3NIQTZQUnlEaGxLRk9Cc2U2WjVGV0",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX3NTMUlEd2dXZlBCdi10RGJFdi1nVE5lLUFVeTlZOW5MN0VSX1FWRFpEZXY5YlVEUGtWNk13bFBTdlhVVnNxVzdFRmN2U0oxQlF2dHVJUFNUX3NIQTZQUnlEaGxLRk9Cc2U2WjVGV0hodUpVZDBPOUxMT3o0QUJHVTZycDM0eEhYb1BkU0pCaG1pamtVSEtod1JURUMtRTBzX2RWbVdncG5TUTNmR2NOVVM2VW1oN1dYQTU3dG8xdnVkOElxQXlUTk01MC1IbGU1Smc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amcor-2026-09-14-004",
+    "date": "2026-09-14",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [
+      "pet_food",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Amcor, Ge Wu Unveil Inverted Pet Food Cup in China - miragenews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOdmFfUFJHRzRVZGlqMjRHVVJjQXpXUGZlN0k4V1FfdEExMGFIak5iOU1ncXctTU5OQzlhMl9wSmZsM0dGNG5QcjJqd21YSHFOMF9OR2RGTmZXVGJ3TDRWV3hyeTRZbzlkWXdfX0xyRG",
+    "sources": [
+      {
+        "name": "amcor",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdmFfUFJHRzRVZGlqMjRHVVJjQXpXUGZlN0k4V1FfdEExMGFIak5iOU1ncXctTU5OQzlhMl9wSmZsM0dGNG5QcjJqd21YSHFOMF9OR2RGTmZXVGJ3TDRWV3hyeTRZbzlkWXdfX0xyRGthQVVPOHQ1cmMwRDBtN3Z5ZzgxYTZ4Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sealed_air-2026-09-14-005",
+    "date": "2026-09-14",
+    "companies": [
+      "sealed_air"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sealed Air stock steadies as investors weigh recent earnings and valuation - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTmQ5UkNaczl0SU8wMXpmWmtWUDlpeGgzYTRZUEloSGN3STI1N2kwRU5Cd1laMm05T1oxd090UlVkT2Z6c0xpQ2FCTEZ0RlZ6cXlXWHVPbXVWRENSdFRRMnk4TDRJRnh2WVVRMVYyQ3",
+    "sources": [
+      {
+        "name": "sealed_air",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTmQ5UkNaczl0SU8wMXpmWmtWUDlpeGgzYTRZUEloSGN3STI1N2kwRU5Cd1laMm05T1oxd090UlVkT2Z6c0xpQ2FCTEZ0RlZ6cXlXWHVPbXVWRENSdFRRMnk4TDRJRnh2WVVRMVYyQ3ZPZHlhVjJUMDE1SUdHRlFuSlhGUkhVNkpUemRCY0xzZWxxWEdrNmF4a3U2NXhUYmhGaW1rZmRKQ0wxZFFCVm5teldmWjA4dXdldTFVTW5FWVQtOUF6OVMwbkF0Sm1ad2I3bVdF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-09-14-006",
+    "date": "2026-09-14",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Smurfit Westrock Named Among TIME’s World’s Best Companies - Ink World Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2w4T2l1QWZLSW9FNjNKSC1JR0F0bUdwTzNUTV9aOXU5ekxCaFI5Y20tZFhnSW5QMDlVWTV0dGlRZXpoZ1NyRlNYX3duNmlSbmlkV0xZeVFCM29WTXc5NklyNEUwSW5uTjVqMW5oQV",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2w4T2l1QWZLSW9FNjNKSC1JR0F0bUdwTzNUTV9aOXU5ekxCaFI5Y20tZFhnSW5QMDlVWTV0dGlRZXpoZ1NyRlNYX3duNmlSbmlkV0xZeVFCM29WTXc5NklyNEUwSW5uTjVqMW5oQVc1UkJxdzVvb21IOXFwU2pEbDNBTlNIczktczJFeFlvSlk2RVFlZjA4aXgzTENuQmdqN21pQ3huYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "crown-2026-09-14-007",
+    "date": "2026-09-14",
+    "companies": [
+      "crown"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is New India Can Plant Altering The Investment Case For Crown Holdings (CCK)? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVTk4SUdtUlM1NlNoWS1scXkzR0tXeU5VTk40WEN6alhjUThNb2hpVHBXamFlX21JMTBvcTh3QXpnaXJiYTNFNkFEQkNJanpxZ3YwLXNiM1liam5lMl9hcGZfcW1jR1hHaUwxaG4xT1",
+    "sources": [
+      {
+        "name": "crown",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVTk4SUdtUlM1NlNoWS1scXkzR0tXeU5VTk40WEN6alhjUThNb2hpVHBXamFlX21JMTBvcTh3QXpnaXJiYTNFNkFEQkNJanpxZ3YwLXNiM1liam5lMl9hcGZfcW1jR1hHaUwxaG4xT1Z6MUFJZDl5UWRXdGtYMS1Ic2dUamRSRHBaS1ctZkRUSkdMZVBFamtld0MzajFKY1JLUnVsNndYajVwYjJGMXgxSG1YUWQwWk9IdlFZLWZNajU4bjc2bncxbFVWQVEyQUVs0gHQAUFVX3lxTE5VOThJR21SUzU2U2hZLWxxeTNHS1d5TlVOTjRYQ3pqWGNROE1vaGlUcFdqYWVfbUkxMG9xOHdBemdpcmJhM0U2QURCQ0lqenFndjAtc2IzWWJqbmUyX2FwZl9xbWNHWEdpTDFobjFPVnoxQUlkOXlRZFd0a1gxLUhzZ1RqZFJEcFpLVy1mRFRKR0xlUEVqa2V3QzNqMUpjUktSdWw2d1hqNXBiMkYxeDFIbVhRZDBaT0h2UVktZk1qNThuNzZudzFsVVZBUTJBRWw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "petco-2026-09-13-001",
     "date": "2026-09-13",
     "companies": [
@@ -73,6 +213,24 @@
       {
         "name": "crown",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FUW5OZk9OZTN3dkFiTkIycEVJMlRwLWMwOWl1VW1lZXM3RlozaEVGQ3hqQXZibmxnalhnUFlhbG11aHUzUDJiNkxLUUVieGNURFI1YTQxNVdLMnFJb19MNHA5d2JyMW16NlJDdzRza0E2UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "chewy-2026-09-12-004",
+    "date": "2026-09-12",
+    "companies": [
+      "chewy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Chewy vs. MercadoLibre: Which E-Commerce Stock Is a Better Buy in 2026? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNRDc1RGd6NVRhaWtvX25mc283Nmd6dnIzRHF5SUlEYjl0US13OXg3YWVOdTItbWJVX1luY0RVZjh5el8zU2p1QXIzRWViYnhaZWNROS1rTUFkNXlQZDdYNElWeEVKZkZtRHpZdGV4NT",
+    "sources": [
+      {
+        "name": "chewy",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRDc1RGd6NVRhaWtvX25mc283Nmd6dnIzRHF5SUlEYjl0US13OXg3YWVOdTItbWJVX1luY0RVZjh5el8zU2p1QXIzRWViYnhaZWNROS1rTUFkNXlQZDdYNElWeEVKZkZtRHpZdGV4NTlWLWl3blJTTFh5T1FpV1NuRlM1YWRuLW9tSUl3N0pRd3l6c052dXg4dTlFRU5kVFlOWkF4RDNrOUVyalhxRlVIZExIWXlOUi1Scjlxa2VB?oc=5",
         "type": "rss"
       }
     ]
@@ -623,6 +781,42 @@
       {
         "name": "crown",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaHAzcXRuc2RvOFRBZGUtb09KM3FqazlLcGtHeU9EZVhmMm9wMkU1TFkzMXVTa082TU51STFBdVVIbWg4MUFnWld4aGlBV1hXUzhGb2ZPQzl0LWplQWdUVThXUVdCZGQxUzZlbW9tbDlSaTNSeTA2Z3dldWVDODJ1cG9pVzRuQzB6R1NHbkRDQlA1V2JhRkUzT1l0UXM1QjhCTmNxRUpfb2ZvN293b3lSMl9pTDFqWTh3aXdfYWdVMjBJUktRemRJYTY5NWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "idexx-2026-09-10-014",
+    "date": "2026-09-10",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Is IDEXX Laboratories Stock Underperforming the Dow? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ1ZSd1c4UVB1ajVqcVNwbWZBd1MtSkhscU1jUDU0cHhpWWdmMFRBOXo0ZlpseFNZMnZMbzNMajVUc1Zma0NUY0RmNUdHaU90RGtoTEpyX3FSVlBtdDBONHlRRTZxX3BxUURqaGpRRn",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ1ZSd1c4UVB1ajVqcVNwbWZBd1MtSkhscU1jUDU0cHhpWWdmMFRBOXo0ZlpseFNZMnZMbzNMajVUc1Zma0NUY0RmNUdHaU90RGtoTEpyX3FSVlBtdDBONHlRRTZxX3BxUURqaGpRRnZxdHcwTXgtTGVGUExBbF9KSEdLdlRkNEY4aWJoSVAyNzRGZy1mUWxsd2dZVnJIT2VEd252aDIxY1FpbGdNN0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amcor-2026-09-10-015",
+    "date": "2026-09-10",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Amcor Unveils Skincare Packaging at London 2026 - miragenews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVEEzME1EdVRoY0JCZ0g5VjY2TXYwd3FMZFV2R0JlY1JWa1c5QVhvbUkzNHFJMmJnZjV2MVB0ME5GaUNPNktyVHdTVWxqcDgzTDB3NkJnSmZDX3VUazhBY1R0b1JucmRDRzdCM1ZrN3",
+    "sources": [
+      {
+        "name": "amcor",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVEEzME1EdVRoY0JCZ0g5VjY2TXYwd3FMZFV2R0JlY1JWa1c5QVhvbUkzNHFJMmJnZjV2MVB0ME5GaUNPNktyVHdTVWxqcDgzTDB3NkJnSmZDX3VUazhBY1R0b1JucmRDRzdCM1ZrN3dnN3YzV0lHRFBuMXRZV25FLVRvNjVHQVc3ZE5v?oc=5",
         "type": "rss"
       }
     ]
