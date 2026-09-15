@@ -1,0 +1,96 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T13:04:04.511594Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intl_paper-2026-09-15-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper stock gains as BofA Securities raises price target to 46 dollars - ad-hoc-news.de",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNmZEMGtONHBOT2VXajFwU2dHWG1QVHJQZlF4OXlqVDAyR1RfTUtJR2hjR0pMQ3hRSzFDN0tRcnR1X3NMMUZYMk1FeUU2RWdod2ZMeEk1dlRCY1Fab1NNX29mWVMxcnhLbXVtdkJtQ2dTLWxDMHkwc21BLWdac0pKa2RNRl92Q09WdTF5NUF6SXlWUk5fbTFUVzBJdXRVYUgxcGNVeHVhd0tCcU9vN3Q0Z05tMkFCdDkyMWs5NG02QTJYbzNYMC05azdCSjlYSXBqN3c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 321,
+    "dup_title": 145,
+    "too_old": 134,
+    "gate1_blocked": 14,
+    "gate2_blocked": 13,
+    "passed": 15,
+    "pass_rate": "8.5%",
+    "gate2_block_rate": "7.4%",
+    "gate2_samples": [
+      "What Is Drawing Fresh Attention To Zoetis (ZTS)? - simplywall.st",
+      "About IDEXX Laboratories Inc rStock - Coinbase",
+      "Ten pets will become Trupanion’s faces in 2027. Members have 10 days to enter. - Stock Titan",
+      "International Paper (IP) Stock Looks Below Fair Value Even As Sales Stay Weak - simplywall.st",
+      "Amcor expands rigid and flexible refill range for personal care products - Packaging Insights"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為國際紙業相關動態：「International Paper stock gains as BofA Securities raises...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "International Paper stock gains as BofA Securities raises price target to 46 ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "國際紙業為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
