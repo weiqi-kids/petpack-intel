@@ -1,5 +1,46 @@
 [
   {
+    "id": "idexx-2026-09-16-001",
+    "date": "2026-09-16",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "vet_spending",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "IDEXX Laboratories Acquires CoVetAI to Advance Veterinary Workflow Intelligence - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaENwd3A0WGNIUzhqRllXbzhQYXlEU0FHQ3lWczYwTW9JZ0loS0I5emg2bkQ5ajB0YTVmZTY2RUVGaWNoX3FUNkpCdkV3XzJPRW1NaHoyOVA0ODctT2oycV83RDBBTHpJWGZTY3J3ZU",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaENwd3A0WGNIUzhqRllXbzhQYXlEU0FHQ3lWczYwTW9JZ0loS0I5emg2bkQ5ajB0YTVmZTY2RUVGaWNoX3FUNkpCdkV3XzJPRW1NaHoyOVA0ODctT2oycV83RDBBTHpJWGZTY3J3ZU1USHZzejQ1UTRBcjBYWUZuejNoVmpGT0FDc0FZWklNdkhFZTFlZGVZd1NwS3lnX1JiX2E1MWRWenE1emlEMnlLUnE1M052d3BuQ3ZBUmUxQUd0T3dtTlE2QUQyTEpXbDhELUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sealed_air-2026-09-16-002",
+    "date": "2026-09-16",
+    "companies": [
+      "sealed_air"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sealed Air stock trades sideways as investors look beyond recent earnings - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSzBPRE9kdTE3anBKR1RWWU9PWUxORU9lUTZ3ejIyMEFRYjJ5ZWM3dmlmZThrY0JWU3JxMG5Cb0lfd1FOVFFaTnN1T1RHRHFBMTdRVUVaUHc5bDF5M2ExRTBxZ3lYMmxESllLd3E5Yk",
+    "sources": [
+      {
+        "name": "sealed_air",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSzBPRE9kdTE3anBKR1RWWU9PWUxORU9lUTZ3ejIyMEFRYjJ5ZWM3dmlmZThrY0JWU3JxMG5Cb0lfd1FOVFFaTnN1T1RHRHFBMTdRVUVaUHc5bDF5M2ExRTBxZ3lYMmxESllLd3E5YkpCX2VZSEJrV3hzZFFtNVFQQzB5d2o1NFZhVlFfazJjaGJwTTVZYm12LTBmcl9lVzVwb2c2V3dvZllYandhYUFyRF8zVlc1bXpsa0pGbnRnY3l5SVpLT2lqd3dyQU9uNjhuQ1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "intl_paper-2026-09-15-001",
     "date": "2026-09-15",
     "companies": [
@@ -15,6 +56,208 @@
       {
         "name": "intl_paper",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNmZEMGtONHBOT2VXajFwU2dHWG1QVHJQZlF4OXlqVDAyR1RfTUtJR2hjR0pMQ3hRSzFDN0tRcnR1X3NMMUZYMk1FeUU2RWdod2ZMeEk1dlRCY1Fab1NNX29mWVMxcnhLbXVtdkJtQ2dTLWxDMHkwc21BLWdac0pKa2RNRl92Q09WdTF5NUF6SXlWUk5fbTFUVzBJdXRVYUgxcGNVeHVhd0tCcU9vN3Q0Z05tMkFCdDkyMWs5NG02QTJYbzNYMC05azdCSjlYSXBqN3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "zoetis-2026-09-15-002",
+    "date": "2026-09-15",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Zoetis Introduces Blood Parasite Detection and Enhanced Cell Classification to Vetscan Imagyst | Vet Candy News - Vet Candy",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTm1teUJVeEdWY2hMYTJONjJiU3ExLTk3RFozaWFVemVSM3JGUXV6TXlBNU10eVRwaTEyZ1RYdFRLaTNMZEpwRlQzWFYyRGZDM3RyVUV3U0s3dk1vNDd0UUVMa05DZzdvWXpmVExsVD",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTm1teUJVeEdWY2hMYTJONjJiU3ExLTk3RFozaWFVemVSM3JGUXV6TXlBNU10eVRwaTEyZ1RYdFRLaTNMZEpwRlQzWFYyRGZDM3RyVUV3U0s3dk1vNDd0UUVMa05DZzdvWXpmVExsVDdualFhX2x2RkNlalRrZEg4RWdWVmZPdEFJOV9QVktxVVFmU3V0WjkwbDZGT2NWOG1PMjYwQ3dqcWl3MnF6YXNDcmI0VFZnRDVuX0J3SEdNMng5bnpOa0xsTXRCMHJ5MS1QaUtFbm5ZZE1sWHFNWW9SYmJaVTUzamV4T0pLcGVfMWNRUUhNS29MVTN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "idexx-2026-09-15-003",
+    "date": "2026-09-15",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "IDEXX Laboratories stock holds firm as valuation stays rich - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxONUlyWVBjaXUwNXR4OWR6U2lXNUNZbmV2b3NCaEExUkN1amw3b21mREdna1FuZTJGYkE3MG1Mdm1NQ19Ub0Q4QTRvakF2Y0hPRUFtZ2NLd3BBZWpvaFp6d20xV2d4Yi1Sa2JER3JGUD",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONUlyWVBjaXUwNXR4OWR6U2lXNUNZbmV2b3NCaEExUkN1amw3b21mREdna1FuZTJGYkE3MG1Mdm1NQ19Ub0Q4QTRvakF2Y0hPRUFtZ2NLd3BBZWpvaFp6d20xV2d4Yi1Sa2JER3JGUDBOY1BWQU9jYlpSSWRKcndGVWxSd3pKNk5BWmJaUWZqT2V6MXAtQjBYSXJPRk95RjJUZXUwZ2dJcTVXck81Q1hIRGJNVXZjcy1OZUZGV3BXVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trupanion-2026-09-15-004",
+    "date": "2026-09-15",
+    "companies": [
+      "trupanion"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "How Investors Are Reacting To Trupanion (TRUP) Earnings Beat - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPenp1Tzl6U1c5bDJYWlNXYWxwVjdfcFVyU1NiYXlhMlJ1RnVEU0FXdHp3MHhQVE11UFlIcDJRdXQteFBCMFZVS25VT1FEVjVtbzRmZ0xCTzJjZDF6alJCMy1xSFA4cnlfbEllRFhNOV",
+    "sources": [
+      {
+        "name": "trupanion",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPenp1Tzl6U1c5bDJYWlNXYWxwVjdfcFVyU1NiYXlhMlJ1RnVEU0FXdHp3MHhQVE11UFlIcDJRdXQteFBCMFZVS25VT1FEVjVtbzRmZ0xCTzJjZDF6alJCMy1xSFA4cnlfbEllRFhNOVB4RzhYNUVCanRPN3VRYndLeDNsQXRrdVZuWHI3Q05RQ3BDWHdTRXNtUE5rbFJxRzZtcWpUaWxtZXhLNjFzcklMSS03YXR1RnlRZHpqX2hWQW4wQ21FT294cTJLUdIBywFBVV95cUxPenp1Tzl6U1c5bDJYWlNXYWxwVjdfcFVyU1NiYXlhMlJ1RnVEU0FXdHp3MHhQVE11UFlIcDJRdXQteFBCMFZVS25VT1FEVjVtbzRmZ0xCTzJjZDF6alJCMy1xSFA4cnlfbEllRFhNOVB4RzhYNUVCanRPN3VRYndLeDNsQXRrdVZuWHI3Q05RQ3BDWHdTRXNtUE5rbFJxRzZtcWpUaWxtZXhLNjFzcklMSS03YXR1RnlRZHpqX2hWQW4wQ21FT294cTJLUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "petco-2026-09-15-005",
+    "date": "2026-09-15",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Petco Health and Wellness Company Inc aStock Price, AWOOF Price, Live Charts, and Marketcap - Coinbase",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzI2ZnF1cXlLNTJQMEFYOFRLZ2FCMFlvVlllOVhOeUhySEJ3Qkx0XzRlaWlEUUw1cGVTVVNvMUxkWmxjUVltajh2Q2ZZQ2dDX0VyTm9odE9ZMk84XzNGdjVRRFptSUljQUMxaUs2cm",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzI2ZnF1cXlLNTJQMEFYOFRLZ2FCMFlvVlllOVhOeUhySEJ3Qkx0XzRlaWlEUUw1cGVTVVNvMUxkWmxjUVltajh2Q2ZZQ2dDX0VyTm9odE9ZMk84XzNGdjVRRFptSUljQUMxaUs2cmRaVTZHNTlWNU1LVWVHMGt5YWNaaUpkeFlX?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "petco-2026-09-15-006",
+    "date": "2026-09-15",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "pet_food",
+      "pet_insurance",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Petco did not disclose the cardiac risks of WholeHearted grain-free dog food, a new class action lawsuit claims - Claim Depot",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPaU5DMFFBZ3pUUXdyZExpTUFCV0RiTTJlNjRURi05elhaOEdpRUJfaEhqX0JqOE1nQWlFQXVBQjlLcmJ0b29Od0tSS0trQjNJbjZmMDRpQVFOc3ZJLUpQeDV1MF9VVU9BS2FIX2lvem",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaU5DMFFBZ3pUUXdyZExpTUFCV0RiTTJlNjRURi05elhaOEdpRUJfaEhqX0JqOE1nQWlFQXVBQjlLcmJ0b29Od0tSS0trQjNJbjZmMDRpQVFOc3ZJLUpQeDV1MF9VVU9BS2FIX2lvem9xdUxxekdSaGFfVWJTbnJMSEJhN2ZucTMwSzNNWF8zdGtBWF93RS1CR0FEUENBY1RrSndNa1BzQ3JwWkQ3NVRfaVdfZlZZTG8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sealed_air-2026-09-15-007",
+    "date": "2026-09-15",
+    "companies": [
+      "sealed_air"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sealed Air stock holds steady as investors weigh latest earnings and packaging demand - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOejdwU20wNjBnX2hIdHB5dHR5QV9ZOU5iWm5iUkRrXzljNC10XzFiUjJ5U2ZTaXJjNThpdmxtcmVfUUZ2Z3ctM1lMQmhKV0NlTE9lZU80ekhudFhpeXloQ2lobWFTYm9aMHZKV3RiOH",
+    "sources": [
+      {
+        "name": "sealed_air",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOejdwU20wNjBnX2hIdHB5dHR5QV9ZOU5iWm5iUkRrXzljNC10XzFiUjJ5U2ZTaXJjNThpdmxtcmVfUUZ2Z3ctM1lMQmhKV0NlTE9lZU80ekhudFhpeXloQ2lobWFTYm9aMHZKV3RiOHV2MGtaSjF5RVVwVmdHTGUxdXNsbm1CZzNBSlBoOXNZa3VwZlhqd19xaThaOEIxV2lrYlRoTDMycm83SU1mYWtaMFN5eXg1OXZ0bXdEUjBUSU94Vi16NUs1YWg5OA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-09-15-008",
+    "date": "2026-09-15",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Smurfit Westrock CEO Anthony P J Smurfit's Holdings Increase to 1,728,994 Shares Following Award - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd0Y5dVFmWVBCaDVELUR1UnpqY01UTnFmeWw1TzFSYUtYdlFXNTgycE5na2p6Q2NoakxLQnU5dUtlTlF5eXRZSnRxTnVhb2NJRGlSUnBxUm00YW16d2lWTFhwZWN5VThTajVJZEV4bU",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd0Y5dVFmWVBCaDVELUR1UnpqY01UTnFmeWw1TzFSYUtYdlFXNTgycE5na2p6Q2NoakxLQnU5dUtlTlF5eXRZSnRxTnVhb2NJRGlSUnBxUm00YW16d2lWTFhwZWN5VThTajVJZEV4bURkVXBvNncwNjB1eFJCV1BEVFBPb1BuWmd2Xzh2cThYM1dyMk9xR21ZSXlicm56SXAyVlNlekNqeEhUQXBXLVRjY09KamV3TXAyR2lESzEyNE1kTlRCYXBxNnZhaDk5LUhIWEVSZnFQTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-09-15-009",
+    "date": "2026-09-15",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Smurfit Westrock Director Kaisa Hietala Receives 48-Share Award, Representing 0.5% of Holdings - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSGhJbENpTDNCRGNBYzVHS0lCbXpYSGw3M0ZjOVpnZlRiOVJITTdUbDNMQ3BGZGEwS2huUmV5S0luRGdacDA3RVhGaVRkUXFweVJxNm5KQUJXM3BXVWhqNE9kRWFmUkdUTlI3QzF5d0",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSGhJbENpTDNCRGNBYzVHS0lCbXpYSGw3M0ZjOVpnZlRiOVJITTdUbDNMQ3BGZGEwS2huUmV5S0luRGdacDA3RVhGaVRkUXFweVJxNm5KQUJXM3BXVWhqNE9kRWFmUkdUTlI3QzF5d01QMmxoQm5nUWdmczR3YnZUOWVmaUcxSUJHdzR5Zm1ENC1mVXJWcE1Ia0ZhT0ZmRUJDdk1XRzNnQUc2MmhlSjJQOGVJcjZKdWhfb3kwNEVCa04wNllZOENBbzRvWWxwcVYtUFlPNg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-09-15-010",
+    "date": "2026-09-15",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Smurfit Westrock Grants 35 Shares at No Cost to Henao Alvaro (NYSE: SW) - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNOEFBTzNybWpFLXZ4b1dyTkR0Y0hJS2lXVlpWN0haZEZKaWpTM0VjNzZHVE0zakR5bE9HbXpOSGY1Q2x0V3RXOU93T3Y0S1hrY2JiZDFqdWVFUVNBbGhCYjB5MkJNZjZRRDFyUmNrMT",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOEFBTzNybWpFLXZ4b1dyTkR0Y0hJS2lXVlpWN0haZEZKaWpTM0VjNzZHVE0zakR5bE9HbXpOSGY1Q2x0V3RXOU93T3Y0S1hrY2JiZDFqdWVFUVNBbGhCYjB5MkJNZjZRRDFyUmNrMThWY3dWX2FxN2c4MEgzV2dyRndBMnF4ellUVnNGdS1tdHpYUERTcGdJOVI5QzcybTJ5YUtwSFo0bFBvd1ZoTzcxZXdMZy1Jdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "crown-2026-09-15-011",
+    "date": "2026-09-15",
+    "companies": [
+      "crown"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Crown Holdings (CCK) Could Be 18% Undervalued After Its India Plant Groundbreaking - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNWlF1SVIyOHdQRlJMbVF4QzEzTUlOSzcweDRoTUNWS3JVRkZkZnNQQ2lUMEVFNzAzZ1Zyb0g2WVI3bzNNWEZDVmVOMm0tMHE5SzJuTDVfbURwNkJidHc2ZFlXbjlvbWF6OERORW5XVm",
+    "sources": [
+      {
+        "name": "crown",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWlF1SVIyOHdQRlJMbVF4QzEzTUlOSzcweDRoTUNWS3JVRkZkZnNQQ2lUMEVFNzAzZ1Zyb0g2WVI3bzNNWEZDVmVOMm0tMHE5SzJuTDVfbURwNkJidHc2ZFlXbjlvbWF6OERORW5XVmp2T0NOcTh5eE1jbGpOVWJnNGJTbnphSHo1dVZIX1dFbnk5STRBSzlDXy0xS29WYzJlakNrWS13U19hT3lUdlZYMDlRTzJSQllRVnFIX1NkRFl3Tk9OR3EyaElqd9IB0AFBVV95cUxQSS1wYWhCTjhRUEdESzlKZE9oZXhheHd0ZktBTXVGa2JVY3ZGbFp0SXRyNkFZajFZc1RSTkJ5SHpGQ2JEMWdmN1dMdTFiNmpiZG5BVzFRV3BJQWViN2FWYjFFa3B1Y3lvZzFWTTNoQ0I2dGgwQ3VJU1lKdFhjd1ZMd2lSbWZ3cWNTVEF0RU1MWjZaQTZ1TFRDamVjdmF0WVZyQkdrVnNSaGpiRngxQU9zblEzY3ZvcklObzR4LXd1VFlVZzc1cVc5WUw4cGNLNzNv?oc=5",
         "type": "rss"
       }
     ]
@@ -410,6 +653,24 @@
       {
         "name": "smurfit",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUXUwaU4yNlEyTDlUeFdsSUI5aThyOVc0VzFVbnJvbmNESzVtblpTZUt6M2QzZ2dRU0l1b0ZLc1hHQ0pIWWpFaF96cnY4dmRZMnJUV1pKa2FFWDJWUVVyNjJfX0o5OTl0cHExMzNma0tZY2xYYVpkLUQwOTZ2MF8ySVNlWElJZG5DZ1N1a3JVVjRtNUhwcjFtQUVkRW5BRGt1YXJmdi1QbTNpQ3VoRVZMeTBR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-09-14-021",
+    "date": "2026-09-14",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Smurfit Westrock (SW) lifts LATAM CEO’s stock awards - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQSzZsanpPWmVjOEtxcGN0Wkc0azBwRUUwTHl1WTJ6TW04bjZDUG9maWZ4QzVFT2twWFZMN2diVkdydGZ6T291YlNOY0dsaUhKOFRxX1FmS2pzNl93UVJQSmQzbjZnblE0ZV9CV3BvZG",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSzZsanpPWmVjOEtxcGN0Wkc0azBwRUUwTHl1WTJ6TW04bjZDUG9maWZ4QzVFT2twWFZMN2diVkdydGZ6T291YlNOY0dsaUhKOFRxX1FmS2pzNl93UVJQSmQzbjZnblE0ZV9CV3BvZGtFVHFDRHJhWDFSUGJEbEdEYzhhQmtWTGpHRnpnU1pPcE1aM0pKd05fTWdscXZveDR4cXdPTW1tNXZrU2Q0OVVYSWFn?oc=5",
         "type": "rss"
       }
     ]
@@ -1112,6 +1373,24 @@
       {
         "name": "trupanion",
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV1dJYzJ4TDhYZlBMd1RzWjNBMXAwdXFfcnhHZ2hRVVV6SUtXeUVteFVvZTJ1eGhhdUtIaXFDSnc4WkE2S1I1bkpXU3EtZDJFa2J3TW9helJuQ2h2VDUtTXZqc3RIYU1yZmwtYmpEaV9PZ2lvZ3RqSDBvdzJ5eFpING9jT09jaGtYc08tSUkwd2N4Y0lyb0NEcFl3cUxWLVdkblMwVjJoU3NzX3hkOEQzWXdCci1kMjA3WERKNFktOTRHZzNPUEZ2OWE1TVAxMlZhUjVWYlhOVXBmMHFKY09JRER2eWtIUXY20gHuAUFVX3lxTE1fbmtaeGU5TkV6ek9YN0NXYXk3elhrR0R0MHh5TEc2aHR4WGlqbUM2cTBPczZtelhva1B5elF3UkdrYWVXcGk0VzkyUF9kZXJyZ0J0UXVGLTQySkdqRWJVbXd4MXEzdzd1X21oMGEtOENnbFd0NU85V2VyNmVfdVh4dUc5QWdQZEZVTml2WGw1QUt2b3J2YXlQOEJWZ2RpS01sQUVzSWsyZV9uSmQtcGtUWG5yZ295T1loRW9TM3VMNVp1bnZSNGxkRHJ6Sk0tM1NXUUhNclozUTFmRWNYNTdZMEt3elNreDdpRVFoaWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "idexx-2026-09-10-017",
+    "date": "2026-09-10",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Insider Alert: IDEXX Director Lawrence Kingsley Sells $1.2 Million of Stock - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNb1k0eXVKUi1reUZEajVDcmVnX3c4QVBhWWpJeXBIbTNXTGI3eS1KT2hGdDFZblNOOGtfcE1JbGw0bVVWNnVwRnBMTndsWGFfMTVHblhabF9nVzY1N1JITmFuQXBFcXhpc1U0VWlKZE",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb1k0eXVKUi1reUZEajVDcmVnX3c4QVBhWWpJeXBIbTNXTGI3eS1KT2hGdDFZblNOOGtfcE1JbGw0bVVWNnVwRnBMTndsWGFfMTVHblhabF9nVzY1N1JITmFuQXBFcXhpc1U0VWlKZEJZM1AyR2cxbUdXaUQwMFJ6bDllRC0zZElITnJkMmlYU05JSi0yTmtYUTVtUWhQSVJsdnc2RWVPcFc3SC1xblVGZ2hkNEp2UTNVWUlXczl3cDZpdV9l?oc=5",
         "type": "rss"
       }
     ]

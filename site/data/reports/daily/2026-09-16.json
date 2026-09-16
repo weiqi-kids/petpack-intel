@@ -1,0 +1,139 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T13:01:27.315492Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "idexx-2026-09-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "IDEXX Laboratories Acquires CoVetAI to Advance Veterinary Workflow Intelligence - Business Wire",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "vet_spending",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaENwd3A0WGNIUzhqRllXbzhQYXlEU0FHQ3lWczYwTW9JZ0loS0I5emg2bkQ5ajB0YTVmZTY2RUVGaWNoX3FUNkpCdkV3XzJPRW1NaHoyOVA0ODctT2oycV83RDBBTHpJWGZTY3J3ZU1USHZzejQ1UTRBcjBYWUZuejNoVmpGT0FDc0FZWklNdkhFZTFlZGVZd1NwS3lnX1JiX2E1MWRWenE1emlEMnlLUnE1M052d3BuQ3ZBUmUxQUd0T3dtTlE2QUQyTEpXbDhELUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sealed_air-2026-09-16-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sealed Air stock trades sideways as investors look beyond recent earnings - ad-hoc-news.de",
+      "companies": [
+        "sealed_air"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSzBPRE9kdTE3anBKR1RWWU9PWUxORU9lUTZ3ejIyMEFRYjJ5ZWM3dmlmZThrY0JWU3JxMG5Cb0lfd1FOVFFaTnN1T1RHRHFBMTdRVUVaUHc5bDF5M2ExRTBxZ3lYMmxESllLd3E5YkpCX2VZSEJrV3hzZFFtNVFQQzB5d2o1NFZhVlFfazJjaGJwTTVZYm12LTBmcl9lVzVwb2c2V3dvZllYandhYUFyRF8zVlc1bXpsa0pGbnRnY3l5SVpLT2lqd3dyQU9uNjhuQ1E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "vet_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "idexx",
+        "count": 1
+      },
+      {
+        "id": "sealed_air",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "vet_spending",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 321,
+    "dup_title": 142,
+    "too_old": 136,
+    "gate1_blocked": 17,
+    "gate2_blocked": 12,
+    "passed": 14,
+    "pass_rate": "7.8%",
+    "gate2_block_rate": "6.7%",
+    "gate2_samples": [
+      "What Is Drawing Fresh Attention To Zoetis (ZTS)? - simplywall.st",
+      "About IDEXX Laboratories Inc rStock - Coinbase",
+      "Ten pets will become Trupanion’s faces in 2027. Members have 10 days to enter. - Stock Titan",
+      "International Paper at Jefferies Global Industrials Conference 2026: focus tightens - Investing.com",
+      "Sealed Air stock heads into the open after a muted move - ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為愛德士、希悅爾相關動態：「IDEXX Laboratories Acquires CoVetAI to Advance Veterinary...」。主要關注主題為財報、獸醫支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "IDEXX Laboratories Acquires CoVetAI to Advance Veterinary Workflow Intelligen...（獸醫支出、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Sealed Air stock trades sideways as investors look beyond recent earnings - a...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
