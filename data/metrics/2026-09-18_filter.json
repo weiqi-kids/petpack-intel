@@ -1,0 +1,16 @@
+{
+  "total_raw": 322,
+  "dup_title": 141,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 15,
+  "gate2_fail": 14,
+  "passed": 13,
+  "gate2_samples": [
+    "The AVA secures $150,000 Zoetis Foundation grant - petnews.com.au",
+    "Zoetis: An Undervalued Compounder Hiding In Plain Sight (NYSE:ZTS) - Seeking Alpha",
+    "What Is Drawing Fresh Attention To Zoetis (ZTS)? - simplywall.st",
+    "Zoetis Stock: New Competition Changes The Story, But Not Yet The Rating (NYSE:ZTS) - Seeking Alpha",
+    "About IDEXX Laboratories Inc rStock - Coinbase"
+  ]
+}

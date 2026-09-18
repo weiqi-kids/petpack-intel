@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T12:36:20.119830Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intl_paper-2026-09-18-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper stock heads into the open after a 1.2% gain - AD HOC NEWS",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVVlJVG9OV0xEbmZFNEhSR3VYUnlJTzZsQ3plZFdOOGQ0ZEdUOVVkMzF1TFVJenNmVHpPSjJfQzROdWIwd2RFdFhpLUhYQ3VEeEk5bGZ1TFQ4WV9adkZ4c2RZRDVVVkYzMmFYQ3VIVUNlRmxSZEpXSFA5UHBHOUdlN1I1RVZzcjljcjVGeHczOU92WlFIN0lSbENId25BN0hSYlZ3QWtUNW9MMEpPNEl5YUFVelhhMGk3Q0tNbmhqb2trbFVVMkItMDNDVVB6UQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "crown-2026-09-18-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Analyst recommendations: Coca-Cola, Crown Holdings, Netflix, Tyson Foods, Dell… - marketscreener.com",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb2lFVVNtVXFrVGxrM3ZDV3BaRmRtaUw3R2xYNlZJc1djVHhkUmhJQ2hsa05TUnhiTmpIdC1MRm5YY2MxT2NITWx3QmhIZko5ZG42MlFjanA1Z0FxdVl0Sl80QkNpUEpuN0gwZnFFRUdZUy1LekdsakFPRFF0dGRLWHhBZTZwVTVhaUdha1JmUzdDUF9tMmVoZEVPUkMwTDB0LTVYT0FWUVpWQy1RV21VMXFWWFZYVEZYNWdfQTMycHg0TnpseHA0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "crown-2026-09-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JPMorgan upgrades Crown Holdings stock rating on valuation - Investing.com",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNXV5cGFkWkFDU3N2UXNmSGQyd1Z2cnNwNFVsUVBfdzc0REZrSjVyT3pPZy1pN0dFOVJjc3dBYTdYRFh1QTFfYlEzNDNDUkdMSlBJOW5qOHItcWdycnY0MWlsZExrT3dwVEI3eTdNdUJYellBc2U1OUsxWURVSHBmZnpkbjFZWW9GZlVzVGJTTEJsNkQyclAwb1QwQVpmdnRodXRCNldKVzY2MUhEVmFGcVN6WUZCUmJNTFE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "crown",
+        "count": 2
+      },
+      {
+        "id": "intl_paper",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 322,
+    "dup_title": 141,
+    "too_old": 139,
+    "gate1_blocked": 15,
+    "gate2_blocked": 14,
+    "passed": 13,
+    "pass_rate": "7.2%",
+    "gate2_block_rate": "7.7%",
+    "gate2_samples": [
+      "The AVA secures $150,000 Zoetis Foundation grant - petnews.com.au",
+      "Zoetis: An Undervalued Compounder Hiding In Plain Sight (NYSE:ZTS) - Seeking Alpha",
+      "What Is Drawing Fresh Attention To Zoetis (ZTS)? - simplywall.st",
+      "Zoetis Stock: New Competition Changes The Story, But Not Yet The Rating (NYSE:ZTS) - Seeking Alpha",
+      "About IDEXX Laboratories Inc rStock - Coinbase"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為皇冠、國際紙業相關動態：「International Paper stock heads into the open after a 1.2...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "International Paper stock heads into the open after a 1.2% gain - AD HOC NEWS（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Analyst recommendations: Coca-Cola, Crown Holdings, Netflix, Tyson Foods, Del...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
