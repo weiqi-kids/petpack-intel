@@ -1,0 +1,148 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T12:13:21.525131Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "idexx-2026-09-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Should Faecal Dx Expansion Require Action From IDEXX Stock Investors? - simplywall.st",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb0pBYWJhYmQ2ZlF6Q25nd3ZBeDVmdlNxLWt3NVNtQVJ6NUdBVWpLbGhfZ3dyM002RzN5Q0prMGJ2VEt0bFpDazJfX3FOR3l2OTJvVGFjSW5VakRnV040dUFtRlI0cnNRQzJlWDQtQUtEb0UwV2tEbVYwY2VndGVrbm0tOXpUcWNmZlM3UnVvT29vVzlEbG14bDJXQ3RHcmFlMDhoQ1dKbGtTZ2tPLTRBSExHWmZwY0dtZlpERldIMkJzTXZpUzh3M0h4X25EU2M5cGpHVGZR0gHbAUFVX3lxTE1BNDktSmNwSTlUenhqSi1yZDh4UkRua2ZTZzUtQmY2X21iX2VPaXhGeFloQklYVEJGWGpGYUtLR0hGYlNFT2dBSkJaS0VLbFJIWjllc0FoMFRpUFZaM2FuQ0dhZU9FYWR1NXBnVGc0NG80cTZ1a1pxdl9SVXg4T2c5UTBTSy1yVXlLcmJNOUpwXzB3eXZzY09jSVdSa01DVll6OTJmMDBLOW1zMFRvRFRub2UtVzdZWXh0cVJNWS1DRnQ0Q25KemJxWUwyMXZWc0xFTUhjS0VZeFVRTQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "smurfit-2026-09-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Weekly Recap: Roland DG & Smurfit Westrock Top This Week’s Stories - Ink World Magazine",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLU1LeG9VNVN2bThqNTgxQ2dpUmRJU29kV2dEem1Hdlp5dHBtWXBVOHNuTFVEd1cyUGswQmdsZVl0bkRKNEVrUVlJRVIyVURHZWVFaHhubExTRHBvRUdXUm5henBDdDVabnBOQUZaM3A3YUlOVGthNUZJanl3NGdTZDlKVkViYWd3N2VXR0RVc3BMNXhJLWxaaHFBN0R2eWl4cVBaVERhRUl0aDFRZGpN?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "crown-2026-09-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Crown Breaks Ground on First India Beverage Can Plant - Machine Maker",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONWJKamNEQkJNYkdRZEZyVnp1Sk5mUUZCWFB0MWh2TmZlSU8xdmlDTk8tbEZIaUhHRXdfWGhyLW4ybGE0MGdvaDUtaGdodmhFT3RaRWwtNmNvckdVQmhjbWFSNmRKdXQxenNhWU9hcVh3b0V5dDBod3l5aDVzdFl3Y1BoeU4zbk4xN1RfV1AzWlA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "idexx",
+        "count": 1
+      },
+      {
+        "id": "smurfit",
+        "count": 1
+      },
+      {
+        "id": "crown",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 322,
+    "dup_title": 143,
+    "too_old": 138,
+    "gate1_blocked": 14,
+    "gate2_blocked": 13,
+    "passed": 14,
+    "pass_rate": "7.8%",
+    "gate2_block_rate": "7.3%",
+    "gate2_samples": [
+      "Zoetis: An Undervalued Compounder Hiding In Plain Sight (NYSE:ZTS) - Seeking Alpha",
+      "Zoetis Stock: New Competition Changes The Story, But Not Yet The Rating (NYSE:ZTS) - Seeking Alpha",
+      "Why Is the Market Reassessing IDEXX Laboratories (IDXX)? - Kalkine Media",
+      "IDEXX Expands Faecal Dx Antigen Testing Platform in the United Kingdom with Taeniid Tapeworm Detecti",
+      "About IDEXX Laboratories Inc rStock - Coinbase"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為愛德士、斯莫菲特、皇冠相關動態：「Should Faecal Dx Expansion Require Action From IDEXX Stoc...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Should Faecal Dx Expansion Require Action From IDEXX Stock Investors? - simpl...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Weekly Recap: Roland DG & Smurfit Westrock Top This Week’s Stories - Ink Worl...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
