@@ -1,0 +1,16 @@
+{
+  "total_raw": 322,
+  "dup_title": 152,
+  "no_date": 0,
+  "too_old": 133,
+  "gate1_fail": 14,
+  "gate2_fail": 14,
+  "passed": 9,
+  "gate2_samples": [
+    "Zoetis: An Undervalued Compounder Hiding In Plain Sight (NYSE:ZTS) - Seeking Alpha",
+    "Zoetis Stock: New Competition Changes The Story, But Not Yet The Rating (NYSE:ZTS) - Seeking Alpha",
+    "Why Is the Market Reassessing IDEXX Laboratories (IDXX)? - Kalkine Media",
+    "IDEXX Expands Faecal Dx Antigen Testing Platform in the United Kingdom with Taeniid Tapeworm Detecti",
+    "About IDEXX Laboratories Inc rStock - Coinbase"
+  ]
+}

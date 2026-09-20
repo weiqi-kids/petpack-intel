@@ -1,0 +1,76 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T12:49:10.320187Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "idexx-2026-09-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "IDEXX Laboratories stock gains attention after CoVetAI deal and Stifel Buy rating - ad-hoc-news.de",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMGJtS3pIVVRWVFhZUGhuNlB1d3FwSm9YMDA5ZWV5cXhsUzRfdzBKbzRaREo3YjNKdi1kREJET1RhblpPdkRJUjlpLUE2ei04SlhLZkJQNzQ5TEhHczE3UGg3RnZSZ3p6cUhTZzJlMUs4bGR2cVlQanNGQWNmSXRPT0E4UUNRZDhiR2xFWlZkUGlvZ0ZaaVNoWkR0enJJMVRQOXMtd05DMlB3UGdER2RUQkllX3UwOFhRWFpaeFlLMDdfWDA3WGtVTkhqd2phYWp5OGV3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "idexx",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 322,
+    "dup_title": 152,
+    "too_old": 133,
+    "gate1_blocked": 14,
+    "gate2_blocked": 14,
+    "passed": 9,
+    "pass_rate": "5.3%",
+    "gate2_block_rate": "8.2%",
+    "gate2_samples": [
+      "Zoetis: An Undervalued Compounder Hiding In Plain Sight (NYSE:ZTS) - Seeking Alpha",
+      "Zoetis Stock: New Competition Changes The Story, But Not Yet The Rating (NYSE:ZTS) - Seeking Alpha",
+      "Why Is the Market Reassessing IDEXX Laboratories (IDXX)? - Kalkine Media",
+      "IDEXX Expands Faecal Dx Antigen Testing Platform in the United Kingdom with Taeniid Tapeworm Detecti",
+      "About IDEXX Laboratories Inc rStock - Coinbase"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為愛德士相關動態：「IDEXX Laboratories stock gains attention after CoVetAI de...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "IDEXX Laboratories stock gains attention after CoVetAI deal and Stifel Buy ra...",
+        "level": "green"
+      },
+      {
+        "text": "愛德士為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
