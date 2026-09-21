@@ -1,5 +1,23 @@
 [
   {
+    "id": "sealed_air-2026-09-21-001",
+    "date": "2026-09-21",
+    "companies": [
+      "sealed_air"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Packaging is slowing launches down, but leaders have a plan to fix it",
+    "summary": "<p>Packaging is slowing launches. See how leaders are fixing the bottlenecks.</p>",
+    "sources": [
+      {
+        "name": "packaging_dive",
+        "url": "https://www.packagingdive.com/spons/packaging-is-slowing-launches-down-but-leaders-have-a-plan-to-fix-it/830371/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "idexx-2026-09-20-001",
     "date": "2026-09-20",
     "companies": [
@@ -8,6 +26,24 @@
     "topics": [],
     "impact": "neutral",
     "title": "IDEXX Laboratories stock gains attention after CoVetAI deal and Stifel Buy rating - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMGJtS3pIVVRWVFhZUGhuNlB1d3FwSm9YMDA5ZWV5cXhsUzRfdzBKbzRaREo3YjNKdi1kREJET1RhblpPdkRJUjlpLUE2ei04SlhLZkJQNzQ5TEhHczE3UGg3RnZSZ3p6cUhTZzJlMU",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMGJtS3pIVVRWVFhZUGhuNlB1d3FwSm9YMDA5ZWV5cXhsUzRfdzBKbzRaREo3YjNKdi1kREJET1RhblpPdkRJUjlpLUE2ei04SlhLZkJQNzQ5TEhHczE3UGg3RnZSZ3p6cUhTZzJlMUs4bGR2cVlQanNGQWNmSXRPT0E4UUNRZDhiR2xFWlZkUGlvZ0ZaaVNoWkR0enJJMVRQOXMtd05DMlB3UGdER2RUQkllX3UwOFhRWFpaeFlLMDdfWDA3WGtVTkhqd2phYWp5OGV3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "idexx-2026-09-20-002",
+    "date": "2026-09-20",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "IDEXX Laboratories stock gains attention after CoVetAI deal and Stifel Buy rating - AD HOC NEWS",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMGJtS3pIVVRWVFhZUGhuNlB1d3FwSm9YMDA5ZWV5cXhsUzRfdzBKbzRaREo3YjNKdi1kREJET1RhblpPdkRJUjlpLUE2ei04SlhLZkJQNzQ5TEhHczE3UGg3RnZSZ3p6cUhTZzJlMU",
     "sources": [
       {
@@ -126,6 +162,26 @@
     ],
     "impact": "neutral",
     "title": "Sealed Air stock delisted as CD&R takeover closes at 42.15 dollars - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbFJQNV8zRnFxMlBaakhVekRJNWtITGN1azYtMDNPbUJ1OVhIVlBhclB1eDEtaHpWck1xSmEwZ2pCM2MzQ3BuSERJR2hfX1ktRkRBLWFZWFFfM0kyaG56dVlVd0JhX3NHMVhhd0xKbm",
+    "sources": [
+      {
+        "name": "sealed_air",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbFJQNV8zRnFxMlBaakhVekRJNWtITGN1azYtMDNPbUJ1OVhIVlBhclB1eDEtaHpWck1xSmEwZ2pCM2MzQ3BuSERJR2hfX1ktRkRBLWFZWFFfM0kyaG56dVlVd0JhX3NHMVhhd0xKbmxkNE1XTEtYLTlrT0dLbjFkNTQ3M3oyeHlZV0U1OUVFVFJmb05IYXdEZDBNMmp4NTRQV3ZrbU05ZmV3MUxmMDJ6Zk1WbzN1amNSX1ItZXZRSGNXbFhKQk5NcQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sealed_air-2026-09-19-007",
+    "date": "2026-09-19",
+    "companies": [
+      "sealed_air"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sealed Air stock delisted as CD&R takeover closes at 42.15 dollars - AD HOC NEWS",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbFJQNV8zRnFxMlBaakhVekRJNWtITGN1azYtMDNPbUJ1OVhIVlBhclB1eDEtaHpWck1xSmEwZ2pCM2MzQ3BuSERJR2hfX1ktRkRBLWFZWFFfM0kyaG56dVlVd0JhX3NHMVhhd0xKbm",
     "sources": [
       {
@@ -617,6 +673,26 @@
       {
         "name": "intl_paper",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc1NRZXZaZng2emExa3BwLVFRX1o2SFBDNmFoaUhRODl3X3NIQUpBWEF0Nnh3SUhXMlo4eXEwUzRWMGdlbXdLVktRMFA3d2RRSm5iLXJ0OENCa3pxeGxwZHRJV3FVRXBHalZnSjR5OW03WWVuRkp6U05vZWtxSXBpek5QczJ4elpOLV9DZXFPRlNXSC1VT04yeXVFcm0zZzBqcUQ4TTBONTV1ZEFMN3hNVjVEWHNhNl9lUlVBdEVuQjhNSTNVcHNLYkgydklwb01T?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-09-17-013",
+    "date": "2026-09-17",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Paper Stock: Buy or Sell in September? - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU0djc3poVE41SUp5UFl6SkNvVTByT180bkhndXQ2RVN3RmlWS0xnQ2ZYQm8zRkJ3ZWszZW44Rl9WbVVvS2RaTi0xd3R6b0w3Wk12am5MclZsZGV0VFJWSUs0WkhpWXk5dDlVOTVDNV",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU0djc3poVE41SUp5UFl6SkNvVTByT180bkhndXQ2RVN3RmlWS0xnQ2ZYQm8zRkJ3ZWszZW44Rl9WbVVvS2RaTi0xd3R6b0w3Wk12am5MclZsZGV0VFJWSUs0WkhpWXk5dDlVOTVDNVhRdVUyOXFrWEQ5eW04c1pmSDhRdk81WTA4bVJmVGpGdnNmVDRid3Z4NVVPUVVBaDd4cnlsS2k5Y2ZjdHU4STdId3pzazNPSENoVW9IUTRFNE1rRHFQSHBhM2hpX0diTjlORFRF?oc=5",
         "type": "rss"
       }
     ]
@@ -1151,6 +1227,46 @@
       {
         "name": "sealed_air",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOejdwU20wNjBnX2hIdHB5dHR5QV9ZOU5iWm5iUkRrXzljNC10XzFiUjJ5U2ZTaXJjNThpdmxtcmVfUUZ2Z3ctM1lMQmhKV0NlTE9lZU80ekhudFhpeXloQ2lobWFTYm9aMHZKV3RiOHV2MGtaSjF5RVVwVmdHTGUxdXNsbm1CZzNBSlBoOXNZa3VwZlhqd19xaThaOEIxV2lrYlRoTDMycm83SU1mYWtaMFN5eXg1OXZ0bXdEUjBUSU94Vi16NUs1YWg5OA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "petco-2026-09-15-015",
+    "date": "2026-09-15",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Goldman Sachs Maintains Petco Health and Wellness(WOOF.US) With Hold Rating, Maintains Target Price $4.3 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxObEJrbUR4b2xIbVI0V0pvdGp1NHRDT2gzbmk5eVNrc3JLeGtNRDA0dnQ3WEpQd3lESk9OWkhzQVI0b2pldlNwU2N4S09TT2JYMlRPcEh6blE3bm5iTGRGT1gwNjBpQXNURjA2WG5tZl",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObEJrbUR4b2xIbVI0V0pvdGp1NHRDT2gzbmk5eVNrc3JLeGtNRDA0dnQ3WEpQd3lESk9OWkhzQVI0b2pldlNwU2N4S09TT2JYMlRPcEh6blE3bm5iTGRGT1gwNjBpQXNURjA2WG5tZlVweVkzSFB6bkRLUmMyLXhaNjF5ZG8tR1N3bTNJR2Y4NHNMWFl6WFNtYWdFTWY2WUFhTGFtMk5PS0QwekFO?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "petco-2026-09-15-016",
+    "date": "2026-09-15",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Petco Health and Wellness Company Inc aStock Price, AWOOF Price, Live Charts, and Marketcap - coinbase.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOOFBISXlKX2o0SXpJV0R5b3pkNHdiRVdlejRzQlpBZWY1NnI0cXUyOUF0WkdOYU9WUDdBcXdzREFXTW01a1JycE5WRkRodVhIZS05MU9UeUhUQ3U4STBFc2tHMnUtdTMyYy00dUxOc1",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOFBISXlKX2o0SXpJV0R5b3pkNHdiRVdlejRzQlpBZWY1NnI0cXUyOUF0WkdOYU9WUDdBcXdzREFXTW01a1JycE5WRkRodVhIZS05MU9UeUhUQ3U4STBFc2tHMnUtdTMyYy00dUxOc1U5UWdHV2tLcWs4QU44SDdHaw?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,76 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T14:46:28.934137Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sealed_air-2026-09-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Packaging is slowing launches down, but leaders have a plan to fix it",
+      "companies": [
+        "sealed_air"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.packagingdive.com/spons/packaging-is-slowing-launches-down-but-leaders-have-a-plan-to-fix-it/830371/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "sealed_air",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 322,
+    "dup_title": 151,
+    "too_old": 138,
+    "gate1_blocked": 12,
+    "gate2_blocked": 15,
+    "passed": 6,
+    "pass_rate": "3.5%",
+    "gate2_block_rate": "8.8%",
+    "gate2_samples": [
+      "Zoetis: An Undervalued Compounder Hiding In Plain Sight (NYSE:ZTS) - Seeking Alpha",
+      "Zoetis Stock: New Competition Changes The Story, But Not Yet The Rating (NYSE:ZTS) - Seeking Alpha",
+      "IDEXX Laboratories Highlights Diagnostic Pipeline, Reaffirms Long-Term Growth Targets - Yahoo Financ",
+      "Why Is the Market Reassessing IDEXX Laboratories (IDXX)? - Kalkine Media",
+      "IDEXX Expands Faecal Dx Antigen Testing Platform in the United Kingdom with Taeniid Tapeworm Detecti"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為希悅爾相關動態：「Packaging is slowing launches down, but leaders have a pl...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Packaging is slowing launches down, but leaders have a plan to fix it",
+        "level": "green"
+      },
+      {
+        "text": "希悅爾為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
