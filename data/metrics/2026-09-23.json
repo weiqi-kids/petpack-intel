@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-23",
+  "total_events": 6,
+  "by_company": {
+    "chewy": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "petco": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "intl_paper": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sealed_air": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "smurfit": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "crown": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "vet_spending": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
