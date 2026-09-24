@@ -1,0 +1,236 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T13:06:20.384985Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intl_paper-2026-09-24-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "International Paper stock reports a Q2 revenue decline - AD HOC NEWS",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLWRoWjZkdHJRaWZuRDZwai14X2w3V1ltZVlIeWQwbFVUSFlfTUgyMWdwejdxeGpRSmxDNDg2bHI3N2pFb2VDOXJKMWhHY0V4NGdNWkh0YklJUDE2STFCd3k0Q1FJUW5RXzNyeVc0bTJhRXNkY1N4Zmp4TVM0amdsMHd4TG0xSVhUVmtuOVZPZG5JQXdvNWZzTXd1cVVnTE1FZVRyM3IyZGZicE1JRVpoTWZoR2VkNXlP?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "idexx-2026-09-24-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "IDEXX Laboratories (IDXX) Could Be 26% Undervalued Following UK Faecal Dx Expansion - simplywall.st",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ2dYaXBtOVdFRi1EVVJkOFB1T3hGOHppRzhlMThzTXMxWXlMVlRpTFNKSm56Umk3UEZNM3lDcmNxM01mV0hmOXo4NDNSM1NUeVVjdGNuNXY3LWhnMVhlT0FwOXp4YmNGd3FPUll2SHVNZTBoVFR6dDBGMS1iYV9KczdGdEU2OEd2ZmVEcG5MNmFOR2dmdnczNVRVa2FQRTdHVDZuRnV5LUpacy1TUkJTcFMwX0FxQ2lIRkRFVnlDekRpQ2RxV2s2TTVLbVN5U3A4cWlaQTBsMnlfWFnSAdsBQVVfeXFMUENnWGlwbTlXRUYtRFVSZDhQdU94Rjh6aUc4ZTE4c01zMVl5TFZUaUxTSkpuelJpN1BGTTN5Q3JjcTNNZldIZjl6ODQzUjNTVHlVY3RjbjV2Ny1oZzFYZU9BcDl6eGJjRndxT1JZdkh1TWUwaFRUenQwRjEtYmFfSnM3RnRFNjhHdmZlRHBuTDZhTkdnZnZ3MzVUVWthUEU3R1Q2bkZ1eS1KWnMtU1JCU3BTMF9BcUNpSEZERVZ5Q3pEaUNkcVdrNk01S21TeVNwOHFpWkEwbDJ5X1hZ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-24-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Analysts Offer Insights on Consumer Cyclical Companies: AutoZone (AZO) and Lowe’s (LOW) - The Globe and Mail",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRlJJTE5pdmZlRUdvNzEwc2p4NDJKdGRfSWZjVzRwRWFwMk9xYWJndlp6a1d4NktHLXVZX251ODJmRTJOMGcxNzctNWtKZTFZVURvSW5EanVHS19tVTB4MnBXTFF6MlA5VzVOUUQwQWdoMW9uY2QyRDdrajhyd1pUZHVjb3JiVHMxYjRRY1oyYlVaQkV2Y202Sm5vTFZjZlVNOTBDVnY1RVRqVmJUeGpFbTBrQ3kyLTJRUTEwSjVvRS03dWlhRTRDNVRJVzJZT0E2QlZFb2NpNjNCaXVuQmpUbDdPNHJLS0Q5RkN0SE9iVnRzd3FQQmNPMFdYWQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "intl_paper-2026-09-24-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper Company (IP) Stock Forecasts - Yahoo Finance",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ2FCNDF6bWhPTWtlV1BkaVZGUUdfMVRQQ052VFpqTlBVdG5yY21TZnJNcDI2ckxmNWp6eVVmY2kzYWhHQXA4MmlEclJPLVg0cVhNSWZyeTBreFg4anBCTDIyMndmemdEelpKNDEyQ1RvXy14QXI5ckl2TXhfR3RUOXp0SVdvTTk0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "intl_paper-2026-09-24-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper stock heads into the open after a 2.87 percent drop - AD HOC NEWS",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNmpaazJsS1hvdE1ia2lHNzkxV01admp5eC1oMklTMTJTQ2RPR2pRYXV4ODVzY0dkNW8xdzZMVEM4MHhzNmFIRHlGZnRjbkhUbHg1M3ZTbTVTZHNJOGo0WkdEUkJJUkp1cnhMRUZ5OS1aVU9XMHQ1c0xrYTFNb2R3NU1xQVI5QUtrYnl4VWdBVC1sYnpCWF9tTU03ZjUxLUdMVDlBUWV2SmhIcmhVUHFkYmZISjlfblYyeHJvWkNfX2pPeEFTZF9fV0dDSzF6TFE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.11,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "pet_food": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 3
+      },
+      {
+        "id": "smurfit",
+        "count": 2
+      },
+      {
+        "id": "zoetis",
+        "count": 1
+      },
+      {
+        "id": "idexx",
+        "count": 1
+      },
+      {
+        "id": "sealed_air",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "pet_food",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 318,
+    "dup_title": 121,
+    "too_old": 139,
+    "gate1_blocked": 15,
+    "gate2_blocked": 15,
+    "passed": 28,
+    "pass_rate": "14.2%",
+    "gate2_block_rate": "7.6%",
+    "gate2_samples": [
+      "Should Burry Buy In Require Action From Zoetis Stock Investors? - simplywall.st",
+      "Zoetis: An Undervalued Compounder Hiding In Plain Sight (NYSE:ZTS) - Seeking Alpha",
+      "Why Is the Market Reassessing IDEXX Laboratories (IDXX)? - Kalkine Media",
+      "Chewy vs. Coupang: Which E-Commerce Stock Is a Better Buy in 2026? - The Motley Fool",
+      "JPMorgan Adjusts Price Target on International Paper to $62 From $61, Maintains Overweight Rating - "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為國際紙業、斯莫菲特、碩騰相關動態：「International Paper stock reports a Q2 revenue decline - ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "International Paper stock reports a Q2 revenue decline - AD HOC NEWS（財報）",
+        "level": "red"
+      },
+      {
+        "text": "IDEXX Laboratories (IDXX) Could Be 26% Undervalued Following UK Faecal Dx Exp...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 318,
+  "dup_title": 121,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 15,
+  "gate2_fail": 15,
+  "passed": 28,
+  "gate2_samples": [
+    "Should Burry Buy In Require Action From Zoetis Stock Investors? - simplywall.st",
+    "Zoetis: An Undervalued Compounder Hiding In Plain Sight (NYSE:ZTS) - Seeking Alpha",
+    "Why Is the Market Reassessing IDEXX Laboratories (IDXX)? - Kalkine Media",
+    "Chewy vs. Coupang: Which E-Commerce Stock Is a Better Buy in 2026? - The Motley Fool",
+    "JPMorgan Adjusts Price Target on International Paper to $62 From $61, Maintains Overweight Rating - "
+  ]
+}
