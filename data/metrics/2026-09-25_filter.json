@@ -1,0 +1,16 @@
+{
+  "total_raw": 319,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 131,
+  "gate1_fail": 19,
+  "gate2_fail": 15,
+  "passed": 23,
+  "gate2_samples": [
+    "Zoetis renews Human-Animal Bond Certification scholarship - Vet Times",
+    "Should Burry Buy In Require Action From Zoetis Stock Investors? - simplywall.st",
+    "Why Is the Market Reassessing IDEXX Laboratories (IDXX)? - Kalkine Media",
+    "Can Autoship and Health Growth Support Chewy Stock's Valuation? - TradingView",
+    "Chewy (CHWY) vs. Petco (WOOF): Proven Growth Story or Turnaround Bet? - Yahoo Finance Singapore"
+  ]
+}
