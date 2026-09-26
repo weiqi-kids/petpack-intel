@@ -1,0 +1,16 @@
+{
+  "total_raw": 318,
+  "dup_title": 130,
+  "no_date": 0,
+  "too_old": 137,
+  "gate1_fail": 19,
+  "gate2_fail": 12,
+  "passed": 20,
+  "gate2_samples": [
+    "Why Is the Market Reassessing IDEXX Laboratories (IDXX)? - Kalkine Media",
+    "Chewy vs. Coupang: Which E-Commerce Stock Is a Better Buy in 2026? - fool.com",
+    "International Paper stock last at USD 35.03, up 0.43 percent in New York trading - AD HOC NEWS",
+    "JPMorgan Adjusts Price Target on International Paper to $62 From $61, Maintains Overweight Rating - ",
+    "Is Smurfit Westrock Set to Gain From Its Recent Portfolio Actions? - TradingView"
+  ]
+}
