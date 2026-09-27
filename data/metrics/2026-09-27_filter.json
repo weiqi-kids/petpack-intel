@@ -1,0 +1,16 @@
+{
+  "total_raw": 318,
+  "dup_title": 140,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 21,
+  "gate2_fail": 10,
+  "passed": 12,
+  "gate2_samples": [
+    "Chewy vs. Coupang: Which E-Commerce Stock Is a Better Buy in 2026? - fool.com",
+    "Form 4 Petco Health and Wellness Company Inc For: 25 September - Investing.com India",
+    "JPMorgan Adjusts Price Target on International Paper to $62 From $61, Maintains Overweight Rating - ",
+    "International Paper Co. stock underperforms Tuesday when compared to competitors despite daily gains",
+    "Is Smurfit Westrock Set to Gain From Its Recent Portfolio Actions? - Yahoo Finance"
+  ]
+}

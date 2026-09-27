@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T13:28:58.510283Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 318,
+    "dup_title": 140,
+    "too_old": 135,
+    "gate1_blocked": 21,
+    "gate2_blocked": 10,
+    "passed": 12,
+    "pass_rate": "6.7%",
+    "gate2_block_rate": "5.6%",
+    "gate2_samples": [
+      "Chewy vs. Coupang: Which E-Commerce Stock Is a Better Buy in 2026? - fool.com",
+      "Form 4 Petco Health and Wellness Company Inc For: 25 September - Investing.com India",
+      "JPMorgan Adjusts Price Target on International Paper to $62 From $61, Maintains Overweight Rating - ",
+      "International Paper Co. stock underperforms Tuesday when compared to competitors despite daily gains",
+      "Is Smurfit Westrock Set to Gain From Its Recent Portfolio Actions? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-09-27 無寵物經濟 + 包裝產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
