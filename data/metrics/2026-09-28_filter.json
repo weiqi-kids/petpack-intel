@@ -1,0 +1,16 @@
+{
+  "total_raw": 317,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 127,
+  "gate1_fail": 20,
+  "gate2_fail": 10,
+  "passed": 15,
+  "gate2_samples": [
+    "Should Burry Buy In Require Action From Zoetis Stock Investors? - simplywall.st",
+    "Chewy vs. Coupang: Which E-Commerce Stock Is a Better Buy in 2026? - The Motley Fool",
+    "JPMorgan Adjusts Price Target on International Paper to $62 From $61, Maintains Overweight Rating - ",
+    "Is International Paper Stock Underperforming the Dow? - Yahoo Finance",
+    "International Paper stock last at USD 35.03, up 0.43 percent in New York trading - AD HOC NEWS"
+  ]
+}

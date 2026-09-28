@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-28",
+  "total_events": 9,
+  "by_company": {
+    "idexx": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "intl_paper": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "smurfit": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "crown": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "pet_insurance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
