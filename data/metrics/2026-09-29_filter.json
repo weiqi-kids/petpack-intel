@@ -1,0 +1,16 @@
+{
+  "total_raw": 317,
+  "dup_title": 147,
+  "no_date": 0,
+  "too_old": 136,
+  "gate1_fail": 18,
+  "gate2_fail": 7,
+  "passed": 9,
+  "gate2_samples": [
+    "Should Burry Buy In Require Action From Zoetis Stock Investors? - simplywall.st",
+    "Moody’s upgrades Petco as operational turnaround fuels voluntary debt reduction - Yahoo Finance",
+    "Is International Paper Stock Underperforming the Dow? - Yahoo Finance",
+    "International Paper stock last at USD 35.03, up 0.43 percent in New York trading - AD HOC NEWS",
+    "Smurfit Westrock to acquire CMPC’s Chilean packaging assets - Packaging Gateway"
+  ]
+}

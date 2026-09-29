@@ -1,0 +1,148 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T14:32:03.706288Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intl_paper-2026-09-29-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper stock faces October 28 earnings at EUR 29.90 - AD HOC NEWS",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLTY5WFBzdTR3Nzg2OUdIVW5hd3doOUxMZ2RMRGgzR0VCNmZqb01od1lFd0kzbFFwaDlrUnl1S1d0VHlhM09PbVRQcXlKLXRtajZ2ZUk5LUhIOE5PS0hSX0hkM2pLRXYzWWhGaGhUbVNsSnlvQy1hQ3RHclUwXzZhRkhROEg0cFZsVnN6UFlhNmZGT2ROZExpc2ZpeDQ0N0hYQU93RzZwQ2xiUERWQ29haHhVMjJ0R29QLUI3QlFIdW92bVJiSEE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "amcor-2026-09-29-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Amcor to Showcase Future-Ready Food Packaging at CibusTec - Mirage News",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWkNyMTVQRmJiTnBaWFBHcy0wYjVyMXpEUGdBTEVXQ1hFNTQ2d1dvajRXc3l0RUdFTVEzUDMyaVczM1ZFYW4wVjBNck5wdXY5TFMwS0hFd3F1UV96cVl3Z05lYUM5TmJqdXg0NGVRc1BpaG9tekRwUHh1SE1BbF9ZanNzMEtQRkRk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "amcor-2026-09-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Amcor stock names Tom Long as board chair successor - AD HOC NEWS",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeVR4MUQ0aVNQVC1BOE9sMXB1bVZheTNaTXVfYlV0RmxUQ1RGSExkaFBxUDNqYnFfRVQ3NUwtVmNLb0VwMnJkajlLT0JvUGNlSXk3RGNHSDRxUjMyTkdGS3d4TVdscnVINGlXV3A0Wk9VaVJGb2NCVXhrcncycnExSERqVzBCSUNJbmhyTFppZkNvZEpaUGRlZ2JPUHFSLTBoanR1eGVnMlp5UkZmczB3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "amcor",
+        "count": 2
+      },
+      {
+        "id": "intl_paper",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 317,
+    "dup_title": 147,
+    "too_old": 136,
+    "gate1_blocked": 18,
+    "gate2_blocked": 7,
+    "passed": 9,
+    "pass_rate": "5.3%",
+    "gate2_block_rate": "4.1%",
+    "gate2_samples": [
+      "Should Burry Buy In Require Action From Zoetis Stock Investors? - simplywall.st",
+      "Moody’s upgrades Petco as operational turnaround fuels voluntary debt reduction - Yahoo Finance",
+      "Is International Paper Stock Underperforming the Dow? - Yahoo Finance",
+      "International Paper stock last at USD 35.03, up 0.43 percent in New York trading - AD HOC NEWS",
+      "Smurfit Westrock to acquire CMPC’s Chilean packaging assets - Packaging Gateway"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為安姆科、國際紙業相關動態：「International Paper stock faces October 28 earnings at EU...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "International Paper stock faces October 28 earnings at EUR 29.90 - AD HOC NEWS（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Amcor to Showcase Future-Ready Food Packaging at CibusTec - Mirage News（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
