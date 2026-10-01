@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T14:59:35.294302Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "zoetis-2026-10-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Celebrate pig caregivers: Zoetis awards nominations open now - nationalhogfarmer.com",
+      "companies": [
+        "zoetis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONEpoVGp0TFpHY0lVMnd4N0poNEJFNHU5RXVGQ1lZNkV1MUFJanhWOGJSblVwYy1WYnhiZmVBSVQ1Zzk1SzA5eWZwTFYwVUotazhMLUYydmROcllRZnBlNXBiaXZPaWV0V0ZVZFR0VkNZbDdGSGJOVnRrdHJjT0x0dFVyS09hdFpkZXA1cGNkSlJwYm03dk5Zd0dGZG1tb0k5VjRVcXE1S2hZRWdPeElIZFVEV0M?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "petco-2026-10-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Petco Health and Wellness Company, Inc. (NASDAQ:WOOF) Stock Rated \"Hold\" by Sell-Side Brokerages - MarketBeat",
+      "companies": [
+        "petco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVlRjeFFjejVybHN0bkF4QkRxQ1ZVS09ieGdqNFNyZHhldEE3a2VRRkVlQlE0SGJnQlA1TklRTmlBVFJqWFlBdW5weWtyZjVYVUdPTTlLQlZlUmF0T3VTNEZzTWFKNEp2NlRCNFluekhVRE4zcTFJYlZuUGhCZk1fVjlMY0FCWk9mYlVkWGUycDNneC1vY3pPbEJDT2tNd0Z4VXp3ZWx2UUg2STd6UFpiMXk5WU9TSmlobTc5UGJabVc0NDUtRzFXYlVVMXJDS2VFV0FOR29FNXdqdGZmU2t3WkhqSllkY0dnb0E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "intl_paper-2026-10-01-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is International Paper (IP) Undervalued As Shares Slide Toward $33? - simplywall.st",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbWRONXA2LThsRmZNUjVKV1ZNVTJTSElVUDdleE9NWXZPNUgyOHJqNTNjU01BSjVwYnE1LXNJbHEzSFdEQzRHSkc4M196RnFUX2hMT2I3NkpOOWtGMHY3bU9YZlV2dHcxVmV3bHpDa0ZkSkdnSjJ4cE5hU1paeG1FVl9lMFFJT0o5d3FrNF8wNDBnMzQ4NE40M3I0RWtQcm9MZDU3N2d4cXZXMlhBNTdwaUx6SGc3MG9WdFFxVjluTzBtVktFRkVKOUpPb1RQTXZo0gHWAUFVX3lxTE4zSjYwRGt0aTB0ZXc1VmlTMUNSWlZIbVgzeWI5dEFaay1SVEJOUHZwWlNrSE40TlEtTHhNMDk0eU0wNDl4R09QMTlLTWZpRmVtQjdEWTMxNm9jRGNMQlFLajdaRk81MXVJWXBmT3hNT21jbS04cEJVVEE1SjhUSmg3R2VBM0FYQ0lYdkQ1R0w2dDV4X1BHWXRVWFRhUW1jYjdNTk9BSjR6aGZZOFlBaUZoTFExcGh2YzlNZUF4cUY3M2hoZnNyQmNyMzVqd0xLVjBxSmhlSFE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "zoetis",
+        "count": 1
+      },
+      {
+        "id": "petco",
+        "count": 1
+      },
+      {
+        "id": "intl_paper",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 318,
+    "dup_title": 130,
+    "too_old": 146,
+    "gate1_blocked": 16,
+    "gate2_blocked": 9,
+    "passed": 17,
+    "pass_rate": "9.0%",
+    "gate2_block_rate": "4.8%",
+    "gate2_samples": [
+      "Zoetis shares drop 71% since 2021 but remain a buy with strong margins and pipeline potential. - Plu",
+      "What Does Today’s Signal Mean for IDEXX Laboratories (NASDAQ:IDXX)? - Kalkine Media",
+      "Chewy's Vet Care Posts Triple-Digit Growth as Clinic Scale Builds - TradingView",
+      "Petco Health and Wellness (NASDAQ:WOOF) Sets New 52-Week Low - Time to Sell? - MarketBeat",
+      "Moody’s upgrades Petco as operational turnaround fuels voluntary debt reduction - Yahoo Finance Aust"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為碩騰、WOOF、國際紙業相關動態：「Celebrate pig caregivers: Zoetis awards nominations open ...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Celebrate pig caregivers: Zoetis awards nominations open now - nationalhogfar...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Petco Health and Wellness Company, Inc. (NASDAQ:WOOF) Stock Rated \"Hold\" by S...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
