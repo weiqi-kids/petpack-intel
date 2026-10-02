@@ -1,0 +1,16 @@
+{
+  "total_raw": 318,
+  "dup_title": 125,
+  "no_date": 0,
+  "too_old": 156,
+  "gate1_fail": 15,
+  "gate2_fail": 9,
+  "passed": 13,
+  "gate2_samples": [
+    "Zoetis shares drop 71% since 2021 but remain a buy with strong margins and pipeline potential. - Plu",
+    "What Does Today’s Signal Mean for IDEXX Laboratories (NASDAQ:IDXX)? - Kalkine Media",
+    "Moody’s upgrades Petco as operational turnaround fuels voluntary debt reduction - Yahoo Finance",
+    "Chewy's Vet Care Posts Triple-Digit Growth as Clinic Scale Builds - es.tradingview.com",
+    "Petco Health and Wellness (NASDAQ:WOOF) Sets New 52-Week Low - Time to Sell? - MarketBeat"
+  ]
+}

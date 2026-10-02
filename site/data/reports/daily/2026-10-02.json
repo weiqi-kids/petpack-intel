@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T14:22:38.042230Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "zoetis-2026-10-02-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zoetis (ZTS) Has a Huge Animal Health Moat. Is It Starting to Crack? - Insider Monkey",
+      "companies": [
+        "zoetis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "vet_spending",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUk4yWUZJckNpZ1RBbmJwd2FuRlZpNnViT1ZJUkhOZHNLM29GZWxvR2VhWjUxeklqUFEzcnlHVVBJdldIdjNYSFQ4eW83emx2VHI2VGpCMkZWTTMzeXlBc05jVnZ1ekdkVnZlZk1nZFFTV1pYWk1yMFJyLVRXMzROSUZndEI5SG9PcGk3WTRSVEJEeXNJTDNmWlVSLXVDcmFkWm9hWDFTUnpWcXhr0gG0AUFVX3lxTE9EeHM2UmJKTmpvaGdJMWlfZ0JuUXo2dDczQmpiQWxJRTJ0ZXRvcEJSV3ktRk1IT2lzVFpoSElDanpfZ0JEZGlWc1NMZEYtSjFuaklMbzFDano5NW11MzNMRDFNOTB5MTBsNnhLcXYzZWFLTVEyTTRaZkt1VGVKeENOak5FTFkwbkFYazlmakJXVk9qZHlqOTRMV3JUQmdwa2tYbmhHYi1KcmE0cDhQQVYwWlhPaw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intl_paper-2026-10-02-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Citigroup Adjusts Price Target on International Paper to $47 From $48, Keeps Buy Rating - marketscreener.com",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeTlXVDdIVkRDNEx3LW5hMHZZY3UwTjA5aFMxYXNuT3dsbDRmcC0xSDlNMjJPdHRNRnFQUE9sbW10Tm9ON1lobXdpRnhNZTY1Q19hSU0wanNCeVMyVHVHUzN6bXV1dW1waWxUME9obFRXdm9pM1dpZkpHTlZ2dWhDT0xTX0w2YzVCWEg5bE10Qk5BRUt6OEdvaHZ1SFA2a2pFT2pBemNGUG1Bek5yWGhTNVNuVUVTSnZ2ckZwa0lVOE1HalhQZFo5aDNYajcwOGVsX3BB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "zoetis-2026-10-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Zoetis (ZTS) Has a Huge Animal Health Moat. Is It Starting to Crack? - Yahoo Finance",
+      "companies": [
+        "zoetis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "vet_spending"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRzZUcWxRazhsT00yZHdMWjFhSVVlVXJ2M20zeTY4YkZzUUljaWhfaGFGZmlCOFlGUlFGQUdSY0NzTHl0T0l0Z2NFazZrVUJVR1lBOFFKWG5SU0YtdVlFNjdXd1Z2QlFKaU9pOEVHR2dSaFhWQU5Uak02VHd2Z1JhMGlyci0yVEhFY2Y4cU5xU2NVTkow?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "vet_spending": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "zoetis",
+        "count": 2
+      },
+      {
+        "id": "intl_paper",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "vet_spending",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 318,
+    "dup_title": 125,
+    "too_old": 156,
+    "gate1_blocked": 15,
+    "gate2_blocked": 9,
+    "passed": 13,
+    "pass_rate": "6.7%",
+    "gate2_block_rate": "4.7%",
+    "gate2_samples": [
+      "Zoetis shares drop 71% since 2021 but remain a buy with strong margins and pipeline potential. - Plu",
+      "What Does Today’s Signal Mean for IDEXX Laboratories (NASDAQ:IDXX)? - Kalkine Media",
+      "Moody’s upgrades Petco as operational turnaround fuels voluntary debt reduction - Yahoo Finance",
+      "Chewy's Vet Care Posts Triple-Digit Growth as Clinic Scale Builds - es.tradingview.com",
+      "Petco Health and Wellness (NASDAQ:WOOF) Sets New 52-Week Low - Time to Sell? - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為碩騰、國際紙業相關動態：「Zoetis (ZTS) Has a Huge Animal Health Moat. Is It Startin...」。主要關注主題為獸醫支出、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Zoetis (ZTS) Has a Huge Animal Health Moat. Is It Starting to Crack? - Inside...（獸醫支出、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Citigroup Adjusts Price Target on International Paper to $47 From $48, Keeps ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
