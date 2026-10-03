@@ -1,0 +1,16 @@
+{
+  "total_raw": 319,
+  "dup_title": 146,
+  "no_date": 0,
+  "too_old": 144,
+  "gate1_fail": 14,
+  "gate2_fail": 9,
+  "passed": 6,
+  "gate2_samples": [
+    "Zoetis shares drop 71% since 2021 but remain a buy with strong margins and pipeline potential. - Plu",
+    "Chicago Pacific Founders Pet Fund exits CoVet in sale to IDEXX - pehub.com",
+    "What Does Today’s Signal Mean for IDEXX Laboratories (NASDAQ:IDXX)? - Kalkine Media",
+    "Moody’s upgrades Petco as operational turnaround fuels voluntary debt reduction - Yahoo Finance",
+    "Chewy's Vet Care Posts Triple-Digit Growth as Clinic Scale Builds - TradingView"
+  ]
+}

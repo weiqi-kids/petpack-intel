@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T12:56:02.193182Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-03-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "3 Forest Product Stocks To Watch As Tariffs Reshape North American Trade - Simply Wall Street",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObzF0V3VvS09TbHpTT3Z4VktCallMQ0JETlJUZnN3Q2I0cXFpOVo3M1djR1Y4b3lySmFkWjlPMU1reFNKQVhHeG9uVVdsVU03UV9MSjE5am1ldk9WVXFaMjdmN3VqWllHUERWOVA3MVZ6Z0FlbXl1cWpZc1g5U2xIQUFEcHFmV0NmNndENFJHdjVJWDN6eTM4UU1vVGNfTFBGaklHaDFLYzRrY3pHS2txcmd5ajBOSVdKc0ZCeUtLUXp3TzZuN0tSUmRGWlR1MWNI0gHWAUFVX3lxTFA5SGdLSnh3OE9scjZYSFo1MTVYa3RXVzBCRnp1Q2REbHYyb01RbnJIM205ZWdNWjBWbld5ZEg0bDlnZ0xwSGdDcllHenE1X3B4dzFWb3M3bjFHS3ZvZ1lyRmQzdEJGdXhFbWpILWRNdWFnU0RISHBGc2FiM2V2Q0tDcVR3Szh6OU5YSFROYzEyYnMzQ2p6ckJwUmpVM1g0VjhPS1hyUTZBb1NZN3pUdEM5ZnJlYThmLVRfWUZHdG9nR3pTbmZUZzEtdGhhTFVrRWN5R2N5dHc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "9 Best Pet Insurance Companies of October 2026 - money.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "pet_insurance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51d2dsTmhSbTdIcm85aldVTnlub3Nlb29RVEIzTzhfeVNkalZYSzVJUG5SS3RkMzV4MDVGWmJoWkEwZlk0X2hsQlFfemRlQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "pet_insurance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "pet_insurance",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 319,
+    "dup_title": 146,
+    "too_old": 144,
+    "gate1_blocked": 14,
+    "gate2_blocked": 9,
+    "passed": 6,
+    "pass_rate": "3.5%",
+    "gate2_block_rate": "5.2%",
+    "gate2_samples": [
+      "Zoetis shares drop 71% since 2021 but remain a buy with strong margins and pipeline potential. - Plu",
+      "Chicago Pacific Founders Pet Fund exits CoVet in sale to IDEXX - pehub.com",
+      "What Does Today’s Signal Mean for IDEXX Laboratories (NASDAQ:IDXX)? - Kalkine Media",
+      "Moody’s upgrades Petco as operational turnaround fuels voluntary debt reduction - Yahoo Finance",
+      "Chewy's Vet Care Posts Triple-Digit Growth as Clinic Scale Builds - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為寵物保險、財報相關動態：「3 Forest Product Stocks To Watch As Tariffs Reshape North...」。主要關注主題為寵物保險、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "3 Forest Product Stocks To Watch As Tariffs Reshape North American Trade - Si...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "9 Best Pet Insurance Companies of October 2026 - money.com（寵物保險）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
