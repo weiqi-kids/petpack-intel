@@ -1,0 +1,16 @@
+{
+  "total_raw": 319,
+  "dup_title": 116,
+  "no_date": 0,
+  "too_old": 177,
+  "gate1_fail": 13,
+  "gate2_fail": 6,
+  "passed": 7,
+  "gate2_samples": [
+    "Chicago Pacific Founders Pet Fund exits CoVet in sale to IDEXX - pehub.com",
+    "What Does Today’s Signal Mean for IDEXX Laboratories (NASDAQ:IDXX)? - Kalkine Media",
+    "Chewy's Vet Care Posts Triple-Digit Growth as Clinic Scale Builds - TradingView",
+    "Petco Health and Wellness (NASDAQ:WOOF) Sets New 52-Week Low - Time to Sell? - MarketBeat",
+    "Moody’s upgrades Petco as operational turnaround fuels voluntary debt reduction - finance.yahoo.com"
+  ]
+}

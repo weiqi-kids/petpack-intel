@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T13:36:39.299523Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 319,
+    "dup_title": 116,
+    "too_old": 177,
+    "gate1_blocked": 13,
+    "gate2_blocked": 6,
+    "passed": 7,
+    "pass_rate": "3.4%",
+    "gate2_block_rate": "3.0%",
+    "gate2_samples": [
+      "Chicago Pacific Founders Pet Fund exits CoVet in sale to IDEXX - pehub.com",
+      "What Does Today’s Signal Mean for IDEXX Laboratories (NASDAQ:IDXX)? - Kalkine Media",
+      "Chewy's Vet Care Posts Triple-Digit Growth as Clinic Scale Builds - TradingView",
+      "Petco Health and Wellness (NASDAQ:WOOF) Sets New 52-Week Low - Time to Sell? - MarketBeat",
+      "Moody’s upgrades Petco as operational turnaround fuels voluntary debt reduction - finance.yahoo.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-10-04 無寵物經濟 + 包裝產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
