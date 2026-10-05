@@ -1,0 +1,16 @@
+{
+  "total_raw": 318,
+  "dup_title": 107,
+  "no_date": 0,
+  "too_old": 177,
+  "gate1_fail": 15,
+  "gate2_fail": 9,
+  "passed": 10,
+  "gate2_samples": [
+    "Chicago Pacific Founders Pet Fund exits CoVet in sale to IDEXX - pehub.com",
+    "What Does Today’s Signal Mean for IDEXX Laboratories (NASDAQ:IDXX)? - Kalkine Media",
+    "Petco Health and Wellness Company stock gains 3.13 percent - AD HOC NEWS",
+    "Petco Health and Wellness (NASDAQ:WOOF) Sets New 52-Week Low - Time to Sell? - MarketBeat",
+    "International Paper Company (IPC.L) stock price, news, quote and history - Yahoo Finance UK"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-05",
+  "date_range": {
+    "start": "2026-09-29",
+    "end": "2026-10-05"
+  },
+  "generated_at": "2026-10-05T16:41:31.161891Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "intl_paper-2026-10-04-002",
+      "date": "2026-10-04",
+      "title": "International Paper stock heads toward October 28 earnings after Q2 loss - AD HOC NEWS",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 13,
+      "last_week": 28,
+      "week_over_week_change": "-54%",
+      "sentiment_this_week": 0.04
+    },
+    "vet_spending": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "pet_insurance": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "intl_paper": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "amcor": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "zoetis": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "petco": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 48,
+        "last": 120,
+        "change_pct": -60.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-29",
+      "event_count": 9,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-30",
+      "event_count": 11,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-01",
+      "event_count": 9,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-02",
+      "event_count": 9,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-03",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-04",
+      "event_count": 2,
+      "sentiment_avg": -0.5
+    },
+    {
+      "date": "2026-10-05",
+      "event_count": 5,
+      "sentiment_avg": 0.1
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-29 ~ 2026-10-05）共 48 則事件，重點為「International Paper stock heads toward October ...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "國際紙業",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "碩騰",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
