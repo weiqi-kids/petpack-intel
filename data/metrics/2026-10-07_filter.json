@@ -1,0 +1,16 @@
+{
+  "total_raw": 317,
+  "dup_title": 137,
+  "no_date": 0,
+  "too_old": 143,
+  "gate1_fail": 15,
+  "gate2_fail": 9,
+  "passed": 13,
+  "gate2_samples": [
+    "What Does Today’s Signal Mean for IDEXX Laboratories (NASDAQ:IDXX)? - Kalkine Media",
+    "Petco Health and Wellness Company stock gains 3.13 percent - AD HOC NEWS",
+    "International Paper Company (IPC.L) stock price, news, quote and history - Yahoo Finance UK",
+    "Director Katherine Collins reports holding 6,000 shares directly in International Paper (IP). - Stoc",
+    "Citigroup Adjusts Price Target on Smurfit Westrock to $54 From $57, Keeps Buy Rating - Yahoo Finance"
+  ]
+}
