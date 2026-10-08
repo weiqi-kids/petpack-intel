@@ -1,0 +1,16 @@
+{
+  "total_raw": 319,
+  "dup_title": 146,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 14,
+  "gate2_fail": 7,
+  "passed": 10,
+  "gate2_samples": [
+    "Is IDEXX Laboratories (IDXX) Cheap Following Its Share Price Slide? - Simply Wall Street",
+    "IDEXX Laboratories (Nasdaq:IDXX) - Stock Analysis - Simply Wall Street",
+    "Petco Health and Wellness Company stock gains 3.13 percent - AD HOC NEWS",
+    "Citigroup Adjusts Price Target on Smurfit Westrock to $54 From $57, Keeps Buy Rating - Yahoo Finance",
+    "Crown Holdings Is Maintained at Neutral by UBS - Moomoo"
+  ]
+}
