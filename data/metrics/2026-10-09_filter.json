@@ -1,0 +1,16 @@
+{
+  "total_raw": 318,
+  "dup_title": 138,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 17,
+  "gate2_fail": 10,
+  "passed": 15,
+  "gate2_samples": [
+    "IDEXX Laboratories (Nasdaq:IDXX) - Stock Analysis - Simply Wall Street",
+    "Is IDEXX Laboratories (IDXX) Cheap Following Its Share Price Slide? - Simply Wall Street",
+    "Trupanion, Inc. (TRUP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Petco Health and Wellness Company stock gains 3.13 percent - AD HOC NEWS",
+    "International Paper appoints two directors to board committees By Investing.com - Investing.com Cana"
+  ]
+}
