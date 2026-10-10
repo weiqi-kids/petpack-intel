@@ -1,0 +1,16 @@
+{
+  "total_raw": 319,
+  "dup_title": 147,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 19,
+  "gate2_fail": 14,
+  "passed": 4,
+  "gate2_samples": [
+    "IDEXX Laboratories (Nasdaq:IDXX) - Stock Analysis - Simply Wall Street",
+    "Is IDEXX Laboratories (IDXX) Cheap Following Its Share Price Slide? - Simply Wall Street",
+    "Trupanion, Inc. (TRUP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Excellence in Wellbeing Awards 2026: Trupanion - The Business Journals",
+    "Petco Health and Wellness Company stock gains 3.13 percent - AD HOC NEWS"
+  ]
+}
