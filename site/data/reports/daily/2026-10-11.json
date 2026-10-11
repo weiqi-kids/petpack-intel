@@ -1,0 +1,120 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T14:33:03.174918Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "idexx-2026-10-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What IDEXX Laboratories Investors Missed Before The Fall - Simply Wall Street",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVHVpT3pLb0pSbEJ6ci13aGR5anN6eHhURTBSaVJEQ1VjakNYZ3dGalNTYmk4cnVtRjhzbFMwNHFfOVgxQVUwUGJOV2RqZDkwWWhaREpkNEpDMmliaTlwM0tSVUhzVWJHMWJJMzh2bnRDdTJ2RzhTaVF6UnRPSF9OdEVDOExidHkwNFk5VlFWaVNuWGhvMFl5cGNUeGF6OEtsYUQwckhraG5xbk9rWVVlRUN0M0F0T2xOaS0tYTFHZXg4WjVFWkVMbWotSUZNM1Z0dkIxTVZ30gHWAUFVX3lxTE1UdWlPektvSlJsQnpyLXdoZHlqc3p4eFRFMFJpUkRDVWNqQ1hnd0ZqU1NiaThydW1GOHNsUzA0cV85WDFBVTBQYk5XZGpkOTBZaFpESmQ0SkMyaWJpOXAzS1JVSHNVYkcxYkkzOHZudEN1MnZHOFNpUXpSdE9IX050RUM4TGJ0eTA0WTlWUVZpU25YaG8wWXlwY1R4YXo4S2xhRDBySGtobnFuT2tZVWVFQ3QzQXRPbE5pLS1hMUdleDhaNUVaRUxtai1JRk0zVnR2QjFNVnc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "trupanion-2026-10-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trupanion partners with Simon Cowell - Coverager",
+      "companies": [
+        "trupanion"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrVjhQdzJVQWhRZi1MNThOUERUeVF4U3FFUnpCaWhXc2VwZEZ0X0djZEx2bDhGcVR3b1FQdVpFZHl4UnlwUDhwVkx4Vmh5RnhPSlN4QXpVcmxmZ0x0MWRfZVdGWk16SEs5a1E4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "idexx",
+        "count": 1
+      },
+      {
+        "id": "trupanion",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 319,
+    "dup_title": 142,
+    "too_old": 142,
+    "gate1_blocked": 18,
+    "gate2_blocked": 13,
+    "passed": 4,
+    "pass_rate": "2.3%",
+    "gate2_block_rate": "7.3%",
+    "gate2_samples": [
+      "Is IDEXX Laboratories (IDXX) Cheap Following Its Share Price Slide? - Simply Wall Street",
+      "Excellence in Wellbeing Awards 2026: Trupanion - The Business Journals",
+      "Petco Health and Wellness Company stock gains 3.13 percent - AD HOC NEWS",
+      "Wells Fargo Adjusts Price Target on International Paper to $42 From $46 - Yahoo Finance",
+      "International Paper appoints two directors to board committees - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為愛德士、寵物保險相關動態：「What IDEXX Laboratories Investors Missed Before The Fall ...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "What IDEXX Laboratories Investors Missed Before The Fall - Simply Wall Street（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Trupanion partners with Simon Cowell - Coverager",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

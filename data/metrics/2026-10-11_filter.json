@@ -1,0 +1,16 @@
+{
+  "total_raw": 319,
+  "dup_title": 142,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 18,
+  "gate2_fail": 13,
+  "passed": 4,
+  "gate2_samples": [
+    "Is IDEXX Laboratories (IDXX) Cheap Following Its Share Price Slide? - Simply Wall Street",
+    "Excellence in Wellbeing Awards 2026: Trupanion - The Business Journals",
+    "Petco Health and Wellness Company stock gains 3.13 percent - AD HOC NEWS",
+    "Wells Fargo Adjusts Price Target on International Paper to $42 From $46 - Yahoo Finance",
+    "International Paper appoints two directors to board committees - Investing.com"
+  ]
+}
