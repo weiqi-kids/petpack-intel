@@ -1,0 +1,167 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T17:13:54.460551Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "petco-2026-10-12-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Wondering Why Petco Health And Wellness Fell? Here's What Bears Saw - Simply Wall Street",
+      "companies": [
+        "petco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWVhyamtGXy1qTkZRVnNGT1lMQ19maDJzOVdzTGlhRl81X0ozSXNINEtJVFhYeHJGQm1ObTVVZkp1Wmhzb1d2aFNOLTFybTUzRXc1aHlmaVJfdC0wNHY2cUdEX2l1TkR6ZFNDRWpCaTZqRzRhS2ptMFlrd0RMemhNS1FWeU9STzhidHhzQUVrRzNrRDQ2aFZKb3JocEdheVhoMWxKd01FQnk0SngweWZ6ZU41ZWNvV2ljMGx0TWZjWVRqOWxZMm5EcDNqOXU3NmRNYWFsSG54S1BtQdIB3wFBVV95cUxPQUI3Y2Fhc244ZlUwTTI4NmNWeEFiRDNRcjBIb2JleEh2SDlhYkYwQkEwdTJfNnpFeFZXcHBPZ3VrTWNGSldyYVpzQkQzVXNDeHN4YWZ5SDFjTTBlRGl2cnFuT2hndGdDcmZ4X3BRTXhSTGxZZHN1N1NwcU96b01aM0tIems4WTV4Z3pua1lIalJZbmtwY25CSzE5c2FoblcxM0hNS2hZSHRrMVl3ZjdhVTEyT2dENkliWkwzMUNrckxhMzBXZ0dSR056b19DT1FOQWJIQ3VEVXQtX1cxakdB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intl_paper-2026-10-12-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Truist Securities Adjusts International Paper Price Target to $41 From $49, Maintains Buy Rating - marketscreener.com",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "paper_price",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSU9MZXJxWVZteXBnb3V6UFBCT0hCSGlZdFZUTnBGWlVCc2NScFlBY052Wm4xUGwyUGZZQjZtalQ1aHZ2TGNYZGFoLVFsd3pOVFpZUmc5SGJ1MFFvOERpeWcxNmFibzMxMkJxc09uYkdUV2NVN1FSMnVVY0VDbG1hOTJNRHZfRkVaSmh1akNMQXFBekw3QUVTZFJpTlE1VllFLWxkQ0VKSWU5LVFjX0xoVHMzdVVRR1piaWxybTVuellEU05SWGpUeGVyNmhnZDJtcDg4M0l5d1Z1TVNBaHo0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "smurfit-2026-10-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Amid push for recycled fiber packaging, virgin demand remains strong",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.packagingdive.com/news/recycled-fiber-packaging-virgin-paper/832063/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "paper_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "petco",
+        "count": 1
+      },
+      {
+        "id": "intl_paper",
+        "count": 1
+      },
+      {
+        "id": "smurfit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "paper_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 319,
+    "dup_title": 141,
+    "too_old": 142,
+    "gate1_blocked": 17,
+    "gate2_blocked": 13,
+    "passed": 6,
+    "pass_rate": "3.4%",
+    "gate2_block_rate": "7.3%",
+    "gate2_samples": [
+      "Is IDEXX Laboratories (IDXX) Cheap Following Its Share Price Slide? - Simply Wall Street",
+      "Excellence in Wellbeing Awards 2026: Trupanion - The Business Journals",
+      "Petco Health and Wellness Company stock gains 3.13 percent - AD HOC NEWS",
+      "Wells Fargo Adjusts Price Target on International Paper to $42 From $46 - Yahoo Finance",
+      "International Paper appoints two directors to board committees - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為WOOF、國際紙業、斯莫菲特相關動態：「Wondering Why Petco Health And Wellness Fell? Here's What...」。主要關注主題為財報、紙價，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Wondering Why Petco Health And Wellness Fell? Here's What Bears Saw - Simply ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Truist Securities Adjusts International Paper Price Target to $41 From $49, M...（紙價、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "紙價話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

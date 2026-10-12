@@ -1,5 +1,64 @@
 [
   {
+    "id": "petco-2026-10-12-001",
+    "date": "2026-10-12",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Wondering Why Petco Health And Wellness Fell? Here's What Bears Saw - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWVhyamtGXy1qTkZRVnNGT1lMQ19maDJzOVdzTGlhRl81X0ozSXNINEtJVFhYeHJGQm1ObTVVZkp1Wmhzb1d2aFNOLTFybTUzRXc1aHlmaVJfdC0wNHY2cUdEX2l1TkR6ZFNDRWpCaT",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWVhyamtGXy1qTkZRVnNGT1lMQ19maDJzOVdzTGlhRl81X0ozSXNINEtJVFhYeHJGQm1ObTVVZkp1Wmhzb1d2aFNOLTFybTUzRXc1aHlmaVJfdC0wNHY2cUdEX2l1TkR6ZFNDRWpCaTZqRzRhS2ptMFlrd0RMemhNS1FWeU9STzhidHhzQUVrRzNrRDQ2aFZKb3JocEdheVhoMWxKd01FQnk0SngweWZ6ZU41ZWNvV2ljMGx0TWZjWVRqOWxZMm5EcDNqOXU3NmRNYWFsSG54S1BtQdIB3wFBVV95cUxPQUI3Y2Fhc244ZlUwTTI4NmNWeEFiRDNRcjBIb2JleEh2SDlhYkYwQkEwdTJfNnpFeFZXcHBPZ3VrTWNGSldyYVpzQkQzVXNDeHN4YWZ5SDFjTTBlRGl2cnFuT2hndGdDcmZ4X3BRTXhSTGxZZHN1N1NwcU96b01aM0tIems4WTV4Z3pua1lIalJZbmtwY25CSzE5c2FoblcxM0hNS2hZSHRrMVl3ZjdhVTEyT2dENkliWkwzMUNrckxhMzBXZ0dSR056b19DT1FOQWJIQ3VEVXQtX1cxakdB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-10-12-002",
+    "date": "2026-10-12",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "paper_price",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Truist Securities Adjusts International Paper Price Target to $41 From $49, Maintains Buy Rating - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSU9MZXJxWVZteXBnb3V6UFBCT0hCSGlZdFZUTnBGWlVCc2NScFlBY052Wm4xUGwyUGZZQjZtalQ1aHZ2TGNYZGFoLVFsd3pOVFpZUmc5SGJ1MFFvOERpeWcxNmFibzMxMkJxc09uYk",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSU9MZXJxWVZteXBnb3V6UFBCT0hCSGlZdFZUTnBGWlVCc2NScFlBY052Wm4xUGwyUGZZQjZtalQ1aHZ2TGNYZGFoLVFsd3pOVFpZUmc5SGJ1MFFvOERpeWcxNmFibzMxMkJxc09uYkdUV2NVN1FSMnVVY0VDbG1hOTJNRHZfRkVaSmh1akNMQXFBekw3QUVTZFJpTlE1VllFLWxkQ0VKSWU5LVFjX0xoVHMzdVVRR1piaWxybTVuellEU05SWGpUeGVyNmhnZDJtcDg4M0l5d1Z1TVNBaHo0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-10-12-003",
+    "date": "2026-10-12",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Amid push for recycled fiber packaging, virgin demand remains strong",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/U1WLbrSwpw9OoBsxgXxbqZrldW6C8eSkpp2M3q_MwJw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTcyMDQ5NjUyXzIuanBn",
+    "sources": [
+      {
+        "name": "packaging_dive",
+        "url": "https://www.packagingdive.com/news/recycled-fiber-packaging-virgin-paper/832063/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "idexx-2026-10-11-001",
     "date": "2026-10-11",
     "companies": [
@@ -33,6 +92,26 @@
       {
         "name": "trupanion",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrVjhQdzJVQWhRZi1MNThOUERUeVF4U3FFUnpCaWhXc2VwZEZ0X0djZEx2bDhGcVR3b1FQdVpFZHl4UnlwUDhwVkx4Vmh5RnhPSlN4QXpVcmxmZ0x0MWRfZVdGWk16SEs5a1E4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "crown-2026-10-11-003",
+    "date": "2026-10-11",
+    "companies": [
+      "crown"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Crown Holdings (CCK) Earnings Upgrade Puts Its Valuation Back In Focus - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQM19SMS11cGc0a3UtZUM5YWxLMnlqdTJxemRGaHlXdDJJM0hTMmRmeVgySGxteTNyRzBUU3BsOFFva1hTZVN3SVByRm9KcnhyTjZDaU9RYzFmaDEzSzZJcC14Y3RsNnlWY29YQ0NUVG",
+    "sources": [
+      {
+        "name": "crown",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM19SMS11cGc0a3UtZUM5YWxLMnlqdTJxemRGaHlXdDJJM0hTMmRmeVgySGxteTNyRzBUU3BsOFFva1hTZVN3SVByRm9KcnhyTjZDaU9RYzFmaDEzSzZJcC14Y3RsNnlWY29YQ0NUVGdCSi1zVEFkOXg5LVlNWXM2Y2xfclhrZkxjV0hPN2Fka3V0ZGJ5UW1pMTBlRXFxY2xXeWJ5X0lkNTZpUXA2RHRLRTRLbjdaZUdmdnBDTThsNW9tZ3JNQ2lYTGRn0gHPAUFVX3lxTE0yMTRIMWpqU0JOeDNoMmRWYmtYUXhxVXRlVXl6a1U3R2tCUVRxcFFwM0g4RXN4WUYyb2ZvbENnMG9IbzltOXg2T3c1Vk9JSm9tVHJSaXJsR0FYdXppd3QzTTJNM1lsZmZJb1JZX2dvYVFuMHlhZDNCQ0txTDFtdE9FblpEbEY0ZWtNelU5dTYwNjA4TkNUcXZBZ1ExM2d4bDlxX1ZIN1BMLVBCZUdMNTdidTNzaU4zSEE1WXplbVFETC1jMDNGSndDRkVlS2l2UQ?oc=5",
         "type": "rss"
       }
     ]
@@ -636,6 +715,26 @@
     ]
   },
   {
+    "id": "petco-2026-10-07-009",
+    "date": "2026-10-07",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Moody's upgrades Petco Health and Wellness stock - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVF3aGVveVNIdEhtWDdCVllYSE5MMGxQMHZBdnc1aTN2NFh0M2VzUEVrdVJVZGtVSVpVT0xIQUpSZl9kcFZNR0NjbjVmV1ZCY0ZXNDc0LVBzeFA0Uk1hWnIxd2FMeFNnX0dYNnlXen",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVF3aGVveVNIdEhtWDdCVllYSE5MMGxQMHZBdnc1aTN2NFh0M2VzUEVrdVJVZGtVSVpVT0xIQUpSZl9kcFZNR0NjbjVmV1ZCY0ZXNDc0LVBzeFA0Uk1hWnIxd2FMeFNnX0dYNnlXenlXa2pLWkpGXzhuXzdIQ1UtMTNUMjdYcXBfbW9jUFpwX3hEUDE1aE1NMnZsc2Fac2pQY0ZIeHRWSmdzLVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-10-06-001",
     "date": "2026-10-06",
     "companies": [],
@@ -745,6 +844,26 @@
       {
         "name": "crown",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMzlJdUZRS2ZmQ2VYUzBjQWVKdmM4Z2JFTjNfdFJFaEFwQ2JOMW5HSGRRUDZvdXNiSUJWaTlDVzM0RUVBMVl3Y2JGbDR2c3NteXBFSnBwdTllRjhUVU9EQWdsdHZfdHVPd1RmbzJUaG92alc1ZkJnSFlIc1JuZkxJS0J2djlWelRQel8zdnkzdXVhSlo0OWx2SDNCalh1MEFLckFZLWt3UXIwYUNpUkZuYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sealed_air-2026-10-06-007",
+    "date": "2026-10-06",
+    "companies": [
+      "sealed_air"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sealed Air creates chlorine-free shrink bags - Packaging Europe",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNRzVpVmkwZEZZb0dWYUhlZlo4eU5fYm9HeXp0Sl9WOVAweFhtNkZ1dDh4NWVRYjR3cGQ3N25heUkyazJkNWw1VmNvOHFHZEZXVWE0SlFpNWlfV1hRZzlHZ3BqY1FYOVJsUUxjTVp1RW",
+    "sources": [
+      {
+        "name": "sealed_air",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRzVpVmkwZEZZb0dWYUhlZlo4eU5fYm9HeXp0Sl9WOVAweFhtNkZ1dDh4NWVRYjR3cGQ3N25heUkyazJkNWw1VmNvOHFHZEZXVWE0SlFpNWlfV1hRZzlHZ3BqY1FYOVJsUUxjTVp1RWV1N0pONG50a184M0xQN09XT2NQRQ?oc=5",
         "type": "rss"
       }
     ]
