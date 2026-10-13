@@ -1,0 +1,16 @@
+{
+  "total_raw": 320,
+  "dup_title": 139,
+  "no_date": 0,
+  "too_old": 141,
+  "gate1_fail": 17,
+  "gate2_fail": 15,
+  "passed": 8,
+  "gate2_samples": [
+    "Zoetis Appoints Iris Knobloch to its Board of Directors - Business Wire",
+    "Zoetis Appoints Iris Knobloch to Board of Directors, Expanding Board to 13 Members - citybiz",
+    "Is IDEXX Laboratories (IDXX) Cheap Following Its Share Price Slide? - Simply Wall Street",
+    "Excellence in Wellbeing Awards 2026: Trupanion - The Business Journals",
+    "Wells Fargo Adjusts Price Target on International Paper to $42 From $46 - Yahoo Finance"
+  ]
+}
