@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T13:14:32.044718Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intl_paper-2026-10-14-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper to host capital markets day in London By Investing.com - Investing.com India",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUkdFSnhxYjIxVjUzYVBPQzhReXRKWGZ1UGc1aHpyNDE1SDN2cUNneHhEZGQzYnlIbDhyX0pCUl80TlUzYy1OaGxZNjkyNWFrWnpBRlR4elBhS0dzQzFoNHhTQ2NyS3ItdFdBeDVBYU5MSkhONUdtSmFNaUpXYTJEbGtoeG5HeVlvemVwM04zR25qdkZNdUJOV0pZaGxIU3cwQXpfWUhJNDNhbHZETGJ1RlMwVEFmeGkwOUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-14-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Seven bottles, seven days: Corona's new pack - PKN Packaging News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMDNhSzU4ZTJmZGtKZXZzM1lPX1U0VThodl9FQUNjQlFZSzE2c2ZaT1QtZUN6SW9ybWgxSV9rbkxRdW5yTU9FSlpyTnpTY2RtMnZ5bVROaDhZRVdMS3hQdklHdEhDRXNTQ3NKZ3dIa0xNVzdJcWllQU14VktNemtHSE9oYnZjUU54UkxFWg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 320,
+    "dup_title": 135,
+    "too_old": 148,
+    "gate1_blocked": 18,
+    "gate2_blocked": 15,
+    "passed": 4,
+    "pass_rate": "2.2%",
+    "gate2_block_rate": "8.1%",
+    "gate2_samples": [
+      "Zoetis Appoints Iris Knobloch to Board of Directors, Expanding Board to 13 Members - citybiz",
+      "Zoetis Appoints Iris Knobloch to its Board of Directors - Business Wire",
+      "Is IDEXX Laboratories (IDXX) Cheap Following Its Share Price Slide? - Simply Wall Street",
+      "Excellence in Wellbeing Awards 2026: Trupanion - The Business Journals",
+      "International Paper to spin off EMEA unit as DS Smith at London event - StreetInsider"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為國際紙業相關動態：「International Paper to host capital markets day in London...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "International Paper to host capital markets day in London By Investing.com - ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Seven bottles, seven days: Corona's new pack - PKN Packaging News（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
