@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T13:00:33.895155Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-15-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Best Growth Stocks to Buy for October 15th - Yahoo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUExBeWR5WWxqRzdZVnJPQ09UbklsREZDOXU1MUlyX2cwSlFQRmNjdllOMEtGMTk5VzNLd2p2Y2tsaDNZeE5YMER0UlJBZXJyVlNhdXZLUkdPd2Q2M2JEd292S2RubXJnUjY5QUQ3LUpxVmFtaVNCdVNKRGNUcG1QSXZFSGlrSjVxb1BiWDk5YV8tZ3g2N1J4cElyOA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sealed_air-2026-10-15-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sealed Air Expands Closed-Cell Polyethylene Foam Capacity in Madera - News and Statistics - IndexBox",
+      "companies": [
+        "sealed_air"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVlROeGtFVDlNemkyVTN0V1F4NHBucHB6VHptZVl1UWdfaWpaWUNWYnZ6WUxIQjhSQTNLRDRZczZudnhQUGpJMjYyY0VJdFBjRDIxMmY1aV9tVWhXZWFKLXdRdlVPeGhSQzBEUjBfWHNya25HVUdqNFROckZiQXkzMFl1d2dCeEoyMXRMRllpN0RybUZFQ1ZHSDZqa09nX2lkWlUtV3BzcVdCMHM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "smurfit-2026-10-15-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "16 hospitalized after incident at Smurfit Westrock Mill in Covington - Yahoo",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNajQwXzNuY2ZEQkUzWFNiczF6WkpPaEw0VHVOLS1Mc05DSkxoZzFBQTcta1JaeU1SVlNnQ1AyNUV6cUhZNEM1S0RXaXZOMmNyX2pIamtTaU9vYmJuWlJtOFEzZlhyLWRlVWlVbVljRHBybUFyUlFPYzZiYktiSEJpaFpEaWZZaWFvcnBOUEh0YlJNUWUzZDRLb0ZzVWItQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "petco-2026-10-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Petco launches holiday campaign for Petco Health and Wellness stock - ad-hoc-news.de",
+      "companies": [
+        "petco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNlc0ZzRFeUVtRkFiUFpYcWJhZV83cC04XzVmNVVETFhScnlqY21QX2MyZU9PUHpjRGxLUDhfdDFSSU9wN2JaT3d0YXd0SlAwMUx2Sk9Oajk1VnVmcmtuU2Jydl90T1JLZWRDWDZOU1Rma0lWNXVRNjlVTVNDZXhseS1sM0VxWG9kb2tpYzhIM2dlTG9jZXRSLUZpWlhYNDJ1TlFWYTd3dzFlZDNDOXBUSWJDXzc3dDlIdUdMRnBsVU4wQWJW?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "intl_paper-2026-10-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "International Paper plans to spin off its EMEA ... - Pluang",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ0cySjdaQWRvT0N5eDVvTlY0WFdyZmNTay15QjFrTHVhSElZTUxjZDlxV2ZYQ0pldzVxU2MwR1ZfTDV1c3lCWXdicjVETDFZM0lDSHFrWlBaMS1QRXVFZmdPSjE2OHVkUXg2YjFNREZ2Zmc1UEZCOFJGVGllOV9KdHVFekFzT3dFdzI2Z0VablY5T21KSkZjU1lGcHEtTV9WeHBr?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "sealed_air",
+        "count": 2
+      },
+      {
+        "id": "petco",
+        "count": 1
+      },
+      {
+        "id": "intl_paper",
+        "count": 1
+      },
+      {
+        "id": "smurfit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 320,
+    "dup_title": 123,
+    "too_old": 144,
+    "gate1_blocked": 19,
+    "gate2_blocked": 16,
+    "passed": 18,
+    "pass_rate": "9.1%",
+    "gate2_block_rate": "8.1%",
+    "gate2_samples": [
+      "Zoetis Appoints Iris Knobloch to its Board of Directors - Business Wire",
+      "Zoetis Appoints Iris Knobloch to Board of Directors, Expanding Board to 13 Members - citybiz",
+      "Is IDEXX Laboratories (IDXX) Cheap Following Its Share Price Slide? - Simply Wall Street",
+      "A 14-year-old cat who battled cancer will be one of Trupanion’s 2027 faces - Stock Titan",
+      "Excellence in Wellbeing Awards 2026: Trupanion - The Business Journals"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為希悅爾、WOOF、國際紙業相關動態：「Best Growth Stocks to Buy for October 15th - Yahoo Finance」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Best Growth Stocks to Buy for October 15th - Yahoo Finance（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Sealed Air Expands Closed-Cell Polyethylene Foam Capacity in Madera - News an...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 320,
+  "dup_title": 123,
+  "no_date": 0,
+  "too_old": 144,
+  "gate1_fail": 19,
+  "gate2_fail": 16,
+  "passed": 18,
+  "gate2_samples": [
+    "Zoetis Appoints Iris Knobloch to its Board of Directors - Business Wire",
+    "Zoetis Appoints Iris Knobloch to Board of Directors, Expanding Board to 13 Members - citybiz",
+    "Is IDEXX Laboratories (IDXX) Cheap Following Its Share Price Slide? - Simply Wall Street",
+    "A 14-year-old cat who battled cancer will be one of Trupanion’s 2027 faces - Stock Titan",
+    "Excellence in Wellbeing Awards 2026: Trupanion - The Business Journals"
+  ]
+}
