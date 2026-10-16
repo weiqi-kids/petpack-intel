@@ -1,0 +1,16 @@
+{
+  "total_raw": 320,
+  "dup_title": 113,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 19,
+  "gate2_fail": 18,
+  "passed": 25,
+  "gate2_samples": [
+    "Zoetis Appoints Iris Knobloch to its Board of Directors - Business Wire",
+    "Zoetis Appoints Iris Knobloch to Board of Directors, Expanding Board to 13 Members - citybiz",
+    "A 14-year-old cat who battled cancer will be one of Trupanion’s 2027 faces - Stock Titan",
+    "International Paper (IP) Stock Still Looks Below Fair Value Following A 23% Fall - Yahoo Finance",
+    "Buyers Circle International Paper As Stock Surges - TipRanks"
+  ]
+}
