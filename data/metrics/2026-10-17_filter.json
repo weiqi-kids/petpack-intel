@@ -1,0 +1,16 @@
+{
+  "total_raw": 318,
+  "dup_title": 138,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 18,
+  "gate2_fail": 15,
+  "passed": 5,
+  "gate2_samples": [
+    "Zoetis Appoints Iris Knobloch to its Board of Directors - Business Wire",
+    "Zoetis Appoints Iris Knobloch to Board of Directors, Expanding Board to 13 Members - citybiz",
+    "A 14-year-old cat who battled cancer will be one of Trupanion’s 2027 faces - Stock Titan",
+    "International Paper Evaluates Bids for EMEA Packaging Business as DS Smith Spin-Off Advances - METis",
+    "International Paper enters talks over potential EMEA packaging sale - Packaging Insights"
+  ]
+}
