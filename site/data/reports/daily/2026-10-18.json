@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T12:22:20.009866Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "crown-2026-10-18-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Crown Holdings (CCK) To Report Earnings Tomorrow: Here Is What To Expect - StockStory",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQmdud3VrNVVWQkc5WHUyX2FDM1dNX1c2VGwtNjNxWWthZGdNbmEwUG5iZmRma2paMUJmTFBkMjdQcklNZDhxd1hWZXhXSkttVmx2bVVuVk9SWDFYN3hpb2hSelJ6Q0dQLVMzc2Fwd3F0djhtaVR3MGstOWJ1cjFWNjNOVUVtQ3VIMVh5OU9FQ2VlWEpONU91bXoxdWFEUlJZTWMweVU3enpTdVk2UHY1d2dkQnMyOGVMNDBoc3pPOGhrSlZpZEE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "petco-2026-10-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Petco launches campaign. Evercore cuts target for Petco Health and Wellness stock to USD 3.00 - ad-hoc-news.de",
+      "companies": [
+        "petco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZDN0T1NBTXU2VFlvR1VONV9EU19zQXRva2VHQkx6UUY3SU9rOWxHZ1R0RFNKOWRjQWVva3ROMXVrZ29CRk95NkQyemZ3REZXLS1IYk5UVDFKczQyNElINXF0X2VwY1VmdE5EY1E1bms2UEt5LVFTYzJwSXBpLWk1QmRsc1JYRkRLWkhOclpnelNnakdnVVBvYi1sS3J4MHpabjRXTzlkcXlZRk82cFJHb0JaZDBKNUlaOTNOSkI4RnM0QQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "smurfit-2026-10-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RBC cuts target to USD 55 for Smurfit Westrock stock - ad-hoc-news.de",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNWJVTjdIcnhXOFFydThyRlM3TzlOV0lseGlkY1BfM2wyRndDVEdEdTMtd1JrU3FMbDY1RkdETG0xc1pGa21NSEVpVVltbGxJbnFOOXJZSDFqX1M3TXctRzI1N0RPa0NDcFp5RGFWbFpWdnF6NGZTT0d6RzJ0b2ZoOTRHbS1mcFpHZVcxaUstazM4M1NfNElWbHJVVldVUDhGSzlIWndqZFNHeHZoOXRzeg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "petco",
+        "count": 1
+      },
+      {
+        "id": "smurfit",
+        "count": 1
+      },
+      {
+        "id": "crown",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 318,
+    "dup_title": 134,
+    "too_old": 138,
+    "gate1_blocked": 19,
+    "gate2_blocked": 15,
+    "passed": 12,
+    "pass_rate": "6.5%",
+    "gate2_block_rate": "8.2%",
+    "gate2_samples": [
+      "Zoetis Appoints Iris Knobloch to its Board of Directors - Business Wire",
+      "Zoetis Appoints Iris Knobloch to Board of Directors, Expanding Board to 13 Members - citybiz",
+      "Zoetis Appoints Iris Knobloch to Board of Directors - The Globe and Mail",
+      "A 14-year-old cat who battled cancer will be one of Trupanion’s 2027 faces - Stock Titan",
+      "International Paper (IP) Stock Still Looks Below Fair Value Following A 23% Fall - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為WOOF、斯莫菲特、皇冠相關動態：「Crown Holdings (CCK) To Report Earnings Tomorrow: Here Is...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Crown Holdings (CCK) To Report Earnings Tomorrow: Here Is What To Expect - St...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Petco launches campaign. Evercore cuts target for Petco Health and Wellness s...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
