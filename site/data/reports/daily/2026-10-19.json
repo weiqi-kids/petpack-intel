@@ -1,0 +1,229 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:11:33.672265Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intl_paper-2026-10-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper Discusses Possible Sale of EMEA Business - Ink World Magazine",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTXdYd0U0YW5QdnJLNzhyQzdTbEU1anBleDRiVzlRekpsNXA2bTRDcVQ4YkZudWpwUnZ4a0U2aGhvVXVkeWg2bG5hWXlUYlpaSzJrZjVMZGJ3Z0htb3c0akJGbzczWjFrajF0M0locWdjS2ZuOHZ0RkR2TU5RMml6MHlzTDRaeDl2UHUzRENub2ZGY2NUYTB3MFVyeVJtRVNUcmlBTkZ6RU4xUFQ4?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "amcor-2026-10-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Amcor builds on cheese foil packaging expertise with investment in France - Packaging Strategies",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaXJrZ2RkMkRBQ3FPX2xTVi1sa0F1ODZiWk9RRWE5OEhrcU13OWctc0V5bnROMXFCYXNVY3FGcWxneEJ3MUpVTTlfb1M1NnpneENlQnE5QWtjT3NILU5IVktuUVJFRk0wOTJJeVNYU1FJYk9RdzN5cFVwVkdFdmM0SW9DTVVSLUVlVnRJUUpBQWwtR3BaTkVVYThwbXlaS0I4Y0FkQ0hIbkktUDJzTHJURjlGSFdOSFA5N1p2eGtxelBqRjQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "crown-2026-10-19-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Crown Holdings set to report earnings on beverage can demand - Investing.com",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVXllQi04RFV2Rmt4aHFRRUVyVi1Tc2VhdXZuQXFjMVI1VUZHVGY1aGVpQnU3b09ONXBlWlZveHpJOFktOGh5T0hTU3M4c2xCN2stcklUUTBDcVd1S0NTQ2hFOGtHUEVsYVBYZXN6LVQ3aWdpdUROODNWb1YzamVNbkJ5UUpvYzdKY3lnTGpoRHZhdWZPS3NTeWtJOFZXbGdVNzhDbzFlWnJUN0VHaFZhQ3MzYw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "smurfit-2026-10-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "April Tacey joins Smurfit Westrock for 2027 after Omloop der Kempen victory - ProCyclingUK",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBINEtGcVlHNFZNNzl4SFcyY0RFVXByeXBhYWI4eGRRSkRSUzJRajE4bmhBNjl6NGQ0UjMzSFlxa1lHX19OR1dwMEswcnZQcUdjVkRQRF95bVBzcDlINWV2N1ZuZmk1VTA1ak0zQl9ROE05cXM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-19-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Containerboard prices flat in October following September bump",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "packaging_price",
+        "paper_price"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.packagingdive.com/news/containerboard-pricing-flat-october-2026-fastmarkets/832699/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "packaging_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "paper_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 1
+      },
+      {
+        "id": "amcor",
+        "count": 1
+      },
+      {
+        "id": "smurfit",
+        "count": 1
+      },
+      {
+        "id": "crown",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "packaging_price",
+        "count": 1
+      },
+      {
+        "id": "paper_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 318,
+    "dup_title": 143,
+    "too_old": 134,
+    "gate1_blocked": 19,
+    "gate2_blocked": 11,
+    "passed": 11,
+    "pass_rate": "6.3%",
+    "gate2_block_rate": "6.3%",
+    "gate2_samples": [
+      "Zoetis Appoints Iris Knobloch to its Board of Directors - Business Wire",
+      "Zoetis Appoints Iris Knobloch to Board of Directors, Expanding Board to 13 Members - citybiz",
+      "International Paper weighs potential sale of EMEA packaging business - Yahoo Finance",
+      "International Paper (IP) Stock Still Looks Below Fair Value Following A 23% Fall - Yahoo Finance",
+      "Sealed Air, Alpla, CurTec expand US packaging manufacturing - Packaging Dive"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為國際紙業、安姆科、斯莫菲特相關動態：「International Paper Discusses Possible Sale of EMEA Busin...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "International Paper Discusses Possible Sale of EMEA Business - Ink World Maga...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Amcor builds on cheese foil packaging expertise with investment in France - P...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "包裝價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

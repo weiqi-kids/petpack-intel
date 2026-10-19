@@ -1,0 +1,16 @@
+{
+  "total_raw": 318,
+  "dup_title": 143,
+  "no_date": 0,
+  "too_old": 134,
+  "gate1_fail": 19,
+  "gate2_fail": 11,
+  "passed": 11,
+  "gate2_samples": [
+    "Zoetis Appoints Iris Knobloch to its Board of Directors - Business Wire",
+    "Zoetis Appoints Iris Knobloch to Board of Directors, Expanding Board to 13 Members - citybiz",
+    "International Paper weighs potential sale of EMEA packaging business - Yahoo Finance",
+    "International Paper (IP) Stock Still Looks Below Fair Value Following A 23% Fall - Yahoo Finance",
+    "Sealed Air, Alpla, CurTec expand US packaging manufacturing - Packaging Dive"
+  ]
+}
