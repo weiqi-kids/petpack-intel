@@ -1,0 +1,216 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T13:11:53.558127Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "petco-2026-10-20-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Evercore cuts Petco target to USD 3.00 for Petco Health and Wellness stock - ad-hoc-news.de",
+      "companies": [
+        "petco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQmZ5X3BuUW14RkJPNXBwRGR2RnJjanZyRXg1SXNBQkFfVHdGclAyenhIblhMQXFYbFAzX3c5enJId0JjVEM1RGRablY2d3puNTVnVDkwanBsenlSMU5CbTBVYklZRkJsdnBMRU03YWFWZ1o0c1V3cDEzQnppSGQzUTVRNlpBWkttOTJ6RnpBSk1IVW54Qjg0RkNKSFQ4RE9qRTg4TFl1NlNtbmh3WmFDUW5UZVFTdG9Zbzg2QU5yWkt4c0pyd2E0RVV3R3BZdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "amcor-2026-10-20-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Amcor Plc (ASX:AMC) Details Packaging Investment and FY26 Financial Results - Kalkine",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUkVpNjUtU2Ewa09vOGpsclVYdElTTU1vN3VnVUdnQ1hLNnFTd2FmMnZjUkRoNEJYSXpkdVM4ZDFCaDZZMnhiRkp3V3J6VnppM1BVTHd1YVJlY1Y4R1JNTy1Fekw5Q09waWNoXzBpN0Z5LXlKN3JnQ2MzRjFlcUtNUjJzNU5waEZZNV9nTjZnTk1lX2NUbUF5MnFhQUdQRDdWSW9XTmpid25TYm1BZGpGa0Vn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "crown-2026-10-20-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Crown Holdings (CCK) Stock Still Looks Undervalued Despite Its 55% Run - Yahoo Finance",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb25kU3ZrdFl3ZzNtdlFDaHQ1dldQWi1zbGZaUExrNnNHTW52c092emI5OVg4U015Tl9RMjRORVkyZXdnNWpUY29qaDNmTmZ5LW5nNjdBV2hkWHZVNlFwOGswNWJ2NTlFdV9HYmJPMm0tM29BOVVsb2tPWEw1UjFYSGlWb3g2NmVGRU9WS0N3Ri1LS2dPaTljOTFuZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "crown-2026-10-20-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Crown Holdings (CCK) Could Be 16% Undervalued Following Strong Q3 Results And Soft Guidance - Yahoo Finance",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSXdydURIRTJrTFZGV1NiUnR2VEItU0lEZnZMSF9lNld2LXVNUDctaThKaU13blZmWl9YUVhQM1JQZTNXOHM2WUt6bWlZc0V3dklKUjlERWVGMVFaZVVvR1lZQnkxS0dkWUdiNEtWRG54TmR0NmVMRFVwcFBlTURrTXUyQXJ3dEpKUXc5TVYxTndxNmhsbVc0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "crown-2026-10-20-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Crown Holdings Shares Fall 1.7% Premarket as Q4 Earnings Outlook Misses Estimates - Yahoo Finance",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbDJJWG41UVotVkpsUGtxZ2pZcHA0N2tXaHB4VFo4dlgxdWxhUzg3ZVFycVhyWFBjZnpMU3psaUcwMGFfZWhYc05UZEtKcU5oX2p5b05NZ2tFTUFWOHhhdnBJc0hyckhiWmVySU5VaGU3M255RHVDWkg4elJlTG9NM0dOT21UT2ZSdDNmTEdUTmUxb2F3dC1taw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "crown",
+        "count": 4
+      },
+      {
+        "id": "petco",
+        "count": 1
+      },
+      {
+        "id": "amcor",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "guidance",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 318,
+    "dup_title": 135,
+    "too_old": 126,
+    "gate1_blocked": 18,
+    "gate2_blocked": 14,
+    "passed": 25,
+    "pass_rate": "13.7%",
+    "gate2_block_rate": "7.7%",
+    "gate2_samples": [
+      "Zoetis Appoints Iris Knobloch to its Board of Directors - Business Wire",
+      "Is IDEXX Laboratories (IDXX) Undervalued On Its Zacks Rank Upgrade? - Simply Wall Street",
+      "International Paper (IP) Stock Still Looks Below Fair Value Following A 23% Fall - Yahoo Finance",
+      "International Paper weighs potential sale of EMEA packaging business - Yahoo Finance",
+      "Ball Corporation Names New Presidents of Beverage Packaging North and Central America and EMEA - PR "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為皇冠、WOOF、安姆科相關動態：「Evercore cuts Petco target to USD 3.00 for Petco Health a...」。主要關注主題為財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Evercore cuts Petco target to USD 3.00 for Petco Health and Wellness stock - ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Amcor Plc (ASX:AMC) Details Packaging Investment and FY26 Financial Results -...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

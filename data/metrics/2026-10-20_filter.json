@@ -1,0 +1,16 @@
+{
+  "total_raw": 318,
+  "dup_title": 135,
+  "no_date": 0,
+  "too_old": 126,
+  "gate1_fail": 18,
+  "gate2_fail": 14,
+  "passed": 25,
+  "gate2_samples": [
+    "Zoetis Appoints Iris Knobloch to its Board of Directors - Business Wire",
+    "Is IDEXX Laboratories (IDXX) Undervalued On Its Zacks Rank Upgrade? - Simply Wall Street",
+    "International Paper (IP) Stock Still Looks Below Fair Value Following A 23% Fall - Yahoo Finance",
+    "International Paper weighs potential sale of EMEA packaging business - Yahoo Finance",
+    "Ball Corporation Names New Presidents of Beverage Packaging North and Central America and EMEA - PR "
+  ]
+}
