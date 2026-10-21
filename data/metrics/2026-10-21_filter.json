@@ -1,0 +1,16 @@
+{
+  "total_raw": 317,
+  "dup_title": 126,
+  "no_date": 0,
+  "too_old": 133,
+  "gate1_fail": 18,
+  "gate2_fail": 17,
+  "passed": 23,
+  "gate2_samples": [
+    "Zoetis: Weakening Fundamentals Overshadow The Discount (NYSE:ZTS) - Seeking Alpha",
+    "Is IDEXX Laboratories (IDXX) Undervalued On Its Zacks Rank Upgrade? - Simply Wall Street",
+    "A 14-year-old cat who battled cancer will be one of Trupanion’s 2027 faces - Stock Titan",
+    "International Paper: A Potential DS Smith Sale Is Not Enough To Change Our Sell Rating - Seeking Alp",
+    "Zacks lifts International Paper stock estimate to USD 0.66 - AD HOC NEWS"
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-21",
+  "date_range": {
+    "start": "2026-10-15",
+    "end": "2026-10-21"
+  },
+  "generated_at": "2026-10-21T13:21:41.158183Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "smurfit-2026-10-16-008",
+      "date": "2026-10-16",
+      "title": "RBC Cuts Price Target on Smurfit Westrock to $55 From $60, Keeps Outperform Rating - Yahoo Finance",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 26,
+      "last_week": 18,
+      "week_over_week_change": "+44%",
+      "sentiment_this_week": 0.04
+    },
+    "pet_food": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "packaging_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "paper_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "guidance": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "petco": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "intl_paper": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "sealed_air": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 6
+    },
+    "smurfit": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "amcor": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "crown": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "zoetis": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 101,
+        "last": 58,
+        "change_pct": 74.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-15",
+      "event_count": 29,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-10-16",
+      "event_count": 10,
+      "sentiment_avg": 0.2
+    },
+    {
+      "date": "2026-10-17",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-18",
+      "event_count": 8,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-10-19",
+      "event_count": 25,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-20",
+      "event_count": 15,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-21",
+      "event_count": 8,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-15 ~ 2026-10-21）共 101 則事件，重點為「RBC Cuts Price Target on Smurfit Westrock to $5...」。事件量較上週增加 74%，產業動態明顯升溫，需密切關注。",
+    "watchlist": [
+      {
+        "company": "WOOF",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "國際紙業",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "希悅爾",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

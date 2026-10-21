@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-21",
+  "total_events": 8,
+  "by_company": {
+    "zoetis": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "amcor": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "smurfit": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "crown": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
