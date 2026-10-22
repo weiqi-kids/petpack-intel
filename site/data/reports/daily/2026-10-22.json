@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T13:21:49.548815Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "amcor-2026-10-22-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Amcor plc (ASX:AMC): FY26 Packaging Results and Integration Progress - Kalkine",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNTMtekYwSkRpSldvRW1YR1FaY1ZtV3JMVzRPUkNaMF9ORXQ2QjNEOVhJZUlEU3RUWHp2amhkZkhQN294akl4a3dkYWxXWVZKMnZrNHVMckRpUXdSU2pMYk45bHJZeWFZM2dZYUdSZkhIbS11NkJSYlVtbW1wZXlQa2NRNkxXMHRDamhkNC1CVE5fVHhnY3JCTHBkTm5UQWc0TkRISUd4TQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "amcor",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 309,
+    "dup_title": 133,
+    "too_old": 132,
+    "gate1_blocked": 16,
+    "gate2_blocked": 19,
+    "passed": 9,
+    "pass_rate": "5.1%",
+    "gate2_block_rate": "10.8%",
+    "gate2_samples": [
+      "Zoetis: Weakening Fundamentals Overshadow The Discount (NYSE:ZTS) - Seeking Alpha",
+      "Is IDEXX Laboratories (IDXX) Undervalued On Its Zacks Rank Upgrade? - Simply Wall Street",
+      "Trupanion, Inc. (TRUP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "International Paper weighs potential sale of EMEA packaging business - Yahoo Finance",
+      "International Paper: A Potential DS Smith Sale Is Not Enough To Change Our Sell Rating - Seeking Alp"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為安姆科相關動態：「Amcor plc (ASX:AMC): FY26 Packaging Results and Integrati...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Amcor plc (ASX:AMC): FY26 Packaging Results and Integration Progress - Kalkine（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "安姆科為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
