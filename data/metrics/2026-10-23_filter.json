@@ -1,0 +1,16 @@
+{
+  "total_raw": 311,
+  "dup_title": 119,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 15,
+  "gate2_fail": 17,
+  "passed": 12,
+  "gate2_samples": [
+    "Zoetis: Weakening Fundamentals Overshadow The Discount (NYSE:ZTS) - Seeking Alpha",
+    "Is IDEXX Laboratories (IDXX) Undervalued On Its Zacks Rank Upgrade? - Simply Wall Street",
+    "Petco Health and Wellness (NASDAQ:WOOF) Stock Jumps 8.4% - Should You Buy? - MarketBeat",
+    "Price to sales forward of International Paper Company – SIX:IP - TradingView",
+    "International Paper weighs potential sale of EMEA packaging business - Yahoo Finance"
+  ]
+}

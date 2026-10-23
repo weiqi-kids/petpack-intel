@@ -1,0 +1,120 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T13:00:26.045376Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "idexx-2026-10-23-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Does Earnings Beat Change The Bull Case For IDEXX Laboratories (IDXX)? - Simply Wall Street",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNT193ejBJaUNuTDJPZHFMZi14cFJOYjhFTlBLSzcwRVpDTnphQVBjeTdoWkFlVy1TVzlmeHg2Y1kzY0E4anhEcHBYZjdka2otb3d1YlJBNldNM2RITFRqcm9OT0dQZlA0YUdwSXVRbnZRbkI3Ujl3QzhaYmNPVTVkRmVleEVPQ19UZU1HM0tWdFIwOS1UUXBUUC1iSlNlWHo2RDBjaFJXWXFSSWpYY1hNRFlTZkRraDhOa2pHbEZ4STRzMFQyeWhkY0dKWHpwRnZTMHdHbDk4a1dFSmfSAdsBQVVfeXFMTU9fd3owSWlDbkwyT2RxTGYteHBSTmI4RU5QS0s3MEVaQ056YUFQY3k3aFpBZVctU1c5Znh4NmNZM2NBOGp4RHBwWGY3ZGtqLW93dWJSQTZXTTNkSExUanJvTk9HUGZQNGFHcEl1UW52UW5CN1I5d0M4WmJjT1U1ZEZlZXhFT0NfVGVNRzNLVnRSMDktVFFwVFAtYkpTZVh6NkQwY2hSV1lxUklqWGNYTURZU2ZEa2g4TmtqR2xGeEk0czBUMnloZGNHSlh6cEZ2UzB3R2w5OGtXRUpn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "crown-2026-10-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Crown Holdings declares $0.35 quarterly dividend By Investing.com - Investing.com Nigeria",
+      "companies": [
+        "crown"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU2VBcXRfSWxvbEt0UHQzWXF2Y0FubnRORkpwd2VPeWxOWGtGRTNlTmdWckpiUjcxWEJwbXFnR2kxZk5QWjg1QkI2UDJkajNfeWtJMFpOTzNWNjU0Z04wSGpXTHJfZk15TzJlbnpjWUxSMjR1anltSkdwWU0xT21Dbi02NXJfbm9IcWxBOGY0azFUWVpZLThXcFdwUTV4QnRaT2xpdWNNdFFLeE0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "idexx",
+        "count": 1
+      },
+      {
+        "id": "crown",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 311,
+    "dup_title": 119,
+    "too_old": 148,
+    "gate1_blocked": 15,
+    "gate2_blocked": 17,
+    "passed": 12,
+    "pass_rate": "6.2%",
+    "gate2_block_rate": "8.9%",
+    "gate2_samples": [
+      "Zoetis: Weakening Fundamentals Overshadow The Discount (NYSE:ZTS) - Seeking Alpha",
+      "Is IDEXX Laboratories (IDXX) Undervalued On Its Zacks Rank Upgrade? - Simply Wall Street",
+      "Petco Health and Wellness (NASDAQ:WOOF) Stock Jumps 8.4% - Should You Buy? - MarketBeat",
+      "Price to sales forward of International Paper Company – SIX:IP - TradingView",
+      "International Paper weighs potential sale of EMEA packaging business - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為愛德士、皇冠相關動態：「Does Earnings Beat Change The Bull Case For IDEXX Laborat...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Does Earnings Beat Change The Bull Case For IDEXX Laboratories (IDXX)? - Simp...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Crown Holdings declares $0.35 quarterly dividend By Investing.com - Investing...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
