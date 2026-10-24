@@ -1,0 +1,16 @@
+{
+  "total_raw": 320,
+  "dup_title": 130,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 15,
+  "gate2_fail": 26,
+  "passed": 11,
+  "gate2_samples": [
+    "Zoetis Receives FDA Approval for Convenia® RTU for Dogs (cefovecin injectable suspension), Helping M",
+    "Zoetis: Weakening Fundamentals Overshadow The Discount (NYSE:ZTS) - Seeking Alpha",
+    "Is IDEXX Laboratories (IDXX) Undervalued On Its Zacks Rank Upgrade? - Simply Wall Street",
+    "Trupanion, Inc. (TRUP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Petco Health and Wellness Company, Inc. Estimates – NASDAQ:WOOF - TradingView"
+  ]
+}
