@@ -1,0 +1,16 @@
+{
+  "total_raw": 310,
+  "dup_title": 141,
+  "no_date": 0,
+  "too_old": 126,
+  "gate1_fail": 15,
+  "gate2_fail": 24,
+  "passed": 4,
+  "gate2_samples": [
+    "Zoetis: Weakening Fundamentals Overshadow The Discount (NYSE:ZTS) - Seeking Alpha",
+    "Zoetis Receives FDA Approval for Convenia® RTU for Dogs (cefovecin injectable suspension), Helping M",
+    "Is IDEXX Laboratories (IDXX) Undervalued On Its Zacks Rank Upgrade? - Simply Wall Street",
+    "Petco Health and Wellness Company, Inc. Estimates – NASDAQ:WOOF - TradingView",
+    "Petco Health and Wellness (NASDAQ:WOOF) Stock Jumps 8.4% - Should You Buy? - MarketBeat"
+  ]
+}
