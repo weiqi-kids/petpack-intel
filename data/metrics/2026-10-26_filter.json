@@ -1,0 +1,16 @@
+{
+  "total_raw": 319,
+  "dup_title": 133,
+  "no_date": 0,
+  "too_old": 132,
+  "gate1_fail": 16,
+  "gate2_fail": 27,
+  "passed": 11,
+  "gate2_samples": [
+    "Can Zoetis Stock Jump 30%? - Trefis",
+    "Zoetis: Weakening Fundamentals Overshadow The Discount (NYSE:ZTS) - Seeking Alpha",
+    "Zoetis Receives FDA Approval for Convenia® RTU for Dogs (cefovecin injectable suspension), Helping M",
+    "FDA Dog Antibiotic Approval Could Be A Game Changer For Zoetis Stock - Simply Wall Street",
+    "Is IDEXX Laboratories (IDXX) Undervalued On Its Zacks Rank Upgrade? - Simply Wall Street"
+  ]
+}

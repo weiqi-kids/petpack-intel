@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-26",
+  "total_events": 7,
+  "by_company": {
+    "petco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sealed_air": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "smurfit": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "crown": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
