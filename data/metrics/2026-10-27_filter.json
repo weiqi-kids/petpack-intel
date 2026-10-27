@@ -1,0 +1,16 @@
+{
+  "total_raw": 301,
+  "dup_title": 120,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 14,
+  "gate2_fail": 14,
+  "passed": 14,
+  "gate2_samples": [
+    "Zoetis: Weakening Fundamentals Overshadow The Discount (NYSE:ZTS) - Seeking Alpha",
+    "Trupanion, Inc. (TRUP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Price to sales forward of International Paper Company – SIX:IP - TradingView",
+    "Pack Expo 2026: Sealed Air showcases protective packaging range and equipment - Packaging Insights",
+    "New Information on Covington Smurfit Westrock Paper Mill - WBTV"
+  ]
+}
