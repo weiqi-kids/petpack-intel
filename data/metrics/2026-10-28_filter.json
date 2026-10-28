@@ -1,0 +1,16 @@
+{
+  "total_raw": 302,
+  "dup_title": 100,
+  "no_date": 0,
+  "too_old": 132,
+  "gate1_fail": 14,
+  "gate2_fail": 15,
+  "passed": 41,
+  "gate2_samples": [
+    "Jefferies cuts target for Zoetis stock from USD 103 to USD 83 - ad-hoc-news.de",
+    "IDEXX Laboratories (Nasdaq:IDXX) - Stock Analysis - Simply Wall Street",
+    "Petco Health and Wellness Company, Inc. Estimates – NASDAQ:WOOF - TradingView",
+    "International Paper Reports Third Quarter 2026 Results - PR Newswire",
+    "Amcor to present packaging solutions at Privel 2026 - Plastech"
+  ]
+}
