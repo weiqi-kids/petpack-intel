@@ -1,0 +1,16 @@
+{
+  "total_raw": 308,
+  "dup_title": 105,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 13,
+  "gate2_fail": 10,
+  "passed": 33,
+  "gate2_samples": [
+    "IDEXX Laboratories (Nasdaq:IDXX) - Stock Analysis - Simply Wall St",
+    "Sealed Air, Coveris & Dole rethink food packaging to cut waste and carbon - Packaging Insights",
+    "Pack Expo 2026: Sealed Air showcases protective packaging range and equipment - Packaging Insights",
+    "Smurfit Westrock anticipates $700M hit in 2026 from cost inflation - Packaging Dive",
+    "Smurfit Westrock third quarter sales reach $8.16 billion - grafa.com"
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T14:53:03.153160Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "amcor-2026-10-29-008",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Amcor plc (ASX:AMC): How Are FY26 Earnings and Berry Integration Shaping Its Packaging Business? - Kalkine",
+      "companies": [
+        "amcor",
+        "berry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX2pkNDF2RUJ3YnRBLW9UOUcxMWJGZHFhbFpQejA0cnZXNERJT3l4d0lLNC1MU1ZmY2M0aWNMNkNrS04xUXUyclBha1BSY19TZU5tbG9QS2dUNTUwdWwybTVUUEx6THEtcm00SzlyR2NDOFZtZlZKSmh6STZvcG1ManROVWF5aG5MSm8tdmdDVHo0MVZ5ZWl4aWsxMHZBX2FMYy01anRVblZ5VkctdnJ2TU1qTWdPQlFDV3A1MVUtR0JiT2ZoV0JfUnVGdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intl_paper-2026-10-29-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "International Paper posts $1.1 billion Q3 loss after impairment - Papnews",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNejhmTzhsUFFZamhjYzc0b2IwNG81T0dRQ05pME1vYWNxQmUyVnNfUGtHblhrbDYwWEVDUDVXTXNXYVlkeEZmU0Jhc1NpR3l4cHhoWURqdDlhRnNSYS0tNF9GSDBtRWI2Rk5KY1Z4aWpxSW5nUEJpaGx3R1pMa0Z4emZ5ak9qM2pTaUJHSk5xR28?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "intl_paper-2026-10-29-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Key facts: IP Q3 $1.1B loss; spin EMEA to DS Smith plc; cuts costs - TradingView",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZG10QkNDUHJ0aHJzVDBjb1RhZk1RVlVXRW5ZaFJ0VkVOQ2hRNS1jODJaQy1kem9tSF96UFdreDNuZ19CajA1aDYyZDFoODlEUW8tMWZsWVJiWERSeTJCTERPc1h2NG0xeDBTWXd2Ym5xc1c5RW5COE52R1pJdFdwM2VfRkNUVEM5RUxza2U4TldadmI1a0dlTS1CY2RzMGpLWnBiWkFKYktIUVpNa1pZY2VZcUZFSXZjOHFuNDhLXzFEUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "intl_paper-2026-10-29-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper Cuts 2026 North America EBITDA Outlook Despite Q3 Recovery - TradingKey",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDVHJQNXByQk16RjR6NEdMV0g0bF8yRXRDMVFGOFdpdXJUV0dqbGtLZFk4Ty1aaGppUHlBUzYzeEVWMnZJbzNReUJrQ2ZBQ1hNb2VNNGMzVDZvdW44TjN2ZzJ3RnVvNUlIR0xqWU5zUjFYR0k?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "intl_paper-2026-10-29-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Truist Adjusts Price Target on International Paper to $39 From $41, Maintains Buy Rating - www.marketscreener.com",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbXc4RVR4dGZSWGs5TjFtekg1aElnbXJtV2ExQmdwMkRKUWtVN0JGdTJZQjl0MmJrV1hvTjloNC1GTW8yNmJBdHdqQ3RUOXhETTVqdjdzVmhzYmpjS25LZVpPLVpfMEhRbzQ1bGZ3YkoxNWpBd0R6cXhiYmU2N0NWSTNaa2QtblVHVkE4UjN6SUtOMGJrTXlrazlmeklNd2NSVlBiUTV1TjBDR3l5R1F1ZEJQNklsYkZBMzVjcnN4LU1RQkhNaS02VlhOSzZuX3F2bE5lSw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "vet_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.2,
+      "sentiment_7d_avg": null
+    },
+    "paper_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 11,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 6
+      },
+      {
+        "id": "smurfit",
+        "count": 6
+      },
+      {
+        "id": "zoetis",
+        "count": 1
+      },
+      {
+        "id": "amcor",
+        "count": 1
+      },
+      {
+        "id": "berry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 10
+      },
+      {
+        "id": "vet_spending",
+        "count": 1
+      },
+      {
+        "id": "paper_price",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 308,
+    "dup_title": 105,
+    "too_old": 147,
+    "gate1_blocked": 13,
+    "gate2_blocked": 10,
+    "passed": 33,
+    "pass_rate": "16.3%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "IDEXX Laboratories (Nasdaq:IDXX) - Stock Analysis - Simply Wall St",
+      "Sealed Air, Coveris & Dole rethink food packaging to cut waste and carbon - Packaging Insights",
+      "Pack Expo 2026: Sealed Air showcases protective packaging range and equipment - Packaging Insights",
+      "Smurfit Westrock anticipates $700M hit in 2026 from cost inflation - Packaging Dive",
+      "Smurfit Westrock third quarter sales reach $8.16 billion - grafa.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為國際紙業、斯莫菲特、碩騰相關動態：「Amcor plc (ASX:AMC): How Are FY26 Earnings and Berry Inte...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Amcor plc (ASX:AMC): How Are FY26 Earnings and Berry Integration Shaping Its ...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "International Paper posts $1.1 billion Q3 loss after impairment - Papnews（財報）",
+        "level": "red"
+      },
+      {
+        "text": "紙價話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

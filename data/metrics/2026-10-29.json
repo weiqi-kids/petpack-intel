@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-29",
+  "total_events": 14,
+  "by_company": {
+    "zoetis": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "intl_paper": {
+      "count": 6,
+      "sentiment_avg": -0.5
+    },
+    "amcor": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "berry": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "smurfit": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "vet_spending": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 10,
+      "sentiment_avg": -0.2
+    },
+    "paper_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
