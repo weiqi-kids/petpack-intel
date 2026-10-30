@@ -1,0 +1,16 @@
+{
+  "total_raw": 303,
+  "dup_title": 123,
+  "no_date": 0,
+  "too_old": 136,
+  "gate1_fail": 12,
+  "gate2_fail": 15,
+  "passed": 17,
+  "gate2_samples": [
+    "Top Players IDEXX Laboratories, QIAGEN, and Zoetis in - openPR.com",
+    "IDEXX Laboratories (Nasdaq:IDXX) - Stock Analysis - Simply Wall St",
+    "Trupanion, Inc. (TRUP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "JP Morgan maintains International Paper at Overweight, lowers price target to $51 from $62 - Trading",
+    "Pack Expo 2026: Sealed Air showcases protective packaging range and equipment - Packaging Insights"
+  ]
+}

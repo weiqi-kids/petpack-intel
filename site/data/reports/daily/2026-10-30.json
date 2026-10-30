@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T14:45:08.373093Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "zoetis-2026-10-30-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rural America’s Vet Shortage: Zoetis Shines Spotlight on Those Answering the Call - Western Ag Network",
+      "companies": [
+        "zoetis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm5GNFhVNTItb3dIcUVVOWZ6cGk0bGR4VEpjNUFTanFoMTN3NHVfWndyb0QxQ3RqRVgtZmZIcWFERlQyb0daWkZvRWVaU01HN1ZEOVlGQnIyZXVybUFic2wxbXVIMk50bXNnWEItOUFQQ0I2REZGYWxlZThBV3YtX2NyUG9KcWptRWpGd3pGX0ROV2FNRm5GVnpJNWVXXy1HWlJZOUltd0Y0cnhS?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intl_paper-2026-10-30-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "International Paper talks cost challenges ahead of DS Smith split - Packaging Dive",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMERyRDJFVWRkeUI1WVhEMDdRM0hjSkRBV01qSWZxVWwzREJXcEt2bVlOdHhmandMV0dGTVh3bTZxTHBUQ1lOVEJpa2ZpYWc1ak14VHpiX2EwX2g0QU05VnNsZldEbE42NEdnS3JWZFBtRHBJX2lmOVFEMUlNenRpMHd0R1pMOGFHTWNQLVQzLWtuQ0E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-30-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Top 6 Frozen Food Packaging Suppliers in Europe - Grocery Trade News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXLVJLSEtBYlYzSVJ1YnYwZWFtQTJlOGxHNHJlQUl2MG9yVTd3eFdjVDBTTUZERGdIby1zXzBvT3EwdzJ5dVNwU1prYUV6cW9kT0tWMTBNZmxFendHc2ZLem13UDZXQlJ0WlQ2NU9sLWlMMXdxQ0xJc3lfZXA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "intl_paper-2026-10-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "International Paper Reports Third Quarter 2026 Results - Ink World Magazine",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWTJkNU9fM2tGM0FOdlFoS0I1NTRmcmxLN2RRUlJTek0xRDRyQUhIelpaOHJCMG41UGRGMnRmMGRBVUU1UEpLTkVGdUF6SXFXMHQtamZPZTE4S3l4cmRNRmtiUi1jV1hqVXJ2aEw4MnRRNWpSWllnWUkyT3hBQ0tNdkFXTWlHVFNlX194OVJPSUNkZFBFUXZiYlZaUkNlN01HUUphUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 2
+      },
+      {
+        "id": "zoetis",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 303,
+    "dup_title": 123,
+    "too_old": 136,
+    "gate1_blocked": 12,
+    "gate2_blocked": 15,
+    "passed": 17,
+    "pass_rate": "9.4%",
+    "gate2_block_rate": "8.3%",
+    "gate2_samples": [
+      "Top Players IDEXX Laboratories, QIAGEN, and Zoetis in - openPR.com",
+      "IDEXX Laboratories (Nasdaq:IDXX) - Stock Analysis - Simply Wall St",
+      "Trupanion, Inc. (TRUP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "JP Morgan maintains International Paper at Overweight, lowers price target to $51 from $62 - Trading",
+      "Pack Expo 2026: Sealed Air showcases protective packaging range and equipment - Packaging Insights"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為國際紙業、碩騰相關動態：「Rural America’s Vet Shortage: Zoetis Shines Spotlight on ...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Rural America’s Vet Shortage: Zoetis Shines Spotlight on Those Answering the ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "International Paper talks cost challenges ahead of DS Smith split - Packaging...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,81 @@
 [
   {
+    "id": "zoetis-2026-10-30-001",
+    "date": "2026-10-30",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rural America’s Vet Shortage: Zoetis Shines Spotlight on Those Answering the Call - Western Ag Network",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm5GNFhVNTItb3dIcUVVOWZ6cGk0bGR4VEpjNUFTanFoMTN3NHVfWndyb0QxQ3RqRVgtZmZIcWFERlQyb0daWkZvRWVaU01HN1ZEOVlGQnIyZXVybUFic2wxbXVIMk50bXNnWEItOU",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm5GNFhVNTItb3dIcUVVOWZ6cGk0bGR4VEpjNUFTanFoMTN3NHVfWndyb0QxQ3RqRVgtZmZIcWFERlQyb0daWkZvRWVaU01HN1ZEOVlGQnIyZXVybUFic2wxbXVIMk50bXNnWEItOUFQQ0I2REZGYWxlZThBV3YtX2NyUG9KcWptRWpGd3pGX0ROV2FNRm5GVnpJNWVXXy1HWlJZOUltd0Y0cnhS?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-10-30-002",
+    "date": "2026-10-30",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Paper talks cost challenges ahead of DS Smith split - Packaging Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOMERyRDJFVWRkeUI1WVhEMDdRM0hjSkRBV01qSWZxVWwzREJXcEt2bVlOdHhmandMV0dGTVh3bTZxTHBUQ1lOVEJpa2ZpYWc1ak14VHpiX2EwX2g0QU05VnNsZldEbE42NEdnS3JWZF",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMERyRDJFVWRkeUI1WVhEMDdRM0hjSkRBV01qSWZxVWwzREJXcEt2bVlOdHhmandMV0dGTVh3bTZxTHBUQ1lOVEJpa2ZpYWc1ak14VHpiX2EwX2g0QU05VnNsZldEbE42NEdnS3JWZFBtRHBJX2lmOVFEMUlNenRpMHd0R1pMOGFHTWNQLVQzLWtuQ0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-10-30-003",
+    "date": "2026-10-30",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "International Paper Reports Third Quarter 2026 Results - Ink World Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOWTJkNU9fM2tGM0FOdlFoS0I1NTRmcmxLN2RRUlJTek0xRDRyQUhIelpaOHJCMG41UGRGMnRmMGRBVUU1UEpLTkVGdUF6SXFXMHQtamZPZTE4S3l4cmRNRmtiUi1jV1hqVXJ2aEw4Mn",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWTJkNU9fM2tGM0FOdlFoS0I1NTRmcmxLN2RRUlJTek0xRDRyQUhIelpaOHJCMG41UGRGMnRmMGRBVUU1UEpLTkVGdUF6SXFXMHQtamZPZTE4S3l4cmRNRmtiUi1jV1hqVXJ2aEw4MnRRNWpSWllnWUkyT3hBQ0tNdkFXTWlHVFNlX194OVJPSUNkZFBFUXZiYlZaUkNlN01HUUphUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-004",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Top 6 Frozen Food Packaging Suppliers in Europe - Grocery Trade News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBXLVJLSEtBYlYzSVJ1YnYwZWFtQTJlOGxHNHJlQUl2MG9yVTd3eFdjVDBTTUZERGdIby1zXzBvT3EwdzJ5dVNwU1prYUV6cW9kT0tWMTBNZmxFendHc2ZLem13UDZXQlJ0WlQ2NU9sLW",
+    "sources": [
+      {
+        "name": "amcor",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXLVJLSEtBYlYzSVJ1YnYwZWFtQTJlOGxHNHJlQUl2MG9yVTd3eFdjVDBTTUZERGdIby1zXzBvT3EwdzJ5dVNwU1prYUV6cW9kT0tWMTBNZmxFendHc2ZLem13UDZXQlJ0WlQ2NU9sLWlMMXdxQ0xJc3lfZXA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "zoetis-2026-10-29-001",
     "date": "2026-10-29",
     "companies": [
@@ -273,6 +349,199 @@
       {
         "name": "smurfit",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON2dyNTlnNVFpajJRQlVDX0FRZEJ2akVzSjZHN0NvY1d6azcxV1RDNEo1c0F1T2RhajNBanotY0NxRlJ3ZllTeUJLR0JoVE1ueDVEM29OUnBicm1qUlk0NVpKd1JGcE5LQWcwOGdlWE9sN1lydUJlY2Jia1JLdHp3eUNIUWlDWlJkOGVhekRuSTJaUEgwbTNwdjFFSXk2X3NkZmFNVWVwTGJvUktsbXQ0S2NleC1DMndPR21BTFVWaEJkYWhz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elanco-2026-10-29-015",
+    "date": "2026-10-29",
+    "companies": [
+      "elanco",
+      "zoetis"
+    ],
+    "topics": [
+      "vet_spending"
+    ],
+    "impact": "neutral",
+    "title": "Top Players Zoetis, Elanco, and MSD Animal Health in - openPR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOZVZCQWNTMDJzbVFLbU9SdUFTc3l4b21hQllUSGxyUVNJYXNnZUlna09JMHpvcGFURWhmcW1JX2EtdEZCNy1fWkhBTjhONVdFVEZNbDdlQTg3YWNDaGgxamNqZy1fa0pwM09iTnpxMV",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZVZCQWNTMDJzbVFLbU9SdUFTc3l4b21hQllUSGxyUVNJYXNnZUlna09JMHpvcGFURWhmcW1JX2EtdEZCNy1fWkhBTjhONVdFVEZNbDdlQTg3YWNDaGgxamNqZy1fa0pwM09iTnpxMV9lMmF5NGw3Y01rNW4wZVFNZ2xHZy1xN1BJdDhkbDdFWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "petco-2026-10-29-016",
+    "date": "2026-10-29",
+    "companies": [
+      "petco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Petco Health and Wellness Company, Inc. (WOOF) Seasonal returns chart - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE80RjV2VG5ONnhmT0FfNFRtUFByaFZ1QXFvZEdGTXp5YmVzanBCLVhxRS1HbjRRVnJ3dXR2UzY1LWw0b1MzOG5uM0RTSVdNbG8tRjdHOW90TjZsQjI0NkliTDF3?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80RjV2VG5ONnhmT0FfNFRtUFByaFZ1QXFvZEdGTXp5YmVzanBCLVhxRS1HbjRRVnJ3dXR2UzY1LWw0b1MzOG5uM0RTSVdNbG8tRjdHOW90TjZsQjI0NkliTDF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-017",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Memphis public co. reports $52M charge as spinoff progresses - The Business Journals",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ19QamFnYkV3cEFCSjhHSi1JbEFid05qX0V0TDZsR2F6UlZiRW9IaHlxSmpQQkpiM29vYVZNQlhyMjVnZ1AtUW9Ob2pkbzF2OUx3VWtlc0pScTFUOUNvVDVsUE5DR094bkdaRXdLS0",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ19QamFnYkV3cEFCSjhHSi1JbEFid05qX0V0TDZsR2F6UlZiRW9IaHlxSmpQQkpiM29vYVZNQlhyMjVnZ1AtUW9Ob2pkbzF2OUx3VWtlc0pScTFUOUNvVDVsUE5DR094bkdaRXdLS0NiaFhKQnlNSV9OczZEcDVuOGZqX0hIZXlMZmlPLXI0Q29ZV3d4Umg3S0RaX0k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-10-29-018",
+    "date": "2026-10-29",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "International Paper loss deepens to $1.10bn on EMEA Impairment - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQbHExNEVBeFZ6SmdYVDVCeV9mN1I3RkNHZ2xUMFhhWTlIOUxZWV9JQ1h5SXE4Mm80YVRpbWNtcEIxT3pEQV8zc2FzWXRtOWNHSWZGU090OUkxZmd5NVBwRWVFalRnajRlbUZIcmg1cz",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbHExNEVBeFZ6SmdYVDVCeV9mN1I3RkNHZ2xUMFhhWTlIOUxZWV9JQ1h5SXE4Mm80YVRpbWNtcEIxT3pEQV8zc2FzWXRtOWNHSWZGU090OUkxZmd5NVBwRWVFalRnajRlbUZIcmg1czQtMkhhb2xkSTNfUF8xOGZVU1RyUzdoeEFXbnY5LWNXaVBuR3ZLVEgtRnlYckpZQXNo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-10-29-019",
+    "date": "2026-10-29",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Paper Likely Turning The Corner, RBC Says - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOHR3LUY5am84QUwyWFBaNTdGTFV2aEFSVWtXUjhZTGNmX2VGaGctemZBaEYyblFTX1hiWmc1YlF0X1NZeE5GUG9qb2xwazhESUpjYXUzcS1hZ3dVWHVCeDNLWHdGeFNBUkNfQWxKM3",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOHR3LUY5am84QUwyWFBaNTdGTFV2aEFSVWtXUjhZTGNmX2VGaGctemZBaEYyblFTX1hiWmc1YlF0X1NZeE5GUG9qb2xwazhESUpjYXUzcS1hZ3dVWHVCeDNLWHdGeFNBUkNfQWxKM3oycmFzM0JvMmNmSXZESHJYOVlzaEtvc1NVb25TbXQ2cXppbjRPVEhxUkZ6T1RwSEJuTGU0aDZHR3IxT2M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-10-29-020",
+    "date": "2026-10-29",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Paper Company (IP) Seasonal returns chart - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfdkhGc0JNNkVJdGdKOG1pNkktX01Qc1ljNlU1V0R1VzNnNGNTeEhmOU1UcjY5T1lZbzZnUGJ4OERwb0JpbnBPT0xpSFVvQ2tSbGhENlREMF82b0tsN0kw?oc=5\" target=\"_blank\"",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfdkhGc0JNNkVJdGdKOG1pNkktX01Qc1ljNlU1V0R1VzNnNGNTeEhmOU1UcjY5T1lZbzZnUGJ4OERwb0JpbnBPT0xpSFVvQ2tSbGhENlREMF82b0tsN0kw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-10-29-021",
+    "date": "2026-10-29",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Paper Company (IPC.L) Seasonal returns chart - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tSWxsdjVzcnBNUE56U3dyVHNHRlEyUDBwMk5hYzlQc1N3enItVzBoazRxZkxLQ3BXdHlWY2ctOEs1QWNOS2I0bFAwOGhUdUVtdHJnUVFkMlBUQjBqeDJEamRkbw?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tSWxsdjVzcnBNUE56U3dyVHNHRlEyUDBwMk5hYzlQc1N3enItVzBoazRxZkxLQ3BXdHlWY2ctOEs1QWNOS2I0bFAwOGhUdUVtdHJnUVFkMlBUQjBqeDJEamRkbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-10-29-022",
+    "date": "2026-10-29",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Paper Co (IP) (Q3 2026) Earnings Call Highlights: Margin Jumps 400 Basis Points ... - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZTdWazhMemR4ZUsxaE9LaHVCTHB2NmJhYi00ckZLTXI2MG1vZDRTb0R2Z29pREZDMG05eDBVaFBvUmctVFpxNVM5NGYyS3lFNVhsOHJHQ1VGQUJJNFZ5VUJrZFkyd2ozakNBUlNFST",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZTdWazhMemR4ZUsxaE9LaHVCTHB2NmJhYi00ckZLTXI2MG1vZDRTb0R2Z29pREZDMG05eDBVaFBvUmctVFpxNVM5NGYyS3lFNVhsOHJHQ1VGQUJJNFZ5VUJrZFkyd2ozakNBUlNFSTFrSjhmZDdqRmtldzRxZTZmRG5qRnZROXY0UENlUmNaTHZwZEhJRFB1Qw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "crown-2026-10-29-023",
+    "date": "2026-10-29",
+    "companies": [
+      "crown"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Crown Holdings | 10-Q: Quarterly report - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE16V0hDeVg0amI1ZHJUQkFPUV9KUWJoOFAzZnhUMWdtS1otaFhNRHB6bmZpNzVtbFJLRmZvOTZRTi1kZVRkYkwzclUyV1NxRGZCYThrRFJmOURQdWVvbjg5a0kwTms2VW5tRGNDM1BtRQ",
+    "sources": [
+      {
+        "name": "crown",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16V0hDeVg0amI1ZHJUQkFPUV9KUWJoOFAzZnhUMWdtS1otaFhNRHB6bmZpNzVtbFJLRmZvOTZRTi1kZVRkYkwzclUyV1NxRGZCYThrRFJmOURQdWVvbjg5a0kwTms2VW5tRGNDM1BtRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-024",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ProAmpac execs talk 2027 M&A, innovation predictions",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/MF767T2fxnsi3vTma_jhRq3kC8032hOTeeK5Paclz0M/g:nowe:0:37/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wcm9hbXBhY19wcm90Z",
+    "sources": [
+      {
+        "name": "packaging_dive",
+        "url": "https://www.packagingdive.com/news/proampac-acquisitions-strategy-packaging-innovations/833894/",
         "type": "rss"
       }
     ]
@@ -1307,6 +1576,64 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/clean-harbors-mike-battles-retirement-los-angeles-hub-earnings-release-q3/873042/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-10-28-053",
+    "date": "2026-10-28",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "International Paper Swings to Q3 Adjusted Earnings, Revenue Declines; Shares Down Pre-Bell - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPVGZ0dXRqNVpVcFlQX0JmRU5FOEJiYkY0dHR3VVNHT1NPQndCd0NOTXJUaDdvMURFZUUwUDBoUGhjaGRkVS1kdnRmQXFOLVd2UnpaamROTnczRGtuZ3ZaZ1FmdWpTRzhSeHRPT0FWVS",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVGZ0dXRqNVpVcFlQX0JmRU5FOEJiYkY0dHR3VVNHT1NPQndCd0NOTXJUaDdvMURFZUUwUDBoUGhjaGRkVS1kdnRmQXFOLVd2UnpaamROTnczRGtuZ3ZaZ1FmdWpTRzhSeHRPT0FWVS1BUkhmaXYza3RFWnd5Ym9JQzQwZGl2ZGtrZGRvMWVMRHllVGxUZl9oVGd4NmFzcVc2TFBhS3FB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-10-28-054",
+    "date": "2026-10-28",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Smurfit Westrock: Q3 Earnings Snapshot - kare11.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWnNJTjZUYlY2UGthRkRUQllxS1NldWxreEVUeXlHZzNfS2RvMUdTaHowWlBJVHc1VUFxeW5qQXA1Q1RZdW1JaHJLS05HTEowV0tuVHo4TU5UT0R1T1V5YXRvOTNKV3hWQjM3Yk9jYm",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWnNJTjZUYlY2UGthRkRUQllxS1NldWxreEVUeXlHZzNfS2RvMUdTaHowWlBJVHc1VUFxeW5qQXA1Q1RZdW1JaHJLS05HTEowV0tuVHo4TU5UT0R1T1V5YXRvOTNKV3hWQjM3Yk9jYmZfTVV4S1Mxc3FlUWQ3SlBocDVpc1dPZllHcF9tdXlINlpmV012NzVhZWszVmNWSTAtRTFieG5XOUswN3lsNjdZeFZYNDVlWkc4cTN4ZjJTMWZqcUU1YVk5bDNrRWV6X3d6RUVR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-055",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "O-I Glass feels the pain from higher freight, energy, trade charges",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/EAjBczuO1tYkvP-gTFmPt1PBUAO1eR1lYZaJ7pJQE6E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9PSUdsb2JhbF9IZWFkcXVhcnRlcnMuanBn.web",
+    "sources": [
+      {
+        "name": "packaging_dive",
+        "url": "https://www.packagingdive.com/news/oi-glass-q3-2026-packaging-earnings/872966/",
         "type": "rss"
       }
     ]
