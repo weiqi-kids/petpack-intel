@@ -1,0 +1,16 @@
+{
+  "total_raw": 303,
+  "dup_title": 133,
+  "no_date": 0,
+  "too_old": 132,
+  "gate1_fail": 10,
+  "gate2_fail": 13,
+  "passed": 15,
+  "gate2_samples": [
+    "International Paper Yields 5.5%, but Free Cash Flow Just Turned Negative - Yahoo Finance",
+    "International Paper Yields 5.5%, but Free Cash Flow Just Turned Negative - 24/7 Wall St.",
+    "International Paper Reports Third Quarter 2026 Results - PR Newswire",
+    "Why Is Smurfit WestRock Stock Falling? - Yahoo Finance",
+    "Smurfit Westrock anticipates $700M hit in 2026 from cost inflation - Packaging Dive"
+  ]
+}
