@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T14:39:56.146800Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "zoetis-2026-11-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Syngene expects stronger H2 on order book, Zoetis supplies; retains outlook - Business Standard",
+      "companies": [
+        "zoetis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaG1lY29GQlptWGhQTS1tN044TXROcG52WE1mV0VtU1J3VnJRVFE3bGZsekk3bmZQNW0xTkFzbmhqSUtHckVZNHRfa1ZfWjNvLTNEdVEyWi1PWkJfTTFEVWlhcVFGY0swb3FPVG5sZjdrT1hBbzVIWWtQZnJEaTl1cUFhQzJxNVVueUdDR0lSbXFSVXI0czloZDA2ZHBRV1BCN1Z3Y3ZuU2hQQW11bUJFeVQydDNKT0t5YWNNbmVoYTZGUzlnVnNOakswZHlnclhTbWdSVHd5QVpFQdIB3wFBVV95cUxPLVM5dDNtelB1bV9memJpQUlIS0xzeDJDb1R2SnlWdEUzLWpTMXAwWGs0b29relhzVVZWdnRFa0o5WHRPWFY4S0dMTTA4eVU2M0N0WjJMUENWYUNENExQaGlzN1NtZHVJUjZ2eHdYUUF0UWpVd0NYcXFPTmVLN1NReDRxQ1NsV1pHYjlJNXMwazRUYWNvUTE0YkZCWXk5NDAxRDd3dzRsN1BJbzNjNTUzMnNlUXRHMTBPemw2RjFpamF2MGZTc2ZhLUo0ZXB4eUdHWEZneFVGTVdSWDNMb3Bz?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "zoetis",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 310,
+    "dup_title": 132,
+    "too_old": 147,
+    "gate1_blocked": 10,
+    "gate2_blocked": 13,
+    "passed": 8,
+    "pass_rate": "4.5%",
+    "gate2_block_rate": "7.3%",
+    "gate2_samples": [
+      "Trupanion, Inc. (TRUP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "International Paper Yields 5.5%, but Free Cash Flow Just Turned Negative - 24/7 Wall St.",
+      "International Paper Reports Third Quarter 2026 Results - PR Newswire",
+      "International Paper Yields 5.5%, but Free Cash Flow Just Turned Negative - Yahoo Finance",
+      "Smurfit Westrock anticipates $700M hit in 2026 from cost inflation - Packaging Dive"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為碩騰相關動態：「Syngene expects stronger H2 on order book, Zoetis supplie...」。主要關注主題為展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Syngene expects stronger H2 on order book, Zoetis supplies; retains outlook -...（展望）",
+        "level": "green"
+      },
+      {
+        "text": "碩騰為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

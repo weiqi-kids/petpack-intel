@@ -1,0 +1,16 @@
+{
+  "total_raw": 310,
+  "dup_title": 132,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 10,
+  "gate2_fail": 13,
+  "passed": 8,
+  "gate2_samples": [
+    "Trupanion, Inc. (TRUP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "International Paper Yields 5.5%, but Free Cash Flow Just Turned Negative - 24/7 Wall St.",
+    "International Paper Reports Third Quarter 2026 Results - PR Newswire",
+    "International Paper Yields 5.5%, but Free Cash Flow Just Turned Negative - Yahoo Finance",
+    "Smurfit Westrock anticipates $700M hit in 2026 from cost inflation - Packaging Dive"
+  ]
+}
