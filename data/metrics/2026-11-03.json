@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-03",
+  "total_events": 6,
+  "by_company": {
+    "idexx": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "petco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "intl_paper": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "ball": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "amcor": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "vet_spending": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

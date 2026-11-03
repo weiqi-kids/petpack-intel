@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T17:39:57.833426Z",
+  "updated_at": "2026-11-03T15:42:10.849972Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-09-30",
   "companies": [
     {
@@ -92,17 +92,17 @@
       "name": "皇冠",
       "ticker": "CCK",
       "currency": "USD",
-      "ar": 1129000000,
-      "ar_prev": 1097000000,
-      "ar_qoq": "+3%",
+      "ar": 1246000000,
+      "ar_prev": 1129000000,
+      "ar_qoq": "+10%",
       "ar_period": "QoQ",
-      "inventory": 1795000000,
-      "inv_prev": 1701000000,
-      "inv_qoq": "+6%",
+      "inventory": 1861000000,
+      "inv_prev": 1795000000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "elanco",

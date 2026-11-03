@@ -1,0 +1,16 @@
+{
+  "total_raw": 310,
+  "dup_title": 141,
+  "no_date": 0,
+  "too_old": 130,
+  "gate1_fail": 7,
+  "gate2_fail": 19,
+  "passed": 13,
+  "gate2_samples": [
+    "Zoetis (ZTS) Wins FDA Approval For Convenia RTU, Is It Still Below Fair Value? - Simply Wall St",
+    "FDA Dog Antibiotic Approval Could Be A Game Changer For Zoetis (ZTS) - Simply Wall St",
+    "Aging Pets, Higher Testing Frequency Propel IDEXX Past Wall Street Estimates Despite Slower Clinic T",
+    "Chicago Pacific Founders Pet Fund exits CoVet in sale to IDEXX - PEI Private Equity",
+    "International Paper Yields 5.5%, but Free Cash Flow Just Turned Negative - Yahoo Finance"
+  ]
+}
