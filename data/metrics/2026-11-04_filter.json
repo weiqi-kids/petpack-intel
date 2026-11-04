@@ -1,0 +1,16 @@
+{
+  "total_raw": 303,
+  "dup_title": 127,
+  "no_date": 0,
+  "too_old": 136,
+  "gate1_fail": 8,
+  "gate2_fail": 12,
+  "passed": 20,
+  "gate2_samples": [
+    "Zoetis raises another $100,000 for Beyond Blue’s rural mental health effort - Beef Central",
+    "ETFs Are Net Sellers of International Paper (IP) on Monday - Yahoo Finance",
+    "International Paper's $8.9B spinout company reveals strategy ahead of separation - The Business Jour",
+    "International Paper Maps Out DS Smith’s Spinoff Targets - Finimize",
+    "International Paper Reports Third Quarter 2026 Results - PR Newswire"
+  ]
+}

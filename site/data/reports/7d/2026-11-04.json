@@ -1,0 +1,172 @@
+{
+  "date": "2026-11-04",
+  "date_range": {
+    "start": "2026-10-29",
+    "end": "2026-11-04"
+  },
+  "generated_at": "2026-11-04T15:54:36.359050Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "amcor-2026-10-29-008",
+      "date": "2026-10-29",
+      "title": "Amcor plc (ASX:AMC): How Are FY26 Earnings and Berry Integration Shaping Its Packaging Business? - Kalkine",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "vet_spending": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.12
+    },
+    "earnings": {
+      "this_week": 38,
+      "last_week": 42,
+      "week_over_week_change": "-10%",
+      "sentiment_this_week": -0.02
+    },
+    "paper_price": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.31
+    },
+    "guidance": {
+      "this_week": 6,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    },
+    "pet_insurance": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "zoetis": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 4
+    },
+    "intl_paper": {
+      "event_count": 11,
+      "sentiment_avg": -0.27,
+      "rank": 1
+    },
+    "amcor": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "berry": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "smurfit": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "idexx": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 2
+    },
+    "graphic_pkg": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "crown": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "ball": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "petco": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "trupanion": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 97,
+        "last": 109,
+        "change_pct": -11.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-29",
+      "event_count": 30,
+      "sentiment_avg": -0.15
+    },
+    {
+      "date": "2026-10-30",
+      "event_count": 14,
+      "sentiment_avg": -0.14
+    },
+    {
+      "date": "2026-10-31",
+      "event_count": 7,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-11-01",
+      "event_count": 1,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-02",
+      "event_count": 25,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-11-03",
+      "event_count": 14,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-11-04",
+      "event_count": 6,
+      "sentiment_avg": 0.08
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-29 ~ 2026-11-04）共 97 則事件，重點為「Amcor plc (ASX:AMC): How Are FY26 Earnings and ...」。國際紙業情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "國際紙業",
+        "reason": "本週情緒偏負面（-0.3），共 11 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "碩騰",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "斯莫菲特",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
