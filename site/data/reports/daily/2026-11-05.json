@@ -1,0 +1,209 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T15:59:34.075621Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "zoetis-2026-11-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zoetis (NYSE:ZTS) posts better-than-expected sales in Q3 2026 - FinancialContent",
+      "companies": [
+        "zoetis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZkJjdVl6V3gtXzM4ZURZcmxPVEFlby1tYXhIZENpY3N3dF92UlpVV0t3ckpWLVpIWE9GVm1fcnJrUTVqU1JvbDRndU5WTXJtZmhGa0pDdnlELUhoVkxSLWs4QUl1cUFDaWVSUHNXUzllUGljZlZjZlEzeUc3RDhkdkVaUV96QWhNSVduUDYzWHVIZEZ3dXc5dUpIbXZjeDM4R1F0enQxc0xOZTNqOUdKWFhoX2dOT3BIWWF0V05Oc01GVGV4cEpmenhRZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "zoetis-2026-11-05-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zoetis Announces Third Quarter 2026 Results; Highlights Progress Advancing Innovation Across Diversified Portfolio and Narrows Full Year 2026 Revenue Guidance, Raises Full Year 2026 Adjusted EPS Guidance - Business Wire",
+      "companies": [
+        "zoetis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQZmkwcG1pMkRpTnZ6RjBZR2NZLVdBYktQUWQ4cl8yVkFKSFZwNm5RQWY2TmJZMXNnZlozeVNaRXBvcGQteXZUSFY5UlZUQU1tcEdHZHFjVDJCUF9pOWZKQ3padGV0TnJyU2JFcTBVVVd5X29Za1VvZ2I0ZTV2R1Mwdlhqa2s1SVQzUkFMMWg1Z241Nl9iYVFXSl91MnpOSy1PZEVLbmxDdVpjbXVGSlU1MjdTM1VYeDVTemc2MkJVZWFkc3g2eDU0R29QMnlfdFpOWnZ6YzZWekJtTjByN1I3bGdERFBfTzFCcThfTDlGV1Jaa3doNUE5UHZOZk1SZXJtVTdGSGRXY2hDX2tpMHVNT0oxazNIWXRKR0xkQnR3VXgwc3V0SlFRbldrMkNtbmltV2dMNWYxR0stajZQTFZUMURUUWZ6RlVmUktRc3VYY2xvTjl2aFRBcVc2cmNBUnZKZGY0akZUb2ZJZVBSbGthckVDN3c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "amcor-2026-11-05-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Amcor’s sale of North American beverage packaging business taking longer than expected - Plastics News",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT0MycjI2LVpDQXlWYWtlUE5jT19wN3hjVzZhNTAyc084YnhUcUN1dTJhaGVpVC1yOXEwR2FwQkk2UlNONEdKbHlNMUFVTHdhRG9rNzMycjJLaGl5R2pEdjRCQ1c1UmF4YUg2aDBOSFp3Vi1UcmNnbEIzcEpvbGFkWA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "idexx-2026-11-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "IDEXX Laboratories (IDXX) On Raised 2026 Outlook Still Looks Fully Valued - Simply Wall St",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbUFsSW9sMWFYMnpTOHBKNUtoSTgyRWpzWmNQNGxvYUJFLWtUXzZ4aUFVOHpRckdkc2ZWQjBhS1ljNnJnZVhCa0w4Z1hVT3JEXzdNTnVjdGZ6b1lscmJmbndzQ0lCV3RIN3FsNS14UHpWM0NHUkg4enRiUWdKZlQybWw5aXBHc1A5R1ZtTVFUb1hlZkVGS1NGQU5rX01kZkxzY1dOUlZxZlFvcERDSU1DRkFZTmtqLVIxM0tvZEhrc3RvaDFhcmVsSFJfRWltYUV5WGF5LVR30gHbAUFVX3lxTE1ZdG1EbGVnTUNwQWt0SzEzT0ktZE9RRlZObFRpYWVpY0R1YlI0Zk85dktwVWZTMlFjb3NMYVhadThiLWZqWGUzQXBRTlhXVEt4Qm5vaW5Wa2lIYldBcGllUzdwRXp6WGhtQmlmTVd6SmVCVnhtYVlDVUhXQnBmTTRMaGUtOWhmQlZ6Q3VjQTd4Zm1Yc0IyU0VZNWNkMVJDNzB0V3RNc1NYQTZJOWJsN3RQYXI2ZkU1eXdCMjNsV2RLcWNhMVhjVHhCZkI2V253T3RPd0NKVGlnOWNDWQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "amcor-2026-11-05-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Amcor posts 7% sales growth as volumes strengthen - PKN Packaging News",
+      "companies": [
+        "amcor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMlFrRUZ1NkdLTU9TanlhUUFheC1ac21oOEk0bXJVY19sWm5fUHZqZVVkVUpucnFpX3p5YjM1ZWdZSVZDYndmN0FkWFRkTlZJSEllWk13WGxKTGlkeTZkUHNDX1BMbGdieUlsZ09mendELWxRbTlkekVVM05odm8taVJmaGE5c1IzT0lvaDA0ejE1dw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "zoetis",
+        "count": 2
+      },
+      {
+        "id": "amcor",
+        "count": 2
+      },
+      {
+        "id": "idexx",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 303,
+    "dup_title": 124,
+    "too_old": 137,
+    "gate1_blocked": 9,
+    "gate2_blocked": 14,
+    "passed": 19,
+    "pass_rate": "10.6%",
+    "gate2_block_rate": "7.8%",
+    "gate2_samples": [
+      "Zoetis raises another $100,000 for Beyond Blue’s rural mental health effort - Beef Central",
+      "Is Wall Street Bullish or Bearish on International Paper Stock? - Barchart.com",
+      "International Paper Co. stock rises Wednesday, still underperforms market - MarketWatch",
+      "International Paper Yields 5.5%, but Free Cash Flow Just Turned Negative - 24/7 Wall St.",
+      "International Paper's $8.9B spinout company reveals strategy ahead of separation - The Business Jour"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為碩騰、安姆科、愛德士相關動態：「Zoetis (NYSE:ZTS) posts better-than-expected sales in Q3 ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Zoetis (NYSE:ZTS) posts better-than-expected sales in Q3 2026 - FinancialContent（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Zoetis Announces Third Quarter 2026 Results; Highlights Progress Advancing In...（財報、展望）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

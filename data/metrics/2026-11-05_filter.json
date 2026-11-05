@@ -1,0 +1,16 @@
+{
+  "total_raw": 303,
+  "dup_title": 124,
+  "no_date": 0,
+  "too_old": 137,
+  "gate1_fail": 9,
+  "gate2_fail": 14,
+  "passed": 19,
+  "gate2_samples": [
+    "Zoetis raises another $100,000 for Beyond Blue’s rural mental health effort - Beef Central",
+    "Is Wall Street Bullish or Bearish on International Paper Stock? - Barchart.com",
+    "International Paper Co. stock rises Wednesday, still underperforms market - MarketWatch",
+    "International Paper Yields 5.5%, but Free Cash Flow Just Turned Negative - 24/7 Wall St.",
+    "International Paper's $8.9B spinout company reveals strategy ahead of separation - The Business Jour"
+  ]
+}
