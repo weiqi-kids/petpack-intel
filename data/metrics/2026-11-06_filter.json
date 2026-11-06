@@ -1,0 +1,16 @@
+{
+  "total_raw": 307,
+  "dup_title": 134,
+  "no_date": 0,
+  "too_old": 140,
+  "gate1_fail": 11,
+  "gate2_fail": 10,
+  "passed": 12,
+  "gate2_samples": [
+    "Zoetis: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+    "Zoetis Sees Pet Owners Getting More Price Sensitive - Finimize",
+    "IDEXX Laboratories (IDXX) Director Daniel Junius Sells 1,200 Sha - GuruFocus",
+    "Is Wall Street Bullish or Bearish on International Paper Stock? - Yahoo Finance",
+    "Is International Paper (IP) Undervalued As It Plans A Split And Cost Cuts? - Simply Wall St"
+  ]
+}
