@@ -1,0 +1,16 @@
+{
+  "total_raw": 307,
+  "dup_title": 139,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 12,
+  "gate2_fail": 11,
+  "passed": 6,
+  "gate2_samples": [
+    "Zoetis: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+    "Zoetis Sees Pet Owners Getting More Price Sensitive - Finimize",
+    "Why is Trupanion (TRUP) stock soaring today - TradingView",
+    "How Much Passive Income $800,000 in Edison, International Paper, Altria and AT&T Pays Each Year - 24",
+    "International Paper Company (IPC.L) stock price, news, quote and history - Yahoo Finance UK"
+  ]
+}

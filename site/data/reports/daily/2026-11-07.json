@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T14:35:15.305564Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "trupanion-2026-11-07-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Trupanion Stock Earnings Beat As Pet Enrollments Stay Strong - Yahoo Finance",
+      "companies": [
+        "trupanion"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON0tlME8tY0p0WmIyRThRR0hYQl9NbEhiVjdETmo1WjlBRGhpZW0zZkYwcFpvWmtsckFZM0ZwN21oSHcwd09BSkFPRjQwblV0bmVXWnppaWJYa3g5NUsydzNBbG0xekJSRkZxUi01a1I5OHVaMkZiVjM3VVNDdFFoLXJDbGhJU081VF9KNmxsQUNVWkE4Wmd2TnRPMjFNYUk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "trupanion",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 139,
+    "too_old": 139,
+    "gate1_blocked": 12,
+    "gate2_blocked": 11,
+    "passed": 6,
+    "pass_rate": "3.6%",
+    "gate2_block_rate": "6.5%",
+    "gate2_samples": [
+      "Zoetis: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+      "Zoetis Sees Pet Owners Getting More Price Sensitive - Finimize",
+      "Why is Trupanion (TRUP) stock soaring today - TradingView",
+      "How Much Passive Income $800,000 in Edison, International Paper, Altria and AT&T Pays Each Year - 24",
+      "International Paper Company (IPC.L) stock price, news, quote and history - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為寵物保險相關動態：「Trupanion Stock Earnings Beat As Pet Enrollments Stay Str...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Trupanion Stock Earnings Beat As Pet Enrollments Stay Strong - Yahoo Finance（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "寵物保險為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

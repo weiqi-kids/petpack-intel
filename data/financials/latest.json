@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T15:31:49.491690Z",
+  "updated_at": "2026-11-07T14:35:09.557663Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-09-30",
   "companies": [
     {
@@ -211,17 +211,17 @@
       "name": "美國包裝",
       "ticker": "PKG",
       "currency": "USD",
-      "ar": 1432800000,
-      "ar_prev": 1335900000,
-      "ar_qoq": "+7%",
+      "ar": 1483600000,
+      "ar_prev": 1432800000,
+      "ar_qoq": "+4%",
       "ar_period": "QoQ",
-      "inventory": 1262400000,
-      "inv_prev": 1258400000,
-      "inv_qoq": "+0%",
+      "inventory": 1309700000,
+      "inv_prev": 1262400000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "rong_cheng",
@@ -296,17 +296,17 @@
       "name": "碩騰",
       "ticker": "ZTS",
       "currency": "USD",
-      "ar": 1571000000,
-      "ar_prev": 1506000000,
-      "ar_qoq": "+4%",
+      "ar": 1692000000,
+      "ar_prev": 1571000000,
+      "ar_qoq": "+8%",
       "ar_period": "QoQ",
-      "inventory": 2574000000,
-      "inv_prev": 2550000000,
-      "inv_qoq": "+1%",
+      "inventory": 2536000000,
+      "inv_prev": 2574000000,
+      "inv_qoq": "-1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     }
   ]
 }
