@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T14:41:32.250972Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intl_paper-2026-11-08-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "How Third Quarter Losses At International Paper Stock Have Changed Its Investment Story - Simply Wall St",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY3U3Y2sxaXdCdVBhTjE2TXN0OTN2RFFKYzctd0hiRDFrSkdOekZmTXBUcm5LRWlvZkhnRkd3ZzNWYmFLbUVkV25DVVNWQ3FEMTRYR0pyLVZqbE1UTGxEYktBWE9MVFZZSXRNYXlPeXZTR2RJNWdLRG1rcXQyay1BcVhPZXdISFpxR0NJdFV3OWhDUXpEbUVhV2dta3hPaWdQYW1ZUmo2aHJwOXlTZ3BMdmFzLXRCLWtPT3lwSUNkZXZpOS05YUpwZHY5amY0N0VZ0gHWAUFVX3lxTE9lQjdfT04tOUl3dFhPa2h3OVdDRnQ3b0NiTUt6SV9UX3FnUTRrV1hMd21CbnUzUVZtRXVkeDBkblY3LW8xUkVJMmJzVWU1d1lqOFZxTW81dUdYcmlRM1VqYWFvM2dOOHlNaDhKa3VfTDBYYmNHLVdScWZlbkV0cFNKZXVTcXppRXlScW1BZU5hbV9HMzMwMi14T3pkcTlWRkp6VDE3Q2lUckpVT3RqdW1iUGo4NUV5SzgtNFZpRFk2RGFyM1liNVItWDRudmoyNFk5M2dWQkE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "intl_paper",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 305,
+    "dup_title": 134,
+    "too_old": 146,
+    "gate1_blocked": 12,
+    "gate2_blocked": 10,
+    "passed": 3,
+    "pass_rate": "1.8%",
+    "gate2_block_rate": "5.8%",
+    "gate2_samples": [
+      "Zoetis: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+      "Zoetis Sees Pet Owners Getting More Price Sensitive - Finimize",
+      "Why is Trupanion (TRUP) stock soaring today - TradingView",
+      "How Much Passive Income $800,000 in Edison, International Paper, Altria and AT&T Pays Each Year - 24",
+      "Is Wall Street Bullish or Bearish on International Paper Stock? - Barchart.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為國際紙業相關動態：「How Third Quarter Losses At International Paper Stock Hav...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "How Third Quarter Losses At International Paper Stock Have Changed Its Invest...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "國際紙業為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
