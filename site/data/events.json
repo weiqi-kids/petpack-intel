@@ -1,5 +1,82 @@
 [
   {
+    "id": "intl_paper-2026-11-09-001",
+    "date": "2026-11-09",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Core Equity 2 (DFAC) Adds Dow and International Paper on Nov. 5 - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBHdnJqS3FmSmRqTVZTUnBVM1dmdVZzSnhnMXBtM1p0MEJvdjFtc2VtazhpSm9VYUlxR0JOUF9IaXpKblM3c01JVmxFTERmXzhpS2pua0lGSDQwMEhTMEc5QXhZcWFGQzQ2cHZNdml0cj",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHdnJqS3FmSmRqTVZTUnBVM1dmdVZzSnhnMXBtM1p0MEJvdjFtc2VtazhpSm9VYUlxR0JOUF9IaXpKblM3c01JVmxFTERmXzhpS2pua0lGSDQwMEhTMEc5QXhZcWFGQzQ2cHZNdml0cjc5SklVX0RISw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "crown-2026-11-09-002",
+    "date": "2026-11-09",
+    "companies": [
+      "crown"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Crown Holdings (CCK) Following Its Strong Run Is The Undervalued Case Still There - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNN05xaDN2UHp2eVdvclVOc3o0NXJiUDZYNmpRcW9MTktYR3hfYU9ESDFzeHBFZVNvRGh4SWtQSURJRjBuYUtndmZnUWJaQzdTLVpfM0RBSW5oQ3F0LXh4UHN1b1hveTRpMG5ZcHFQTV",
+    "sources": [
+      {
+        "name": "crown",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN05xaDN2UHp2eVdvclVOc3o0NXJiUDZYNmpRcW9MTktYR3hfYU9ESDFzeHBFZVNvRGh4SWtQSURJRjBuYUtndmZnUWJaQzdTLVpfM0RBSW5oQ3F0LXh4UHN1b1hveTRpMG5ZcHFQTV9HQXVzZU56RF9uSVh6QjUzWWNzNEVvbzktYnlWNkRGM2J4cXZVTkZjRGptbmczWlNLS04zRWdyUE5NbnREX1BIR2lxdjZZbVJyXzdZXzFJSEZvd25DTkFseEhIVdIB0AFBVV95cUxQaVdoSzVBSk9TZmY3czY1SHByTnR3cG9IMXFRMUZyOXZjaWtKVW1iRHJ1Sl9xTTFPd3lONTBaYWNwaFVuYmFQTkJ1ZGJCS1Z1d0hwbDBNcUEtbXktOElFczZkM0NqRmU3dnF4WmVnb0FmelNfNGJkZV81anhfV195Ym5RNjJWLVY5emdKeFNWQ3J4S21FYXA2NlZzTmVQOVdTb25NWS1oVEF5bzVxT0hwVTY0VjJOMEJ5ZUwyamZ3QXpON0JHVGJpTnpPTk5sSUFZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-003",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "SB 54 plastic tonnage baseline expected to rise, CalRecycle says",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Oq2DQoHK_jPHFT32LBlSZSfos1JWzFVtIgNrMAay8Ro/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTI4Mjc2ODUyLmpwZw==",
+    "sources": [
+      {
+        "name": "packaging_dive",
+        "url": "https://www.packagingdive.com/news/sb-54-plastic-tonnage-baseline-expected-to-rise-calrecycle-says/874077/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sonoco-2026-11-09-004",
+    "date": "2026-11-09",
+    "companies": [
+      "sonoco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Sonoco names new CEO",
+    "summary": "<p>Howard Coker leaves&nbsp;Sonoco&nbsp;after 41 years at the company. Upon his retirement next month, the recently appointed&nbsp;president of global consumer packaging will take over the top spot.</",
+    "sources": [
+      {
+        "name": "packaging_dive",
+        "url": "https://www.packagingdive.com/news/sonoco-ceo-retire-december-2026/874079/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "intl_paper-2026-11-08-001",
     "date": "2026-11-08",
     "companies": [
@@ -15,6 +92,66 @@
       {
         "name": "intl_paper",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY3U3Y2sxaXdCdVBhTjE2TXN0OTN2RFFKYzctd0hiRDFrSkdOekZmTXBUcm5LRWlvZkhnRkd3ZzNWYmFLbUVkV25DVVNWQ3FEMTRYR0pyLVZqbE1UTGxEYktBWE9MVFZZSXRNYXlPeXZTR2RJNWdLRG1rcXQyay1BcVhPZXdISFpxR0NJdFV3OWhDUXpEbUVhV2dta3hPaWdQYW1ZUmo2aHJwOXlTZ3BMdmFzLXRCLWtPT3lwSUNkZXZpOS05YUpwZHY5amY0N0VZ0gHWAUFVX3lxTE9lQjdfT04tOUl3dFhPa2h3OVdDRnQ3b0NiTUt6SV9UX3FnUTRrV1hMd21CbnUzUVZtRXVkeDBkblY3LW8xUkVJMmJzVWU1d1lqOFZxTW81dUdYcmlRM1VqYWFvM2dOOHlNaDhKa3VfTDBYYmNHLVdScWZlbkV0cFNKZXVTcXppRXlScW1BZU5hbV9HMzMwMi14T3pkcTlWRkp6VDE3Q2lUckpVT3RqdW1iUGo4NUV5SzgtNFZpRFk2RGFyM1liNVItWDRudmoyNFk5M2dWQkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "zoetis-2026-11-08-002",
+    "date": "2026-11-08",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "What Zoetis (ZTS) Said on Its Q3 Earnings Call - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxORHlzMDlFbExVTzBpN2FrRWNua3dJb1JBY1diSkFZdU9lbm4tUmplUnRxZ2p4cDgwZGt6blYxbllnVUpjaV9ldGFsNVFmbFl5NV9TQUdRMGlHMlJUSzBDMGd4bk5BYXdwOW9QSC1vU2",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORHlzMDlFbExVTzBpN2FrRWNua3dJb1JBY1diSkFZdU9lbm4tUmplUnRxZ2p4cDgwZGt6blYxbllnVUpjaV9ldGFsNVFmbFl5NV9TQUdRMGlHMlJUSzBDMGd4bk5BYXdwOW9QSC1vU29RcEVwRTYtRnA1Zk9nVElpRFpyeHI5ZEVQOGdsMVV3ejF4Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "zoetis-2026-11-08-003",
+    "date": "2026-11-08",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "What Zoetis (ZTS) Said on Its Q3 Earnings Call - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVElmUVhIem4yRXZqX3Z3VkJMVjctdTVndTdpQWVuLUJRN2gtT3VwLVFMd3A5Qy1WS2ZmeEdudnFXaUgyVUZjZGEtbWJ4QmJRMURFT0RvZ0YwUnR1a2RKU1Z2TWlWaEFUSW9QdldzWF",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVElmUVhIem4yRXZqX3Z3VkJMVjctdTVndTdpQWVuLUJRN2gtT3VwLVFMd3A5Qy1WS2ZmeEdudnFXaUgyVUZjZGEtbWJ4QmJRMURFT0RvZ0YwUnR1a2RKU1Z2TWlWaEFUSW9QdldzWFhGWjhGWkY1R2lkX1lDLXFwdVZ5aHNxeUNuUWJTWktyOWdsNDhRdGNiMnhEWnZMVV9tMkQxYTJQZ3A?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "idexx-2026-11-08-004",
+    "date": "2026-11-08",
+    "companies": [
+      "idexx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why Is IDEXX Laboratories (NASDAQ:IDXX) Surging After Its Latest Results? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPaXM2QVM3ZjZORExGQ200TEx6Y3FXZGY0X2J0UVpSbVp5cHVXMlhwS05ySGczaUVYcUxZdzNnckxwTDRONURNQi10OWNocTZUcE4yZjJ1QUxodFdPU0tGRDU1Y3htZDVIMkx3NzJPUm",
+    "sources": [
+      {
+        "name": "idexx",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaXM2QVM3ZjZORExGQ200TEx6Y3FXZGY0X2J0UVpSbVp5cHVXMlhwS05ySGczaUVYcUxZdzNnckxwTDRONURNQi10OWNocTZUcE4yZjJ1QUxodFdPU0tGRDU1Y3htZDVIMkx3NzJPUm9LWDN6UVBTVmRkMkRTcl82S19FMVNyN0F1OXJBQWlIUHR3OTBwNE9oWWUyWFh4cEdDeHRSN1dmOVNQeWVNaXpCbWYySWlDQQ?oc=5",
         "type": "rss"
       }
     ]
@@ -115,6 +252,65 @@
       {
         "name": "trupanion",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcldxZC02MmRwWThpZkl0MzRmNXR5clFud0dyX1hyUDBjUUxwVHgzRVNYakMweTk3NTdWeFdFRGlDOUJyc1dHWTVGaU5ad1RUMjFzdlJRX1liOTNSV2NzalZRVXpaMXREcm1KR0tnWTJzS2ZvX1RrNzFUVGtBYUNIZzI4bC1TY0tJV3h4VmM1dC1jc0xJeDFhaHFqSjB1SEk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trupanion-2026-11-06-005",
+    "date": "2026-11-06",
+    "companies": [
+      "trupanion"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "negative",
+    "title": "TRUP Q3 2026 deep dive: technology investments drive pet growth, margin outlook faces cost pressures - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSU91WXpPQ1BUUWdqQTNPMWhVM2xNSTUxZERXQTdlOG1odlBiem1lWU1LaVZvMGpCNWR2X3NHc0w4NGNNZW1uYjRmYjgzaVF6RVI4cGtYWS1ERVZOVHJGbm5hZ25KcjRqSGFFZTBHc3",
+    "sources": [
+      {
+        "name": "trupanion",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSU91WXpPQ1BUUWdqQTNPMWhVM2xNSTUxZERXQTdlOG1odlBiem1lWU1LaVZvMGpCNWR2X3NHc0w4NGNNZW1uYjRmYjgzaVF6RVI4cGtYWS1ERVZOVHJGbm5hZ25KcjRqSGFFZTBHc3UxVF9VWGlJTGxqMm43alpKUVl0YXU1c2xuSzdHa3pwVmRpM0NjZXMyTkU3T2JoUlhONGdwcERkMVNjckdPa2RKb0pDanJ1cF81a2EyMllERktYQUVoXzFrRktYRWdKX2ZlSlAwT1dsX2pvMFE0VGNvNFptLUZoYjJ5X1ZMRHZCYXMzUUhS?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cheng_loong-2026-11-06-006",
+    "date": "2026-11-06",
+    "companies": [
+      "cheng_loong"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cheng Loong Corporation (1904.TW) Seasonal returns chart - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RMUctdm9TdXE0YXB0dHAwQ3VsTnNKS2w4UUVMNXVNVzY3QUNCNjBCZXRDTmxPdlVOYTByTDg3OVRBaFlmUWtaRlpkb2RaU1JZcnJja0tQSVpMaEZIZDlqdkRFM1JBUQ?oc=5\" targe",
+    "sources": [
+      {
+        "name": "cheng_loong",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RMUctdm9TdXE0YXB0dHAwQ3VsTnNKS2w4UUVMNXVNVzY3QUNCNjBCZXRDTmxPdlVOYTByTDg3OVRBaFlmUWtaRlpkb2RaU1JZcnJja0tQSVpMaEZIZDlqdkRFM1JBUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cheng_loong-2026-11-06-007",
+    "date": "2026-11-06",
+    "companies": [
+      "cheng_loong"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Cheng Loong Reports Fire at Tayuan Mill's Outdoor Material Storage Area - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc21mazhFVl9CUEN4cnJ0MU9PbU9UaWlMOGVNVzhXcy1hOGpWUWkxeFRmMzEyVjVxcEdoSWxpcllQQmotVVVUV0lnbnp0NWM5VHo0b21wdmFJMmk2STRXekItT2NJaF9WU2xQaDR1T2",
+    "sources": [
+      {
+        "name": "cheng_loong",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc21mazhFVl9CUEN4cnJ0MU9PbU9UaWlMOGVNVzhXcy1hOGpWUWkxeFRmMzEyVjVxcEdoSWxpcllQQmotVVVUV0lnbnp0NWM5VHo0b21wdmFJMmk2STRXekItT2NJaF9WU2xQaDR1T2haaGcxRW1LOFg4THVQalV3MC0wMWtKMm90b1JHZzVDcmNUSmxUOVE4Y2dvVHZDMjFsYWl3ZHo3YmptRDN1TTJaaWVIYnNxVXVza1BlMHJSenBmUQ?oc=5",
         "type": "rss"
       }
     ]

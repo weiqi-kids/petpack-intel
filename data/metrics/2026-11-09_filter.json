@@ -1,0 +1,16 @@
+{
+  "total_raw": 309,
+  "dup_title": 134,
+  "no_date": 0,
+  "too_old": 144,
+  "gate1_fail": 12,
+  "gate2_fail": 9,
+  "passed": 10,
+  "gate2_samples": [
+    "Zoetis Sees Pet Owners Getting More Price Sensitive - Finimize",
+    "Zoetis: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+    "Why is Trupanion (TRUP) stock soaring today - TradingView",
+    "Should International Paper Stock Holders Look At Amcor Instead? - Trefis",
+    "How Much Passive Income $800,000 in Edison, International Paper, Altria and AT&T Pays Each Year - 24"
+  ]
+}

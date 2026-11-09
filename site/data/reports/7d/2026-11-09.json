@@ -1,0 +1,168 @@
+{
+  "date": "2026-11-09",
+  "date_range": {
+    "start": "2026-11-03",
+    "end": "2026-11-09"
+  },
+  "generated_at": "2026-11-09T18:06:19.804400Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "smurfit-2026-11-04-018",
+      "date": "2026-11-04",
+      "title": "DOJ subpoenas Smurfit Westrock, IP, PCA, Cascades over containerboard pricing",
+      "importance_score": 0.95
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "intl_paper",
+      "company_b": "smurfit",
+      "co_mention_count": 4,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "vet_spending": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 20,
+      "last_week": 63,
+      "week_over_week_change": "-68%",
+      "sentiment_this_week": -0.05
+    },
+    "pet_insurance": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 3,
+      "last_week": 6,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "idexx": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "petco": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "intl_paper": {
+      "event_count": 4,
+      "sentiment_avg": -0.25,
+      "rank": 2
+    },
+    "ball": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "amcor": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 4
+    },
+    "zoetis": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 1
+    },
+    "trupanion": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "smurfit": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "crown": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "sonoco": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 69,
+        "last": 146,
+        "change_pct": -52.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-03",
+      "event_count": 18,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-11-04",
+      "event_count": 20,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-11-05",
+      "event_count": 15,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-11-06",
+      "event_count": 7,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-11-07",
+      "event_count": 1,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-08",
+      "event_count": 4,
+      "sentiment_avg": -0.25
+    },
+    {
+      "date": "2026-11-09",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-03 ~ 2026-11-09）共 69 則事件，重點為「DOJ subpoenas Smurfit Westrock, IP, PCA, Cascad...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "國際紙業",
+        "reason": "本週情緒偏負面（-0.2），共 4 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "愛德士",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "安姆科",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
