@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T18:06:15.269322Z",
+  "updated_at": "2026-11-10T15:59:40.242145Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-09-30",
   "companies": [
     {
@@ -7,17 +7,17 @@
       "name": "安姆科",
       "ticker": "AMCR",
       "currency": "USD",
-      "ar": 3639000000,
-      "ar_prev": 3513000000,
-      "ar_qoq": "+4%",
+      "ar": 3752000000,
+      "ar_prev": 3639000000,
+      "ar_qoq": "+3%",
       "ar_period": "QoQ",
-      "inventory": 3672000000,
-      "inv_prev": 3362000000,
-      "inv_qoq": "+9%",
+      "inventory": 3775000000,
+      "inv_prev": 3672000000,
+      "inv_qoq": "+3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "ball",
@@ -109,17 +109,17 @@
       "name": "禮來動保",
       "ticker": "ELAN",
       "currency": "USD",
-      "ar": 1077000000,
-      "ar_prev": 1084000000,
-      "ar_qoq": "-1%",
+      "ar": 992000000,
+      "ar_prev": 1077000000,
+      "ar_qoq": "-8%",
       "ar_period": "QoQ",
-      "inventory": 1769000000,
-      "inv_prev": 1717000000,
+      "inventory": 1818000000,
+      "inv_prev": 1769000000,
       "inv_qoq": "+3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "freshpet",
@@ -279,9 +279,9 @@
       "name": "寵物保險",
       "ticker": "TRUP",
       "currency": "USD",
-      "ar": 302191000,
-      "ar_prev": 304796000,
-      "ar_qoq": "-1%",
+      "ar": 296587000,
+      "ar_prev": 302191000,
+      "ar_qoq": "-2%",
       "ar_period": "QoQ",
       "inventory": null,
       "inv_prev": null,
@@ -289,7 +289,7 @@
       "inv_period": "QoQ",
       "inventory_applicable": false,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "zoetis",

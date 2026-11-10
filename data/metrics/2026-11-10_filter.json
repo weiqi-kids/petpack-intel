@@ -1,0 +1,16 @@
+{
+  "total_raw": 310,
+  "dup_title": 138,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 12,
+  "gate2_fail": 16,
+  "passed": 5,
+  "gate2_samples": [
+    "Zoetis to Participate in the Jefferies Global Healthcare Conference in London - Business Wire",
+    "Why Is Zoetis Pet Medicine Slowing While Its Livestock Sales Climb? - Kalkine Media",
+    "Zoetis Sees Pet Owners Getting More Price Sensitive - Finimize",
+    "Zoetis: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+    "IDEXX Laboratories (Nasdaq:IDXX) - Stock Analysis - Simply Wall St"
+  ]
+}
