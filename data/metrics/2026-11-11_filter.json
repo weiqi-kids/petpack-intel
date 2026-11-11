@@ -1,0 +1,16 @@
+{
+  "total_raw": 309,
+  "dup_title": 128,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 15,
+  "gate2_fail": 13,
+  "passed": 8,
+  "gate2_samples": [
+    "Zoetis Sees Pet Owners Getting More Price Sensitive - Finimize",
+    "Zoetis: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+    "Zoetis to Participate in the Jefferies Global Healthcare Conference in London - Business Wire",
+    "Why Is Zoetis Pet Medicine Slowing While Its Livestock Sales Climb? - Kalkine Media",
+    "IDEXX Laboratories (Nasdaq:IDXX) - Stock Analysis - Simply Wall St"
+  ]
+}
