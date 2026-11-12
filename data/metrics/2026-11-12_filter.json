@@ -1,0 +1,16 @@
+{
+  "total_raw": 307,
+  "dup_title": 122,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 14,
+  "gate2_fail": 17,
+  "passed": 8,
+  "gate2_samples": [
+    "Zoetis Receives USDA License for Cytopoint Plus, Offering 75 Days of Itch Relief for Dogs - Vet Cand",
+    "What Does the USDA License for Cytopoint Plus Mean for Zoetis (NYSE:ZTS) and Dog Owners? - Kalkine",
+    "Zoetis Sees Pet Owners Getting More Price Sensitive - Finimize",
+    "Why Is Zoetis Pet Medicine Slowing While Its Livestock Sales Climb? - Kalkine Media",
+    "Zoetis: 3 Key Takeaways for Long-Term Investors - Yahoo Finance"
+  ]
+}
