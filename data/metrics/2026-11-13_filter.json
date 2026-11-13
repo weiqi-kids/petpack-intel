@@ -1,0 +1,16 @@
+{
+  "total_raw": 304,
+  "dup_title": 120,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 15,
+  "gate2_fail": 11,
+  "passed": 10,
+  "gate2_samples": [
+    "Pfizer offshoot Zoetis lines up 'potential blockbuster' pet meds for Japan - Nikkei Asia",
+    "Zoetis Receives USDA License for Cytopoint Plus, Offering 75 Days of Itch Relief for Dogs - Vet Cand",
+    "Zoetis to Participate in the Jefferies Global Healthcare Conference in London - Business Wire",
+    "What Does the USDA License for Cytopoint Plus Mean for Zoetis (NYSE:ZTS) and Dog Owners? - Kalkine",
+    "Why Is Zoetis Pet Medicine Slowing While Its Livestock Sales Climb? - Kalkine Media"
+  ]
+}
