@@ -1,5 +1,25 @@
 [
   {
+    "id": "intl_paper-2026-11-14-001",
+    "date": "2026-11-14",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Paper (IP) Just Gave Investors Something To Think About - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbTFnOU1pTWhHOHhXSG9ZNGV6THU0TXRhTjVVaXkzdTJXYmpxSXQwZWZKT2o5WTJ1b2lPbnlWVDBaNWpVNjdhUU5qODZzSDhWVnpJMm5hRnotWEhWVG9KaTloOVc1S3o2dlQ3cHZNNz",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbTFnOU1pTWhHOHhXSG9ZNGV6THU0TXRhTjVVaXkzdTJXYmpxSXQwZWZKT2o5WTJ1b2lPbnlWVDBaNWpVNjdhUU5qODZzSDhWVnpJMm5hRnotWEhWVG9KaTloOVc1S3o2dlQ3cHZNNzlYT1JPZWhWZ0pWS24xWFVPZzIyNDlXeHhVSDFia05odDZUQ0N2REZCRFc1WG15RGJoTXdNZ0w1VDR1T0U1ZWgwdDdwdUNfMEVXSWU3dEE2ZUZ3QlZRUG96dXpqQUR0WW9X0gHWAUFVX3lxTE10eGFKNGhyMzQ3dnJveW84Q2xwOEVUdHl2RHdqQ0MtZndvUnoycURFQ1FVS0NHd2dpbUpHcHpvT3RiR2NNVDM2YkxxVnl4MnlSSV9pemJvVTZVWXF6UkhCUlFkOThzN1ZsODFqMS11dTI3ME5FY3lHS2hjVnlLMVhKamdRcXVBTWxsU0ZYc3NSWEt0VExoN0twemg1NVRzV0RiakFZN1p4TzlXSE5tTUtYMEwyeWVBX3pDcjRqS2JnbHZiVFJyRUx4RC02SktudXYzcTZiLVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "intl_paper-2026-11-13-001",
     "date": "2026-11-13",
     "companies": [
@@ -33,6 +53,63 @@
       {
         "name": "sealed_air",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMFJvVzAyUGdGbjZqczdhVE5Bd2ZIR0lEVmpubFVDRUF3ZktfNURZbjRZXzdFNzNZR3lCTFh4cnJKQmtObXFxWkdyUFhRT2w0VkRWT1NUaTBjSW5NcHFyRXNYR1ZRZTNXTVVZOG1PTDNpMFF2ZXYtVWNQMzJQejB4c1BYQ3V4UGdaMmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trupanion-2026-11-13-003",
+    "date": "2026-11-13",
+    "companies": [
+      "trupanion"
+    ],
+    "topics": [
+      "pet_insurance",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Trupanion vs. Fetch Pet Insurance 2026 | U.S. News - U.S. News & World Report",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1nMzQ1THFhdTA2a1U5NHpQVVUzbEtEUGhUMHZ2ZEpibGExRmlKdjNXQlJsVmdGcmYwWDhzV053Q3RJLU9kQ29PX3VMRHo2M2JoVU1uWDNsTGMtZWYzemE1T2M4andmNU5FQWFLeExwa0",
+    "sources": [
+      {
+        "name": "trupanion",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nMzQ1THFhdTA2a1U5NHpQVVUzbEtEUGhUMHZ2ZEpibGExRmlKdjNXQlJsVmdGcmYwWDhzV053Q3RJLU9kQ29PX3VMRHo2M2JoVU1uWDNsTGMtZWYzemE1T2M4andmNU5FQWFLeExwa0RLOTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sonoco-2026-11-13-004",
+    "date": "2026-11-13",
+    "companies": [
+      "sonoco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Sonoco CEO explains how ‘looking in the mirror’ drove changes",
+    "summary": "<p>Howard Coker discussed during an industry event what realizations he had upon becoming CEO in 2020 that resulted in years of transformation for Sonoco, including restructurings, M&amp;A and leaders",
+    "sources": [
+      {
+        "name": "packaging_dive",
+        "url": "https://www.packagingdive.com/news/sonoco-ceo-explains-how-looking-in-the-mirror-drove-changes/874584/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sonoco-2026-11-13-005",
+    "date": "2026-11-13",
+    "companies": [
+      "sonoco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Georgia-Pacific, Sonoco, ePac announce expansion investments",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/k3JzpuJex70QejizHd906yWaK55NRVEFPmif0wTsA70/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waG9lbml4LXJpYmJvbi1jdXR0aW5nLmpwZWc=",
+    "sources": [
+      {
+        "name": "packaging_dive",
+        "url": "https://www.packagingdive.com/news/georgia-pacific-sonoco-epac-announce-packaging-manufacturing-expansions/874602/",
         "type": "rss"
       }
     ]
@@ -188,6 +265,26 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/waste-recycling-bills-to-watch-2026-congress/874505/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cheng_loong-2026-11-12-009",
+    "date": "2026-11-12",
+    "companies": [
+      "cheng_loong"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cheng Loong Says Jan-Sept Net Profit T$2.06 Bln - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMlV1MUo3RGVBd1c2WFQzM2FRejI3V0NaZlA2U1JaWHZiaVdqSjNnLXBHVXF3QnlzQUV3WEFuWnlmNmlQdF9YTWd1Q2VtQzJaNkNFQU1qeGQxRFczT0ZmNV8wbGFMOHY1NGJndUkyMX",
+    "sources": [
+      {
+        "name": "cheng_loong",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMlV1MUo3RGVBd1c2WFQzM2FRejI3V0NaZlA2U1JaWHZiaVdqSjNnLXBHVXF3QnlzQUV3WEFuWnlmNmlQdF9YTWd1Q2VtQzJaNkNFQU1qeGQxRFczT0ZmNV8wbGFMOHY1NGJndUkyMXhaS2NwdXNuUFg0bnZxZFZZN1hOblQwN1VocFNuamp4NkVCZ0p4a3QyejB0QVI3S2txT2NFTUxMZEpFNl9sMDlzeWxOWFZyS0lK?oc=5",
         "type": "rss"
       }
     ]
@@ -380,6 +477,26 @@
       {
         "name": "intl_paper",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1djVnJ0Q1R1WjNKWngycDBob1RmaGVHal9CQ0hjNUdBdzE1QlhldHp1SF8xa0ZIVUlSRzNBOV8ySDJIOFQ4a1JpQ0dMWE93NzJmb0FoSnM1aDM2SWo3d0FmUlVNc1ZjR0QzUWhZWlZKN1Q4WllubjBnOWJmdlVERHQtUldDM0ZiNDNaVVo2cDN2NUxsQzF2Zm5xRC1RbXhX?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amcor-2026-11-11-011",
+    "date": "2026-11-11",
+    "companies": [
+      "amcor"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Amcor links packaging innovation with changing US consumer habits - Packaging Insights",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGtjYU9qOGFfcWhNWGZydGdvZmV0R0xlZWRyOUtsd0IzbER5UXZacjRQSUE2QjhLZldpNFIzODFkQ1AzOERKWEI1S3pLeG5GNW4xT0xPRlpObVVtOUYwZldhRDJYZklpLXZZS3h3a0",
+    "sources": [
+      {
+        "name": "amcor",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGtjYU9qOGFfcWhNWGZydGdvZmV0R0xlZWRyOUtsd0IzbER5UXZacjRQSUE2QjhLZldpNFIzODFkQ1AzOERKWEI1S3pLeG5GNW4xT0xPRlpObVVtOUYwZldhRDJYZklpLXZZS3h3a0h5c2lqbW5HX28tbVNfcU1zeXhjRWVBeXZkOVZkR20weFg5b0J0anQwRHF3ZzJXSmM2dlVxZmVQVzJfVEJLQ3c?oc=5",
         "type": "rss"
       }
     ]
@@ -616,6 +733,27 @@
       {
         "name": "zoetis",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPXzJ4cVo5RXNZRjdfY0JiYk9RcElOYWh3SEJhU2x3aEpWMWY2cWlsQVV2UVVUUHVZZTVXQ0M1SVhlakhza2tSTEZ0ZkJibWU4REZ1YTdoa2pBRnVnMUdDNVM2VEQ3ejViSTNNdzJNbXQxVWdNU1hXWWRENVFpYmlCSzN2NVBqZVJjcGItNElCZ3N1TmhKSUlSNHE2TnhSb1dkNW50RWJOcG9iQnBJTThtWU94bTIxNGdx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "zoetis-2026-11-09-010",
+    "date": "2026-11-09",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Earnings Guidance Cut Might Change The Case For Investing In Zoetis (ZTS) - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV3dXSUVHV0dKZ0VIR2NDQmN1eWVRVmR4YUppcnYzYkNHU2VhaW9xR3MzM2h2TEh5Q1NxTElQM0xvTG5DQVotZkZEVTFEbG5aYWFBemo4X2VzaFRMWXFfTm9MTjE3bm9leFhCTEU4Wj",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV3dXSUVHV0dKZ0VIR2NDQmN1eWVRVmR4YUppcnYzYkNHU2VhaW9xR3MzM2h2TEh5Q1NxTElQM0xvTG5DQVotZkZEVTFEbG5aYWFBemo4X2VzaFRMWXFfTm9MTjE3bm9leFhCTEU4WjJfa1VkWmI4N2ZMUzl3V21uMm5WUmFiTkhITzdaZGVvbmZkSHZBZHR0TDVZSTJsSUdvZnFLWlRhRWk4UlNockdRWllfRW9UekkyaXJ3dEtSNFRDWnQ2OElVNlVQYWtzVnI1dzRz0gHYAUFVX3lxTFB6MFFlNjduTmsxaTdOdFpTVUJ2WWRxWlAweko0Yk9MQ2ZId1kzUG5NcENSZEswcDBaLW1WaTZ3TU5ITW1iaDEwemRnaDU3SVRVck00bWhyZzRMS2dYTnVzQzRGVThWQjIxQmgzOWtDaEZiZnBfdER4TmJfQkZaanI4U25QSlFYVzd6UFlYR0RkZmtNQ1VkVFpXOVB1b2w5R3c3dzdkT1lfOTVUTXF4VVNNSjV1VzJwZjNJNlNFeWM4SmFQZWI2MDJHLXFwUnM5NVRSU1FfaDY5VA?oc=5",
         "type": "rss"
       }
     ]

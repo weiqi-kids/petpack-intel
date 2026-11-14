@@ -1,0 +1,16 @@
+{
+  "total_raw": 296,
+  "dup_title": 117,
+  "no_date": 0,
+  "too_old": 149,
+  "gate1_fail": 15,
+  "gate2_fail": 8,
+  "passed": 7,
+  "gate2_samples": [
+    "What Are Wall Street Analysts' Target Price for Zoetis Stock? - Yahoo Finance",
+    "Pfizer offshoot Zoetis lines up 'potential blockbuster' pet meds for Japan - Nikkei Asia",
+    "Why Is Zoetis Pet Medicine Slowing While Its Livestock Sales Climb? - Kalkine Media",
+    "Trupanion Named One of Canada’s Top Pet Insurers for Customer Service by Newsweek - Quiver Quantitat",
+    "International Paper: 3 Key Takeaways for Long-Term Investors - Yahoo Finance"
+  ]
+}
