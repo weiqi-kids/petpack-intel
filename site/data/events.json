@@ -1,5 +1,43 @@
 [
   {
+    "id": "zoetis-2026-11-15-001",
+    "date": "2026-11-15",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Zoetis stock gains USDA license for 75-day itch treatment - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxORFNxckVCRGpoRHAzUXVHLVMzOTFQWTN1U0RfM1FuVVNOV3dVQ1NqYkUtUkxGWWZJVFZadlJEcTZtdDczTGVPZmZ2TVpZbG9EN1FRa0RYckYyTW54cGRxLUl6VlpxTW5IOVg4dkNMZm",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORFNxckVCRGpoRHAzUXVHLVMzOTFQWTN1U0RfM1FuVVNOV3dVQ1NqYkUtUkxGWWZJVFZadlJEcTZtdDczTGVPZmZ2TVpZbG9EN1FRa0RYckYyTW54cGRxLUl6VlpxTW5IOVg4dkNMZm5oRkQ1YnRBREVEUXQ1aGVjbVY4enZ6V1BLazUxOTllQkRXdjZwRUNVQXk1WG80TVl5Sm9CbUxodjNrS3cydkJKbTNwSXNnZ0dlQm5PbA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-11-15-002",
+    "date": "2026-11-15",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Should Dividend Reset Require Action From International Paper (IP) Investors? - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOWRrNkE1R3FPNkRZUGs3RlR3dC1WaFlITnR0ME1GTDNBODFlSUZteU9TM0lrcWNhZklsa3laN1dDbTBDMC1BLTlzQVRWanNQUDd4eEk1WG90X29weV84V19mbmp1S0VxcGFxdVZHRE",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOWRrNkE1R3FPNkRZUGs3RlR3dC1WaFlITnR0ME1GTDNBODFlSUZteU9TM0lrcWNhZklsa3laN1dDbTBDMC1BLTlzQVRWanNQUDd4eEk1WG90X29weV84V19mbmp1S0VxcGFxdVZHREk2Vl80RklrYzBJYlNaOVhqSU1SWnNpSlgxZk9wUUVPRWlnS1o0Qnk4WVlqMmp4a0xwN3dCUzhrVVF3X1FzVWlhZVlmLWNZcWlJbFpQZTRiZEdKWXNfcV9Yek1LT19BeHpY0gHWAUFVX3lxTFBmVmpzZEtSSkplWEwybmFqb2dyUjRBTHJqRXJsTlNhRC0xenNIcmRSc2NuMm9sSEJ3THdET0xjeVJRNS1yWjBVcXN3WDNEVWEzcWI4aG9CUW1ObkNhdnJnSjE0Z085Z0NHNDBFZFlVMWRac1JCamVNR1J6LXlkbl9kMGh3a0NvQlVlUGVEQThXUEJqOXhIZmQwdTgxZ3FudEVPRGVRWENzV2JOeGxhb0drVjhxNHBZcHlVZzh6cXQ1SHhnRkx3SHZOSlVIdEFRbVNiZHFtNnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "intl_paper-2026-11-14-001",
     "date": "2026-11-14",
     "companies": [
@@ -110,6 +148,24 @@
       {
         "name": "packaging_dive",
         "url": "https://www.packagingdive.com/news/georgia-pacific-sonoco-epac-announce-packaging-manufacturing-expansions/874602/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-11-13-006",
+    "date": "2026-11-13",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Best Buy or International Paper: Only One Gets My Dividend Dollars for the Next 10 Years - TIKR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQUy1oMG9qdUtEcFVqZUFmZ1RFd3dBY3FNOWxkbHhvendVZVBULXJoT3VkZk8wN1NyWG9sOE81WkdoQzhJS0liaGZkVERtVXc0ejNNR25FNWpuRlBEdGpaZ0RJdk9VZnlyeDBHOElMQj",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUy1oMG9qdUtEcFVqZUFmZ1RFd3dBY3FNOWxkbHhvendVZVBULXJoT3VkZk8wN1NyWG9sOE81WkdoQzhJS0liaGZkVERtVXc0ejNNR25FNWpuRlBEdGpaZ0RJdk9VZnlyeDBHOElMQjU3cDJSSHp4bmJTLU9nMUJRNEhnYUhoZDQwMUxOMzdaYUVxMlpxemZaZ0RZWEN0S0plOTZybk9FMjA5UU1SX1hSaGYzXzQ?oc=5",
         "type": "rss"
       }
     ]
@@ -285,6 +341,26 @@
       {
         "name": "cheng_loong",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMlV1MUo3RGVBd1c2WFQzM2FRejI3V0NaZlA2U1JaWHZiaVdqSjNnLXBHVXF3QnlzQUV3WEFuWnlmNmlQdF9YTWd1Q2VtQzJaNkNFQU1qeGQxRFczT0ZmNV8wbGFMOHY1NGJndUkyMXhaS2NwdXNuUFg0bnZxZFZZN1hOblQwN1VocFNuamp4NkVCZ0p4a3QyejB0QVI3S2txT2NFTUxMZEpFNl9sMDlzeWxOWFZyS0lK?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "zoetis-2026-11-12-010",
+    "date": "2026-11-12",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Zoetis' Cytopoint Plus Gets USDA License for 75-Day Canine Itch Relief - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNYkJZUkQ3YWdjTGR3WWdNVklXeExZVGtqT2EwTUxnT3RWUmFuR3Ntbmx2ajZLazlTSUZ6VzN6cENjUlNLT0xMLXJwQjd6SjdOX0tDQWxvWnY2QzA4OHVXRG9mUFFiLUhTMmdpMEZHS1",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYkJZUkQ3YWdjTGR3WWdNVklXeExZVGtqT2EwTUxnT3RWUmFuR3Ntbmx2ajZLazlTSUZ6VzN6cENjUlNLT0xMLXJwQjd6SjdOX0tDQWxvWnY2QzA4OHVXRG9mUFFiLUhTMmdpMEZHS1Y4VHd4V2s4QmxEbVRzMDBtM2lVbXFVSGVNemZoTW1yUzhVNUtvWXhZ?oc=5",
         "type": "rss"
       }
     ]
@@ -497,6 +573,26 @@
       {
         "name": "amcor",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGtjYU9qOGFfcWhNWGZydGdvZmV0R0xlZWRyOUtsd0IzbER5UXZacjRQSUE2QjhLZldpNFIzODFkQ1AzOERKWEI1S3pLeG5GNW4xT0xPRlpObVVtOUYwZldhRDJYZklpLXZZS3h3a0h5c2lqbW5HX28tbVNfcU1zeXhjRWVBeXZkOVZkR20weFg5b0J0anQwRHF3ZzJXSmM2dlVxZmVQVzJfVEJLQ3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "zoetis-2026-11-11-012",
+    "date": "2026-11-11",
+    "companies": [
+      "zoetis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "What Are Wall Street Analysts' Target Price for Zoetis Stock? - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxONXVmZ0VoWUpVUlAyMGtRS0JvQVRBbHFCNC1yc0NiSV85X2kxSkJuOVIzZzZ1S1loUDBJa3lSeDk0N1BqVUNwcmxnLUVrZ0M3WTQxY2ExWENpTERRejQxaTBaWU95dGpWSzFBMW13M3",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONXVmZ0VoWUpVUlAyMGtRS0JvQVRBbHFCNC1yc0NiSV85X2kxSkJuOVIzZzZ1S1loUDBJa3lSeDk0N1BqVUNwcmxnLUVrZ0M3WTQxY2ExWENpTERRejQxaTBaWU95dGpWSzFBMW13M3RFNVI3U21RQ3JyakVWRHZmNlBUWFBCVTVMT3JReTBUaVg5TUdDOGxHSnlINjlHSjdLUktKT09n?oc=5",
         "type": "rss"
       }
     ]

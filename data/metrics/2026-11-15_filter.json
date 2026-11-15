@@ -1,0 +1,15 @@
+{
+  "total_raw": 295,
+  "dup_title": 120,
+  "no_date": 0,
+  "too_old": 153,
+  "gate1_fail": 13,
+  "gate2_fail": 4,
+  "passed": 5,
+  "gate2_samples": [
+    "Pfizer offshoot Zoetis lines up 'potential blockbuster' pet meds for Japan - Nikkei Asia",
+    "What Does the USDA License for Cytopoint Plus Mean for Zoetis (NYSE:ZTS) and Dog Owners? - Kalkine",
+    "Should International Paper Stock Holders Look At Amcor Instead? - Trefis",
+    "Smurfit Westrock: 3 Key Takeaways for Long-Term Investors - Yahoo Finance"
+  ]
+}
