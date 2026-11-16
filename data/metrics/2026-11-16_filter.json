@@ -1,0 +1,16 @@
+{
+  "total_raw": 295,
+  "dup_title": 118,
+  "no_date": 0,
+  "too_old": 151,
+  "gate1_fail": 11,
+  "gate2_fail": 8,
+  "passed": 7,
+  "gate2_samples": [
+    "Zoetis Taiwan’s Kevin Lee on Finding Strength Through Both Success and Adversity - Taiwan Business T",
+    "What Does the USDA License for Cytopoint Plus Mean for Zoetis (NYSE:ZTS) and Dog Owners? - Kalkine",
+    "International Paper: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+    "IP advances financial separation of DS Smith - EUWID Pulp and Paper",
+    "SW Investors Have Opportunity to Join Smurfit Westrock Plc Fraud Investigation with SBS Law - Carrol"
+  ]
+}
