@@ -1,0 +1,16 @@
+{
+  "total_raw": 298,
+  "dup_title": 115,
+  "no_date": 0,
+  "too_old": 149,
+  "gate1_fail": 8,
+  "gate2_fail": 12,
+  "passed": 14,
+  "gate2_samples": [
+    "Zoetis Taiwan’s Kevin Lee on Finding Strength Through Both Success and Adversity - Taiwan Business T",
+    "Zoetis (ZTS) Could Be 9% Undervalued Following Cytopoint Plus USDA License - Simply Wall St",
+    "What Are Wall Street Analysts' Target Price for Zoetis Stock? - Yahoo Finance",
+    "What Does the USDA License for Cytopoint Plus Mean for Zoetis (NYSE:ZTS) and Dog Owners? - Kalkine",
+    "IP advances financial separation of DS Smith - EUWID Pulp and Paper"
+  ]
+}

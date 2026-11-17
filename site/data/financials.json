@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T17:45:36.585131Z",
+  "updated_at": "2026-11-17T17:18:06.402101Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-09-30",
   "companies": [
     {
@@ -58,17 +58,17 @@
       "name": "正隆紙業",
       "ticker": "1904.TW",
       "currency": "TWD",
-      "ar": 6973295000,
-      "ar_prev": 6592779000,
+      "ar": 7422716000,
+      "ar_prev": 6973295000,
       "ar_qoq": "+6%",
       "ar_period": "QoQ",
-      "inventory": 8791811000,
-      "inv_prev": 8403443000,
-      "inv_qoq": "+5%",
+      "inventory": 9172262000,
+      "inv_prev": 8791811000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "chewy",
@@ -228,17 +228,17 @@
       "name": "榮成",
       "ticker": "1909.TW",
       "currency": "TWD",
-      "ar": 6689575000,
-      "ar_prev": 5451492000,
-      "ar_qoq": "+23%",
+      "ar": 6924738000,
+      "ar_prev": 6689575000,
+      "ar_qoq": "+4%",
       "ar_period": "QoQ",
-      "inventory": 3282344000,
-      "inv_prev": 3857796000,
-      "inv_qoq": "-15%",
+      "inventory": 3862405000,
+      "inv_prev": 3282344000,
+      "inv_qoq": "+18%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "smurfit",
