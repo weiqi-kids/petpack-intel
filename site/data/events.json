@@ -1,5 +1,43 @@
 [
   {
+    "id": "petco-2026-11-18-001",
+    "date": "2026-11-18",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Petco Health and Wellness (WOOF) Set to Announce Earnings on Tuesday - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM2toQkk0aWRhaG5HWlpuYWJxM2F3U3R5Y0ZhSnc0UVNUcjVqS205TkZYZmtXQ0hpYnE4TDBpaHNEMEF1UlFWWU9CcVpPYjgyMzNCYnpoNTM5SFhLcXgzSklFbUlsMDI2a1V5VmhDNX",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM2toQkk0aWRhaG5HWlpuYWJxM2F3U3R5Y0ZhSnc0UVNUcjVqS205TkZYZmtXQ0hpYnE4TDBpaHNEMEF1UlFWWU9CcVpPYjgyMzNCYnpoNTM5SFhLcXgzSklFbUlsMDI2a1V5VmhDNXRnRXpGV3JrN2hLaWttcTZQd0gybW1NZmJiNTRRV3M0b0RQQjhEU0NoaXluYkROb1pKemlnU1UyNDdYN2FWeGZoOVhFaUdMZWVkU3lwVzJ3OEszZnVobzNVZA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-002",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Greif names new CFO",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/ESq0TS3e_8GCGDHU1nkFIj8pWOPvp3EQ4NBOdB9BWh0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTkzODExNjIzXzEuanBn",
+    "sources": [
+      {
+        "name": "packaging_dive",
+        "url": "https://www.packagingdive.com/news/greif-names-new-cfo-larry-hilsheimer-departs/875013/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "smurfit-2026-11-17-001",
     "date": "2026-11-17",
     "companies": [
@@ -127,6 +165,142 @@
       {
         "name": "packaging_dive",
         "url": "https://www.packagingdive.com/news/clearwater-paper-announces-new-cfo-price-increases/874727/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "petco-2026-11-17-008",
+    "date": "2026-11-17",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Petco Health and Wellness sets Q3FY26 earnings call for December 8 - scanx.trade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQckVpdTFFOUZTVXlmN21uSEtxMDBZcmRxWFhLQ092WU5BZWk5VGVLZHd6R0J4UkFqWjZJbjNGYjJfdGFjVTVFVjZzNjRwTEN5XzNxSEpocjN2WHk0MUxkTlZOakUzVFNKTDFqWHRXSE",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQckVpdTFFOUZTVXlmN21uSEtxMDBZcmRxWFhLQ092WU5BZWk5VGVLZHd6R0J4UkFqWjZJbjNGYjJfdGFjVTVFVjZzNjRwTEN5XzNxSEpocjN2WHk0MUxkTlZOakUzVFNKTDFqWHRXSEpueUtkY2dPSWdwSEQxem1Id2tybXAxaGdNSlRfVk9nOWJKNTBpX05IZU03d0VsMUxfSGxyTE1QZVEyYnBGYkVTLU11U3lUdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-11-17-009",
+    "date": "2026-11-17",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "International Paper (NYSE:IP) Share Price, Forecast & Analysis - Stocks Down Under",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DUEVERjY0NlBLb0hhRGZ0akY2cEJMS3poeDRTcE1peE9GNGNzWWIzUU1pdDFOSnAtd0lEMVJ1MWJWVjcxZmpNaloxcWlBc25sTGZueUl0VXcwd1R1SVNMbnRBOGwwR0E?oc=5\" targ",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DUEVERjY0NlBLb0hhRGZ0akY2cEJMS3poeDRTcE1peE9GNGNzWWIzUU1pdDFOSnAtd0lEMVJ1MWJWVjcxZmpNaloxcWlBc25sTGZueUl0VXcwd1R1SVNMbnRBOGwwR0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-11-17-010",
+    "date": "2026-11-17",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is Wall Street Bullish or Bearish on Smurfit Westrock Stock? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxObElZd2IxQ0NXbTBvWjZhSjVWTjhHY1FpVFNWQmUtZzVfM1ZUYTNQeUh1S29vMF9hVkRpa0tyYXBuUFFDTGpsajBNZnF4UVJXOU5mSWpOWnhGQ2Rrdk1IWHhfM1JON1BuUmVLUjhzOV",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObElZd2IxQ0NXbTBvWjZhSjVWTjhHY1FpVFNWQmUtZzVfM1ZUYTNQeUh1S29vMF9hVkRpa0tyYXBuUFFDTGpsajBNZnF4UVJXOU5mSWpOWnhGQ2Rrdk1IWHhfM1JON1BuUmVLUjhzOVFJbU5nY2dUVXdReHRLQ3FDcjczb0x2NENPN0xlWVFBU01kY0NtOW9lYXRfOWJjU0NORGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-11-17-011",
+    "date": "2026-11-17",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Smurfit Westrock (NYSE:SW) Share Price, Forecast & Analysis - Stocks Down Under",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LYzZ1Uy1fMzhvR1FQZ0RMcVRtMEpDN3I4YUtfX3VxOHRDVzM2SVRranJqVFJmLW9sTlZxRklFaEZzVVhFUzZKX1BQU2c0eFI0WmMtbUVWRjhsTlJlUUNMS00yUQ?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LYzZ1Uy1fMzhvR1FQZ0RMcVRtMEpDN3I4YUtfX3VxOHRDVzM2SVRranJqVFJmLW9sTlZxRklFaEZzVVhFUzZKX1BQU2c0eFI0WmMtbUVWRjhsTlJlUUNMS00yUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-012",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Hyde Development plans $150M industrial redevelopment in St. Paul - Finance & Commerce",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPSDhxR3owb1RzX0EtSVBYMzVIS21oVUVOZFQya3ROQjlCdE9CbGhJel9YSWdUZ2dDZE0wU1ptVnpNNlRUd0FZTHVZOXJiWUw0WDVsX1VKanI3b3l6S1VSZURQQ3V1bmZDbUVyTU5lN2",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSDhxR3owb1RzX0EtSVBYMzVIS21oVUVOZFQya3ROQjlCdE9CbGhJel9YSWdUZ2dDZE0wU1ptVnpNNlRUd0FZTHVZOXJiWUw0WDVsX1VKanI3b3l6S1VSZURQQ3V1bmZDbUVyTU5lN2NUdlQtNlFSNy10ZW5iZWNzcmxVZ2NGRU14RTl5T1RzUFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "smurfit-2026-11-17-013",
+    "date": "2026-11-17",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Form 4 Smurfit Westrock plc: Anthony P. J. Smurfit (Director, President and CEO) For: 13 November - Investing.com UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOU0dsVFJyT251M09ROER6Y3lScDl6SWVFci1kaERZTnI1WkZENnJWOHpzV0JHZ1JaWU0tc0NrNmtKVzU1LW1uOEpaSFVUNnFtc0hWdnFIY1ZETzNsSW5RV2tZTmdKczhwbW5RanNLbm",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOU0dsVFJyT251M09ROER6Y3lScDl6SWVFci1kaERZTnI1WkZENnJWOHpzV0JHZ1JaWU0tc0NrNmtKVzU1LW1uOEpaSFVUNnFtc0hWdnFIY1ZETzNsSW5RV2tZTmdKczhwbW5RanNLbmxZNjc3c09UWWxxVkJvNlU0UzFGeWtiNGpnd0Y4dExrM0JodzM2bUMyYmo2MENZYVZ0RXYzQnVpZEFzbUkwQnRWa3VGQ1RqMkp6RWEwU0xMa1ZmOXNsTWtjV2NUSUVsdVo5bDVIbkFSaTZObmY4clJBQ0d2UkhzUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-014",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nth Cycle prepares to go public as US critical minerals policy shifts",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/ob7mxE5ExKbU8e8cJrxf7iJEqJ6zcshpaWMXvxF3WxY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9OdGgtQ1lDTEUtMjEuanBn.webp\"/></div></",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/nth-cycle-go-public-critical-minerals-black-mass-policy-shift/874886/",
         "type": "rss"
       }
     ]
@@ -345,6 +519,24 @@
     ]
   },
   {
+    "id": "unknown-2026-11-16-012",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "vet_spending"
+    ],
+    "impact": "neutral",
+    "title": "Comhla Vet's Veterinaryfirst deal: 69 clinics, one supply chain - B2B News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOUzAzUk9LenJYWVV5bS0tWk5qSFFtVTB5OFVNZGtqbnkyVlkxN0VOUWs3QllQMFUxTFpWR0NOUnRqVjVEc2F2Z2dmX0VYb1RCZ2ZqdkZXR2otUUJLa1J4STRQWkZiMW9kQWtScXZLeG",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUzAzUk9LenJYWVV5bS0tWk5qSFFtVTB5OFVNZGtqbnkyVlkxN0VOUWs3QllQMFUxTFpWR0NOUnRqVjVEc2F2Z2dmX0VYb1RCZ2ZqdkZXR2otUUJLa1J4STRQWkZiMW9kQWtScXZLeGkwRnpwU01LVGZBQjZNTXNLUHhYRDdONVJGVWdqazhiaXF1UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "zoetis-2026-11-15-001",
     "date": "2026-11-15",
     "companies": [
@@ -378,6 +570,24 @@
       {
         "name": "intl_paper",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOWRrNkE1R3FPNkRZUGs3RlR3dC1WaFlITnR0ME1GTDNBODFlSUZteU9TM0lrcWNhZklsa3laN1dDbTBDMC1BLTlzQVRWanNQUDd4eEk1WG90X29weV84V19mbmp1S0VxcGFxdVZHREk2Vl80RklrYzBJYlNaOVhqSU1SWnNpSlgxZk9wUUVPRWlnS1o0Qnk4WVlqMmp4a0xwN3dCUzhrVVF3X1FzVWlhZVlmLWNZcWlJbFpQZTRiZEdKWXNfcV9Yek1LT19BeHpY0gHWAUFVX3lxTFBmVmpzZEtSSkplWEwybmFqb2dyUjRBTHJqRXJsTlNhRC0xenNIcmRSc2NuMm9sSEJ3THdET0xjeVJRNS1yWjBVcXN3WDNEVWEzcWI4aG9CUW1ObkNhdnJnSjE0Z085Z0NHNDBFZFlVMWRac1JCamVNR1J6LXlkbl9kMGh3a0NvQlVlUGVEQThXUEJqOXhIZmQwdTgxZ3FudEVPRGVRWENzV2JOeGxhb0drVjhxNHBZcHlVZzh6cXQ1SHhnRkx3SHZOSlVIdEFRbVNiZHFtNnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-15-003",
+    "date": "2026-11-15",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "3 Defensive US Stocks To Watch When Buffett Warns Of Market Gambling - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb0lST1BxYzUyMGh2WUY3UGEzMm9RR3dsQWwwaEtXdmk0U1pBOEpqUnZwUzU2N1MzVWVSbjV3VklxN002OTJNQXgtcEJJTUlfZk83RERQSldCTjRIZ2hLMDZtWjc0ZHpVZ2ZtWU1VUW",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb0lST1BxYzUyMGh2WUY3UGEzMm9RR3dsQWwwaEtXdmk0U1pBOEpqUnZwUzU2N1MzVWVSbjV3VklxN002OTJNQXgtcEJJTUlfZk83RERQSldCTjRIZ2hLMDZtWjc0ZHpVZ2ZtWU1VUWM5dEdxS3ZGVnZoVjNTeEI0Q3EtRWZRaTB0TW5PSnU3b1lDLWtRZVVYV3VhOU1VSk03WjhhOHI4OVNhVkE3OGVZOFlJN3ozcDBUdWFCcExyUURoVUpza1Y5STByNzhzZGV1MmdjSHdqUGFIdllKaW9RRNIB5gFBVV95cUxQbnhCSVhTY2E0dTFJRlNaRnBKQTFNbEJ1UzlwNlN4NXF6b3BTa2dGMFZoeVRvTjRZQ0g2cndXdnpwa0dQVGY0c1o0Y0JKV0d3MkpfcFVaQWV3VmFaS0dSOXZsRXJvT29fcmhhTW5vZGVIY3JJU0JGZGF5S0N0RThYbnNUdnh1VVp0TlYzZF9ZQl9KVFMxamxMVVpnc2FiUV9ocGNSS1ZmZGM4dnBSbnd2eTVjdGN3OVM0N2xKVHpTVGpLUkpHOXBWd1V1dVoyclF5a0M3QWh6ZmJDV2JvOUxtREtDa3ZRZw?oc=5",
         "type": "rss"
       }
     ]
@@ -531,6 +741,26 @@
       {
         "name": "intl_paper",
         "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTEdJNXNCQnlZSXZSRmQ1ZXRqemNfUWFwYk9RRjJRU3JsMjZramZsd29xRFVZYkVpZ080UGx0RnFIQTd1UWtFUDBpTHl0U1Z4ZUdsRzRMZll0RjdGWG9XSllGb3A0cmhsR1Y3VDE5WjVzYnQza1dhdW5scF8xM0NlTEJBS1FaV3QzcG16MXJaQUZ2cllWbHY5NE5Cd0FmNXhXZHh3N0NYYzlTMGFDR3c4blhmNFIwQUc3THNXX01SMGVKZVRtZ1JvSXAwTmlBcnRWQXJUd3c5S29DWkNfZUdDMVhNOWV5ak01TFE3UnBUT04xbGc3QVJvZmFSN3pIbkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sealed_air-2026-11-13-008",
+    "date": "2026-11-13",
+    "companies": [
+      "sealed_air"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sealed Air and Lenovo scale straw-based molded pulp packaging for laptops - Packaging Insights",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPMFJvVzAyUGdGbjZqczdhVE5Bd2ZIR0lEVmpubFVDRUF3ZktfNURZbjRZXzdFNzNZR3lCTFh4cnJKQmtObXFxWkdyUFhRT2w0VkRWT1NUaTBjSW5NcHFyRXNYR1ZRZTNXTVVZOG1PTD",
+    "sources": [
+      {
+        "name": "sealed_air",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMFJvVzAyUGdGbjZqczdhVE5Bd2ZIR0lEVmpubFVDRUF3ZktfNURZbjRZXzdFNzNZR3lCTFh4cnJKQmtObXFxWkdyUFhRT2w0VkRWT1NUaTBjSW5NcHFyRXNYR1ZRZTNXTVVZOG1PTDNpMFF2ZXYtVWNQMzJQejB4c1BYQ3V4UGdaMmc?oc=5",
         "type": "rss"
       }
     ]
@@ -746,6 +976,24 @@
       {
         "name": "zoetis",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ocHhGSlZETTM1blBGcUVSZ1c0Mjg0eTFVdjIzdjBLWHNEMC1lLTNDUWNaUGxwZ2k4cVRQZldkZzltM2dvVXVWQlNMQnRFSUZxRjJjbmNR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "chewy-2026-11-12-012",
+    "date": "2026-11-12",
+    "companies": [
+      "chewy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Should you invest in Chewy or others in the pet industry? - TheStreet",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNanBoZzRrNnlnTDg0ekxpNjVHYzhEeDY4RGlrR1hMejIwdDhIblk0eGhXemJ4OENJVUtBZmlDMWg1TVNidGZVQUMxcWVOWW00cXFzbXlYb0x3VDhzNTdLQUFCNTJEbHZ2Tkw5ZGtjRE",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNanBoZzRrNnlnTDg0ekxpNjVHYzhEeDY4RGlrR1hMejIwdDhIblk0eGhXemJ4OENJVUtBZmlDMWg1TVNidGZVQUMxcWVOWW00cXFzbXlYb0x3VDhzNTdLQUFCNTJEbHZ2Tkw5ZGtjRE5tSWxacUZrZTJJbmtVanUwY2NFWmtObXoxMmRBcmFwanBlU2xTeWJZRmJqZWRGVHNu?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T16:52:24.065536Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "petco-2026-11-18-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Petco Health and Wellness (WOOF) Set to Announce Earnings on Tuesday - MarketBeat",
+      "companies": [
+        "petco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM2toQkk0aWRhaG5HWlpuYWJxM2F3U3R5Y0ZhSnc0UVNUcjVqS205TkZYZmtXQ0hpYnE4TDBpaHNEMEF1UlFWWU9CcVpPYjgyMzNCYnpoNTM5SFhLcXgzSklFbUlsMDI2a1V5VmhDNXRnRXpGV3JrN2hLaWttcTZQd0gybW1NZmJiNTRRV3M0b0RQQjhEU0NoaXluYkROb1pKemlnU1UyNDdYN2FWeGZoOVhFaUdMZWVkU3lwVzJ3OEszZnVobzNVZA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-18-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Greif names new CFO",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.packagingdive.com/news/greif-names-new-cfo-larry-hilsheimer-departs/875013/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "petco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 295,
+    "dup_title": 115,
+    "too_old": 151,
+    "gate1_blocked": 7,
+    "gate2_blocked": 9,
+    "passed": 13,
+    "pass_rate": "7.2%",
+    "gate2_block_rate": "5.0%",
+    "gate2_samples": [
+      "Animal Parasiticides Market to Reach US$18.6 Bn by 2031 at 6.5% CAGR: Wissen Research Report - PR Ne",
+      "ETFs Are Net Sellers of Zoetis (ZTS) on Monday - GuruFocus",
+      "International Paper: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+      "Amcor (ASX:AMC): September Quarter Sales and Packaging Margins - Kalkine",
+      "SW Investors Have Opportunity to Join Smurfit Westrock Plc Fraud Investigation with SBS Law - Carrol"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為WOOF相關動態：「Petco Health and Wellness (WOOF) Set to Announce Earnings...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Petco Health and Wellness (WOOF) Set to Announce Earnings on Tuesday - Market...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Greif names new CFO（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
