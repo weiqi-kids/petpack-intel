@@ -1,0 +1,16 @@
+{
+  "total_raw": 294,
+  "dup_title": 113,
+  "no_date": 0,
+  "too_old": 152,
+  "gate1_fail": 9,
+  "gate2_fail": 13,
+  "passed": 7,
+  "gate2_samples": [
+    "Zoetis (ZTS) Could Be 9% Undervalued Following Cytopoint Plus USDA License - Simply Wall St",
+    "What Does the USDA License for Cytopoint Plus Mean for Zoetis (NYSE:ZTS) and Dog Owners? - Kalkine",
+    "Argus Research downgrades International Paper to Hold from Buy - TradingView",
+    "Argus downgrades International Paper stock rating on weak returns - Investing.com",
+    "International Paper: 3 Key Takeaways for Long-Term Investors - Yahoo Finance"
+  ]
+}

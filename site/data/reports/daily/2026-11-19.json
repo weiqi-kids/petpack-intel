@@ -1,0 +1,186 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T16:59:25.990389Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "zoetis-2026-11-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zoetis (ZTS) Secures USDA License for New Poultry Vaccine, Enhan - GuruFocus",
+      "companies": [
+        "zoetis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOXlhLVdEZFp0a2NSNHNvQ3l0T3U4bzlQT2sxWnVfUVdMcmJWSFF4NzBSN3FPTDF1aHRGVFJoVnpGY01NYTBRSkptdnB1eVJUSTAtSkd0ZDZRbkNNWGRhdVF2VUNVd3R3elp1OUx2MXFkZVJHSlV3eUEwWXNhYmpSLXctZWNieXdTM2ZGU3JIVWl6VTZpNnNyVzVUcUtmRGdwY2N6elRUZjZCMjZrbjZ6VGhlSF9sRGhodWxkOWszWnlWUXFjOGow?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Int'l Paper downgraded by Argus - Quantisnow",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95UVJKbUVtdjZLaHh1RVVKUmQ3c2h0QzlGQl9NZEFiWjVBSFpXVzNsSkRCcU5ROXJJS1RjT2JxSkxybWFWMElpQkdOVlhLR3BxNzdNeUFDLWt5a0JjV29PaVNBU2NyN0RPdjRlRF9WSU1PZkV2amxTZQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "smurfit-2026-11-19-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A Smurfit Westrock (SW) unit’s proposed senior notes have a $200,000 minimum denomination. - Stock Titan",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNREVkbkh5UG5lb255M1dfWHRSNUdfQ3p3RmdQY1pwMnJpc0hHTnpkaWs0RTlOUWNHemJ6ZVQya1VtUkZEZ0lYLVRUTVJFRWV6SG1WVW85V0dud1lfamJ1XzZUenpvbXFpWjFfTk9ZRmNyWW9zeVFRMlh5b2QzSERBVkQyNWZhcmhuaWNkZGwweGJVSmRNd0VndUh6c2lMcks4TUNZYS1QRmdWb2xzWWRYcWQ0ZTZ2c0dTaFhIYjhWd3NOQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "zoetis-2026-11-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Zoetis Receives USDA License for Poulvac® Procerta® HVT-ND-ILT Vaccine for Chickens - BioSpace",
+      "companies": [
+        "zoetis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNkxCR3czRktoc2ZyLVd3YUl1TmNyVXRWU3RTTnNVOTY1M3JGRHNOWHZTN3BBNzM5MmhxRG02TXJRbkR0cXFXcG1FaTlPNkRLMlRoeHlBcnIzTUt6QS1hV3lJa0x3RzRRbjVTTnNpVUM3Q0JHN0U4OURRS2hoUkFsM2h6aThzNTNKdVVjdGNlQkozRkNUV0hGZGg2bE5yUUhYWFRUdjJxYU84eEg1T0JqLV9LTTRuZGxxRlVwdEVB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "smurfit-2026-11-19-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Smurfit Westrock proposed notes win Fitch BBB+ rating - Traders Union",
+      "companies": [
+        "smurfit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU3NvOVNCaUhhRGxkMjJjVzhlWkFVYW9fMVpLVmJNTk5ZYnBZXzVsMWxOdjdsM294Si1FSjV4cHp5SU1rSURhaTQxZjVpWlF6Wk5tc3ZzTVg3RlRhbERHTHltLTJmMkV4MVZwU3luSVVNMEtDSlNnX2g4UzVUYVV4TkRnS1h1ZUZZczM5U3k0amJOT1hGdUstZA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "zoetis",
+        "count": 2
+      },
+      {
+        "id": "smurfit",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 294,
+    "dup_title": 113,
+    "too_old": 152,
+    "gate1_blocked": 9,
+    "gate2_blocked": 13,
+    "passed": 7,
+    "pass_rate": "3.9%",
+    "gate2_block_rate": "7.2%",
+    "gate2_samples": [
+      "Zoetis (ZTS) Could Be 9% Undervalued Following Cytopoint Plus USDA License - Simply Wall St",
+      "What Does the USDA License for Cytopoint Plus Mean for Zoetis (NYSE:ZTS) and Dog Owners? - Kalkine",
+      "Argus Research downgrades International Paper to Hold from Buy - TradingView",
+      "Argus downgrades International Paper stock rating on weak returns - Investing.com",
+      "International Paper: 3 Key Takeaways for Long-Term Investors - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為碩騰、斯莫菲特相關動態：「Zoetis (ZTS) Secures USDA License for New Poultry Vaccine...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Zoetis (ZTS) Secures USDA License for New Poultry Vaccine, Enhan - GuruFocus（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Int'l Paper downgraded by Argus - Quantisnow（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
