@@ -1,0 +1,120 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T16:34:30.889036Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "petco-2026-11-20-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Petco Health and Wellness Company, Inc. (NASDAQ:WOOF) Stock Rated \"Hold\" by Sell-Side Analysts - MarketBeat",
+      "companies": [
+        "petco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYjNTQXNkUlJDNlYzUWpUQllhWGZLQ1N6VGMzSmtXQktxcDlUaDNNYl90eEppcWJ1Z1VJZ2pOeWUzc0RYNE9aRHVXakxjU2hQem1NUS1wZFJTV0JXelBZV3lwNy1sOHBjcmd1MWN1RkJKZ2ZvZl9LMDZfZEljS0VyM3FqWkpHb0ZwWGY0dWxBczVuUFlpb040ZVdoWk1Ub0RLV0VhM2RESk9OUTNXeVpqZ3NGZU5Wcm1sck94WTFud1d5VnlGZ3VKc0QweWdRYnlqcm9zTkkyb0hWNVh0LWlIMXFwcUdOcHc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "zoetis-2026-11-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Did Zoetis Stock Move? - Trefis",
+      "companies": [
+        "zoetis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWDVEUlpBOGhIeGZyMUlIaVZGdjVnZkJoZ1JxT1dUd3QyX3A2eG5fTWt6MlJlQkFJSl9YRnVENTJtT0VZd3QyQkNxRTVHS0FLdnZCaThEQmF0ZXhYMDRfTzlUVk1SV05ELUtoeTZpdlZ5dWt1Yk9BZ09mV2d3MjlqbHFPVnVGYUJObHdrUUdB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "zoetis",
+        "count": 1
+      },
+      {
+        "id": "petco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 293,
+    "dup_title": 121,
+    "too_old": 143,
+    "gate1_blocked": 9,
+    "gate2_blocked": 13,
+    "passed": 7,
+    "pass_rate": "4.1%",
+    "gate2_block_rate": "7.6%",
+    "gate2_samples": [
+      "Zoetis (ZTS) Won USDA Approval For A Three In One Poultry Vaccine - Simply Wall St",
+      "Petco Health and Wellness Company, Inc. (WOOF) Stock Price, News, Quote & History - Yahoo! Finance C",
+      "Petco Health and Wellness (NASDAQ:WOOF) Share Price Breaks Below 200 Day Moving Average - Time to Se",
+      "Argus Research downgrades International Paper to Hold from Buy - TradingView",
+      "Argus downgrades International Paper stock rating on weak returns - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為碩騰、WOOF相關動態：「Petco Health and Wellness Company, Inc. (NASDAQ:WOOF) Sto...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Petco Health and Wellness Company, Inc. (NASDAQ:WOOF) Stock Rated \"Hold\" by S...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Why Did Zoetis Stock Move? - Trefis",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

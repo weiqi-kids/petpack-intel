@@ -1,0 +1,16 @@
+{
+  "total_raw": 293,
+  "dup_title": 121,
+  "no_date": 0,
+  "too_old": 143,
+  "gate1_fail": 9,
+  "gate2_fail": 13,
+  "passed": 7,
+  "gate2_samples": [
+    "Zoetis (ZTS) Won USDA Approval For A Three In One Poultry Vaccine - Simply Wall St",
+    "Petco Health and Wellness Company, Inc. (WOOF) Stock Price, News, Quote & History - Yahoo! Finance C",
+    "Petco Health and Wellness (NASDAQ:WOOF) Share Price Breaks Below 200 Day Moving Average - Time to Se",
+    "Argus Research downgrades International Paper to Hold from Buy - TradingView",
+    "Argus downgrades International Paper stock rating on weak returns - Investing.com"
+  ]
+}
