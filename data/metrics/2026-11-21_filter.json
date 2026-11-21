@@ -1,0 +1,16 @@
+{
+  "total_raw": 236,
+  "dup_title": 85,
+  "no_date": 0,
+  "too_old": 129,
+  "gate1_fail": 10,
+  "gate2_fail": 9,
+  "passed": 3,
+  "gate2_samples": [
+    "Zoetis (ZTS) Won USDA Approval For A Three In One Poultry Vaccine - Simply Wall St",
+    "Zoetis (ZTS) Could Be 9% Undervalued Following Cytopoint Plus USDA License - Simply Wall St",
+    "Petco Health and Wellness Company, Inc. (WOOF) Stock Price, News, Quote & History - Yahoo! Finance C",
+    "Petco Health and Wellness (NASDAQ:WOOF) Share Price Breaks Below 200 Day Moving Average - Time to Se",
+    "Recyclers work to boost PP PCR supply for food packaging"
+  ]
+}

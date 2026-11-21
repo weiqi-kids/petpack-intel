@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T15:51:22.855676Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "petco-2026-11-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Petco On Hold Ahead Of Upcoming Earnings Results, As Key Risks Remain (NASDAQ:WOOF) - Seeking Alpha",
+      "companies": [
+        "petco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRzczeTVoTUxhSWJXSno1VjVCdnhsNFNxeXB5a0hISGRyQXl2aG5jUW5wVUk2VzBNQ2xlUUZxVE4tUDRhVm56T0tSM3dDeGxBQ3hjdUJsZDhGTUFqM01OVDV2dU1pOGdtV2tCb2NIX0V6TmVJcnZ3YXhsZTg2dWVGWkJtRXJlRVhhYXVhN2hFTUZxVGFqY3VZc0ZtZHhIM3Ffc21sSmpNeTdENEpmWnc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "petco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 236,
+    "dup_title": 85,
+    "too_old": 129,
+    "gate1_blocked": 10,
+    "gate2_blocked": 9,
+    "passed": 3,
+    "pass_rate": "2.0%",
+    "gate2_block_rate": "6.0%",
+    "gate2_samples": [
+      "Zoetis (ZTS) Won USDA Approval For A Three In One Poultry Vaccine - Simply Wall St",
+      "Zoetis (ZTS) Could Be 9% Undervalued Following Cytopoint Plus USDA License - Simply Wall St",
+      "Petco Health and Wellness Company, Inc. (WOOF) Stock Price, News, Quote & History - Yahoo! Finance C",
+      "Petco Health and Wellness (NASDAQ:WOOF) Share Price Breaks Below 200 Day Moving Average - Time to Se",
+      "Recyclers work to boost PP PCR supply for food packaging"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為WOOF相關動態：「Petco On Hold Ahead Of Upcoming Earnings Results, As Key ...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Petco On Hold Ahead Of Upcoming Earnings Results, As Key Risks Remain (NASDAQ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "WOOF為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
