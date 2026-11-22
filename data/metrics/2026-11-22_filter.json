@@ -1,0 +1,16 @@
+{
+  "total_raw": 292,
+  "dup_title": 114,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 12,
+  "gate2_fail": 11,
+  "passed": 9,
+  "gate2_samples": [
+    "Zoetis Taiwan’s Kevin Lee on Finding Strength Through Both Success and Adversity - Taiwan Business T",
+    "Petco Health and Wellness (NASDAQ:WOOF) Share Price Breaks Below 200 Day Moving Average - Time to Se",
+    "Argus Research downgrades International Paper to Hold from Buy - TradingView",
+    "Argus downgrades International Paper stock rating on weak returns - Investing.com",
+    "The Top Timber-Producing States In America - WorldAtlas"
+  ]
+}

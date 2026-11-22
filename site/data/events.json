@@ -1,5 +1,25 @@
 [
   {
+    "id": "smurfit-2026-11-22-001",
+    "date": "2026-11-22",
+    "companies": [
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is Smurfit Westrock plc (SW) Undervalued Ahead of Its Expected 2027 Cost Recovery? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ2hmMWxKQjItYmZkVmJlc1JCN084LTBzZzBMa0FEaEV1SVlhNzFXWWcwODVDNWNVVnBCU21sM2JCUzN3SUxURjJxRUk2bzMxWEhmQ3hKUnlPam92Z2YyNlJyTG9IODJSRlRfY25jR2",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ2hmMWxKQjItYmZkVmJlc1JCN084LTBzZzBMa0FEaEV1SVlhNzFXWWcwODVDNWNVVnBCU21sM2JCUzN3SUxURjJxRUk2bzMxWEhmQ3hKUnlPam92Z2YyNlJyTG9IODJSRlRfY25jR2F3a3BFOTdCYkI2UHg2OGlldGR6d05fVnBrY3QzTDZCeHNHRDJISVA0RHkwM0xrU0FKLWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "petco-2026-11-21-001",
     "date": "2026-11-21",
     "companies": [
@@ -73,6 +93,101 @@
       {
         "name": "petco",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVkJRbkFaYzh2ZDNPWU9jZk0tUXVpOXZ4YnhaWmsxazlUdFNscnMzbWo4enNEU1FMUHdkOGxjNFRKYTdFd0ZJRnpacUF0dldJX2ZjT185RlZ4YTEwUGlHTFBKRFR5bVV0UmV5U1RBMkNuc3ducUVpdkNEMHRreTdwLXp1NEI2UTZYZ1VSRkJDU2xYdU1XbXlXYkNuc2N6RV9Na3VreUhVdXBUTUdZWE1vZndYS3U1bjhTcTlTVm95X2NVeTVBWGZtcE52YkhhbEduVkdQdHZPS3BfTTN5djdRV2xHMHdiRi1saUowbWNpSE54V0k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-20-004",
+    "date": "2026-11-20",
+    "companies": [],
+    "topics": [
+      "pet_food"
+    ],
+    "impact": "neutral",
+    "title": "Weekly Vet Report: NYC pantries stock pet food, USDA licenses Cytopoint Plus, and more - DVM360",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOWi1tRVNkNzlSY0RwSFh2SllGNG5iSDlLLW1DN0NnNE82SDItSDdYQXFqc0V4RzhoS3JRbFdkdXg1X2pwLWIzbXduUUI4N241cTBiNk50UXRNcEd6Y0pVTGU1Y21OcUtWSXR5R1hHb3",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWi1tRVNkNzlSY0RwSFh2SllGNG5iSDlLLW1DN0NnNE82SDItSDdYQXFqc0V4RzhoS3JRbFdkdXg1X2pwLWIzbXduUUI4N241cTBiNk50UXRNcEd6Y0pVTGU1Y21OcUtWSXR5R1hHb3poZGZJRUZWUGRibkRSWDFfS1d5b2h4c3ROZzFlQWpCdFBRS2dWZENnSDBTOWMzZlFTQjhJcF9VNUhIem1Hd2U0cg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-20-005",
+    "date": "2026-11-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Michael Burry takes profits on Nvidia puts as chip stocks extend sell-off - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQdXYwTkMwZW40eGstQjNNUm1tYjR5QUNuSW15XzB1MENZTF9DakRXdnR5R0tmZ3pRckVPNTBxTURsYzg0Sk8tMGM2eERtN3JLNUl5SlFiYlREUDMzNTE0N09haVBCNERZVjRHYkYxZF",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdXYwTkMwZW40eGstQjNNUm1tYjR5QUNuSW15XzB1MENZTF9DakRXdnR5R0tmZ3pRckVPNTBxTURsYzg0Sk8tMGM2eERtN3JLNUl5SlFiYlREUDMzNTE0N09haVBCNERZVjRHYkYxZFItcWxOLWk2TDNRdVpIVlU3X3lGR2NnN1RiYTVUbXkwMDk1bXF1RkhYSjZ5U1VlUDdMU2U3NGJYbHhqSnlIVHBCYkZjMldQZjNldVJaSEhJWHJ5a3hsUXZEUHh3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-20-006",
+    "date": "2026-11-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Michael Burry Locks In Gains on Nvidia, Chipmaker ETF Puts As AI Rout Deepens - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUjAyQ1lFYnhaODdFRzIxTHVTNWx0SEM4SXZsTHpCWUtXNWNkaGNmd01pU01MakRQSE5DdWhzOVk5aDcxeXJHRHhqUDZCNnNqTlVtTFF5WTEtYjM1aXBjazYxYUlLY0N1WGh4WVZuWl",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUjAyQ1lFYnhaODdFRzIxTHVTNWx0SEM4SXZsTHpCWUtXNWNkaGNmd01pU01MakRQSE5DdWhzOVk5aDcxeXJHRHhqUDZCNnNqTlVtTFF5WTEtYjM1aXBjazYxYUlLY0N1WGh4WVZuWlBGa1IzWlo1UHNKcW5yVGRVX1l2dmVBZHNzYWdDODBZd2RrUXJ5eVVjaVM4elFlWHlwVGJRTmJKUlBuc0lIdzJLT0luRmhBYmZCSUJPWnpRUFdLZ29SQ09RNWNkckstRXNfR1JV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intl_paper-2026-11-20-007",
+    "date": "2026-11-20",
+    "companies": [
+      "intl_paper"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Unusual Volume Alert: International Paper (NYSE:IP) Shares Slip in Active Trading - kalkine.ca",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOUEVPdXp2WGVxYU9oNEQxaGNtd1lOSVNneldtRjlMczJYZTA5M3h6NDVuQU5JTi0yaFVwOGpRQmt0eS1PZHBkd3UySU9feXZGWHQ2c3Y4bjI1eC1QN3Y2ZjIwRGFnR01HUmtxaGp1bl",
+    "sources": [
+      {
+        "name": "intl_paper",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUEVPdXp2WGVxYU9oNEQxaGNtd1lOSVNneldtRjlMczJYZTA5M3h6NDVuQU5JTi0yaFVwOGpRQmt0eS1PZHBkd3UySU9feXZGWHQ2c3Y4bjI1eC1QN3Y2ZjIwRGFnR01HUmtxaGp1blAzb3c1UUhaN1o3bjg3WVQ5ZjZmUl9yRjB0WWd0V3lGMk5jWHVPNWx1MVhxUHZBQlJNb2hqTmlsVjBZZDBTcFhzaldLSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amcor-2026-11-20-008",
+    "date": "2026-11-20",
+    "companies": [
+      "amcor",
+      "smurfit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Which Gives You More Of A Packaging Rebound, Smurfit WestRock Or Amcor? - Trefis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNSTl6aXZoVjNrWlpuX2NDOW9QVHNUR19KR1BuNmMxY3cwVU1IUWtuOS1kR2RxbGpJc2dzOUVPeHFMWUxQOEVERGphRHpId2FGY0pNV2dFaUtHdDhtMUtqQ29sLUFXMF9CeWxiOGdZMT",
+    "sources": [
+      {
+        "name": "smurfit",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSTl6aXZoVjNrWlpuX2NDOW9QVHNUR19KR1BuNmMxY3cwVU1IUWtuOS1kR2RxbGpJc2dzOUVPeHFMWUxQOEVERGphRHpId2FGY0pNV2dFaUtHdDhtMUtqQ29sLUFXMF9CeWxiOGdZMTcwX25YY3VZbDhld3Q0b2tDTzQ2eWR0S2JHejhUMTFlbVl3NzFJRWFHSjlqRmhEVEZ6Wmo1bzVFYkM4OXY3RXN0SEZncXMzZ2tHbDZ6SG9XeGJrT2dZQS0w?oc=5",
         "type": "rss"
       }
     ]
@@ -232,6 +347,25 @@
     ]
   },
   {
+    "id": "unknown-2026-11-19-009",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Walmart delivers Q3 beat, raises FY27 outlook - Crypto Briefing",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBOQm1XaDhvYWQ0UmpMSkRMQnZSTkZ6QlQtdEt0VUN6ZVlTV0gzNVJrSGZkVU1PZG0tRGxsUnhyVDJuRkhBdjdrQlZhb3djcDFDTFVPczRPRUI3a1NablBndmxCbWxvVFF5QlJ6Tw?oc=",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOQm1XaDhvYWQ0UmpMSkRMQnZSTkZ6QlQtdEt0VUN6ZVlTV0gzNVJrSGZkVU1PZG0tRGxsUnhyVDJuRkhBdjdrQlZhb3djcDFDTFVPczRPRUI3a1NablBndmxCbWxvVFF5QlJ6Tw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "petco-2026-11-18-001",
     "date": "2026-11-18",
     "companies": [
@@ -301,6 +435,26 @@
       {
         "name": "amcor",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSTlZNmlzNmZjQ1NBcFdfVG1KZkx4ZHphdjBwNkhyaUFWaWNaTzdfVGdEUkhPM2dmNE9jZ3k0cVJDSVB0TWp3ZEJVUjJaT0JzbGdfN19WZjZhOXBsZnBqWE9hN1ZocWJYNVk3b1d3N0pfaWtWaklkSlNLeDRDcXBMSURkNWloeG9IZXhqZEozdVhYY0FUckkzR0Z1NGlySW4wSHU4eGhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "petco-2026-11-18-005",
+    "date": "2026-11-18",
+    "companies": [
+      "petco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Petco Health & Wellness - Class A Share News - Latest Updates, Live News & More - scanx.trade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9vZXl1THlmbm10U3AzTUd4b1huUXpCRlhjTUVveXFicmk5cU5KdWFZVlQ3OGh3VTVqWnZ5dC1CUHBOMW9KNkluQ0Y1YVUxN0F2T0dmNmljNnVlc0dlV05GZnp4dHJLOTA5VmtqNXZTRF",
+    "sources": [
+      {
+        "name": "petco",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vZXl1THlmbm10U3AzTUd4b1huUXpCRlhjTUVveXFicmk5cU5KdWFZVlQ3OGh3VTVqWnZ5dC1CUHBOMW9KNkluQ0Y1YVUxN0F2T0dmNmljNnVlc0dlV05GZnp4dHJLOTA5VmtqNXZTRFdYOXBuYTdqZWE1UQ?oc=5",
         "type": "rss"
       }
     ]
@@ -610,6 +764,24 @@
       {
         "name": "trupanion",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCWWFydWJzb0xWN055Y09TZG1XR3pUUXNEd3RsbXlMYVRWd09pd2J6cFc1ME9fN04wQmZaME9NUjZ0TXlzZC03ZHBXVE1Jelk4STI2U1lldi1DZVlNdW83THl6QjJqU2s4UVZIUW9zUnRTVVV4RzhmZFo2MA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-017",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Devon sheep farmer warns of liver fluke threat as autumn conditions raise risk - South West Farmer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOd2RlbUhhUmJFMGIyVElvTHdtVHpUWEJxSVRKMXJJdWhEb185VVdJYmdNVEJ2YlNNNzQ4Qml2ei1JX1VucXlOTExSeHo0V05xc09Mb0lfTFIzQnBYSk5GOWtHcUlkZWZid0wxWWJ5dm",
+    "sources": [
+      {
+        "name": "zoetis",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd2RlbUhhUmJFMGIyVElvTHdtVHpUWEJxSVRKMXJJdWhEb185VVdJYmdNVEJ2YlNNNzQ4Qml2ei1JX1VucXlOTExSeHo0V05xc09Mb0lfTFIzQnBYSk5GOWtHcUlkZWZid0wxWWJ5dmJTRHVTdEtWdDQwci0zSWROWWo4RzVOSHF3allBNVlkaTljb0hpLXlRZTlR?oc=5",
         "type": "rss"
       }
     ]
