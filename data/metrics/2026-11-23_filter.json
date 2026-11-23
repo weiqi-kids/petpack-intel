@@ -1,0 +1,16 @@
+{
+  "total_raw": 308,
+  "dup_title": 109,
+  "no_date": 0,
+  "too_old": 161,
+  "gate1_fail": 10,
+  "gate2_fail": 10,
+  "passed": 18,
+  "gate2_samples": [
+    "Zoetis Caregiver Awards nominations open - The Pig Site",
+    "International Paper slips as board formalizes DS Smith spin-off plan - Quiver Quantitative",
+    "International Paper board approves EMEA packaging spinoff By Reuters - Investing.com",
+    "Breaking news: International Paper approves DS Smith spin-off with London listing set for December 7",
+    "IP: International Paper Company filed SEC Form 8-K: Other Events, Financial Statements and Exhibits "
+  ]
+}
