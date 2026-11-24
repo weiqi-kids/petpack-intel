@@ -1,0 +1,16 @@
+{
+  "total_raw": 312,
+  "dup_title": 113,
+  "no_date": 0,
+  "too_old": 152,
+  "gate1_fail": 17,
+  "gate2_fail": 13,
+  "passed": 17,
+  "gate2_samples": [
+    "Zoetis Caregiver Awards nominations open - The Pig Site",
+    "Zoetis (ZTS) Won USDA Approval For A Three In One Poultry Vaccine - Simply Wall St",
+    "Zoetis (ZTS) Could Be 9% Undervalued Following Cytopoint Plus USDA License - Simply Wall St",
+    "International Paper Company Receives Final Hazardous Waste Permit Modification to Remove Access Road",
+    "International Paper board approves DS Smith spin-off for December - Papnews"
+  ]
+}
