@@ -1,0 +1,16 @@
+{
+  "total_raw": 306,
+  "dup_title": 126,
+  "no_date": 0,
+  "too_old": 134,
+  "gate1_fail": 16,
+  "gate2_fail": 17,
+  "passed": 13,
+  "gate2_samples": [
+    "Zoetis wins USDA conditional license for horse Lyme vaccine - Crypto Briefing",
+    "Zoetis Caregiver Awards nominations open - The Pig Site",
+    "International Paper (IP) Faces A Fresh Valuation Test On DS Smith Spin Off - Yahoo Finance",
+    "International Paper board approves DS Smith spin-off for December - Papnews",
+    "Breaking news: International Paper approves DS Smith spin-off with London listing set for December 7"
+  ]
+}
