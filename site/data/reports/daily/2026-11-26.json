@@ -1,0 +1,213 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T18:01:36.834354Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "idexx-2026-11-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Is IDEXX Laboratories (NASDAQ:IDXX) Growing Diagnostics While Vet Visits Slow? - Kalkine Media",
+      "companies": [
+        "idexx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "vet_spending",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNamtnNnF4WnJFYnR4UzNkTEZlbmg2VkNySm5CdFNHbW52OUpTMGNNcEMxWDVUS2pYR1I3Q1d6R1kxUnB3MGU2aEF5QjU3S0N3RG1vblV1aW92cVlXWUFfUk14S3htQWZPQ0Q3STlOd1hRVlFnaVotbHlyQTNrTDIxclZLbkNaY0hHN3Ixc0ZlLUpnNDE2clItek9wSk5OVVR0dlc2TTV5SENtc1EtS3BrZW0taS12ZV84emJuZERsWm10Zw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-26-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Missouri DNR issues final permit modification for Joplin hazardous waste site - The McDonald County Press",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObUtpOWlXRUN6eVJrQnJlTXZ1THlPMWlwaFhUWmsxMHdEMmxoWFdVdXlzbGdGdDFqSVF3b2otb1NHNUU1OGFCTThUT0NCRTRiRlY5V18tZ1Q1MFl6SG5rSGxvTzJyekxuQnY4eHpGaWd0eHJVWjdLbTMwczdJSmJHV1RkM0E2dU9DVUgtNDRmaW95OGxNREl3bjZR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-26-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Kraft Paper Honeycomb Core Market To 2035: Sustainable Packaging Demand Drives Growth - News and Statistics - IndexBox",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "sustainable_packaging",
+        "paper_price",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNamc0cHJaeUx0RkN2cC1NRVRxWFhObW5YTXNRVGJodnhJVkJNcUl5emJZdDJyR0RJWnpXLXpUZG83cm0zWVlUd2JIN2pWWnZRalNuWTVVRnVEWS1TVlpIeWMxZUFWdTRXS0F6bmNpYVNXMUFBUFduUU54MlV5S2pZT0NoV3NEeWpNRE5Mc1haWWJfXy0tMUE2LU8xQ3RhcHRPV0VfZncwU1BoRzc5bmhkOFliaElJYVpSS1RZ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "intl_paper-2026-11-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "International Paper names insider Nicholls CEO of DS Smith spinoff By Reuters - Investing.com",
+      "companies": [
+        "intl_paper"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRUxISDlmUUxqaGJWaW9wUDZCdl9HU2hjTWRMZVZodVA4OFd3ZmlNOUNfby0xYWZNUEJmUC1ibmhlbnZPWWV2LWRGQWxGSTBxQlk3QmJseHptMXFsSDYwSWtZbnhQSUc0dzdiOHhycmNxR1JiWGdxM0hGSVJiSkFCbGhzUnBwRkhRaVpCa3N2UXR6cVNSd19lRU83S3JJTkVXWTZ3ZW53RkVhSzNoN2VEWFQtNlVYM0JsVkcySzVWa2U?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "vet_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "sustainable_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "paper_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "idexx",
+        "count": 1
+      },
+      {
+        "id": "intl_paper",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "vet_spending",
+        "count": 1
+      },
+      {
+        "id": "sustainable_packaging",
+        "count": 1
+      },
+      {
+        "id": "paper_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 169,
+    "dup_title": 63,
+    "too_old": 66,
+    "gate1_blocked": 15,
+    "gate2_blocked": 8,
+    "passed": 17,
+    "pass_rate": "16.0%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "International Paper (IP) Faces A Fresh Valuation Test On DS Smith Spin Off - Yahoo Finance",
+      "International Paper Approves DS Smith Spin-Off, Targets $2 Billion Debt Reduction - Yahoo Finance",
+      "International Paper board approves DS Smith spin-off for December - Papnews",
+      "SPONSORED The Place: You’ve heard of Smurfit Westrock-learn about their worldwide impact! - KY3",
+      "Smurfit Westrock plans to redeem 2028 notes with new 2037 and 2056 notes - Lesprom Network"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為愛德士、國際紙業相關動態：「How Is IDEXX Laboratories (NASDAQ:IDXX) Growing Diagnosti...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "How Is IDEXX Laboratories (NASDAQ:IDXX) Growing Diagnostics While Vet Visits ...（獸醫支出、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Missouri DNR issues final permit modification for Joplin hazardous waste site...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "紙價話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

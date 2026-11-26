@@ -1,0 +1,152 @@
+{
+  "date": "2026-11-26",
+  "date_range": {
+    "start": "2026-11-20",
+    "end": "2026-11-26"
+  },
+  "generated_at": "2026-11-26T18:01:36.968710Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "amcor-2026-11-20-008",
+      "date": "2026-11-20",
+      "title": "Which Gives You More Of A Packaging Rebound, Smurfit WestRock Or Amcor? - Trefis",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 32,
+      "last_week": 17,
+      "week_over_week_change": "+88%",
+      "sentiment_this_week": 0.06
+    },
+    "pet_insurance": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "sustainable_packaging": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.33
+    },
+    "vet_spending": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "paper_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "zoetis": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "petco": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "smurfit": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 2
+    },
+    "intl_paper": {
+      "event_count": 17,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "graphic_pkg": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "amcor": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "idexx": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 73,
+        "last": 58,
+        "change_pct": 25.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-20",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-21",
+      "event_count": 2,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-22",
+      "event_count": 3,
+      "sentiment_avg": 0.33
+    },
+    {
+      "date": "2026-11-23",
+      "event_count": 20,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-24",
+      "event_count": 16,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-11-25",
+      "event_count": 18,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-26",
+      "event_count": 4,
+      "sentiment_avg": 0.25
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-20 ~ 2026-11-26）共 73 則事件，重點為「Which Gives You More Of A Packaging Rebound, Sm...」。愛德士表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "碩騰",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "斯莫菲特",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "國際紙業",
+        "reason": "本週出現 17 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

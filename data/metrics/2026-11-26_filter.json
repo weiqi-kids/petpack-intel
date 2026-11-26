@@ -1,0 +1,16 @@
+{
+  "total_raw": 169,
+  "dup_title": 63,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 15,
+  "gate2_fail": 8,
+  "passed": 17,
+  "gate2_samples": [
+    "International Paper (IP) Faces A Fresh Valuation Test On DS Smith Spin Off - Yahoo Finance",
+    "International Paper Approves DS Smith Spin-Off, Targets $2 Billion Debt Reduction - Yahoo Finance",
+    "International Paper board approves DS Smith spin-off for December - Papnews",
+    "SPONSORED The Place: You’ve heard of Smurfit Westrock-learn about their worldwide impact! - KY3",
+    "Smurfit Westrock plans to redeem 2028 notes with new 2037 and 2056 notes - Lesprom Network"
+  ]
+}
