@@ -1,0 +1,16 @@
+{
+  "total_raw": 228,
+  "dup_title": 91,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 11,
+  "gate2_fail": 10,
+  "passed": 5,
+  "gate2_samples": [
+    "Zoetis Receives USDA Conditional License for Lyme Disease Vaccine for Horses - Pet Age",
+    "Zoetis Caregiver Awards nominations open - The Pig Site",
+    "Zoetis wins USDA conditional license for horse Lyme vaccine - Crypto Briefing",
+    "Zoetis Secures USDA License for Horse Lyme Vaccine - grafa.com",
+    "Amcor, FluidSolids to test fibre bio-composites for rigid packaging - Yahoo Finance"
+  ]
+}
